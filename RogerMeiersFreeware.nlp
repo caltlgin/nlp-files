@@ -1,0 +1,175 @@
+[General]
+Name=Roger Meier's Freeware
+GroupCount=5
+SoftwareCount=14
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Very useful stuff
+
+[Group2]
+Name=Pretty useful stuff
+
+[Group3]
+Name=Somewhat useful stuff
+
+[Group4]
+Name=Less useful stuff
+
+
+[Software0]
+exe=CoolTermWin\CoolTerm.exe
+help=CoolTermWin\ReadMe.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=1
+Name=CoolTerm
+AppName=CoolTerm
+ShortDesc=CoolTerm is an easy-to-use terminal for communication with hardware connected to serial ports.
+LongDesc=CoolTerm is a simple serial port terminal application (no terminal emulation) that is geared towards hobbyists and professionals with a need to exchange data with hardware connected to serial ports such as servo controllers, robotic kits, GPS receivers, microcontrollers, etc.
+
+[Software1]
+exe=BatchTouchWin\BatchTouch.exe
+help=BatchTouchWin\Read Me.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=1
+Name=BatchTouch
+AppName=BatchTouch
+ShortDesc=BatchTouch is a utility to batch-change the creation and/or modification date of files and folders.
+LongDesc=BatchTouch provides an easy-to-use way to change the creation and/or modification date of multiple files and folders all at once. It offers enough flexibility to the user to choose which type of items to change, whether or not to process the contents of folders, and whether to change the creation date, the modification date, or both. Furthermore, it is possible to change just the time, just the date, or both. It is possible to apply both absolute values as well as offsets to both date and time. I.e. it is possible to add/subtract a specified number of days, hours, minutes or seconds to/from the creation and modification date of any item.
+
+[Software2]
+exe=iConStructWin\iConStruct.exe
+help=iConStructWin\Read Me.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=1
+Name=iConStruct
+AppName=iConStruct
+ShortDesc=iConStruct is a utility for programmers (REALBasic and others) that offers a simple way to create icons of various sizes from a given picture file.
+LongDesc=iConStruct automatically scales pictures to standard icon sizes and autmatically generates masks based on a specified brightness threshold. For best results, the images that are to be converted to icons should be in front of a white (or very light) background. For 32-bit icon sets, the masks are generated as 8-bit grayscale images, and mask edges (1 to 15 pixels wide) values are either set to the brightness of the corresponding pixels in the icon, a fixed value chosen by the user, or a black-to-white gradient. 8-Bit icons are generated as dithered versions of the 32-icons using web-safe colors. The corresponding masks are generated as 1-bit B/W images. The icons and masks can be individually copied and pasted as well as dragged into other applications, or the entire set of icons can be saved as BMP or transparent PNG files.
+
+[Software3]
+exe=MathSheetGeneratorWin\MathSheetGenerator.exe
+help=MathSheetGeneratorWin\Read Me.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=2
+Name=MathSheetGenerator
+AppName=MathSheetGenerator
+ShortDesc=MathSheetGenerator is a simple utility for educators and parents to automatically create sheets of simple math exercises for elementary school children.
+LongDesc=MathSheetGenerator is capable of generating math problems with two operands using any of the standard operators (add, subtract, multiply, divide). The number range for both operands as well as the result can be specified to allow the application to generate the exact type of exercises desired.
+
+[Software4]
+exe=VisualTimerWin\VisualTimer.exe
+help=VisualTimerWin\ReadMe.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=2
+Name=VisualTimer
+AppName=VisualTimer
+ShortDesc=VisualTimer is a simple count-down timer application with a visual read-out.
+LongDesc=VisualTimer is a simple count-down timer application with a visual read-out. Remaining time is shown as wedge that becomes smaller as time passes.
+
+[Software5]
+exe=Egg-TimeCounterWin\Egg-Time Counter.exe
+help=Egg-TimeCounterWin\ReadMe.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=2
+Name=Egg-Time Counter
+AppName=Egg-Time Counter
+ShortDesc=Egg-Time Counter is a simple count-down timer application.
+LongDesc=Egg-Time Counter is a simple count-down timer application.
+
+[Software6]
+exe=vTIXWin\vTIX.exe
+help=vTIXWin\ReadMe.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=3
+Name=vTIX
+AppName=vTIX
+ShortDesc=vTIX is a software emulation of the famous TIX clock made by Cube Root.
+LongDesc=vTIX is a software emulation of the famous TIX clock made by Cube Root (http://www.cuberoot.com). TIX can be purchased online at http://www.thinkgeek.com.
+
+[Software7]
+exe=CrosswordDownloaderWin\Crossword Downloader.exe
+help=
+url=http://freeware.the-meiers.org/
+exe64=
+group=3
+Name=Crossword Downloader
+AppName=Crossword Downloader
+ShortDesc=Crossword Downloader downloads crossword files.
+LongDesc=Crossword Downloader downloads crossword files (or even other files for that matter), that have dates included in their filenames, for a given time span. The URLs to download from are stored in an external file called sources.txt that resides in the same directory as the Crossword Downloader application.
+
+[Software8]
+exe=PuzzlePrintWin\PuzzlePrint.exe
+help=
+url=http://freeware.the-meiers.org/
+exe64=
+group=3
+Name=Puzzle Print
+AppName=Puzzle Print
+ShortDesc=Puzzle Print batch prints crossword puzzles in AcrossLite format.
+LongDesc=Puzzle Print batch prints crossword puzzles in AcrossLite format (http://www.litsoft.com/) on paper so that they can be solved with pencil or pen. It also converts puzzles to CrossBow (http://www.versiontracker.com/dyn/moreinfo/palm/325) format for Palm Handhelds.
+
+[Software9]
+exe=mpa-Maker.exe
+help=
+url=http://freeware.the-meiers.org/
+exe64=
+group=3
+Name=mpa-Maker
+AppName=mpa-Maker
+ShortDesc=mpa-Maker is an application that packs individual text files into a singe mpa.
+LongDesc=mpa-Maker is an application that packs individual text files into a singe mpa (Memopad Archive) file for Palm Handhelds. mpa files can be synchronized to the Palm Handheld via the Palm Desktop software.
+
+[Software10]
+exe=HawaiianNameTranslator.exe
+help=
+url=http://freeware.the-meiers.org/
+exe64=
+group=3
+Name=Hawaiian Name Translator
+AppName=Hawaiian Name Translator
+ShortDesc=Hawaiian Name Translator.
+LongDesc=Hawaiian Name Translator is a small application that translates first names to their Hawaiian equivalents.
+
+[Software11]
+exe=R2D2 Translator.exe
+help=Read Me.txt
+url=http://freeware.the-meiers.org/
+exe64=
+group=4
+Name=R2D2 Translator
+AppName=R2D2 Translator
+ShortDesc=R2D2 Translator is a small desktop application that translates ordinary test to R2D2 language.
+LongDesc=R2D2 Translator is a small desktop application that translates ordinary test to R2D2 language.
+
+[Software12]
+exe=TreknoBabble.exe
+help=
+url=http://freeware.the-meiers.org/
+exe64=
+group=4
+Name=TreknoBabble
+AppName=TreknoBabble
+ShortDesc=TreknoBabble is a REALBasic implementation of the famous Random Treknobabble Generator.
+LongDesc=TreknoBabble is a REALBasic implementation of the famous Random Treknobabble Generator that can be found online and in many stand-alone implementations for various platforms. This implementation can also speak the sentences, if the platform supports it (Mac, Win XP and newer).
+
+[Software13]
+exe=Flatulator.exe
+help=
+url=http://freeware.the-meiers.org/
+exe64=
+group=4
+Name=Flatulator
+AppName=Flatulator
+ShortDesc=The name says it all. Produces human noises whenever a key is pressed.
+LongDesc=The name says it all. Produces human noises whenever a key is pressed.

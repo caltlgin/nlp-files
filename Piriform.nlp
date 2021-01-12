@@ -1,0 +1,64 @@
+[General]
+Name=Piriform Tools
+GroupCount=3
+SoftwareCount=5
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=GUI Tools
+
+[Group2]
+Name=Console Tools
+
+[Software0]
+exe=.\CCleaner\CCleaner.exe
+help=.\CCleaner\BeginnersGuide.chm
+url=https://www.ccleaner.com/ccleaner
+exe64=.\CCleaner\CCleaner64.exe
+group=1
+Name=CCleaner
+ShortDesc=Optimization and Cleaning
+LongDesc=CCleaner is the number-one tool for cleaning your Windows PC. Use this small, fast software utility to delete unneeded temporary files and logs, clean out your Registry, and protect your browsing privacy.
+
+[Software1]
+exe=.\Defraggler\Defraggler.exe
+help=
+url=https://www.ccleaner.com/defraggler
+exe64=.\Defraggler\Defraggler64.exe
+group=1
+Name=Defraggler
+ShortDesc=Disk Defragmentation
+LongDesc=Defraggler is a defragmenting program for your Windows PC that will speed up your work, reduce the wear and tear on your hard drive, and make you and Windows more efficient.
+
+[Software2]
+exe=.\Defraggler\df.exe
+help=
+url=https://www.ccleaner.com/defraggler
+exe64=.\Defraggler\df64.exe
+group=2
+Name=Defraggler Command-line
+ShortDesc=Disk Defragmentation Command-line version
+LongDesc=Defraggler is a defragmenting program for your Windows PC that will speed up your work, reduce the wear and tear on your hard drive, and make you and Windows more efficient.
+
+[Software3]
+exe=.\Recuva\Recuva.exe
+help=
+url=https://www.ccleaner.com/recuva
+exe64=.\Recuva\Recuva64.exe
+group=1
+Name=Recuva
+ShortDesc=File Recovery
+LongDesc=Accidentally deleted an important file? Lost something important when your computer crashed? No problem! Recuva recovers files deleted from your Windows computer, Recycle Bin, digital camera card, or MP3 player.
+
+[Software4]
+exe=.\Speccy\Speccy.exe
+help=
+url=https://www.ccleaner.com/speccy
+exe64=.\Speccy\Speccy64.exe
+group=1
+Name=Speccy
+ShortDesc=System Information
+LongDesc=Speccy is an advanced System Information tool for your PC. Need to find out what's inside your computer? No problem! Speccy will give you all the information you need.

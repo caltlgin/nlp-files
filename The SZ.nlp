@@ -1,0 +1,461 @@
+[General]
+Name=The SZ
+GroupCount=5
+SoftwareCount=40
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Office Applications
+
+[Group2]
+Name=Network Applications
+
+[Group3]
+Name=Development Tools
+
+[Group4]
+Name=Installers
+
+
+[Software0]
+exe=Lacey.exe
+help=
+url=http://www.the-sz.com/products/lacey/
+exe64=
+group=2
+Name=Lacey::Free Music & Video Downloader
+AppName=Lacey::Free Music & Video Downloader
+ShortDesc=Free Music & Video Downloader::Download mp3 files for free
+LongDesc=Download your favorite music and video for free. Just enter an artist name or song title and press ‘Search’. Use vkontakte, mail.ru and baidu to download free MP3 files. Get videos and convert them to MP3 from YouTube and Vimeo. Listen to music mixes from SoundCloud, MixCloud and BandCamp. Download complete TV series from kinox.to. Watch movies from ARD, ZDF, Arte and Phoenix. 
+
+[Software1]
+exe=Spencer.exe
+help=
+url=http://www.the-sz.com/products/spencer/
+exe64=
+group=1
+Name=Spencer::Start Menu for Windows 8 & 10
+AppName=Spencer::Start Menu for Windows 8 & 10
+ShortDesc=Windows XP Style Start Menu for Windows 8 & 10
+LongDesc=Bring back the Classic Windows XP Start Menu to Windows 8. With one click you have access to all of your Start Menu entries. Plus direct access to the Control Panel, Administrator command line and Run dialog. 
+
+[Software2]
+exe=Howard\Howard.exe
+help=
+url=http://www.the-sz.com/products/howard/
+exe64=
+group=1
+Name=Howard::Email Notifier
+AppName=Howard::Email Notifier
+ShortDesc=Howard::Outlook.com / GMail / Yahoo / mail.ru / orange.fr / Lotus Notes Email Notifier
+LongDesc=Get notified about new emails in your outlook.com, live.com, hotmail.com, mail.google.com, mail.yahoo.com, facebook.com, LinkedIn, twitter.com, e.mail.ru, orange.fr, IBM / Lotus Notes, IBM iNotes, mail.virgilio.it, O2.pl, Yandex, Laposte.net, SFR.fr, www.zoho.com and any IMAP inbox. This is a replacement for the Windows Live Messenger email notification. 
+
+[Software3]
+exe=Conroe.exe
+help=
+url=http://www.the-sz.com/products/conroe/
+exe64=
+group=1
+Name=Conroe::Calendar Notifier
+AppName=Conroe::Calendar Notifier
+ShortDesc=Conroe::GMail, Outlook, iCloud & Lotus iNotes Calendar Notifier
+LongDesc=Get alerted for calendar entries in your Google Calendar, Outlook.com, iCloud and IBM Notes iCloud calendars.
+
+[Software4]
+exe=Redwood.exe
+help=
+url=http://www.the-sz.com/products/redwood/
+exe64=
+group=3
+Name=Redwood::Extract Resources
+AppName=Redwood::Extract Resources
+ShortDesc=Redwood::View and Extract Resources
+LongDesc=View and extract resources from EXE, DLL, OCX, CPL or any other Windows 32 & 64 Bit PE file. The embedded resources are shown in a tree sorted by language and type. Pictures like BMP, PNG, JPG, AVI movies, icons, cursors, dialogs, string tables and version info are shown in a preview. All other resources are shown as binary dump.
+
+[Software5]
+exe=York - Network Traffic Trace (Installer).exe
+help=
+url=http://www.the-sz.com/products/york/
+exe64=
+group=4
+Name=York::Network Traffic Trace (Installer)
+AppName=York::Network Traffic Trace (Installer)
+ShortDesc=York::Log all network traffic
+LongDesc=Log all traffic on your network card. Analyze and parse network packets. Capture transmitted files and passwords.
+
+[Software6]
+exe=Seaside.exe
+help=
+url=http://www.the-sz.com/products/seaside/
+exe64=
+group=1
+Name=Seaside::Start multiple Skype sessions
+AppName=Seaside::Start multiple Skype sessions
+ShortDesc=Seaside::Start multiple Skype sessions
+LongDesc=Login into Skype with multiple Skype and Microsoft/MSN accounts. You are signed-in with multiple Skype and Microsoft/MSN accounts at the same time. When Windows starts, for each of your configured accounts one Skype application is started and automatically logged in. 
+
+[Software7]
+exe=Malden.exe
+help=
+url=http://www.the-sz.com/products/malden/
+exe64=
+group=1
+Name=Malden::See users Skype status
+AppName=Malden::See users Skype status
+ShortDesc=Malden::See users Skype status in the taskbar
+LongDesc=You can see the online status of other Skype and Microsoft Lync / Microsoft Office Communicator users directly in your taskbar and open the chat window with one click.
+
+[Software8]
+exe=SkypeFocusFix.exe
+help=
+url=http://www.the-sz.com/products/skypefocusfix/
+exe64=
+group=1
+Name=Skype Focus Fix
+AppName=Skype Focus Fix
+ShortDesc=Skype Focus Fix
+LongDesc=This application automatically sets the focus to the chat textbox of Skype. If you Alt+TAB switch from another application to a Skype chat window, the focus is automatically set to the text field.
+
+[Software9]
+exe=FlashBuilder.exe
+help=
+url=http://www.the-sz.com/products/flash/
+exe64=
+group=3
+Name=Flash Builder/Flash Player
+AppName=Flash Builder/Flash Player
+ShortDesc=Flash Builder/Flash Player::Convert SWF file into borderless & translucent EXE application
+LongDesc=Convert any SWF flash movie file into an executable Windows exe file [SWF 2 EXE]. The executable has no standard windows border and supports translucency.
+
+[Software10]
+exe=Compton.exe
+help=
+url=http://www.the-sz.com/products/compton/
+exe64=
+group=3
+Name=Compton::Storage Device Info
+AppName=Compton::Storage Device Info
+ShortDesc=Compton::Storage Device Info
+LongDesc=See the manufacturer details of your hard drives and solid state drives. The S.M.A.R.T. values show you the health and status of your drive.
+
+[Software11]
+exe=Temple.exe
+help=Read Me.txt
+url=http://www.the-sz.com/products/temple/
+exe64=
+group=3
+Name=Temple::USB Device Info
+AppName=Temple::USB Device Info
+ShortDesc=Temple::USB Device Info
+LongDesc=See the details of your usb devices. Like vendor id and product id, serial number, device type and transfer speed. Temple also shows the usb hub speed (USB 2.0 or USB 3.0).
+
+[Software12]
+exe=Grand.exe
+help=
+url=http://www.the-sz.com/products/grand/
+exe64=
+group=3
+Name=Grand::Sensors Viewer
+AppName=Grand::Sensors Viewer
+ShortDesc=Grand::See Sensor Values
+LongDesc=This program shows all sensor and location data on Windows 10, Windows 8 & Windows 7.
+
+[Software13]
+exe=Homedale.exe
+help=
+url=http://www.the-sz.com/products/homedale/
+exe64=
+group=2
+Name=Homedale::WLAN Monitor
+AppName=Homedale::WLAN Monitor
+ShortDesc=Homedale::Wi-Fi / WLAN Monitor
+LongDesc=With Homedale you can scan for Wi-Fi / WLAN Access Points and monitor their signal strength.
+
+[Software14]
+exe=Bennett.exe
+help=
+url=http://www.the-sz.com/products/bennett/
+exe64=
+group=2
+Name=Bennett::Bluetooth Monitor
+AppName=Bennett::Bluetooth Monitor
+ShortDesc=Bennett::Bluetooth Monitor
+LongDesc=With Bennett you can search for Bluetooth and Bluetooth Low Energy / Bluetooth Smart devices and monitor their signal strength.
+
+[Software15]
+exe=Bedford.exe
+help=
+url=http://www.the-sz.com/products/bedford/
+exe64=
+group=2
+Name=Bedford::Bluetooth Smart Info
+AppName=Bedford::Bluetooth Smart Info
+ShortDesc=Bedford::Bluetooth Low Energy Device Info
+LongDesc=This viewer shows you all Services, Characteristics & Descriptors and their details of Bluetooth Low Energy / BLE / Bluetooth Smart devices. Bedford can use the native Windows 8 / Windows 10 API to access Bluetooth Smart devices. You must first pair the device in the Bluetooth Settings of Windows. If the pairing fails with ‘Driver Error’, disable and enable the Bluetooth device in the device manager. Further, Texas Instruments CC2540/41 based adapters like Sensor Tag Development Kit are also supported. There is no need for pairing. These adapters are supported on all Windows versions.
+
+[Software16]
+exe=PortScan.exe
+help=
+url=http://www.the-sz.com/products/portscan/
+exe64=
+group=3
+Name=PortScan
+AppName=PortScan
+ShortDesc=PortScan::Scan and identify network devices
+LongDesc=Find all active devices on your network. Discover the ip address and available services for each network device. Run a speed test to check your internet connection speed. Ping and Traceroute devices. Query WhoIs and DNS server about domain names ip addresses.
+
+[Software17]
+exe=Carroll.exe
+help=
+url=http://www.the-sz.com/products/carroll/
+exe64=
+group=3
+Name=Carroll::Resolution Per User
+AppName=Carroll::Resolution Per User
+ShortDesc=Carroll::Set individual screen resolution for every user
+LongDesc=You can set for every user a different screen resolution. After logon the screen resolution will be changed to the stored setting.
+
+[Software18]
+exe=SpyEx.exe
+help=
+url=http://www.the-sz.com/products/spyex/
+exe64=
+group=3
+Name=SpyEx::Windows Messages
+AppName=SpyEx::Windows Messages
+ShortDesc=SpyEx::Dissect Applications & HTML pages + Spy Windows Messages
+LongDesc=Have you ever been annoyed by Visual Studio’s SpyXX when finding the correct window? SpyEx shows the real window icon!
+
+[Software19]
+exe=Parkdale.exe
+help=
+url=http://www.the-sz.com/products/parkdale/
+exe64=
+group=3
+Name=Parkdale::SpeedTest
+AppName=Parkdale::SpeedTest
+ShortDesc=Parkdale::Measure read and write speed
+LongDesc=Get the read and write speed from your harddisks, cdrom devices and network servers in Kilobyte, Megabyte or even Gigabyte per Second. Compare your drive with others on the Benchmark page.
+
+[Software20]
+exe=RimhillEx.exe
+help=
+url=http://www.the-sz.com/products/rimhillex/
+exe64=
+group=3
+Name=Rimhill::Limit CD-ROM Speed
+AppName=Rimhill::Limit CD-ROM Speed
+ShortDesc=Rimhill::Limit CD-ROM Speed
+LongDesc=This program sets the maximum cd-rom speed to the specified level in your drive. This will prevent the annoying sound if a cd-rom is in your drive and also speeds up access time if the drive is rarely used since the drive must only spin up to 8x instead of 48x.
+
+[Software21]
+exe=CDInfo.exe
+help=
+url=http://www.the-sz.com/products/cdinfo/
+exe64=
+group=3
+Name=CDInfo
+AppName=CDInfo
+ShortDesc=CDInfo::Read ISO descriptors from CD
+LongDesc=This program displays ATIP media information like manufacturer, ID and type plus all ISO descriptors from CD-ROM, DVD and Blue‑ray discs.
+
+[Software22]
+exe=Medford.exe
+help=
+url=http://www.the-sz.com/products/medford/
+exe64=
+group=3
+Name=Medford::Modbus Viewer
+AppName=Medford::Modbus Viewer
+ShortDesc=Medford::Modbus Viewer
+LongDesc=View Modbus registers from Modbus Slaves using the Modbus RTU serial port and TCP/IP network protocols. The functions 0x01 Read Coils, 0x02 Discrete Inputs, 0x03 Holding Registers, 0x04 Input Registers and 0x07 Exception Status are predefined. However, you can send any function code.
+
+[Software23]
+exe=Auburn.exe
+help=
+url=http://www.the-sz.com/products/auburn/
+exe64=
+group=1
+Name=Auburn::Earnings Notifier
+AppName=Auburn::Earnings Notifier
+ShortDesc=Auburn::Earnings Notifier for Google AdSense, Amazon Associates & Bol.com
+LongDesc=See your current earnings and get notified if you receive new earnings from Google AdSense, Amazon associates / Amazon associates UK and bol.com Partnerprogramma.
+
+[Software24]
+exe=Bear.exe
+help=
+url=http://www.the-sz.com/products/bear/
+exe64=
+group=3
+Name=Bear::GDI/User Usage
+AppName=Bear::GDI/User Usage
+ShortDesc=Bear::See GDI/User Object usage of all processes
+LongDesc=Track down GDI and User handle leaks. You can identify which application leaks GDI/User handles. In the details view you can see all the properties of the handles. For bitmaps, icons and cursors you see and save the real image.
+
+[Software25]
+exe=Stanley.exe
+help=
+url=http://www.the-sz.com/products/stanley/
+exe64=
+group=3
+Name=Samsung EI-AN900 Viewer
+AppName=Samsung EI-AN900 Viewer
+ShortDesc=Stanley::Samsung EI-AN900 Viewer
+LongDesc=Manage your Samsung EI-AN900A Samsung Activity Tracker using the Bluetooth Low Energy connection on your Windows computer. You can see your walked distance and sleep pattern.
+
+[Software26]
+exe=Yale.exe
+help=
+url=http://www.the-sz.com/products/yale/
+exe64=
+group=2
+Name=Yale::Network Usage
+AppName=Yale::Network Usage
+ShortDesc=Yale::See network adapter usage
+LongDesc=The application shows you the bandwidth usage of all network adapters. Additional the CPU usage and Disk transfer rates are shown.
+
+[Software27]
+exe=Nassau.exe
+help=
+url=http://www.the-sz.com/products/nassau/
+exe64=
+group=2
+Name=Nassau::Network Info
+AppName=Nassau::Network Info
+ShortDesc=Nassau::See all network connection settings
+LongDesc=After start, a small icon near the clock is shown. The tooltip of this icon shows the username, computername and workgroup/domain. Further, for every network adapter, all ip, gateway and dns server addresses are shown.
+
+[Software28]
+exe=Royal.exe
+help=
+url=http://www.the-sz.com/products/royal/
+exe64=
+group=1
+Name=Royal::RSS Reader
+AppName=Royal::RSS Reader
+ShortDesc=Royal::Read RSS [Really Simple Syndication] posts
+LongDesc=Read posts on RSS feeds. This program checks on startup, and if you like periodically, for new posts on RSS 0.91/0.92/1.0/2.0/Atom feeds.
+
+[Software29]
+exe=CPUGrabEx.exe
+help=
+url=http://www.the-sz.com/products/cpugrabex/
+exe64=
+group=3
+Name=CPU Grab Ex
+AppName=CPU Grab Ex
+ShortDesc=CPU Grab Ex::Stress your CPU
+LongDesc=Slow down your computer by consuming CPU power with the CPU grabber.
+
+[Software30]
+exe=VisualCVS\VisualCVS.exe
+help=
+url=http://www.the-sz.com/products/visualcvs/
+exe64=
+group=3
+Name=VisualCVS
+AppName=VisualCVS
+ShortDesc=VisualCVS::doing CVS/SVN the easy way
+LongDesc=I was annoyed by the cryptic and not user friendly cvs/svn interfaces. With this application you can do easy cvs/svn operations like ‘upload’ and ‘download’ sources. Tagging is also supported. During setup, a ‘Tools’ entry will be created in ‘Visual Studio 6.0’. You can also add a toolbar icon by your self. This will invoke ‘VisualCVS’ with your current project as commandline option. This will automatically fill the ‘local Folder’ and ‘Project’ edit boxes.
+
+[Software31]
+exe=RequestTrace.exe
+help=
+url=http://www.the-sz.com/products/rt/
+exe64=
+group=3
+Name=RequestTrace::Trace IRP's
+AppName=RequestTrace::Trace IRP's
+ShortDesc=RequestTrace::Trace all IRP's in Windows
+LongDesc=See IRP, SRB and URB requests to any Windows device driver. You can see the request details and data buffer. 32 bit and AMD64 bit versions of Windows 10, 8, 7, Vista, Windows XP and Windows 2000 are supported.
+
+[Software32]
+exe=NetChat.exe
+help=
+url=http://www.the-sz.com/products/netchat/
+exe64=
+group=2
+Name=NetChat
+AppName=NetChat
+ShortDesc=Netchat::Chat with other users in the same subnet
+LongDesc=Chat with other local users. You can create a fixed user which can be located in another subnet. This user can act as a gateway which connects both NetChat subnets together.
+
+[Software33]
+exe=Quartz.exe
+help=
+url=http://www.the-sz.com/products/quartz/
+exe64=
+group=2
+Name=Quartz::Dialin & DynDns
+AppName=Quartz::Dialin & DynDns
+ShortDesc=Quartz::Dial/Disconnect/Redail internet connection & update DynDns accounts
+LongDesc=Dail a connection on startup and if you wanna, redail if this connection will be disconnected. Disconnect after a specified time period. [e.g. 23 hours] Automatic reconnect if specified. If you have a DtDNS, DynDNS or NO-IP dyndns account, this url will be updated. So you can enter a fqdn instead of a changing ip address. [e.g. in NetMeeting] Write your current ip address [cable/T1/DSL/dailup adapter] into a file and transfers this file onto a ftp server. Create http traffic to one of up to 5 sites to prevent idle disconnection.
+
+[Software34]
+exe=CheckSum.exe
+help=
+url=http://www.the-sz.com/products/checksum/
+exe64=
+group=3
+Name=CheckSum::PE Header
+AppName=CheckSum::PE Header
+ShortDesc=CheckSum::Render new CheckSum for PE Images
+LongDesc=The program renders a new CheckSum for a given PE image. This is needed for device drivers in Windows NT since they check the image before loading a driver.
+
+[Software35]
+exe=pm_sz_os\BIN\PM_LOAD.exe
+help=
+url=http://www.the-sz.com/products/pm_sz_os/
+exe64=
+group=3
+Name=PM_SZ_OS
+AppName=PM_SZ_OS
+ShortDesc=PM_SZ_OS::32 Bit Protected Mode Operating System for 486+ Processors
+LongDesc=32 Bit Protected Mode Operating System for 486+ Processors.
+
+[Software36]
+exe=PE_PATCH.exe
+help=
+url=http://www.the-sz.com/products/pe_patch/
+exe64=
+group=3
+Name=PE Header Patcher
+AppName=PE Header Patcher
+ShortDesc=PEPatch::Patch the PE File Header of Win98 and NT files
+LongDesc=Change the »Subsystem Version« to write screensavers with preview in Borland C 4.5. It’s a Multiplatform Executable. It runs on DOS command line and Windows with GUI.
+
+[Software37]
+exe=sz_os\MAKEB.exe
+help=
+url=http://www.the-sz.com/products/sz_os/
+exe64=
+group=3
+Name=SZ_OS
+AppName=SZ_OS
+ShortDesc=SZ_OS::32 Bit Real Mode Operating System for 386+ Processors
+LongDesc=32 Bit Real Mode Operating System for 386+ Processors.
+
+[Software38]
+exe=Doro - Free PDF Printer (Installer).exe
+help=
+url=http://www.the-sz.com/products/doro/
+exe64=
+group=4
+Name=Doro::Free PDF Printer (Installer)
+AppName=Doro::Free PDF Printer (Installer)
+ShortDesc=Doro::Create PDF files for free
+LongDesc=Create colored PDF files from any windows application for free. No banners nor any annoying restrictions! Just download and install Doro. After installation you have an additional printer called ‘Doro PDF Writer’.
+
+[Software39]
+exe=ParkdaleCmd.exe
+help=
+url=http://www.the-sz.com/products/parkdale/
+exe64=
+group=3
+Name=Parkdale::SpeedTest (CMD)
+AppName=Parkdale::SpeedTest (CMD)
+ShortDesc=Parkdale::Measure read and write speed
+LongDesc=Get the read and write speed from your harddisks, cdrom devices and network servers in Kilobyte, Megabyte or even Gigabyte per Second. Compare your drive with others on the Benchmark page.

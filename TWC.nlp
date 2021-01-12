@@ -1,0 +1,478 @@
+[General]
+Name=The Windows Club Tools
+GroupCount=1
+SoftwareCount=47
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Software0]
+exe=AeroTile.exe
+help=
+url=
+exe64=
+group=0
+Name=AeroTile
+ShortDesc=
+LongDesc=
+
+[Software1]
+exe=Balloon Tip Time Changer.exe
+help=
+url=
+exe64=
+group=0
+Name=Balloon Tip Time Changer
+ShortDesc=
+LongDesc=
+
+[Software2]
+exe=CleanDesktop.exe
+help=
+url=
+exe64=
+group=0
+Name=CleanDesktop
+ShortDesc=
+LongDesc=
+
+[Software3]
+exe=Context Menu Editor.exe
+help=
+url=
+exe64=
+group=0
+Name=Context Menu Editor
+ShortDesc=
+LongDesc=
+
+[Software4]
+exe=Disguise Folders 1.0.exe
+help=
+url=
+exe64=
+group=0
+Name=Disguise Folders
+ShortDesc=
+LongDesc=
+
+[Software5]
+exe=File Association Fixer.exe
+help=
+url=
+exe64=
+group=0
+Name=File Association Fixer
+ShortDesc=
+LongDesc=
+
+[Software6]
+exe=Fix IE Utility.exe
+help=
+url=
+exe64=
+group=0
+Name=Fix IE
+ShortDesc=
+LongDesc=
+
+[Software7]
+exe=FixSecurityEssentials.exe
+help=
+url=
+exe64=
+group=0
+Name=Fix MSE
+ShortDesc=
+LongDesc=
+
+[Software8]
+exe=FixWindows.exe
+help=
+url=
+exe64=
+group=0
+Name=FixWin
+ShortDesc=
+LongDesc=
+
+[Software9]
+exe=FixWindowsUpdate.exe
+help=
+url=
+exe64=
+group=0
+Name=Fix WU
+ShortDesc=
+LongDesc=
+
+[Software10]
+exe=FixWMP.exe
+help=
+url=
+exe64=
+group=0
+Name=Fix WMP
+ShortDesc=
+LongDesc=
+
+[Software11]
+exe=GodMode Creator.exe
+help=
+url=
+exe64=
+group=0
+Name=GodMode Creator
+ShortDesc=
+LongDesc=
+
+[Software12]
+exe=Handy Shortcuts.exe
+help=
+url=
+exe64=
+group=0
+Name=Handy Shortcuts
+ShortDesc=
+LongDesc=
+
+[Software13]
+exe=Hide Taskbar.exe
+help=
+url=
+exe64=
+group=0
+Name=Hide Taskbar
+ShortDesc=
+LongDesc=
+
+[Software14]
+exe=Homepage Maker v1.exe
+help=
+url=
+exe64=
+group=0
+Name=HomePage Maker
+ShortDesc=
+LongDesc=
+
+[Software15]
+exe=HotShut 1.1.exe
+help=
+url=
+exe64=
+group=0
+Name=HotShut
+ShortDesc=
+LongDesc=
+
+[Software16]
+exe=IconCache Rebuilder.exe
+help=
+url=
+exe64=
+group=0
+Name=Icon Cache Rebuilder
+ShortDesc=
+LongDesc=
+
+[Software17]
+exe=OrbMover.exe
+help=
+url=
+exe64=
+group=0
+Name=Start Orb Mover
+ShortDesc=
+LongDesc=
+
+[Software18]
+exe=Quick Clean.exe
+help=
+url=
+exe64=
+group=0
+Name=Quick Clean
+ShortDesc=
+LongDesc=
+
+[Software19]
+exe=QuickHide.exe
+help=
+url=
+exe64=
+group=0
+Name=QuickHide
+ShortDesc=
+LongDesc=
+
+[Software20]
+exe=RegOwnit.exe
+help=
+url=
+exe64=
+group=0
+Name=RegOwnit
+ShortDesc=
+LongDesc=
+
+[Software21]
+exe=Restart Explorer.exe
+help=
+url=
+exe64=
+group=0
+Name=Restart Explorer
+ShortDesc=
+LongDesc=
+
+[Software22]
+exe=RightClick Explorer Restart.exe
+help=
+url=
+exe64=
+group=0
+Name=Right-Click Restart Explorer
+ShortDesc=
+LongDesc=
+
+[Software23]
+exe=RightClick ReplaceIt.exe
+help=
+url=
+exe64=
+group=0
+Name=Right-Click ReplaceThis
+ShortDesc=
+LongDesc=
+
+[Software24]
+exe=Right-Click Extenderv1.exe
+help=
+url=
+exe64=
+group=0
+Name=Right-Click Extender
+ShortDesc=
+LongDesc=
+
+[Software25]
+exe=SBTTC.exe
+help=
+url=
+exe64=
+group=0
+Name=Start Button ToolTip Text Changer
+ShortDesc=
+LongDesc=
+
+[Software26]
+exe=Shadow.exe
+help=
+url=
+exe64=
+group=0
+Name=Taskbar Shadow
+ShortDesc=
+LongDesc=
+
+[Software27]
+exe=ShowDesktop Remover.exe
+help=
+url=
+exe64=
+group=0
+Name=Show Desktop Remover
+ShortDesc=
+LongDesc=
+
+[Software28]
+exe=SMARTv2.exe
+help=
+url=
+exe64=
+group=0
+Name=Service Management And RealEasy Tweaking
+ShortDesc=
+LongDesc=
+
+[Software29]
+exe=SMDv2.exe
+help=
+url=
+exe64=
+group=0
+Name=Start My Day
+ShortDesc=
+LongDesc=
+
+[Software30]
+exe=System Folders Customizer 1.0.exe
+help=
+url=
+exe64=
+group=0
+Name=System Folders Customizer
+ShortDesc=
+LongDesc=
+
+[Software31]
+exe=System Restore Manager.exe
+help=
+url=
+exe64=
+group=0
+Name=System Restore Manager
+ShortDesc=
+LongDesc=
+
+[Software32]
+exe=Taskbar Color Effects.exe
+help=
+url=
+exe64=
+group=0
+Name=Taskbar Color Effects
+ShortDesc=
+LongDesc=
+
+[Software33]
+exe=Taskbar Thumbnail Tweaker.exe
+help=
+url=
+exe64=
+group=0
+Name=Taskbar Thumbnail Tweaker & Resizer
+ShortDesc=
+LongDesc=
+
+[Software34]
+exe=Tweak IE.exe
+help=
+url=
+exe64=
+group=0
+Name=Tweak IE
+ShortDesc=
+LongDesc=
+
+[Software35]
+exe=TweakUI.exe
+help=
+url=
+exe64=
+group=0
+Name=Ultimate Windows Tweaker
+ShortDesc=
+LongDesc=
+
+[Software36]
+exe=UWC.exe
+help=
+url=
+exe64=
+group=0
+Name=Ultimate Windows Customizer
+ShortDesc=
+LongDesc=
+
+[Software37]
+exe=W7DSA.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows 7 DreamScene Activator
+ShortDesc=
+LongDesc=
+
+[Software38]
+exe=W7FBC.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows 7 Folder Background Changer
+ShortDesc=
+LongDesc=
+
+[Software39]
+exe=W7SBC.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows 7 Start Button Changer
+ShortDesc=
+LongDesc=
+
+[Software40]
+exe=W7TaskbarTweaker.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows 7 Taskbar Tweaker
+ShortDesc=
+LongDesc=
+
+[Software41]
+exe=W7TTC.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows 7 Taskbar Thumbnail Customizer
+ShortDesc=
+LongDesc=
+
+[Software42]
+exe=Web Pinner v1.1.exe
+help=
+url=
+exe64=
+group=0
+Name=Web Pinner
+ShortDesc=
+LongDesc=
+
+[Software43]
+exe=Windows Event Viewer Plus Beta.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows Event Viewer Plus
+ShortDesc=
+LongDesc=
+
+[Software44]
+exe=Windows Theme Installer v 1.1.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows Theme Installer
+ShortDesc=
+LongDesc=
+
+[Software45]
+exe=WindowsApplication2.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows Access Panel
+ShortDesc=
+LongDesc=
+
+[Software46]
+exe=WindowsLogonNotifier.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows Logon Notifier
+ShortDesc=
+LongDesc=

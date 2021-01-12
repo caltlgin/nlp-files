@@ -1,0 +1,118 @@
+[General]
+Name=Rizonesoft
+GroupCount=1
+SoftwareCount=11
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=BIOSCodes\BIOSCodes.exe
+help=
+url=https://www.rizonesoft.com/downloads/bios-beep-codes-viewer/
+exe64=
+group=0
+Name=BIOS Beep Codes Viewer
+ShortDesc=The Beep codes viewer is a simple tool that will explain the BIOS error beep codes for all the main PC BIOS manufacturers.
+LongDesc=
+
+[Software1]
+exe=CarbonCD\CarbonCD.exe
+help=CarbonCD\CarbonCD.chm
+url=https://www.rizonesoft.com/downloads/carbon-cd/
+exe64=
+group=0
+Name=Carbon CD
+ShortDesc=Use Carbon CD to make backup copies of your music or data CDs.
+LongDesc=
+
+[Software2]
+exe=ComIntRep\ComIntRep.exe
+help=
+url=https://www.rizonesoft.com/downloads/complete-internet-repair/
+exe64=ComIntRep\ComIntRep_X64.exe
+group=0
+Name=Complete Internet Repair
+ShortDesc=Complete Internet Repair is a Power Tool to repair internet connections and get you up and running in no time.
+LongDesc=
+
+[Software3]
+exe=DVDRepair\DVDRepair.exe
+help=
+url=https://www.rizonesoft.com/downloads/dvd-drive-repair/
+exe64=DVDRepair\DVDRepair_X64.exe
+group=0
+Name=DVD Drive Repair
+ShortDesc=DVD Drive Repair allows you to restore your DVD (Optical) Drive if missing from Windows.
+LongDesc=
+
+[Software4]
+exe=Firemin\Firemin.exe
+help=
+url=https://www.rizonesoft.com/downloads/firemin/
+exe64=Firemin\Firemin_X64.exe
+group=0
+Name=Firemin
+ShortDesc=Eliminate Firefox memory leaks and decrease the amount of memory Firefox uses.
+LongDesc=
+
+[Software5]
+exe=memboost\memBoost.exe
+help=memboost\support\memBoost.chm
+url=https://www.rizonesoft.com/downloads/memory-booster/
+exe64=
+group=0
+Name=Memory Booster
+ShortDesc=Memory Booster.
+LongDesc=
+
+[Software6]
+exe=mozbase\Mozbase.exe
+help=
+url=https://www.rizonesoft.com/downloads/mozbase-optimizer/
+exe64=
+group=0
+Name=Mozbase Optimizer
+ShortDesc=Mozbase Optimizer.
+LongDesc=
+
+[Software7]
+exe=Notepad3\x86\Notepad3.exe
+help=
+url=https://www.rizonesoft.com/downloads/notepad3/
+exe64=Notepad3\x64\Notepad3.exe
+group=0
+Name=Notepad3
+ShortDesc=Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting.
+LongDesc=
+
+[Software8]
+exe=ownership\Ownership.exe
+help=ownership\documents\Ownership.chm
+url=https://www.rizonesoft.com/downloads/ownership/
+exe64=ownership\Ownership64Bit.exe
+group=0
+Name=Ownership
+ShortDesc=Take Ownership of files.
+LongDesc=
+
+[Software9]
+exe=pixrepair\PixRepair.exe
+help=
+url=https://www.rizonesoft.com/downloads/pixel-repair/
+exe64=
+group=0
+Name=Pixel Repair
+ShortDesc=With this little tool, you can detect and fix stuck pixels on flat LCD screens.
+LongDesc=
+
+[Software10]
+exe=winsrepair\WinsRepair.exe
+help=
+url=https://www.rizonesoft.com/downloads/winsock-repair/
+exe64=winsrepair\WinsRepair-X64.exe
+group=0
+Name=Winsock Repair
+ShortDesc=With this little tool, you can detect and fix stuck pixels on flat LCD screens.
+LongDesc=

@@ -1,0 +1,248 @@
+[General]
+Name=2XDSOFT
+GroupCount=1
+SoftwareCount=24
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=Alarm\Alarm.exe
+help=
+url=https://2xdsoft.de.tl/Alarm.htm
+exe64=
+group=0
+Name=Alarm
+ShortDesc=Set up a time on which you would like to be noticed by an alarm sound or message.
+LongDesc=
+
+[Software1]
+exe=AutoStarter\AutoStarter.exe
+help=AutoStarter\Help.chm
+url=https://2xdsoft.de.tl/AutoStarter-X4.htm
+exe64=
+group=0
+Name=AutoStarter
+ShortDesc=Create a list to automatically launch files, directories, shortcuts, webpages via batch files.
+LongDesc=
+
+[Software2]
+exe=AutoZipper\AutoZipper.exe
+help=
+url=https://2xdsoft.de.tl/AutoZipper.htm
+exe64=
+group=0
+Name=AutoZipper
+ShortDesc=Create project files that will regularly archive files and folders with absolute or relative paths into a zip file.
+LongDesc=
+
+[Software3]
+exe=Fastlock\Fastlock.exe
+help=
+url=https://2xdsoft.de.tl/Fastlock.htm
+exe64=
+group=0
+Name=Fastlock
+ShortDesc=Hides the screen activity with a security password without CPU deceleration.
+LongDesc=
+
+[Software4]
+exe=Folder Merger\Folder Merger.exe
+help=
+url=https://2xdsoft.de.tl/Folder-Merger.htm
+exe64=
+group=0
+Name=Folder Merger
+ShortDesc=Merges the contents of different folders into a single folder while keeping its folder structure.
+LongDesc=
+
+[Software5]
+exe=High Resolution Timer\High Resolution Timer.exe
+help=
+url=http://2xdsoft.de.tl/High-Resolution-Timer.htm
+exe64=
+group=0
+Name=High Resolution Timer
+ShortDesc=A high performance counter that measures the elapsed time in microseconds.
+LongDesc=
+
+[Software6]
+exe=IP-Chat\IP-Chat.exe
+help=
+url=https://2xdsoft.de.tl/IP_Chat.htm
+exe64=
+group=0
+Name=IP-Chat
+ShortDesc=Chat with one or more persons via TCP/IP. Using client and server in one application.
+LongDesc=
+
+[Software7]
+exe=IP-Info\IP-Info.exe
+help=
+url=https://2xdsoft.de.tl/IP_Info.htm
+exe64=
+group=0
+Name=IP-Info
+ShortDesc=Retrieves your public IP (v4 and v6), local IP and additional information from the IP-Config.
+LongDesc=
+
+[Software8]
+exe=Jumping Image Screensaver\Jumping Image.scr
+help=
+url=https://2xdsoft.de.tl/Jumping-Image-Screensaver.htm
+exe64=
+group=0
+Name=Jumping Image Screensaver
+ShortDesc=A fully customizeable screensaver with images randomly jumping over the screen.
+LongDesc=
+
+[Software9]
+exe=Keyboard & Mouse Simulator\Keyboard & Mouse Simulator.exe
+help=Keyboard & Mouse Simulator\data\Help.chm
+url=https://2xdsoft.de.tl/Keyboard-%26-Mouse-Simulator.htm
+exe64=
+group=0
+Name=Keyboard & Mouse Simulator
+ShortDesc=Create a list to simulate any mouse click, key press or any other action that can be done by a real user.
+LongDesc=
+
+[Software10]
+exe=Keyboard Ghosting & Rollover Test\Keyboard Ghosting & Rollover Test.exe
+help=
+url=https://2xdsoft.de.tl/Keyboard-Ghosting-%26-Rollover-Test.htm
+exe64=
+group=0
+Name=Keyboard Ghosting & Rollover Test
+ShortDesc=Test your keyboard keys for Ghosting and X-Key-Rollover.
+LongDesc=
+
+[Software11]
+exe=Master Volume Hotkey Controller\Master Volume Hotkey Controller.exe
+help=
+url=https://2xdsoft.de.tl/Master-Volume-Hotkey-Controller.htm
+exe64=
+group=0
+Name=Master Volume Hotkey Controller
+ShortDesc=Controls your master sound volume via global hotkeys.
+LongDesc=
+
+[Software12]
+exe=Mini Auto Clicker\Mini Auto Clicker.exe
+help=
+url=https://2xdsoft.de.tl/Mini-Auto-Clicker.htm
+exe64=
+group=0
+Name=Mini Auto Clicker
+ShortDesc=Simple auto clicker that simulates left, middle and right mouse button clicks.
+LongDesc=
+
+[Software13]
+exe=MultiClip\MultiClip.exe
+help=
+url=https://2xdsoft.de.tl/MultiClip.htm
+exe64=
+group=0
+Name=MultiClip
+ShortDesc=Enables you to copy and paste multiple clipboard strings in a row.
+LongDesc=
+
+[Software14]
+exe=Number Sequence Generator\Number Sequence Generator.exe
+help=
+url=https://2xdsoft.de.tl/Number-Sequence-Generator.htm
+exe64=
+group=0
+Name=Number Sequence Generator
+ShortDesc=Generates a number sequence as a string in a user-defined interval and step count.
+LongDesc=
+
+[Software15]
+exe=OverlayXhair\OverlayXhair.exe
+help=
+url=https://2xdsoft.de.tl/OverlayXhair.htm
+exe64=
+group=0
+Name=OverlayXhair
+ShortDesc=Creates a crosshair over all applications, including games.
+LongDesc=
+
+[Software16]
+exe=Random Number Generator\Random Number Generator.exe
+help=
+url=https://2xdsoft.de.tl/Random-Number-Generator.htm
+exe64=
+group=0
+Name=Random Number Generator
+ShortDesc=Generates random integers or decimal numbers with a set of user-defined options.
+LongDesc=
+
+[Software17]
+exe=Screen Color Picker\Screen Color Picker.exe
+help=
+url=https://2xdsoft.de.tl/Screen-Color-Picker.htm
+exe64=
+group=0
+Name=Screen Color Picker
+ShortDesc=Lets you pick any color on the screen and retrieve its color values (HEX, RGB, CMYK, HSB, HSL).
+LongDesc=
+
+[Software18]
+exe=Screen Pixel Measurer\Screen Pixel Measurer.exe
+help=
+url=https://2xdsoft.de.tl/Screen-Pixel-Measurer.htm
+exe64=
+group=0
+Name=Screen Pixel Measurer
+ShortDesc=Measure point, line & rectangle forms on the screen and retrieve its data.
+LongDesc=
+
+[Software19]
+exe=Shutdown Logger\Shutdown Logger.exe
+help=
+url=https://2xdsoft.de.tl/Shutdown-Logger.htm
+exe64=
+group=0
+Name=Shutdown Logger
+ShortDesc=Record and log the time and type of all shutdown events (standy, lock, restart) of a system.
+LongDesc=
+
+[Software20]
+exe=Timer\Timer.exe
+help=
+url=https://2xdsoft.de.tl/Timer.htm
+exe64=
+group=0
+Name=Timer
+ShortDesc=Simple stopwatch timer that can take round times and save them to text files. Supports arithmetic expressions.
+LongDesc=
+
+[Software21]
+exe=Visual Dice Roller\Visual Dice Roller.exe
+help=
+url=https://2xdsoft.de.tl/Visual-Dice-Roller.htm
+exe64=
+group=0
+Name=Visual Dice Roller
+ShortDesc=Visually rolls a dice with words, phrases, numbers or names.
+LongDesc=
+
+[Software22]
+exe=Win1252 to Unicode Russian Text Converter\Win1252 to Unicode Russian Text Converter.exe
+help=
+url=https://2xdsoft.de.tl/Win1252-to-Unicode-Russian-Text-Converter.htm
+exe64=
+group=0
+Name=Win1252 to Unicode Russian Text Converter
+ShortDesc=Converts wrong displayed russian text with the Windows-1252 encoding to correct unicode text.
+LongDesc=
+
+[Software23]
+exe=XSnap\XSnap.exe
+help=
+url=https://2xdsoft.de.tl/XSnap.htm
+exe64=
+group=0
+Name=XSnap
+ShortDesc=Quickly take multiple snapshots of your desktop, applications and games by using global hotkeys.
+LongDesc=

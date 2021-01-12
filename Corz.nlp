@@ -1,0 +1,224 @@
+[General]
+Name=Corz
+GroupCount=3
+SoftwareCount=21
+
+[Group0]
+Name=All Programs
+ShowAll=1
+
+[Group1]
+Name=Software
+
+[Group2]
+Name=Accessories
+
+[Software0]
+exe=ARSE.exe
+help=
+url=http://corz.org/windows/software/Automatic-Router-Scripting-Engine/
+exe64=x64\ARSE.exe
+group=1
+Name=A.R.S.E
+ShortDesc=Send commands to your network device, automatically.
+LongDesc=
+
+[Software1]
+exe=BackUp.exe
+help=
+url=http://corz.org/windows/software/backup/
+exe64=x64\BackUp.exe
+group=1
+Name=BackUp
+ShortDesc=At last! A backup application that works exactly the way I want it to!
+LongDesc=
+
+[Software2]
+exe=Batch Runner.exe
+help=
+url=http://corz.org/windows/software/batch-runner/
+exe64=
+group=1
+Name=Batch Runner
+ShortDesc=Industrial-strength batch-testing software.
+LongDesc=
+
+[Software3]
+exe=Between-Days.exe
+help=
+url=http://corz.org/windows/software/accessories/Between-Days.php
+exe64=x64\Between-Days.exe
+group=2
+Name=Between-Days
+ShortDesc="Calculate the number of days between two dates by simply clicking calendars!
+LongDesc=
+
+[Software4]
+exe=checksum.exe
+help=
+url=http://corz.org/windows/software/checksum/
+exe64=x64\checksum.exe
+group=1
+Name=CheckSum
+ShortDesc=Insanely fast point-and-click recursive hashing.
+LongDesc=
+
+[Software5]
+exe=ClipboardAsName.exe
+help=
+url=http://corz.org/windows/software/accessories/clipboard-as-name-windows-powertoy.php
+exe64=x64\ClipboardAsName.exe
+group=2
+Name=Clipboard-As-Name PowerToy for Windows
+ShortDesc=Do you miss that oh-so-handy Windows PowerToy? Try this.
+LongDesc=
+
+[Software6]
+exe=color pickin chooser.exe
+help=
+url=http://corz.org/windows/software/color-pickin-chooser/
+exe64=
+group=1
+Name=Color Pickin' Chooser Free
+ShortDesc=A color chooser for the power user!
+LongDesc=
+
+[Software7]
+exe=Color Pickin Chooser Pro.exe
+help=
+url=http://corz.org/windows/software/color-pickin-chooser/
+exe64=x64\Color Pickin Chooser Pro.exe
+group=1
+Name=Color Pickin' Chooser Pro
+ShortDesc=A color chooser for the power user!
+LongDesc=
+
+[Software8]
+exe=corz clock.exe
+help=
+url=http://corz.org/windows/software/clock/
+exe64=
+group=1
+Name=Corz Clock
+ShortDesc=A funky analog clock, with alarms, chimes, speech, and more.
+LongDesc=
+
+[Software9]
+exe=CorZipper.exe
+help=
+url=http://corz.org/windows/software/accessories/CorZipper.php
+exe64=
+group=2
+Name=CorZipper
+ShortDesc=A simple free zipper for your Explorer right-click.
+LongDesc=
+
+[Software10]
+exe=CorzSpaZio.exe
+help=
+url=http://corz.org/windows/software/corzspazio/
+exe64=x64\CorzSpaZio.exe
+group=1
+Name=CorzSpaZio
+ShortDesc=A disk space monitor that works.
+LongDesc=
+
+[Software11]
+exe=ffe.exe
+help=
+url=http://corz.org/windows/software/ffe/
+exe64=x64\ffe.exe
+group=1
+Name=ffe (FFmpeg Front-end)
+ShortDesc=Handy for those YouTube (FLV) videos, and MUCH more.
+LongDesc=
+
+[Software12]
+exe=hashdrop.exe
+help=
+url=http://corz.org/windows/software/checksum/files/HashDrop/HashDrop.html
+exe64=
+group=1
+Name=hashDROP
+ShortDesc=A batch-processing front-end for checksum.
+LongDesc=
+
+[Software13]
+exe=KDE Mover-Sizer.exe
+help=
+url=http://corz.org/windows/software/accessories/KDE-resizing-moving-for-Windows.php
+exe64=x64\KDE Mover-Sizer.exe
+group=2
+Name=KDE Mover-Sizer
+ShortDesc=Move and resize Windows windows like Linux windows!
+LongDesc=
+
+[Software14]
+exe=LiNK Fixer.exe
+help=
+url=http://corz.org/windows/software/accessories/LiNKFixer.php
+exe64=x64\LiNK Fixer.exe
+group=2
+Name=LiNK Fixer
+ShortDesc=Recursive batch fix paths inside .lnk files (Windows shortcuts).
+LongDesc=
+
+[Software15]
+exe=Long Path Fixer.exe
+help=
+url=http://corz.org/windows/software/accessories/Long-Path-Fixer-for-Windows.php
+exe64=x64\Long Path Fixer.exe
+group=2
+Name=Long Path Fixer
+ShortDesc="Path Too Long" Error? This FREE tool can handle files and folders with VERY Long Paths!
+LongDesc=
+
+[Software16]
+exe=LoopDropZ.exe
+help=
+url=http://corz.org/windows/software/loopdropz/
+exe64=x64\LoopDropZ.exe
+group=1
+Name=LoopDropZ
+ShortDesc=A drag and drop seamless background audio looper for Windows.
+LongDesc=
+
+[Software17]
+exe=MangleeZee.exe
+help=
+url=http://corz.org/windows/software/mangleezee/
+exe64=x64\MangleeZee.exe
+group=1
+Name=MangleeZee
+ShortDesc=A recursive, batch renaming utility with RegEx, handy presets and much more.
+LongDesc=
+
+[Software18]
+exe=OodleCam.exe
+help=
+url=http://corz.org/windows/software/oodlecam/
+exe64=
+group=1
+Name=OodleCam
+ShortDesc=A simple viewer for your IP Camera's Web Interface.
+LongDesc=
+
+[Software19]
+exe=simple checksum.exe
+help=
+url=http://corz.org/windows/software/checksum/
+exe64=x64\simple checksum.exe
+group=1
+Name=Simple Checksum
+ShortDesc=Insanely fast point-and-click recursive hashing.
+LongDesc=
+
+[Software20]
+exe=SimpleTimer.exe
+help=
+url=http://corz.org/windows/software/accessories/SimpleTimer.php
+exe64=x64\SimpleTimer.exe
+group=2
+Name=Simple Timer
+ShortDesc=Starts, stops and that's about it!
+LongDesc=

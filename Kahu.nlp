@@ -1,0 +1,278 @@
+[General]
+Name=Kahu Security
+GroupCount=1
+SoftwareCount=27
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=Binary File Converter.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Binary File Converter
+ShortDesc=
+LongDesc=Converts small binary files into text and vice versa which enables you to move content into and out of locked-down, remote hosts via VPN, RDC, SecureDesktop, etc as long as access to the clipboard is allowed.
+
+[Software1]
+exe=CMDWatcher32.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=CMDWatcher64.exe
+group=0
+Name=CMD Watcher
+ShortDesc=
+LongDesc=Watches for the CMD, PowerShell and other processes, suspends it, extracts the command line data, then optionally kills it. There's also an interactive mode to handle any LOLBin. This tool enables you to quickly obtain deobfuscated output from VBA macros.
+
+[Software2]
+exe=Converter.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Converter
+ShortDesc=
+LongDesc=Convert data to/from many different formats, format data, search/replace data, extract data, find XOR/ROT/SFT keys, import/export/split/join/convert files, and more. This tool was originally made for analyzing and deobfuscating malicious scripts so it wasn’t designed to handle large datasets.
+
+[Software3]
+exe=ConverterNET32.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=ConverterNET64.exe
+group=0
+Name=ConverterNET
+ShortDesc=
+LongDesc=Convert data to/from many different formats, format data, search/replace data, extract data, find XOR/SFT keys, import/export/convert files, and more.
+
+[Software4]
+exe=CoverFire.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Cover Fire
+ShortDesc=
+LongDesc=Generates web requests to fill up log files with misleading information.
+
+[Software5]
+exe=DataConverter.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Data Converter
+ShortDesc=
+LongDesc=Converts text, hex, or decimal values using XOR, ROTate, and ShiFT methods. You can do an XOR keyword search or enumerate all keys to a file. You can import a binary file, perform add/subtracts before/after an XOR/ROT/SFT action, and write out the results to a text or binary file.
+
+[Software6]
+exe=Difference Calculator.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Difference Calculator
+ShortDesc=
+LongDesc=Calculates the difference between two sets of strings based on the user-defined method (e.g. subtraction, addition, etc). Right-clicking in each text box brings up a context menu and offers the ability to read/save files (binary file reads are limited to 1KB to save time).
+
+[Software7]
+exe=FileConverter.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=File Converter
+ShortDesc=
+LongDesc=Converts large binary files to/from hex files with or without XOR encryption/decryption. Supports hex and decimal XOR keys.
+
+[Software8]
+exe=JSDeobfuscator.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Javascript Deobfuscator
+ShortDesc=
+LongDesc=Pack and unpack Javascript from DOS using Dean Edwards Packer and PhantomJS.
+
+[Software9]
+exe=PHP Script Decoder.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=PHP Script Decoder
+ShortDesc=
+LongDesc=Provides functionality to perform custom search/replace methods to deobfuscate PHP scripts.
+
+[Software10]
+exe=PHPConverter.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=PHP Converter
+ShortDesc=
+LongDesc=Deobfuscates/obfuscates PHP scripts.
+
+[Software11]
+exe=Pinpoint.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Pinpoint
+ShortDesc=
+LongDesc=Fetches a webpage and then enumerates and analyzes its components to help identify any infected files. Pinpoint gives you various options when making an HTTP request including spoofing the user-agent string and referer. Pinpoint will not render any of the content.
+
+[Software12]
+exe=PSUnveil.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=PSUnveil
+ShortDesc=
+LongDesc=Deobfuscate PowerShell scripts in manual, semi-auto, and auto mode.
+
+[Software13]
+exe=Registry Dumper.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Registry Dumper
+ShortDesc=
+LongDesc=With Registry Dumper, you can scan for null characters in registry keys and dump them to a text file. You can also create and delete hidden keys by inserting the word “[null]” into the keyname.
+
+[Software14]
+exe=Reneo.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Reneo
+ShortDesc=
+LongDesc=Reneo is a Windows tool to help incident responders, forensics specialists, and security researchers analyze and reverse engineer malicious and obfuscated scripts and other content. This tool can convert from/to various formats, transform, deobfuscate, encode/decode, encrypt/decrypt, and hash strings.
+
+[Software15]
+exe=Revelo.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Revelo
+ShortDesc=
+LongDesc=Deobfuscate Javascript using a variety of different methods; includes a built-in JS beautifier, DOM walker, firewall, packet sniffer, and proxy. Note: If analyzing malicious content, please use in a virtual machine. If the script calls Java, Acrobat, or some other plug-in, Revelo won’t protect you.
+
+[Software16]
+exe=Sandbox Tester.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Sandbox Tester
+ShortDesc=
+LongDesc=Creates a dropper that deploys several methods to get past automated malware analysis tools. The dropper safely drops an Eicar file and pops up a message upon execution.
+
+[Software17]
+exe=Scout.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Scout
+ShortDesc=
+LongDesc=Uses the Pinpoint engine to download and analyze webpage components to identify infected files. This function works fine in 32-bit Windows. Scout has a built-in HTTP Request Simulator that will render user-specified HTML files, catch the resulting HTTP requests, then drop the responses. Scout includes the ability to screenshot the webpage using PhantomJS (download PhantomJS and copy the .exe to the same folder as Scout). Use Scout in a VM since it could potentially cause your computer to become infected.
+
+[Software18]
+exe=Script Decoder.exe
+help=Script Deobfuscator.pdf
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Script Decoder
+ShortDesc=
+LongDesc=Decodes data that has been encoded using Microsoft Script Encoder (ScrEnc).
+
+[Software19]
+exe=ScriptDeobfuscator.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Script Deobfuscator
+ShortDesc=
+LongDesc=Helps you conduct static analysis by performing a series of search/replaces to deobfuscate PHP, Javascript, VBA, and VBS scripts.
+
+[Software20]
+exe=Secret Decoder Ring.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Secret Decoder Ring
+ShortDesc=
+LongDesc=Performs character substitution and position-based character lookups. Several exploit packs use this technique to hide URLs. Now you can analyze, decode, and encode URLs.
+
+[Software21]
+exe=Sounder.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Sounder
+ShortDesc=
+LongDesc=Analyzes web server logs to find possible phishing sites via URLs left behind in referers. It also checks the potential websites for phishing keywords and takes screenshots.
+
+[Software22]
+exe=TextDecoderToolkit.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Text Decoder Toolkit
+ShortDesc=
+LongDesc=Convert, transform, and decode text in a number of ways. Provides three different methods to help you determine what the XOR/shift value is.
+
+[Software23]
+exe=URLRevealer.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=URL Revealer
+ShortDesc=
+LongDesc=This is a web proxy that collects and displays the URLs from downloaders then drops the request automatically.
+
+[Software24]
+exe=WelcomeMat.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Welcome Mat
+ShortDesc=
+LongDesc=Opens listening ports on the host to spoof running services.
+
+[Software25]
+exe=Word2Dec.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=Word to Decimal
+ShortDesc=
+LongDesc=Converts Qword, Dword, and Word values to decimal. It can also perform basic XOR decoding.
+
+[Software26]
+exe=ZeuS ENC Decrypter.exe
+help=
+url=http://www.kahusecurity.com/tools.html
+exe64=
+group=0
+Name=ZeuS ENC Decrypter
+ShortDesc=
+LongDesc=Automatically finds the four-byte XOR key then XOR-decrypts and LZNT1-decompresses GameOver ZeuS’ .enc files into PE files.

@@ -1,0 +1,58 @@
+[General]
+Name=FinitySoft Internet Software
+GroupCount=1
+SoftwareCount=5
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=BMICalculator.exe
+help=
+url=
+exe64=
+group=0
+Name=BMI Calculator
+ShortDesc=Easily calculate your body mass index.
+LongDesc=Easily calculate your body mass index. Just enter your weight, height and sex and BMI Calculator will indicate if your are underweight, normal, overweight or obese, and what is your ideal weight. It will put you on dynamic chart.
+
+[Software1]
+exe=FoodAdditives.exe
+help=
+url=
+exe64=
+group=0
+Name=Food Additives
+ShortDesc=Check if the food you buy contains additives dangerous to your health.
+LongDesc=Check if the food you buy contains additives dangerous to your health. Have you ever wondered what all of those e-numbers actually mean? This free application contains list of food additives by e-number or by name telling you which to avoid. Also additives that children, asthmatics, vegetarians and people with health problems should avoid.
+
+[Software2]
+exe=MemoryManager.exe
+help=
+url=
+exe64=
+group=0
+Name=Memory Manager
+ShortDesc=Memory manager is a program that frees up memory manually or automatically.
+LongDesc=Memory manager is a program that frees up memory manually or automatically. It shows current memory status , memory load and CPU usage graphically.
+
+[Software3]
+exe=NetworkMonitor.exe
+help=
+url=
+exe64=
+group=0
+Name=Network Monitor
+ShortDesc=Network Monitor displays all kind of information in real time about all network adapters.
+LongDesc=Network Monitor displays all kind of information in real time about all network adapters (network cards, RAS connections, virtual cards, server monitoring for web hosting) in your system.
+
+[Software4]
+exe=ShareBrowser.exe
+help=
+url=
+exe64=
+group=0
+Name=Share Browser
+ShortDesc=Explore shared resources on your local network.
+LongDesc=Explore shared resources on your local network. FinitySoft Share Browser searches your complete local network and finds shared resources (files, disks, printers).

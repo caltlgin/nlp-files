@@ -1,0 +1,1168 @@
+[General]
+Name=Skrommel's One Hour Software
+GroupCount=1
+SoftwareCount=116
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Software0]
+exe=Accents.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/accents/
+exe64=
+group=0
+Name=Accents
+ShortDesc=Press a key three times or more to apply accents.
+LongDesc=
+
+[Software1]
+exe=AddUrlTimeStamp.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/addurltimestamp/
+exe64=
+group=0
+Name=AddUrlTimeStamp
+ShortDesc=Prefix favorites with creation date.
+LongDesc=
+
+[Software2]
+exe=AltEdge.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/altedge/
+exe64=
+group=0
+Name=AltEdge
+ShortDesc=Sends Alt-Tab when the mouse is on the left edge of the screen.
+LongDesc=
+
+[Software3]
+exe=AutoClip.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/autoclip/
+exe64=
+group=0
+Name=AutoClip
+ShortDesc=Replaces text as you type with any formatted text, image or other clip.
+LongDesc=
+
+[Software4]
+exe=Barnacle.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/barnacle/
+exe64=
+group=0
+Name=Barnacle
+ShortDesc=Add toolbars to your favorite programs.
+LongDesc=
+
+[Software5]
+exe=BatteryRun.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/batteryrun/
+exe64=
+group=0
+Name=BatteryRun
+ShortDesc=Run commands when the power chord is connected or disconnected
+LongDesc=
+
+[Software6]
+exe=BigByte.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/bigbyte/
+exe64=
+group=0
+Name=Create accurately sized files.
+ShortDesc=
+LongDesc=
+
+[Software7]
+exe=BlockInput.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/blockinput/
+exe64=
+group=0
+Name=BlockInput
+ShortDesc=Press Ctrl-Q to block all input for 5 seconds.
+LongDesc=
+
+[Software8]
+exe=CacheSort.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/cachesort/
+exe64=
+group=0
+Name=CacheSort
+ShortDesc=Automatically move files from Internet Explorer's cache into folders based on the files' extensions.
+LongDesc=
+
+[Software9]
+exe=CAPshift.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/capshift/
+exe64=
+group=0
+Name=CapShift
+ShortDesc=Ever hit caps lock by accident and not found out until half a page later? CAPshift extends the Caps Lock key by slowing it down, and shows a menu to change the selected text to lowercase, UPPERCASE, TitleCase, iNVERTEDcASE, RaNDoMCaSE or to Replace user defined characters.
+LongDesc=
+
+[Software10]
+exe=Captain.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/captain/
+exe64=
+group=0
+Name=Captain
+ShortDesc=Obtain or change a window's title.
+LongDesc=
+
+[Software11]
+exe=ClickToDesktop.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/clicktodesktop/
+exe64=
+group=0
+Name=ClickToDesktop
+ShortDesc=Click on the desktop to hide all windows.
+LongDesc=
+
+[Software12]
+exe=ClipStep.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/clipstep/
+exe64=
+group=0
+Name=ClipStep
+ShortDesc=Control multiple clipboards using only the keyboard's Ctrl-X-C-V.
+LongDesc=
+
+[Software13]
+exe=CloseAndEject.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/closeandeject/
+exe64=
+group=0
+Name=CloseAndEject
+ShortDesc=Close all open files before ejecting a drive.
+LongDesc=
+
+[Software14]
+exe=CloseCD.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/closecd/
+exe64=
+group=0
+Name=CloseCD
+ShortDesc=Closes all or some CD trays.
+LongDesc=
+
+[Software15]
+exe=CloseFence.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/closefence/
+exe64=
+group=0
+Name=CloseFence
+ShortDesc=Prevents the autohiding Taskbar from appearing when the mouse is over a Close button (X)
+LongDesc=
+
+[Software16]
+exe=CloseMany.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/closemany/
+exe64=
+group=0
+Name=CloseMany
+ShortDesc=Closes multiple programs or services at once.
+LongDesc=
+
+[Software17]
+exe=CloseToQuit.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/closetoquit/
+exe64=
+group=0
+Name=CloseToQuit
+ShortDesc=Close programs before the system shuts down.
+LongDesc=
+
+[Software18]
+exe=ColorTaskbar.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/colortaskbar/
+exe64=
+group=0
+Name=ColorTaskbar
+ShortDesc=Makes the taskbar gradually shift through a range of colors.
+LongDesc=
+
+[Software19]
+exe=ConfineMouse.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/confinemouse/
+exe64=
+group=0
+Name=ConfineMouse
+ShortDesc=Confine the mouse to one monitor.
+LongDesc=
+
+[Software20]
+exe=ControlFence.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/controlfence/
+exe64=
+group=0
+Name=ControlFence
+ShortDesc=Prevent the mouse from sliding off certain controls once inside.
+LongDesc=
+
+[Software21]
+exe=CreateShortcutThere.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/createshortcutthere/
+exe64=
+group=0
+Name=CreateShortcutThere
+ShortDesc=Rightclick a file and select the contextmenu CreateShortcutThere... to choose where to place the shortcut
+LongDesc=
+
+[Software22]
+exe=CutAway.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/cutaway/
+exe64=
+group=0
+Name=CutAway
+ShortDesc=Cut away parts of a window.
+LongDesc=
+
+[Software23]
+exe=DelEmpty.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/delempty/
+exe64=
+group=0
+Name=DelEmpty
+ShortDesc=List and delete empty folders.
+LongDesc=
+
+[Software24]
+exe=DeskLock.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/desklock/
+exe64=
+group=0
+Name=DeskLock
+ShortDesc=Prevents the moving of desktop icons.
+LongDesc=
+
+[Software25]
+exe=Desktop.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/desktop/
+exe64=
+group=0
+Name=Desktop
+ShortDesc=Give the desktop it's own taskbar button. Click it, Alt-Tab to it, or drag files to it to show or hide the desktop.
+LongDesc=
+
+[Software26]
+exe=DetachVideo.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/detachvideo/
+exe64=
+group=0
+Name=DetachVideo
+ShortDesc=Detach embedded videos from your tabbed browser and show them in a window of their own.
+LongDesc=
+
+[Software27]
+exe=DimSaver.scr
+help=
+url=http://www.dcmembers.com/skrommel/download/dimsaver/
+exe64=
+group=0
+Name=DimSaver
+ShortDesc=Screensaver that dims the screen.
+LongDesc=
+
+[Software28]
+exe=DimScreen.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/dimscreen/
+exe64=
+group=0
+Name=DimScreen
+ShortDesc=Dim the whole screen.
+LongDesc=
+
+[Software29]
+exe=DoOrDel.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/doordel/
+exe64=
+group=0
+Name=DoOrDel
+ShortDesc=Startup tool that will delete user defined folders unless the right password is entered.
+LongDesc=
+
+[Software30]
+exe=DoOver.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/doover/
+exe64=
+group=0
+Name=DoOver
+ShortDesc=Record and playback keyboard and mouse actions.
+LongDesc=
+
+[Software31]
+exe=DownloadAndRun.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/downloadandrun/
+exe64=
+group=0
+Name=DownloadAndRun
+ShortDesc=Download a file from the internet, and run it or open it in a program.
+LongDesc=
+
+[Software32]
+exe=DragKing.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/dragking/
+exe64=
+group=0
+Name=DragKing
+ShortDesc=Automatically copies mouse selections to the clipboard. Reports the number of copied characters, words and lines.
+LongDesc=
+
+[Software33]
+exe=DragLock.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/draglock/
+exe64=
+group=0
+Name=DragLock
+ShortDesc=Press the windows key to lock the mouse movement along one axis.
+LongDesc=
+
+[Software34]
+exe=DropCommand.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/dropcommand/
+exe64=
+group=0
+Name=DropCommand
+ShortDesc=Enables drag and drop of files to a command window in Vista.
+LongDesc=
+
+[Software35]
+exe=EjectCd.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/ejectcd/
+exe64=
+group=0
+Name=EjectCd
+ShortDesc=Ejects all or some CD trays.
+LongDesc=
+
+[Software36]
+exe=FadingTaskbar.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/fadingtaskbar/
+exe64=
+group=0
+Name=FadingTaskbar
+ShortDesc=Change the transparency of the taskbar.
+LongDesc=
+
+[Software37]
+exe=FastNavKeys.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/fastnavkeys/
+exe64=
+group=0
+Name=FastNavKeys
+ShortDesc=Speed up the navigation keys (or any other keys).
+LongDesc=
+
+[Software38]
+exe=Find.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/find/
+exe64=
+group=0
+Name=Find
+ShortDesc=Opens the Find window.
+LongDesc=
+
+[Software39]
+exe=FindFocus.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/findfocus/
+exe64=
+group=0
+Name=FindFocus
+ShortDesc=Find the focused control.
+LongDesc=
+
+[Software40]
+exe=Ghoster.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/ghoster/
+exe64=
+group=0
+Name=Ghoster
+ShortDesc=Dims all windows except the active one.
+LongDesc=
+
+[Software41]
+exe=GoneIn60s.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/gonein60s/
+exe64=
+group=0
+Name=GoneIn60s
+ShortDesc=Recover closed applications.
+LongDesc=
+
+[Software42]
+exe=HideDesktop.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/hidedesktop/
+exe64=
+group=0
+Name=HideDesktop
+ShortDesc=Hide the desktop icons when the mouse is elsewhere.
+LongDesc=
+
+[Software43]
+exe=IdleMute.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/idlemute/
+exe64=
+group=0
+Name=IdleMute
+ShortDesc=Mute the speaker or run a program after a period of inactivity, use hotkeys to mute and control the volume.
+LongDesc=
+
+[Software44]
+exe=IdleRun.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/idlerun/
+exe64=
+group=0
+Name=IdleRun
+ShortDesc=Run a program when the CPU is idle.
+LongDesc=
+
+[Software45]
+exe=IpUpload.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/ipupload/
+exe64=
+group=0
+Name=IpUpload
+ShortDesc=Upload current IP address to a FTP server.
+LongDesc=
+
+[Software46]
+exe=Kill.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/kill/
+exe64=
+group=0
+Name=Kill
+ShortDesc=Close or kill the window under the mouse.
+LongDesc=
+
+[Software47]
+exe=LabelControl.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/labelcontrol/
+exe64=
+group=0
+Name=LabelControl
+ShortDesc=Overlays buttons and other controls with a Number for direct access via Ctrl-Number.
+LongDesc=
+
+[Software48]
+exe=LowToSleep.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/lowtosleep/
+exe64=
+group=0
+Name=LowToSleep
+ShortDesc=Stop a PC from falling asleep until the CPU is inactive.
+LongDesc=
+
+[Software49]
+exe=MicMute.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/micmute/
+exe64=
+group=0
+Name=MicMute
+ShortDesc=Toggles the microphone's input volume between 0% and 100%.
+LongDesc=
+
+[Software50]
+exe=MinimOther.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/minimother/
+exe64=
+group=0
+Name=MinimOther
+ShortDesc=Endlessly minimizes all windows except the active one.
+LongDesc=
+
+[Software51]
+exe=MonitOff.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/monitoff/
+exe64=
+group=0
+Name=MonitOff
+ShortDesc=Turns off the monitor at user defined idle times during the day.
+LongDesc=
+
+[Software52]
+exe=MonitorOffSaver.scr
+help=
+url=http://www.dcmembers.com/skrommel/download/monitoroffsaver/
+exe64=
+group=0
+Name=MonitorOffSaver
+ShortDesc=Screensaver that turn off the screen.
+LongDesc=
+
+[Software53]
+exe=MouseActivate.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/mouseactivate/
+exe64=
+group=0
+Name=MouseActivate
+ShortDesc=Automatically activates a window or a control when the mouse hovers over it, or autoclick if the mouse is left in the same place for 1 second.
+LongDesc=
+
+[Software54]
+exe=MouseClock.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/mouseclock/
+exe64=
+group=0
+Name=MouseClock
+ShortDesc=Shows the current time next to the mouse cursor, and date and more in the tray.
+LongDesc=
+
+[Software55]
+exe=MouseMark.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/mousemark/
+exe64=
+group=0
+Name=MouseMark
+ShortDesc=Press Ctrl+M to locate the mouse.
+LongDesc=
+
+[Software56]
+exe=MoveInactiveWin.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/moveinactivewin/
+exe64=
+group=0
+Name=MoveInactiveWin
+ShortDesc=Move a window without activating it.
+LongDesc=
+
+[Software57]
+exe=MoveOut.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/moveout/
+exe64=
+group=0
+Name=MoveOut
+ShortDesc=Make rules to move files automatically.
+LongDesc=
+
+[Software58]
+exe=MultiMonMan.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/multimonman/
+exe64=
+group=0
+Name=MultiMonMan
+ShortDesc=Watch and control multiple monitors.
+LongDesc=
+
+[Software59]
+exe=Mute.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/mute/
+exe64=
+group=0
+Name=Mute
+ShortDesc=Mutes or unmutes the speaker.
+LongDesc=
+
+[Software60]
+exe=NoClose.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/noclose/
+exe64=
+group=0
+Name=NoClose
+ShortDesc=Disable the Close button (X) of selected windows.
+LongDesc=
+
+[Software61]
+exe=Noise.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/noise/
+exe64=
+group=0
+Name=Noise
+ShortDesc=Keeps the PC from falling asleep by sending it keystrokes.
+LongDesc=
+
+[Software62]
+exe=NoStrayClicks.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/nostrayclicks/
+exe64=
+group=0
+Name=NoStrayClicks
+ShortDesc=Own a laptop with a mousepad? NoStrayClicks prevents stray clicks on the mousepad when editing documents.
+LongDesc=
+
+[Software63]
+exe=OnTop.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/ontop/
+exe64=
+group=0
+Name=OnTop
+ShortDesc=Puts a window on top of all others.
+LongDesc=
+
+[Software64]
+exe=OpeningHours.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/openinghours/
+exe64=
+group=0
+Name=OpeningHours
+ShortDesc=Runs a program when inside a certain time interval, and closes it when outside.
+LongDesc=
+
+[Software65]
+exe=PasteBinPost.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/pastebinpost/
+exe64=
+group=0
+Name=PasteBinPost
+ShortDesc=Post you clipboard contents to PasteBin.com and return the URL.
+LongDesc=
+
+[Software66]
+exe=PauseProcess.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/pauseprocess/
+exe64=
+group=0
+Name=PauseProcess
+ShortDesc=Pause a program and run other programs before and after.
+LongDesc=
+
+[Software67]
+exe=PixelNotifier.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/pixelnotifier/
+exe64=
+group=0
+Name=PixelNotifier
+ShortDesc=Watches pixels for color change, and if triggered, shows a message, plays a sound and fills the whole screen with color.
+LongDesc=
+
+[Software68]
+exe=PlainPaste.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/plainpaste/
+exe64=
+group=0
+Name=PlainPaste
+ShortDesc=Press Ctrl-V once to paste regularly, or twice fast to paste as text.
+LongDesc=
+
+[Software69]
+exe=ProcessGuard.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/processguard/
+exe64=
+group=0
+Name=ProcessGuard
+ShortDesc=Watch processes' memory usage, cpu usage and more, and get a warning, close them, run a program, change priority, hide/show or minimize/maximize them, logoff, reboot, shutdown, suspend or hibernate!
+LongDesc=
+
+[Software70]
+exe=PushMonitOff.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/pushmonitoff/
+exe64=
+group=0
+Name=PushMonitOff
+ShortDesc=Press Shift-F1 to turn the monitor off.
+LongDesc=
+
+[Software71]
+exe=PushToShow.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/pushtoshow/
+exe64=
+group=0
+Name=PushToShow
+ShortDesc=Completely hides the taskbar until the windows key is pushed.
+LongDesc=
+
+[Software72]
+exe=PushToTalk.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/pushtotalk/
+exe64=
+group=0
+Name=PushToTalk
+ShortDesc=Push Win+S to activate the microphone, release to mute.
+LongDesc=
+
+[Software73]
+exe=RandomScreenSaver.scr
+help=
+url=http://www.dcmembers.com/skrommel/download/randomscreensaver/
+exe64=
+group=0
+Name=RandomScreenSaver
+ShortDesc=Change screensaver every x minutes.
+LongDesc=
+
+[Software74]
+exe=RecentRun.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/recentrun/
+exe64=
+group=0
+Name=RecentRun
+ShortDesc=Shows the most recently run programs on the Start menu and in the tray.
+LongDesc=
+
+[Software75]
+exe=Removable.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/removable/
+exe64=
+group=0
+Name=Removable
+ShortDesc=Eject removable drives by doubleclicking in a list of drives.
+LongDesc=
+
+[Software76]
+exe=RemoveUrlTimeStamp.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/removeurltimestamp/
+exe64=
+group=0
+Name=RemoveUrlTimeStamp
+ShortDesc=Remove prefixed creation date from favorites.
+LongDesc=
+
+[Software77]
+exe=ReRun.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/rerun/
+exe64=
+group=0
+Name=ReRun
+ShortDesc=Run the startup programs not already running
+LongDesc=
+
+[Software78]
+exe=Run.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/run/
+exe64=
+group=0
+Name=Run
+ShortDesc=Opens the Run window.
+LongDesc=
+
+[Software79]
+exe=RunAndHide.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/runandhide/
+exe64=
+group=0
+Name=RunAndHide
+ShortDesc=Run to hide or show the taskbar
+LongDesc=
+
+[Software80]
+exe=RunAsTools.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/runastools/
+exe64=
+group=0
+Name=RunAsTools
+ShortDesc=Collect your system tools and run them as another user.
+LongDesc=
+
+[Software81]
+exe=RunCheck.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/runsave/
+exe64=
+group=0
+Name=RunCheck
+ShortDesc=Screensaver that runs a command.
+LongDesc=
+
+[Software82]
+exe=RunSaver.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/runsave/
+exe64=
+group=0
+Name=RunSaver Settings
+ShortDesc=Screensaver that runs a command.
+LongDesc=
+
+[Software83]
+exe=RunSaver.scr
+help=
+url=http://www.dcmembers.com/skrommel/download/runsave/
+exe64=
+group=0
+Name=RunSaver
+ShortDesc=Screensaver that runs a command.
+LongDesc=
+
+[Software84]
+exe=RunScreenSaver.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/runscreensaver/
+exe64=
+group=0
+Name=RunScreenSaver
+ShortDesc=Run the default screensaver.
+LongDesc=
+
+[Software85]
+exe=RunToClose.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/runtoclose/
+exe64=
+group=0
+Name=RunToClose
+ShortDesc=DoubleClicking a file in Explorer closes Explorer afterwards
+LongDesc=
+
+[Software86]
+exe=ScreamerMenu.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/screamermenu/
+exe64=
+group=0
+Name=ScreamerMenu
+ShortDesc=Get easy access to your Screamer Radio stations, schedule recordings and lose the alert dialogs.
+LongDesc=
+
+[Software87]
+exe=ShiftOff.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/shiftoff/
+exe64=
+group=0
+Name=ShiftOff
+ShortDesc=Turns off CapsLock when Shift is pressed together with A-Z or other user defined keys.
+LongDesc=
+
+[Software88]
+exe=ShortcutFolder.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/shortcutfolder/
+exe64=
+group=0
+Name=ShortcutFolder
+ShortDesc=Creates and collects shortcuts to programs in a folder.
+LongDesc=
+
+[Software89]
+exe=ShortcutSync.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/shortcutsync/
+exe64=
+group=0
+Name=ShortcutSync
+ShortDesc=Command line tool to place shortcuts to files in a different folder, preserving the tree structure, and removing missing files.
+LongDesc=
+
+[Software90]
+exe=ShortCutter.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/shortcutter/
+exe64=
+group=0
+Name=ShortCutter
+ShortDesc=Make autoupdating collections of shortcuts to certain filetypes.
+LongDesc=
+
+[Software91]
+exe=ShortcutTip.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/shortcuttip/
+exe64=
+group=0
+Name=ShortcutTip
+ShortDesc=Prompts for a description when a shortcut is created.
+LongDesc=
+
+[Software92]
+exe=ShowDialogsToo.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/showdialogstoo/
+exe64=
+group=0
+Name=ShowDialogsToo
+ShortDesc=Shows dialog boxes on the task bar.
+LongDesc=
+
+[Software93]
+exe=ShowOff.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/showoff/
+exe64=
+group=0
+Name=ShowOff
+ShortDesc=Shows the pushed down keys and buttons.
+LongDesc=
+
+[Software94]
+exe=SingleApp.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/singleapp/
+exe64=
+group=0
+Name=SingleApp
+ShortDesc=Only allow one application to be active.
+LongDesc=
+
+[Software95]
+exe=SingleInstance.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/singleinstance/
+exe64=
+group=0
+Name=SingleInstance
+ShortDesc=Allow only one instance of a program to run.
+LongDesc=
+
+[Software96]
+exe=SmallMeasure.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/smallmeasure/
+exe64=
+group=0
+Name=SmallMeasure
+ShortDesc=A small screen ruler.
+LongDesc=
+
+[Software97]
+exe=StartClock.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/startclock/
+exe64=
+group=0
+Name=StartClock
+ShortDesc=Shows the current time in the start button,.
+LongDesc=
+
+[Software98]
+exe=TakeABreak.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/takeabreak/
+exe64=
+group=0
+Name=TakeABreak
+ShortDesc=Locks the computer in user defined intervals.
+LongDesc=
+
+[Software99]
+exe=TaskLog.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/tasklog/
+exe64=
+group=0
+Name=TaskLog
+ShortDesc=Logs the time spent on different tasks.
+LongDesc=
+
+[Software100]
+exe=TheEnd.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/theend/
+exe64=
+group=0
+Name=TheEnd
+ShortDesc=Unselect the file type when renaming files in XP.
+LongDesc=
+
+[Software101]
+exe=TicTocTitle.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/tictoctitle/
+exe64=
+group=0
+Name=TicTocTitle
+ShortDesc=Displays the current date and time in the active titlebar.
+LongDesc=
+
+[Software102]
+exe=TimeStamp.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/timestamp/
+exe64=
+group=0
+Name=TimeStamp
+ShortDesc=Copies user defined times and dates to the Clipboard.
+LongDesc=
+
+[Software103]
+exe=ToddlerTrap.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/toddlertrap/
+exe64=
+group=0
+Name=ToddlerTrap
+ShortDesc=Disables mouse and keyboard input to stop toddlers messing up your PC, or to allow for cleaning.
+LongDesc=
+
+[Software104]
+exe=TransOther.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/transother/
+exe64=
+group=0
+Name=TransOther
+ShortDesc=Make all windows but the active one transparent.
+LongDesc=
+
+[Software105]
+exe=TrayScreenSaver.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/trayscreensaver/
+exe64=
+group=0
+Name=TrayScreenSaver
+ShortDesc=Control the screensaver from the tray.
+LongDesc=
+
+[Software106]
+exe=UnderCover.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/undercover/
+exe64=
+group=0
+Name=UnderCover
+ShortDesc=Automatically hide a window's buttons and other controls.
+LongDesc=
+
+[Software107]
+exe=UrlHistory.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/urlhistory/
+exe64=
+group=0
+Name=UrlHistory
+ShortDesc=Watches the clipboard for web addresses and saves them with a comment.
+LongDesc=
+
+[Software108]
+exe=UsedFonts.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/usedfonts/
+exe64=
+group=0
+Name=UsedFonts
+ShortDesc=Show what fonts are in use by a Microsoft Word document.
+LongDesc=
+
+[Software109]
+exe=WhatColor.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/whatcolor/
+exe64=
+group=0
+Name=WhatColor
+ShortDesc=Show and copy the RRGGBB color under the cursor.
+LongDesc=
+
+[Software110]
+exe=White.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/white/
+exe64=
+group=0
+Name=White
+ShortDesc=Fill the screen with white color to use it as a lightbox.
+LongDesc=
+
+[Software111]
+exe=WinLock.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/winlock/
+exe64=
+group=0
+Name=WinLock
+ShortDesc=Lock individual windows with a password.
+LongDesc=
+
+[Software112]
+exe=WinStep.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/winstep/
+exe64=
+group=0
+Name=WinStep
+ShortDesc=Step through groups of windows using hotkeys.
+LongDesc=
+
+[Software113]
+exe=WinWarden.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/winwarden/
+exe64=
+group=0
+Name=WinWarden
+ShortDesc=Automatically control how to display a window.
+LongDesc=
+
+[Software114]
+exe=ZoneSize.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/zonesize/
+exe64=
+group=0
+Name=ZoneSize
+ShortDesc=Define zones that autosize windows dropped on them.
+LongDesc=
+
+[Software115]
+exe=ZoomSaver.exe
+help=
+url=http://www.dcmembers.com/skrommel/download/zoomsaver/
+exe64=
+group=0
+Name=ZoomSaver
+ShortDesc="Screensaver" that shrinks the images to fit to the width or height of the screen, and scrolls to show the rest.
+LongDesc=

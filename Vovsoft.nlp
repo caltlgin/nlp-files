@@ -1,0 +1,242 @@
+[General]
+Name=Vovsoft Freeware Utilities
+GroupCount=9
+SoftwareCount=21
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Audio && Multimedia
+
+[Group2]
+Name=Communications
+
+[Group3]
+Name=Desktop
+
+[Group4]
+Name=Education
+
+[Group5]
+Name=Games && Entertainment
+
+[Group6]
+Name=Network && Internet
+
+[Group7]
+Name=Security && Privacy
+
+[Group8]
+Name=System Utilities
+
+[Software0]
+exe=3dballs.exe
+help=
+url=https://vovsoft.com/software/3d-rolling-balls/
+exe64=
+group=5
+Name=3D Rolling Balls
+ShortDesc=Avoid rolling balls and reach next level.
+LongDesc=Avoid rolling balls and try to reach next level. Press arrow keys to move, space key to jump, ESC to exit.
+
+[Software1]
+exe=baby.exe
+help=
+url=https://vovsoft.com/software/baby-computer-fun/
+exe64=
+group=4
+Name=Baby Computer Fun
+ShortDesc=Let babies have fun playing with computer.
+LongDesc=Let babies and toddlers have fun playing with the computer. An educational game for people with babies and small children who like to sit at their parent's computer and smash the keyboard. Every time a key is pressed, a letter is drawn. Help kids to learn letters and provide a safe environment to have fun "typing" on the keyboard. The software prevents babies from accidentally opening any programs or documents, and makes banging even more fun by displaying letters and playing random sounds as the keys are whacked. Your own sounds can also be used. You can also click with the mouse to play an animation at a particular location. The software will lock out the Windows Key, as well as Ctrl-Esc and Alt-Tab so your baby can't get out of the application. Pressing ALT-F4 will exit the application.
+
+[Software2]
+exe=BurnStudio.exe
+help=
+url=https://vovsoft.com/software/burn-studio/
+exe64=
+group=1
+Name=Burn Studio
+ShortDesc=Lightweight CD, DVD, Blu-ray burning utility.
+LongDesc=Burn Studio is truly lightweight CD, DVD and Blu-ray burn utility at only 700 KB and does not include any of the fluff or overly complicated configuration that other burners contain - it is straightforward and easy-to-use. It permits you to effortlessly add files and folders and burn them via a simple click on the Burn button. It also includes disc verification support after the burn process is complete. You also have the option to format your rewritable discs to burn them again, and you can create custom labels for the discs as well.
+
+[Software3]
+exe=cpumonitor.exe
+help=
+url=https://vovsoft.com/software/cpu-monitor-gadget/
+exe64=
+group=3
+Name=CPU Monitor Gadget
+ShortDesc=Monitors how much CPU is being used.
+LongDesc=Simple little gadget for monitoring CPU performance from your desktop. It displays a real-time graph of CPU performance as well as current usage indicator. Features include user defined colors, transparency. It comes integrated with a sophisticated processor detection toolkit which provides CPU information. Compact tool with tiny footprint. A lot of user customizations that change the look and feel of the application. Monitoring CPU performance from your desktop without obstructions. Any type of user, who wants to monitor CPU performance from the desktop without obstructions.
+
+[Software4]
+exe=diskmonitor.exe
+help=
+url=https://vovsoft.com/software/disk-monitor-gadget/
+exe64=
+group=3
+Name=Disk Monitor Gadget
+ShortDesc=Monitor your free disk space.
+LongDesc=Simple little gadget for monitoring free disk space from your desktop. It displays a real-time information of disk usage. Features include user defined colors, transparency. Compact tool with tiny footprint. A lot of user customizations that change the look and feel of the application. Monitoring free disk space from your desktop without obstructions. For any type of user, who wants to monitor free disk space from the desktop without obstructions.
+
+[Software5]
+exe=filechecksum.exe
+help=
+url=https://vovsoft.com/software/file-checksum-calculator/
+exe64=
+group=8
+Name=File Checksum Calculator
+ShortDesc=Verify cryptographic hashes in MD5 and SHA-1.
+LongDesc=A standalone utility that generates and verifies cryptographic hashes in MD5, SHA-1 and SHA-256. Cryptographic hash functions are commonly used to guard against malicious changes to protected data in a wide variety of software, Internet, and security applications, including digital signatures and other forms of authentication. Two of the most common cryptographic hash functions are the Secure Hash Algorithm (SHA) and Message Digest Algorithm-5 (MD5). Checksum utilities are used to verify the integrity of generated hashes. There are two basic types, those that calculate checksum values and those that also validate them by checking them against a list of values for the protected data, which is the only way it can be done.
+
+[Software6]
+exe=keyboard.exe
+help=
+url=https://vovsoft.com/software/keyboard-lights/
+exe64=
+group=3
+Name=Keyboard Lights
+ShortDesc=Lights for Num Lock, Caps Lock, Scroll Lock.
+LongDesc=Some of the latest keyboard and notebook models no longer have indicators for the status of the Caps Lock, Num Lock and Scroll Lock keys, and some people prefer not to have to look away from their monitors even if their input devices are equipped with these indicators. Keyboard Lights is a straightforward application that provides you with a solution to these issues, as it displays a virtual version of the classic keyboard lights in the system tray area whenever one of these keys is pressed. Whenever you press one of the keys mentioned above, a notification is displayed in the system tray area to let you know which of them are currently active.
+
+[Software7]
+exe=mouse.exe
+help=
+url=https://vovsoft.com/software/vov-remote-mouse/
+exe64=
+group=8
+Name=Vov Remote Mouse
+ShortDesc=Turn your mobile device into a mouse.
+LongDesc=Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse. Turn your mobile phone or tablet into a wireless mouse.
+
+[Software8]
+exe=netwauth.exe
+help=
+url=https://vovsoft.com/software/network-authenticator/
+exe64=
+group=6
+Name=Network Authenticator
+ShortDesc=Control client computers in local network.
+LongDesc=Remote control client computers in your local network. Let network users login with username and password. Set login credentials on server side. Network Authenticator must be installed into server computer and client computers. You can allow users login to your server without Active Directory requirement.
+
+[Software9]
+exe=pairs.exe
+help=
+url=https://vovsoft.com/software/match-pairs/
+exe64=
+group=5
+Name=Match Pairs
+ShortDesc=Memory game you need to match cards.
+LongDesc=Match Pairs is a memory game which you need to match pair of cards. You can play the game against computer (CPU) or your friend. There are three computer difficulty choice. These are rookie, average and expert. Rookie is the easiest computer, and expert is the most difficult computer. Match Pairs is a memory game developed by VOVSOFT. Memory games are very suitable for children and other age groups.
+
+[Software10]
+exe=password.exe
+help=
+url=https://vovsoft.com/software/vov-password-generator/
+exe64=
+group=7
+Name=Vov Password Generator
+ShortDesc=Create secure passwords.
+LongDesc=Quickly generate passwords for your accounts, using any character set you prefer, with this lightweight, minimalistic application. The widespread use of password managers has also increased the demand for password generators. While many applications already offer this functionality, a standalone tool that can help you create a secure random, password may still come in handy.
+
+[Software11]
+exe=pdsleep.exe
+help=
+url=https://vovsoft.com/software/prevent-disk-sleep/
+exe64=
+group=8
+Name=Prevent Disk Sleep
+ShortDesc=Keep drives alive.
+LongDesc=Modern hard disks are set to automatically enter sleep mode (also known as idle time) whenever file operations are no longer happening. This is a method that helps with cooling the physical disk and prolonging its lifespan. However, if you wish to prevent this from happening, for example if you want the disk to quickly respond to file operations even after remaining idle for longs periods of time, then you can tinker with the built-in settings of your machine to turn off HDD sleep mode. If you find this method to be tedious, though, then you can turn to software utilities capable of keeping the HDD awake by creating small-sized files just to be able to mimic user interaction.
+
+[Software12]
+exe=prime.exe
+help=
+url=https://vovsoft.com/software/prime-number-counter/
+exe64=
+group=4
+Name=Prime Number Counter
+ShortDesc=Prime number counter utility.
+LongDesc=A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself. Prime Number Counter is a small utility to calculate the prime numbers. You can make the software count until a specified number or infinite. Prime Number Counter calculates the last prime number, total number of prime numbers and the elapsed time. You can click stop button whenever you want the software to stop counting.
+
+[Software13]
+exe=rammonitor.exe
+help=
+url=https://vovsoft.com/software/ram-monitor-gadget/
+exe64=
+group=3
+Name=RAM Monitor Gadget
+ShortDesc=Monitors how much RAM is being used.
+LongDesc=Random-access memory (RAM) is a form of computer data storage that stores data and machine code currently being used. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory. In contrast, with other direct-access data storage media such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory, the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement. RAM Monitor Gadget monitors how much RAM is being used.
+
+[Software14]
+exe=subtitleren.exe
+help=
+url=https://vovsoft.com/software/subtitle-renamer/
+exe64=
+group=1
+Name=Subtitle Renamer
+ShortDesc=Rename subtitle files according to videos.
+LongDesc=Many Smart-TV's, Home Theater Systems and Media Players require matching subtitle and video filenames. For users having many movies with various subtitles, it is a hard work to rename all the subtitle filenames. This is where Vovsoft Subtitle Renamer comes in. You can rename subtitle filenames according to video filenames easily by selecting the video directory and clicking the Start button. The software will rename all the subtitle files.
+
+[Software15]
+exe=timesync.exe
+help=
+url=https://vovsoft.com/software/time-sync/
+exe64=
+group=6
+Name=Time Sync
+ShortDesc=Sync your clock with a time server.
+LongDesc=Sync your clock with a time server by resorting to this minimalist app and make sure you are always in the know as to the passing of every single second. We all know how precious every single moment of our time is, and we are all trying to make the most of it. Time Sync is a software utility that capitalizes on precisely this idea since it offers to inform you about the time in your timezone as well as make sure your Windows clock is flawed by no desynchronization.
+
+[Software16]
+exe=vmplayer.exe
+help=
+url=https://vovsoft.com/software/vov-music-player/
+exe64=
+group=1
+Name=Vov Music Player
+ShortDesc=Play your favorite music.
+LongDesc=Vov Music Player is a lightweight super-simple audio player capable of playing FLAC, MP3, MP2, MP1, OGG, WMA, WAV and AIFF files. No complicated configuration needed to enjoy your favorite tunes from your desktop. It places a system tray icon for quick launch via the right-click context menu permitting you to initiate audio playback for your compiled songs quickly. All you need to do is select the source and play.
+
+[Software17]
+exe=vnotes.exe
+help=
+url=https://vovsoft.com/software/visual-notes/
+exe64=
+group=8
+Name=Visual Notes
+ShortDesc=Create visual notes.
+LongDesc=Create visual notes using this intuitive software. You can save them to a file and load it any time. Where do you put your thoughts, your ideas, or the name of a movie someone recommended? If you write them down or otherwise capture them, you get an accurate record that you can always refer to rather than rely on a faulty memory. The place to put all this information and more is in a note taking software.
+
+[Software18]
+exe=vovsu.exe
+help=
+url=https://vovsoft.com/software/vov-system-uptime/
+exe64=
+group=3
+Name=Vov System Uptime
+ShortDesc=Basic tool for monitoring system uptime.
+LongDesc=Vov System Uptime runs in the system tray and allows you to see the system uptime with a single mouse click. It lets you know how long your computer has been running. Getting the system uptime, which tells you how long your computer has been on, is surprisingly difficult on Windows. Thankfully, though, you can rely on Vov System Uptime to make this task easier. Vov System Uptime is a very small application, so you should be able to set everything up in seconds. Once installed, the application can be found in the system tray.
+
+[Software19]
+exe=webcam.exe
+help=
+url=https://vovsoft.com/software/webcam-capture/
+exe64=
+group=2
+Name=Webcam Capture
+ShortDesc=Simple webcam utility.
+LongDesc=Webcam Capture is a very simple software solution that enables you to monitor one or more webcam feeds from a streamlined, minimalistic user interface. It offers several visual effects and can help you modify your webcams properties. You can click Start Video button and here you go. You can easily change your webcam device properties using the software. Webcam Capture is a native Windows application. So you don't need to install Java or .NET Framework. It only requires DirectX 9 which is already installed in Windows XP SP2 or later operating systems. You can capture screenshot using Webcam Capture by clicking the Capture Picture button on the screen.
+
+[Software20]
+exe=wordlist.exe
+help=
+url=https://vovsoft.com/software/random-wordlist-generator/
+exe64=
+group=7
+Name=Random Wordlist Generator
+ShortDesc=Create random wordlists.
+LongDesc=Random word lists are widely used for vulnerability assessment and penetration testing applications. You can utilize the lists in order to test brute force attacks. A brute-force attack is when all possible keys are checked until the right key is found. Random Wordlist Generator is a simple tool that allows you to create a wordlist of random words. You can generate random words using different sets of characters. With a mouse click you can generate thousands of different words in a few minutes.

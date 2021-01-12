@@ -1,0 +1,404 @@
+[General]
+Name=JoeWare Tools
+GroupCount=3
+SoftwareCount=39
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=Active Directory Specific Tools
+
+[Group2]
+Name=Misc Tools
+
+[Software0]
+exe=AccExp.exe
+help=AccExp.htm
+url=http://joeware.net/freetools/tools/accexp/index.htm
+exe64=
+group=2
+Name=AccExp
+ShortDesc=Expire or check expiration on user accounts.
+LongDesc=Command line tool that allows you to expire or check expiration on user accounts. Note that this is account expiration, not password expiration.
+
+[Software1]
+exe=AdFind.exe
+help=AdFind.htm
+url=http://joeware.net/freetools/tools/adfind/index.htm
+exe64=
+group=1
+Name=AdFind
+ShortDesc=Active Directory and ADAM LDAP query tool.
+LongDesc=Command line Active Directory and ADAM LDAP query tool. DSQuery on steroids and existed long before DSQuery.
+
+[Software2]
+exe=AdMod.exe
+help=AdMod.htm
+url=http://joeware.net/freetools/tools/admod/index.htm
+exe64=
+group=1
+Name=AdMod
+ShortDesc=Active Directory and ADAM LDAP modification tool.
+LongDesc=Command line Active Directory and ADAM LDAP modification tool. This tool combines DSMod, DSRM, and DSMove plus even more such as clearing SIDHistory, CSV updates, moving objects between domains, and much much more that would normally require scripts.
+
+[Software3]
+exe=ADQueueLoop.exe
+help=ADQueueLoop.htm
+url=http://joeware.net/freetools/tools/adqueueloop/index.htm
+exe64=
+group=1
+Name=ADQueueLoop
+ShortDesc=Display replication queue.
+LongDesc=Command line Active Directory tool to display the replication queue in near real time. 
+
+[Software4]
+exe=ATSN.exe
+help=ATSN.htm
+url=http://joeware.net/freetools/tools/atsn/index.htm
+exe64=
+group=1
+Name=ATSN
+ShortDesc=Return site and subnet info for IP address.
+LongDesc=Command line Active Directory tool to return site and subnet info for given IP addresses.
+
+[Software5]
+exe=Auth.exe
+help=Auth.htm
+url=http://joeware.net/freetools/tools/auth/index.htm
+exe64=
+group=2
+Name=Auth
+ShortDesc=User account authentication test tool.
+LongDesc=Command line user account authentication test tool.  
+
+[Software6]
+exe=ChangePW.exe
+help=ChangePW.htm
+url=http://joeware.net/freetools/tools/changepw/index.htm
+exe64=
+group=2
+Name=ChangePW
+ShortDesc=Password set/change utility.
+LongDesc=Command line password set/change utility.
+
+[Software7]
+exe=ClientTest.exe
+help=
+url=http://joeware.net/freetools/tools/clienttest/index.htm
+exe64=
+group=2
+Name=ClientTest
+ShortDesc=GUI tool that allows you to do simple TCP/IP port connection testing.
+LongDesc=GUI tool that allows you to do simple TCP/IP port connection testing.
+
+[Software8]
+exe=CPAU.exe
+help=CPAU.htm
+url=http://joeware.net/freetools/tools/cpau/index.htm
+exe64=
+group=2
+Name=CPAU
+ShortDesc=Launch a process as another user.
+LongDesc=Command line tool that allows you to launch a process as another user similar to RUNAS only with encrypted job files. 
+
+[Software9]
+exe=DNSSrvRec.exe
+help=DNSSrvRec.htm
+url=http://joeware.net/freetools/tools/dnssrvrec/index.htm
+exe64=
+group=2
+Name=
+ShortDesc=Add/remove arbitrary DNS SRV Records.
+LongDesc=Command line user utility that allows you to add/remove arbitrary DNS SRV Records.
+
+[Software10]
+exe=ExchMbx.exe
+help=ExchMbx.htm
+url=http://joeware.net/freetools/tools/exchmbx/index.htm
+exe64=
+group=1
+Name=ExchMbx
+ShortDesc=Exchange AD related tasks.
+LongDesc=Command line tool that can do various Exchange Active Directory related tasks like mailbox or mail enabling objects.
+
+[Software11]
+exe=Expire.exe
+help=Expire.htm
+url=http://joeware.net/freetools/tools/expire/index.htm
+exe64=
+group=2
+Name=Expire
+ShortDesc=Force account passwords expiration.
+LongDesc=Command line tool to force account passwords expired.
+
+[Software12]
+exe=FindExpAcc.exe
+help=FindExpAcc.htm
+url=http://joeware.net/freetools/tools/findexpacc/index.htm
+exe64=
+group=1
+Name=FindExpAcc
+ShortDesc=Locate Expired Accounts.
+LongDesc=Command line Active Directory tool to locate accounts that are expired or have expired passwords. Can also be used to determine accounts that will expire in X days. Returns basic info such as email address, etc. Useful for scripts to notify users of impending password expirations.
+
+[Software13]
+exe=FindNBT.exe
+help=FindNBT.htm
+url=http://joeware.net/freetools/tools/findnbt/index.htm
+exe64=
+group=2
+Name=FindNBT
+ShortDesc=Scan a subnet(s) looking for Windows PCs.
+LongDesc=Command line tool to scan a subnet(s) looking for Windows PCs.
+
+[Software14]
+exe=FindPDC.exe
+help=FindPDC.htm
+url=http://joeware.net/freetools/tools/findpdc/index.htm
+exe64=
+group=2
+Name=FindPDC
+ShortDesc=Find the PDC of a domain and test it.
+LongDesc=Command line tool to find the PDC of a domain and test it to make sure it is responding to NetLogon requests.
+
+[Software15]
+exe=GCChk.exe
+help=GCChk.htm
+url=http://joeware.net/freetools/tools/gcchk/index.htm
+exe64=
+group=1
+Name=GCChk
+ShortDesc=Locate lingering Objects.
+LongDesc=Command line Active Directory tool that attempts locate lingering objects. Can detect issues that you will not find with repadmin lingering object check.
+
+[Software16]
+exe=GetUserInfo.exe
+help=GetUserInfo.htm
+url=http://joeware.net/freetools/tools/getuserinfo/index.htm
+exe64=
+group=2
+Name=GetUserInfo
+ShortDesc=Retrieve info about user accounts.
+LongDesc=Command line tool to retrieve info about user accounts from Windows machines.
+
+[Software17]
+exe=joewaredigest.exe
+help=
+url=http://joeware.net/freetools/digest.htm
+exe64=
+group=2
+Name=Utility Digests
+ShortDesc=If you need to doublecheck the utilities...
+LongDesc=
+
+[Software18]
+exe=LG.exe
+help=LG.htm
+url=http://joeware.net/freetools/tools/lg/index.htm
+exe64=
+group=2
+Name=LG
+ShortDesc=Local group manipulation tool.
+LongDesc=Command line local group manipulation tool similar to but much more powerful than the NET LOCALGROUP command. Works remotely.
+
+[Software19]
+exe=MachinePwd.exe
+help=MachinePwd.htm
+url=http://joeware.net/freetools/tools/machinepwd/index.htm
+exe64=
+group=2
+Name=MachinePwd
+ShortDesc=Change machine account passwords.  
+LongDesc=Change machine account passwords on the local machine to reset secure channels when broken.
+
+[Software20]
+exe=MemberOf.exe
+help=MemberOf.htm
+url=http://joeware.net/freetools/tools/memberof/index.htm
+exe64=
+group=1
+Name=MemberOf
+ShortDesc=Enumerate group membership for user.
+LongDesc=Command line Active Directory tool to enumerate group memberships of given user.
+
+[Software21]
+exe=NetSess.exe
+help=NetSess.htm
+url=http://joeware.net/freetools/tools/netsess/index.htm
+exe64=
+group=2
+Name=NetSess
+ShortDesc=Session enumeration tool.
+LongDesc=Command line session enumeration tool similar to but much more powerful than the NET SESSIONS command. Works remotely.
+
+[Software22]
+exe=OldCmp.exe
+help=OldCmp.htm
+url=http://joeware.net/freetools/tools/oldcmp/index.htm
+exe64=
+group=1
+Name=OldCmp
+ShortDesc=Find old user & computer accounts.
+LongDesc=Command line Active Directory tool to find old user and computer accounts.
+
+[Software23]
+exe=PSOMgr.exe
+help=PSOMgr.htm
+url=http://joeware.net/freetools/tools/psomgr/index.htm
+exe64=
+group=1
+Name=PSOMgr
+ShortDesc=Manage Password Settings Objects.
+LongDesc=Command line tool to manage Password Settings Objects in W2k8+ Active Directory.
+
+[Software24]
+exe=QLogOff.exe
+help=
+url=http://joeware.net/freetools/tools/qlogoff/index.htm
+exe64=
+group=2
+Name=QLogOff
+ShortDesc=Tool to log off.
+LongDesc=Command line tool to log off.
+
+[Software25]
+exe=Quiet.exe
+help=Quiet.htm
+url=http://joeware.net/freetools/tools/quiet/index.htm
+exe64=
+group=2
+Name=Quiet
+ShortDesc=Tool to silently launch a process.  
+LongDesc=Command line tool to silently launch a process.
+
+[Software26]
+exe=SecData.exe
+help=SecData.htm
+url=http://joeware.net/freetools/tools/secdata/index.htm
+exe64=
+group=1
+Name=SecData
+ShortDesc=Dump security info for users and computers.
+LongDesc=Command line Active Directory tool to dump security info for users and computers.
+
+[Software27]
+exe=SecTok.exe
+help=SecTok.htm
+url=http://joeware.net/freetools/tools/sectoc/index.htm
+exe64=
+group=2
+Name=SecTok
+ShortDesc=Tool to display parts of the process token of current process.
+LongDesc=Command line tool to display parts of the process token of current process. 
+
+[Software28]
+exe=SeInteractiveLogonRight.exe
+help=SeInteractiveLogonRight.htm
+url=http://joeware.net/freetools/tools/seinteractivelogonright/index.htm
+exe64=
+group=2
+Name=SeInteractiveLogonRight
+ShortDesc=Configure system to allow specific user/group to logon locally.
+LongDesc=Command line tool to configure system to allow specific user/group to logon locally. 
+
+[Software29]
+exe=ShrFlgs.exe
+help=ShrFlgs.htm
+url=http://joeware.net/freetools/tools/shrflgs/index.htm
+exe64=
+group=2
+Name=ShrFlgs
+ShortDesc=Tool for setting Share flags. 
+LongDesc=Command line tool for setting Share flags. 
+
+[Software30]
+exe=SidToName.exe
+help=SidToName.htm
+url=http://joeware.net/freetools/tools/sidtoname/index.htm
+exe64=
+group=2
+Name=SidToName
+ShortDesc=Tool to resolve SIDs to friendly display names.
+LongDesc=Command line tool to resolve SIDs to friendly display names.
+
+[Software31]
+exe=SNU.exe
+help=SNU.htm
+url=http://joeware.net/freetools/tools/snu/index.htm
+exe64=
+group=2
+Name=SNU
+ShortDesc=Tool to connect to network shares.
+LongDesc=Command line tool to connect to network shares. 
+
+[Software32]
+exe=SvcUtil.exe
+help=SvcUtil.htm
+url=http://joeware.net/freetools/tools/svcutil/index.htm
+exe64=
+group=2
+Name=SvcUtil
+ShortDesc=View basic service information as well as stop/start/pause/continue service.
+LongDesc=Command line tool to view basic service information as well as stop/start/pause/continue service. 
+
+[Software33]
+exe=Unjoin.exe
+help=Unjoin.htm
+url=http://joeware.net/freetools/tools/unjoin/index.htm
+exe64=
+group=2
+Name=Unjoin
+ShortDesc=Unjoin machine from domain.
+LongDesc=Command line tool to unjoin machine from domain. 
+
+[Software34]
+exe=Unlock.exe
+help=Unlock.htm
+url=http://joeware.net/freetools/tools/unlock/index.htm
+exe64=
+group=1
+Name=Unlock
+ShortDesc=Find and unlock locked user accounts.
+LongDesc=Command line Active Directory tool to find and unlock locked user accounts.
+
+[Software35]
+exe=UserDump.exe
+help=UserDump.htm
+url=http://joeware.net/freetools/tools/userdump/index.htm
+exe64=
+group=2
+Name=UserDump
+ShortDesc=Dump basic user info from NT Based systems.
+LongDesc=Command line tool to dump basic user info from NT Based systems.
+
+[Software36]
+exe=UserName.exe
+help=UserName.htm
+url=http://joeware.net/freetools/tools/username/index.htm
+exe64=
+group=1
+Name=UserName
+ShortDesc=Output current user's DN as well as other userid formats.
+LongDesc=Command line tool to output current user's DN as well as other userid formats.
+
+[Software37]
+exe=W2KLockDesktop.exe
+help=
+url=http://joeware.net/freetools/tools/w2klockdesktop/index.htm
+exe64=
+group=2
+Name=W2KLockDesktop
+ShortDesc=Lock the desktop immediately.
+LongDesc=Command line tool to lock the desktop immediately.
+
+[Software38]
+exe=WriteProt.exe
+help=WriteProt.htm
+url=http://joeware.net/freetools/tools/writeprot/index.htm
+exe64=
+group=2
+Name=WriteProt
+ShortDesc=Write protect disk volumes in Windows XP/2003+.
+LongDesc=Command line tool to write protect disk volumes in Windows XP/2003 or later operating systems.

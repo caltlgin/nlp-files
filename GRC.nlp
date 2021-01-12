@@ -1,0 +1,288 @@
+[General]
+Name=Gibson Research Corporation
+GroupCount=1
+SoftwareCount=28
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=am.exe
+help=
+url=https://www.grc.com/smgassembly.htm
+exe64=
+group=0
+Name=ASPI ME Media Demo
+ShortDesc=Demo of on-the-fly audio synthesis
+LongDesc=A small executable demonstration that synthesizes a complex polyphonic sound, using a software FM synthesizer, while unscrambling a sliding tile puzzle. After the puzzle is solved, the resulting wave file is played.
+
+[Software1]
+exe=clickey.exe
+help=
+url=https://www.grc.com/freeware/clickey.htm
+exe64=
+group=0
+Name=ClicKey
+ShortDesc=Give your keyboard a bit of sound
+LongDesc=A simple little utility to add a user-specifiable 'click' sound to any Windows keyboard.
+
+[Software2]
+exe=dcombob.exe
+help=
+url=https://www.grc.com/freeware/dcom.htm
+exe64=
+group=0
+Name=DCOMbobulator
+ShortDesc=Tame Windows insecure DCOM facility
+LongDesc=Ever since Windows 98, a powerful, but unnecessary and rarely used facility known as DCOM (Distributed Component Object Model) has been an integral part of Windows. The DCOMbobulator checks the effectiveness of Microsoft's security patches and allows the user to increase the security of their system by simply turning DCOM off.
+
+[Software3]
+exe=dnsbench.exe
+help=
+url=https://www.grc.com/dns/benchmark.htm
+exe64=
+group=0
+Name=DNSBench
+ShortDesc=Advanced DNS Benchmark utility
+LongDesc=Compare the performance and reliablity of your system's currently configured DNS servers to many publicly available alternatives.
+
+[Software4]
+exe=fc.exe
+help=
+url=https://www.grc.com/cleartype.htm
+exe64=
+group=0
+Name=Free & Clear Font Demo
+ShortDesc=Sub-pixel font rendering demo
+LongDesc=A sub-pixel font rendering demonstration illustrating the technology of splitting LCD pixels for the purpose of enhancing font readability. The details are described on our Free & Clear web site pages.
+
+[Software5]
+exe=fix-cih.exe
+help=
+url=https://www.grc.com/cih.htm
+exe64=
+group=0
+Name=FIX-CIH Virus Recovery
+ShortDesc=Total recovery from CIH virus damage
+LongDesc=Every April, the CIH virus resurfaces and wipes out thousands of hard disk drives by deliberately zeroing their partition, boot, and FAT tables. The first time this happened I wrote this complete post-CIH hard drive recovery utility.
+
+[Software6]
+exe=id.exe
+help=
+url=https://www.grc.com/tip/id.htm
+exe64=
+group=0
+Name=IDentify ASPI Devices
+ShortDesc=Simple ASPI device display utility
+LongDesc=ID checks the visibility of peripheral devices to aid in the diagnosis of ASPI driver problems. Devices shown by ID are visible to the ASPI driver layer and, if they are Iomega drives, can be tested by TIP (Trouble In Paradise).
+
+[Software7]
+exe=idserve.exe
+help=
+url=https://www.grc.com/id/IDServe.htm
+exe64=
+group=0
+Name=ID Serve
+ShortDesc=Internet server identification utility
+LongDesc=Can your favorite web sites be trusted with your personal and confidential financial and other data? With eCommerce activity growing, malicious hackers are becoming more interested in breaking into Internet servers. But many servers are not secure. This utility helps you to easily determine which Internet servers web sites are using.
+
+[Software8]
+exe=inspectre.exe
+help=
+url=https://www.grc.com/inspectre.htm
+exe64=
+group=0
+Name=InSpectre
+ShortDesc=Inspect Windows hardware and software for Meltdown and Spectre vulnerabilities
+LongDesc=The Meltdown and Spectre vulnerbilities which swept the PC industry in early 2018 require both hardware and software updates. The combinations and permutations of CPU's motherboards, BIOS, firmware and Windows versions can be very difficult to untangle and understand. GRC's InSpectre utility makes it all very clear.
+
+[Software9]
+exe=ip_agent.exe
+help=
+url=https://www.grc.com/x/IPAgentDiscontinued.htm
+exe64=
+group=0
+Name=IP Agent
+ShortDesc=Usually optional IP determination utility
+LongDesc=In some situations, our popular ShieldsUP! system may need help determining the user's machine IP address. This most often occurs when the web is accessed through browser-configured proxy servers which also intercept secure connections. Some machines may also have multiple IP addresses which need to be selected. This IP Agent utility solves these IP resolution problems.
+
+[Software10]
+exe=leaktest.exe
+help=
+url=https://www.grc.com/lt/leaktest.htm
+exe64=
+group=0
+Name=LeakTest
+ShortDesc=Personal firewall leakage tester
+LongDesc=When LeakTest was released, most personal firewalls were easily fooled. Any malicious program could give itself the same name as a trusted program to gain access to the Internet. LeakTest demonstrates and tests for this simple application "masquerading" vulnerability.
+
+[Software11]
+exe=letshare.exe
+help=
+url=https://www.grc.com/faq-shieldsup.htm
+exe64=
+group=0
+Name=LetShare
+ShortDesc=Quick and simple NetBIOS enabler
+LongDesc=When the ShieldsUP! system was first created, I had not discovered how to safely "rebind" network transports as a means for closing the NetBIOS TCP/IP vulnerabilities. So I wrote the LetShare & NoShare utilities to do this quickly and easily (although in a non-standard fashion). Today, the manual rebinding described on the ShieldsUP! pages is the preferred method. LetShare & NoShare still work and can be useful for allowing quick NetBIOS on/off testing.
+
+[Software12]
+exe=mousetrap.exe
+help=
+url=https://www.grc.com/wmf/wmf.htm
+exe64=
+group=0
+Name=MouseTrap
+ShortDesc=Check your system for MICE!
+LongDesc=Quickly check your Windows systems for the presence of potentially dangerous MICE: Metafile Image Code Execution.
+
+[Software13]
+exe=mousetrapcmd.exe
+help=
+url=https://www.grc.com/wmf/wmf.htm
+exe64=
+group=0
+Name=MouseTrap (Command Line)
+ShortDesc=Check your system for MICE!
+LongDesc=Quickly check your Windows systems for the presence of potentially dangerous MICE: Metafile Image Code Execution.
+
+[Software14]
+exe=never10.exe
+help=
+url=https://www.grc.com/never10.htm
+exe64=
+group=0
+Name=Never10
+ShortDesc=Easily disabe (or re-enable) automatic Windows 10 upgrading
+LongDesc=Many people are happy with their current version of Windows and would rather than have Microsoft downloading and installing a three gigabyte upgrade to Windows 10. This simple utility uses Microsoft-approved and provided registry and group policy setting to tell 'Get Windows 10' (GWX) not to. It can be run at any time to re-verify or change those settings.
+
+[Software15]
+exe=noshare.exe
+help=
+url=https://www.grc.com/faq-shieldsup.htm
+exe64=
+group=0
+Name=NoShare
+ShortDesc=Quick and simple NetBIOS disabler
+LongDesc=When the ShieldsUP! system was first created, I had not discovered how to safely "rebind" network transports as a means for closing the NetBIOS TCP/IP vulnerabilities. So I wrote the LetShare & NoShare utilities to do this quickly and easily (although in a non-standard fashion). Today, the manual rebinding described on the ShieldsUP! pages is the preferred method. LetShare & NoShare still work and can be useful for allowing quick NetBIOS on/off testing.
+
+[Software16]
+exe=optout.exe
+help=
+url=https://www.grc.com/oo-update.htm
+exe64=
+group=0
+Name=OptOut
+ShortDesc=The original spyware removal tool
+LongDesc=My discovery that "Aureate/Radiate" advertising spyware had been installed in tens of millions of PCs without their owners' knowledge or permission led me to create OptOut, the first spyware removal tool. When the Lavasoft folks created the much more comprehensive Ad-Aware freeware, I turned spyware policing over to them. This file remains on our site only because so many off-site web links still point to it.
+
+[Software17]
+exe=ppp.exe
+help=
+url=https://www.grc.com/ppp.htm
+exe64=
+group=0
+Name=Perfect Paper Passwords
+ShortDesc=GRC's Open, Secure, Remote Authentication System
+LongDesc=This ZIP file contains the PPP.DLL and PPP.EXE which fully implement the CryptoSystem for GRC's Perfect Paper Passwords, one-time password (OTP) remote Internet service authentication system. These files may be freely used to implement identical or similar authentication systems and they are provided for that purpose.
+
+[Software18]
+exe=securable.exe
+help=
+url=https://www.grc.com/securable.htm
+exe64=
+group=0
+Name=SecurAble
+ShortDesc=Display processor's security features
+LongDesc=Quickly determine, display, and explore the availability and consequences of the state-of-the-art security-related features available in the system's processor.
+
+[Software19]
+exe=shootthemessenger.exe
+help=
+url=https://www.grc.com/stm/shootthemessenger.htm
+exe64=
+group=0
+Name=Shoot The Messenger
+ShortDesc=Simple Messenger Service Disable-Enable
+LongDesc=Windows NT, 2000, and XP hide an hidden Internet server that is running by default. It receives and accepts, among other things, unsolicited network messages that cause pop-up dialog boxes to appear on the desktop. Internet Spammers have discovered this and are spraying pop-up Spam across the Internet. The Windows Messenger server should never have been running by default, and Microsoft has finally fixed that in Windows 2003, but users of previous Windows need to take responsibility for this themselves.
+
+[Software20]
+exe=sib.exe
+help=
+url=https://www.grc.com/smgassembly.htm
+exe64=
+group=0
+Name=Small Is Beautiful
+ShortDesc=Windows assembly language starter kit
+LongDesc=I write all of my Windows and other utilities in 100% pure assembly language. This results in the smallest, fastest, and most efficient programs possible. I created the "Small is Beautiful" kit to help interested assembly language programmers get started writing Windows programs in pure assembly language.
+
+[Software21]
+exe=socketlock.exe
+help=
+url=
+exe64=
+group=0
+Name=SocketLock
+ShortDesc=Disable WinXP and 2000 raw sockets
+LongDesc=As part of my struggle to convince Microsoft not to ship Windows XP with full raw sockets, I created this "SocketLock" utility. It easily enables and disables the system's raw socket capabilities to show that, contrary to Microsoft's claims, raw sockets are not, and never were, needed by any applications or users.
+
+[Software22]
+exe=sockettome.exe
+help=
+url=
+exe64=
+group=0
+Name=SocketToMe
+ShortDesc=Check your Windows OS for raw sockets
+LongDesc=I worked quite hard (and failed) to convince Microsoft not to ship Windows XP with full raw socket capabilities built-in. This "SocketToMe" utility lets any Windows user determine the level of raw socket support currently available to the logged on user.
+
+[Software23]
+exe=sqrl.exe
+help=
+url=https://www.grc.com/sqrl/sqrl.htm
+exe64=
+group=0
+Name=Secure Quick Reliable Login
+ShortDesc=SQRL sign-in app for Windows.
+LongDesc=A fully working, super secure system for eliminating all usernames, eMail, passwords, authenticators for website account sign-in.
+
+[Software24]
+exe=tip.exe
+help=
+url=https://www.grc.com/tip/clickdeath.htm
+exe64=
+group=0
+Name=Trouble In Paradise
+ShortDesc=Check Iomega drive operation
+LongDesc=Iomega ZIP and JAZ drives suffer from a head positioning problem (servo stiction) that can actively and permanently damage perfectly good ZIP and JAZ drive media. TIP (Trouble In Paradise) provides an early warning system when a user's drives are beginning to damage its media.
+
+[Software25]
+exe=unpnp.exe
+help=
+url=https://www.grc.com/UnPnP/UnPnP.htm
+exe64=
+group=0
+Name=UnPlug n' Pray
+ShortDesc=Universal Plug & Play management
+LongDesc=At the end of 2001, Microsoft revealed a critical defect in Windows XP and ME: Windows' Universal Plug and Play service (UPnP) would allow a malicious hacker to remotely take over any system that was running and exposing the UPnP service to the Internet. This UnPlug n' Pray utility lets anyone check for the presence of the dangerous UPnP service in their system, then easily and safely enable and disable it as needed.
+
+[Software26]
+exe=wizmo.exe
+help=
+url=https://www.grc.com/wizmo/wizmo.htm
+exe64=
+group=0
+Name=Wizmo
+ShortDesc=Steve's multipurpose Windows gizmo
+LongDesc=Wizmo is a multipurpose miscellaneous Windows utility that provides an array of single-click functions that are missing from Windows. Triggered by a single mouse click, it can do things like power down your system's displays, activate your screen saver, change or mute the audio volume, restart, reboot, or shutdown your system, and much more. It even includes a rather cool built-in "Graviton" screen saver that simulates the motion of any number of mutually gravitationally attracted celestial objects. Check out Wizmo's web page for the current (and growing) complete list of Wizmo's capabilities and features.
+
+[Software27]
+exe=xpdite.exe
+help=
+url=https://www.grc.com/xpdite/xpdite.htm
+exe64=
+group=0
+Name=XPdite
+ShortDesc=Crucial Windows XP Vulnerability Fixer
+LongDesc=Windows XP has always contained an extremely serious vulnerability which allows any malicious hacker to cause the files contained in any directory to be deleted. This vulnerability can be cured by installing XP's large (50 to 140 MB) Service Pack 1 — which is preferable whenever possible. But this free and lightweight XPdite utility fixes the problem quickly and easily for systems not yet running Service Pack 1. A silent running option also makes it ideal for corporate deployment.

@@ -1,0 +1,369 @@
+[General]
+Name=Mouser's Software
+GroupCount=8
+SoftwareCount=34
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=Desktop
+
+[Group2]
+Name=Development
+
+[Group3]
+Name=Education
+
+[Group4]
+Name=Graphic Apps
+
+[Group5]
+Name=Home && Hobby
+
+[Group6]
+Name=Internet
+
+[Group7]
+Name=Utilities
+
+[Software0]
+exe=.\AutomaticScreenshotter\AutomaticScreenshotter.exe
+help=.\AutomaticScreenshotter\AutomaticScreenshotter.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/automatic-screenshotter
+exe64=
+group=3
+Name=Automatic Screenshotter
+ShortDesc=Takes automatic screenshots.
+LongDesc=High performing utility for taking automatic screenshots at regular intervals.  Lots of options to control how frequently and to avoid unnesecary image taking.
+
+[Software1]
+exe=.\BrowserTraySwitch\BrowserTraySwitch.exe
+help=.\BrowserTraySwitch\BrowserTraySwitch.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/browsertrayswitch
+exe64=
+group=7
+Name=BrowserTraySwitch
+ShortDesc=easily switch between browsers
+LongDesc=BrowserTraySwitch let's you easily change your default browser from the system tray. Easily configure new browsers.
+
+[Software2]
+exe=.\Clipboard Help+Spell\ClipboardHelpAndSpell.exe
+help=.\Clipboard Help+Spell\ClipboardHelpAndSpell.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/clipboard-help-and-spell
+exe64=
+group=7
+Name=Clipboard Help+Spell
+ShortDesc=Clipboard history and spelling
+LongDesc=Database stores history of all past text clipboard entries for viewing, modification, and search. High-quality spellcheck - underlined mistakes; learning spellchecker. Powerful text formatting options - make your own presets for common functions.
+
+[Software3]
+exe=.\DcUpdater\DcUpdater.exe
+help=.\DcUpdater\DcUpdater.chm
+url=http://www.donationcoder.com/software/mouser/obsolete-stuff/dcupdater
+exe64=
+group=6
+Name=DcUpdater
+ShortDesc=Check for program updates
+LongDesc=DcUpdater lets you check for updates to multiple programs, and let's developers add update support to their programs easily, using a separate update checker executable.
+
+[Software4]
+exe=.\DesktopCoral\DesktopCoral.exe
+help=.\DesktopCoral\DesktopCoral.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/desktopcoral
+exe64=
+group=1
+Name=DesktopCoral
+ShortDesc=shield regions of desktop from maximized apps
+LongDesc=DesktopCoral is an unusual program designed to "reserve" some portion of your desktop which is shielded from maximized applications.. Essentially, it acts like an invisible resizeable docking bar, which can be docked to any side of your desktop.
+
+[Software5]
+exe=.\DragAndDropRobot\DragAndDropRobot.exe
+help=.\DragAndDropRobot\DragAndDropRobot.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/drag-and-drop-robot
+exe64=
+group=7
+Name=Drag and Drop Robot
+ShortDesc=drag and drop files for batch operations
+LongDesc=Drag and Drop Shell Robot is a utility to help power users easily peform operations on large numbers of files and folders.select a configuration file and drag &amp; drop files and folders onto the queue window, and click Start. Then sit back and relax.
+
+[Software6]
+exe=.\DrWindows\DrWindows.exe
+help=.\DrWindows\DrWindows.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/dr-windows
+exe64=
+group=4
+Name=DrWindows
+ShortDesc=play tricks with windows errors
+LongDesc=Dr.Windows is a joke program that displays funny fake windows error messages at random times. You can use it to play tricks on people. Make your own custom dialogs!
+
+[Software7]
+exe=.\EasyScreencastRecorder\EasyScreencastRecorder.exe
+help=.\EasyScreencastRecorder\EasyScreencastRecorder.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/easy-screencast-recorder
+exe64=
+group=7
+Name=Easy Screencast Recorder
+ShortDesc=simple screen recorder
+LongDesc=simple screen recorder
+
+[Software8]
+exe=.\FindAndRunRobot\FindAndRunRobot.exe
+help=.\FindAndRunRobot\FindAndRunRobot.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/farr
+exe64=
+group=7
+Name=Find and Run Robot
+ShortDesc=launch program for keyboard maniacs
+LongDesc=Find and Run Robot is a program for keyboard maniacs - it helps you rapidly find programs or documents. One keypress launches the utility - then just start typing. As you type the best matches are shown - just hit the number to launch it.
+
+[Software9]
+exe=.\FlipbookPrinter\FlipbookPrinter.exe
+help=.\FlipbookPrinter\FlipbookPrinter.chm
+url=
+exe64=
+group=4
+Name=Flipbook Printer
+ShortDesc=make your own printed Flipbooks
+LongDesc=Flipbook Printer is a program that lets you make your own printed "Flipbooks" from avi movie files using business cards.
+
+[Software10]
+exe=.\FlipSuite\FlipSuite.exe
+help=.\FlipSuite\FlipSuite.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/flipsuite-flipbook-printer-suite
+exe64=
+group=4
+Name=Flipbook Printer Suite
+ShortDesc=
+LongDesc=
+
+[Software11]
+exe=.\ImageCardPrinter\ImageCardPrinter.exe
+help=.\ImageCardPrinter\ImageCardPrinter.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/image-card-printer
+exe64=
+group=4
+Name=Image Card Printer
+ShortDesc=Print images on card stock
+LongDesc=Print images on card stock
+
+[Software12]
+exe=.\JrDebug\DebugMonitorViewerTool\DebugMonitorViewer.exe
+help=.\JrDebug\Documentation\JrDebugLogger.chm
+url=http://www.donationcoder.com/software/mouser/other-projects/jrdebuglogger
+exe64=
+group=2
+Name=JrDebugLogger
+ShortDesc=Print debug info from your C++ programs
+LongDesc=Debug-Logging (sometimes known as printf-debugging) is when you add print statements to your code so that you can see the values of certains variables and where the program is at certain times. It also supports unit testing support functions.
+
+[Software13]
+exe=.\LaunchBarCommander\LaunchBarCommander.exe
+help=.\LaunchBarCommander\LaunchBarCommander.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/launchbar-commander
+exe64=
+group=7
+Name=LaunchBar Commander
+ShortDesc=Professional Launch Bar Tool
+LongDesc=LaunchBar Commander is a highly customizable professional Launch Bar and Tray Menu tool with tons of features and a powerful configuration gui.  It includes advanced button and menu types like Tool Buttons, Batch Buttons, Virtual Links anre more.
+
+[Software14]
+exe=.\LittleVoiceCommander\LittleVoiceCommander.exe
+help=
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/little-voice-commander
+exe64=
+group=3
+Name=Little Voice Commander
+ShortDesc=Babies spoken words bring up photos
+LongDesc=For toddlers, their spoken words bring up photos (multimon compatible); add your own photos
+
+[Software15]
+exe=.\LucidDreamInducer\LucidDreamInducer.exe
+help=.\LucidDreamInducer\LucidDreamInducer.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/lucid-dream-inducer
+exe64=
+group=3
+Name=Lucid Dream Inducer
+ShortDesc=Plays sounds to induce lucid dreaming.
+LongDesc=Plays sounds to induce lucid dreaming.
+
+[Software16]
+exe=.\MiniCap\MiniCap.exe
+help=.\MiniCap\MiniCap.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/minicap
+exe64=
+group=4
+Name=MiniCap
+ShortDesc=Flexible commandline screenshot capture tool
+LongDesc=MiniCap is a screenshot capture app with great commandline support, including the ability to capture by pid, handle, program name.  Interactive mode including scrolling capture and support for different formats with automatic naming and versioning.
+
+[Software17]
+exe=.\MousersMediaBrowser\MousersMediaBrowser.exe
+help=.\MousersMediaBrowser\MousersMediaBrowser.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/mousers-media-browser
+exe64=
+group=3
+Name=Mousers Media Browser
+ShortDesc=Browse directories of images recursively
+LongDesc=Browse directories of images recursively
+
+[Software18]
+exe=.\MultiPhotoQuotes\MultiPhotoQuotes.exe
+help=.\MultiPhotoQuotes\MultiPhotoQuotes.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/multi-photo-quotes-and-builder
+exe64=
+group=1
+Name=Multi Photo Quotes
+ShortDesc=Screensaver with quotes and images (multimon)
+LongDesc=Customizable multi-monitor screensaver with quotes and images; tiled mosaics, monitor spanning, personal quote files, supports unix fortune files
+
+[Software19]
+exe=.\PointMotivator\PointMotivator.exe
+help=.\PointMotivator\PointMotivator.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/point-motivator
+exe64=
+group=5
+Name=Point Motivator
+ShortDesc=Motivational Diary Tool
+LongDesc=Point Motivator is a program that let's you configure (or share configurations of) item that earn you points.  By charting your progress over time and offering you an easy way to log activities and earn points, you are motivated to act productively.
+
+[Software20]
+exe=.\PopUpWisdom\PopUpWisdom.exe
+help=.\PopUpWisdom\PopUpWisdom.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/popup-wisdom
+exe64=
+group=1
+Name=PopUp Wisdom
+ShortDesc=Show amusing quotes on demand
+LongDesc=PopUp Wisdom displays famous and not-so-famous quotes and humour on deman or at a timed shedule.  Easily add your own messages and reminders.  Supports forunte file format.  Supports multiple books.
+
+[Software21]
+exe=.\ProcessPiglet\ProcessPiglet.exe
+help=.\ProcessPiglet\ProcessPiglet.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/process-piglet
+exe64=
+group=7
+Name=Process Piglet
+ShortDesc=Monitors the memory use of running processes.
+LongDesc=Monitors the memory use of running processes.
+
+[Software22]
+exe=.\ProcessTamer\ProcessTamerConfigurator.exe
+help=.\ProcessTamer\ProcessTamer.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/process-tamer
+exe64=.\ProcessTamer\64\ProcessTamerConfigurator.exe
+group=7
+Name=Process Tamer Gui
+ShortDesc=reduces process priorities automatically
+LongDesc=Process Tamer is a tiny (160k) and efficient utility for Microsoft Windows XP/2K/NT that runs in your system tray. When it sees a process that is overloading your cpu, it reduces its priority until its cpu usage returns to normal.
+
+[Software23]
+exe=.\ProcessTamer\ProcessTamerTray.exe
+help=.\ProcessTamer\ProcessTamer.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/process-tamer
+exe64=.\ProcessTamer\64\ProcessTamerTray.exe
+group=7
+Name=Process Tamer Tray
+ShortDesc=reduces process priorities automatically
+LongDesc=Process Tamer is a tiny (160k) and efficient utility for Microsoft Windows XP/2K/NT that runs in your system tray. When it sees a process that is overloading your cpu, it reduces its priority until its cpu usage returns to normal.
+
+[Software24]
+exe=.\ProgressBarsOfLife\ProgressBarsOfLife.exe
+help=.\ProgressBarsOfLife\ProgressBarsOfLife.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/progress-bars-of-life
+exe64=
+group=3
+Name=Progress Bars of Life
+ShortDesc=Display various progress bars docked onscreen.
+LongDesc=Create and display various progress bars docked on screen.
+
+[Software25]
+exe=.\ScreenshotCaptor\ScreenshotCaptor.exe
+help=.\ScreenshotCaptor\ScreenshotCaptor.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/screenshot-captor
+exe64=
+group=4
+Name=Screenshot Captor
+ShortDesc=Capture tons of screenshots quickly
+LongDesc=Screenshot Captor is designed for grabbing lots of screenshots with minimal intervention.  It has great multimon suport and unique effects like background-blurring.  It includes an image explorer and unsurpassed integration with external tools.
+
+[Software26]
+exe=.\TapTap\TapTap.exe
+help=.\TapTap\TapTap.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/taptap-hotkey-extender
+exe64=
+group=7
+Name=TapTap Hotkey Extender
+ShortDesc=Respond to double-tap hotkeys in any app
+LongDesc=TapTap Hotkey Extender is for keyboard maniacs.  It detects unusual hotkey events like double tapping of right shift key, and can simulate normal hotkeys so that you can trigger any other program on these events.
+
+[Software27]
+exe=.\TheFormLetterMachine\TheFormLetterMachine.exe
+help=.\TheFormLetterMachine\TheFormLetterMachine.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/the-form-letter-machine
+exe64=
+group=7
+Name=The Form Letter Machine
+ShortDesc=Easily compose letters by combining parts
+LongDesc=The Form Letter Machine is a utility to help you write repetetive emails or documents that tend to be made up of various configurations of preset text paragraphs; a very simple interface makes it easy to combine components.
+
+[Software28]
+exe=.\TranslatorBoomerang\TranslatorBoomerang.exe
+help=
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/google-translator-boomerang
+exe64=
+group=7
+Name=Translator Boomerang
+ShortDesc=translates text to foreign languages and back
+LongDesc=Google Translator Boomerang is a silly little program that uses the Google Translation engine to translate your english text to foreign languages and then back again into english, for some amusing results.
+
+[Software29]
+exe=.\UnicodeImageMaker\UnicodeImageMaker.exe
+help=.\UnicodeImageMaker\UnicodeImageMaker.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/unicode-image-maker
+exe64=
+group=4
+Name=Unicode Image Maker
+ShortDesc=Create graphic images from unicode text
+LongDesc=Unicode Image Maker is designed for situations when you need to use unicode text in a program but its not supported natively; you can use this tool to create a graphics image of your unicode text and embed the image instead.
+
+[Software30]
+exe=.\URLSnooper2\URLSnooper.exe
+help=.\URLSnooper2\URLSnooper.chm
+url=http://www.donationcoder.com/software/mouser/popular-apps/url-snooper
+exe64=
+group=6
+Name=URL Snooper
+ShortDesc=identifies urls of streaming files to record
+LongDesc=Url Snooper watches all network traffic and identifies hidden urls, especially streaming media urls.
+
+[Software31]
+exe=.\WebcamVideoDiary\WebcamVideoDiary.exe
+help=.\WebcamVideoDiary\WebcamVideoDiary.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/webcam-video-diary
+exe64=
+group=7
+Name=Webcam Video Diary
+ShortDesc=video utility
+LongDesc=video utility
+
+[Software32]
+exe=.\WebLinkCaptor\WebLinkCaptor.exe
+help=.\WebLinkCaptor\WebLinkCaptor.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/web-link-captor
+exe64=
+group=7
+Name=Web Link Captor
+ShortDesc=Builds output from web searches.
+LongDesc=Web Link Captor takes a list of plaintext items, and builds an output document containing a list of url-linked results based on web searches for the items. It's a way to quickly build a clickable list of items from just their names, suitable for posting on your blog or a forum, etc.
+
+[Software33]
+exe=.\WebLogFilter\WebLogFilter.exe
+help=.\WebLogFilter\WebLogFilter.chm
+url=http://www.donationcoder.com/software/mouser/other-windows-apps/web-log-filter
+exe64=
+group=7
+Name=Web Log Filter
+ShortDesc=Filter and extract web log file lines
+LongDesc=Web Log Filter is a utility for people who have huge (Apache) web log files, gigabytes in size, and want to be able to analyze these logs in standard web log analysis tools.  Runs simple scripts that will rip through a log file at blazing speed.

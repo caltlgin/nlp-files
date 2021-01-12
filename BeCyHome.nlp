@@ -1,0 +1,78 @@
+[General]
+Name=BeCyHome
+GroupCount=1
+SoftwareCount=7
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=BeCyAutoRun.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyAutoRun
+ShortDesc=Utility to automatically open a document file from CD-ROMs
+LongDesc=The problem: The AutoRun feature of CD-ROMs which is controlled by an AutoRun.inf file only allows executing applications but does not support opening simple documents (e.g. a HTML page). The solution: BeCyAutoRun. This very simple utility does nothing but open a document as if the user had double clicked on it.
+
+[Software1]
+exe=BeCyDialog.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyDialog
+ShortDesc=Console program for displaying simple dialogs from shell scripts
+LongDesc=BeCyDialog is a utility for displaying simple dialogs from shell scripts. The program's exit code indicates the button which the user pressed. BeCyDialog is similar to the UNIX programs CDialog and XDialog, but is not as powerful (because text inputs cannot be returned to the batch, the dialogs are limited to those that merely display static text and some buttons). 
+
+[Software2]
+exe=BeCyIconGrabber.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyIconGrabber
+ShortDesc=Utility to search and extract icons and cursors from EXE or DLL files
+LongDesc=BeCyIconGrabber is a small utility to view icons and cursors of any sizes that are contained in EXE, DLL, ICL, OCX, CPL, SRC, ICO and CUR files. The icons/cursors can be saved either individually as an icon, cursor, bitmap, png file or collectively within resource libraries.
+
+[Software3]
+exe=BeCyLinkEd.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyLinkEd
+ShortDesc=Utility to view/edit/create shell links on the console
+LongDesc=BeCyLinkEd is a console adaption of the Windows dialog for manipulation of shell links (aka shortcuts). The tool does not surprise with new functions but simply allows to view, create and edit shell links (i. e. target, working directory, window mode, icon and description) using DOS boxes or batch files. Unix users might find it helpful to know that BeCyLinkEd also runs in WinE.
+
+[Software4]
+exe=BeCyPad.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyPad
+ShortDesc=Text-Editor for web files
+LongDesc=BeCyPad is a text-based editor for web documents. The MDI architecture allows editing of multiple documents. Furthermore, documents can be grouped together in projects.
+
+[Software5]
+exe=BeCyPDFAsm.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyPDFAsm
+ShortDesc=Frontend for mbtPdfAsm to assemble PDF documents
+LongDesc=This utility is a graphical add-on for the command-line tool mbtPdfAsm written by Thierry Schmit. mbtPdfAsm allows extracting individual or several pages from one or more input documents to assemble a new PDF document from those pages. BeCyPDFAsm assists in configuring such a job by means of an intuitive dialog-based user interface and calls mbtPdfAsm behind the scences. This way, the end user is saved from learning the proper command-line usage.
+
+[Software6]
+exe=BeCyPDFMetaEdit.exe
+help=
+url=
+exe64=
+group=0
+Name=BeCyPDFMetaEdit
+ShortDesc=Tool to edit PDF metadata, bookmarks, viewer preferences, ...
+LongDesc=The program loads PDF documents (conforming to specification 1.6) and allows editing of several settings like the metadata about author, title, subject and keywords of the document. Furthermore, one can customize the viewer preferences, the bookmarks, the page labels, the page transitions for slide shows and the encryption/permissions of a document.

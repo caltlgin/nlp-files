@@ -1,0 +1,98 @@
+[General]
+Name=den4b
+GroupCount=1
+SoftwareCount=8
+
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+
+[Software0]
+exe=Renamer\ReNamer.exe
+help=
+url=http://www.den4b.com/products/renamer
+exe64=
+group=0
+Name=ReNamer Pro
+AppName=ReNamer Pro
+ShortDesc=ReNamer is a very powerful and flexible file renaming tool.
+LongDesc=ReNamer is a very powerful and flexible file renaming tool, which offers all the standard renaming procedures, including prefixes, suffixes, replacements, case changes, as well as removing contents of brackets, adding number sequences, changing file extensions, etc. For advanced users there is support for Regular Expressions and a PascalScript rule, which lets users program their very own renaming rule.
+
+[Software1]
+exe=Shutter\Shutter.exe
+help=
+url=http://www.den4b.com/products/shutter
+exe64=
+group=0
+Name=Shutter Lite
+AppName=Shutter Lite
+ShortDesc=Shutter is a multifunctional scheduling utility.
+LongDesc=Shutter is a multifunctional scheduling utility, which has a user friendly and easy-to-use interface and supports many different Events and Actions. Available events: Countdown, On Time, Winamp Stops, CPU Usage, Network Usage, Hard Disk Usage, User Inactive, Battery Low, Window, Process, Ping Stops, File Size Limit, Lid. Available actions: Shutdown, Reboot, Log Off, Lock Workstation, Sleep, Hibernate, Turn Off Monitor, Screen Saver, Volume Control, Hang Up Modem, Alarm, Message, Play Sound, Run Program, Open File, Close Window, Kill Process. Desktop links can be created to execute any of the supported actions directly from desktop. Web Interface allows remote execution of actions and displays run-time information about the computer: Up Time, List of Processes, Screenshot of a Desktop, Program Execution, and more.
+
+[Software2]
+exe=Colors\Colors.exe
+help=
+url=http://www.den4b.com/products/colors
+exe64=
+group=0
+Name=Colors Lite
+AppName=Colors Lite
+ShortDesc=Color picker that helps you easily select a desired color using various pallets.
+LongDesc=Color picker that helps you easily select a desired color using various pallets. It is also able to pick a color from the currently displayed screen content and supports a number of different color models, i.e. RGB, HSV, HLS, CMYK.
+
+[Software3]
+exe=Resizer\Resizer.exe
+help=
+url=http://www.den4b.com/products/resizer
+exe64=
+group=0
+Name=Resizer Lite
+AppName=Resizer Lite
+ShortDesc=Batch image resizer.
+LongDesc=Batch image resizer. It has an easy to use drag-n-drop interface with variety of options, such as aspect ratio fit methods, target image formats, customizable output filename pattern and more. Supported image formats: BMP, GIF, PNG, JPEG, TIFF.
+
+[Software4]
+exe=RandPass\RandPass.exe
+help=
+url=http://www.den4b.com/products/randpass
+exe64=
+group=0
+Name=RandPass Lite
+AppName=RandPass Lite
+ShortDesc=Random password generator.
+LongDesc=Random password generator. Simple tool for generating random passwords based on specified character set with customizable output format. User can easily select groups of characters used for password like lower case letters, upper case letters, digits, specify custom character set and formatting of the password, check for uniqueness, eliminate similar characters and much more. Application also supports command line execution for unattended generation of passwords.
+
+[Software5]
+exe=Hasher\Hasher.exe
+help=
+url=http://www.den4b.com/products/hasher
+exe64=
+group=0
+Name=Hasher Lite
+AppName=Hasher Lite
+ShortDesc=Hashing utility for verifying integrity of files using a wide range of supported algorithms.
+LongDesc=Hashing utility for verifying integrity of files using a wide range of supported algorithms: CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160, ED2K. All processed files are logged and ready for export to a number of different verification file formats: SFV, MD5SUM, SHA1SUM. Multiple hash types can be generated simultaneously per file. Handy hash and file comparison functions, such as holding SHIFT to compare to next file or CTRL to compare two files, will make this task a breeze.
+
+[Software6]
+exe=Hooker\Hooker.exe
+help=
+url=http://www.den4b.com/products/hooker
+exe64=
+group=0
+Name=Hooker Lite
+AppName=Hooker Lite
+ShortDesc=Hooker is a lightweight keyboard activity spy.
+LongDesc=Hooker is a lightweight keyboard activity spy. It allows capturing of all keystrokes made by the user, including any clipboard changes. Currently active process name and window title can be logged and used for filtering the captured data. It is Unicode aware, so characters generated in any language are going to be recorded correctly, even combining keys such as accents. Advanced logging facility can periodically save all of the activity in a log file, send via email or upload to an FTP server. The program is completely hidden during normal operation and is accessible only with a secret key combination (and a correct password in "Pro" version).
+
+[Software7]
+exe=CPUMon\CPUMon.exe
+help=
+url=http://www.den4b.com/products/cpumon
+exe64=
+group=0
+Name=CPUMon Lite
+AppName=CPUMon Lite
+ShortDesc=CPUMon is a simple little gadget for monitoring CPU performance from your desktop.
+LongDesc=CPUMon is a simple little gadget for monitoring CPU performance from your desktop. It displays a real-time graph of CPU performance as well as current usage indicator. Features include user defined colors, transparency, alpha-blending, adjustable update rates, layout presets, window locking, constantly updated CPU speed for mobile and speed step processors, tray icon mode, statistics, memory usage, and more. It comes integrated with a sophisticated processor detection toolkit which provides detailed CPU information, list of supported CPU features and other specifics.

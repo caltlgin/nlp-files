@@ -1,0 +1,398 @@
+[General]
+Name=Roadkil
+GroupCount=10
+SoftwareCount=36
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Calculators
+
+[Group2]
+Name=Disk Utilities
+
+[Group3]
+Name=Networking
+
+[Group4]
+Name=Data Recovery
+
+[Group5]
+Name=Games
+
+[Group6]
+Name=Programming
+
+[Group7]
+Name=Diagnostics
+
+[Group8]
+Name=Miscellaneous
+
+[Group9]
+Name=Security
+
+[Software0]
+exe=alarm.exe
+help=
+url=http://www.roadkil.net/program.php/P1/Alarm%20Clock
+exe64=
+group=8
+Name=Roadkil's Alarm Clock
+ShortDesc=Handy little tool that allows you to set an alarm on your computer to go off at a set time.
+LongDesc=Handy little tool that allows you to set an alarm on your computer to go off at a set time. The program also features a stop watch function, count down timer and a clock which can be set to any time zone.
+
+[Software1]
+exe=AuditC.exe
+help=
+url=http://www.roadkil.net/program.php/P2/Audit
+exe64=
+group=3
+Name=Roadkil's Audit (Command Line)
+ShortDesc=Creates a database of computers on your network and their configurations.
+LongDesc=Creates a database of computers on your network and their configurations. Allows you to track what applications are installed across your network for license auditing purposes. A great help for large networks trying to ensure they are legitimate. Audit also provides a great way of determining which computers in your network require hardware upgrades or software installations. 
+
+[Software2]
+exe=AuditS.exe
+help=
+url=http://www.roadkil.net/program.php/P2/Audit
+exe64=
+group=3
+Name=Roadkil's Audit
+ShortDesc=Creates a database of computers on your network and their configurations.
+LongDesc=Creates a database of computers on your network and their configurations. Allows you to track what applications are installed across your network for license auditing purposes. A great help for large networks trying to ensure they are legitimate. Audit also provides a great way of determining which computers in your network require hardware upgrades or software installations. 
+
+[Software3]
+exe=bootbuild.exe
+help=
+url=http://www.roadkil.net/program.php/P3/Boot%20Builder
+exe64=
+group=2
+Name=Roadkil's Boot Builder
+ShortDesc=Boot builder allows you to create your own custom boot sector from scratch.
+LongDesc=Boot builder allows you to create your own custom boot sector from scratch. This utility allows you to recreate or restore boot sectors lost due to virus or other damage to a drive. Boot sectors can be imported/exported to a disk or created from a template. This program supports FAT and NTFS boot sector types.
+
+[Software4]
+exe=ciphrtxt.exe
+help=
+url=http://www.roadkil.net/program.php/P4/Cipher%20Text
+exe64=
+group=9
+Name=Roadkil's Cipher Text
+ShortDesc=Encrypts plain text so you can send it to other people without worrying about 3rd parties reading it.
+LongDesc=Encrypts plain text so you can send it to other people without worrying about 3rd parties reading it. Data is encrypted using a password provided by you and unless you have the password it cant be recovered.
+
+[Software5]
+exe=CommTest.exe
+help=
+url=http://www.roadkil.net/program.php/P5/CommTest
+exe64=
+group=3
+Name=Roadkil's CommTest
+ShortDesc=Tests the network speed between two computers.
+LongDesc=Tests the network speed between two computers. The transfer speed, latency and packet loss is measured.
+
+[Software6]
+exe=Convert.exe
+help=
+url=http://www.roadkil.net/program.php/P6/Convert
+exe64=
+group=1
+Name=Roadkil's Convert
+ShortDesc=Converts from one unit of measure to another.
+LongDesc=Converts from one unit of measure to another. Can convert between units of temperature, length, mass, pressure, volume and much more.
+
+[Software7]
+exe=CPU ID.exe
+help=
+url=http://www.roadkil.net/program.php/P7/CPUID
+exe64=
+group=7
+Name=Roadkil's CPUID
+ShortDesc=Displays information about your computers processor(s).
+LongDesc=Displays information about your computers processor(s). Speed, cache size, features, clock multipliers, codename, brand plus much more information is displayed.
+
+[Software8]
+exe=DataByte.exe
+help=
+url=http://www.roadkil.net/program.php/P8/Data%20Byte
+exe64=
+group=6
+Name=Roadkil's Data Byte
+ShortDesc=Converts any file into a format that can be included into your application.
+LongDesc=Converts any file into a format that can be included into your application. Supports ASM \\\\\\\'db\\\\\\\' and C++ style header file output. Allows for pictures, text, music or any other file to be included inside your application executable rather than in a separate file.
+
+[Software9]
+exe=dhcpfind.exe
+help=
+url=http://www.roadkil.net/program.php/P10/DHCP%20Find
+exe64=
+group=3
+Name=Roadkil's DHCP Find
+ShortDesc=Finds active DHCP servers on your network.
+LongDesc=Finds active DHCP servers on your network. Displays the configuration information offered by the server including IP address, Netmask, gateway. The servers network address and the length of the dhcp lease are also given. Very handy utility for tracking down rogue DHCP servers during LAN gatherings or tracking down problems with your network.
+
+[Software10]
+exe=DIG.exe
+help=
+url=http://www.roadkil.net/program.php/P11/DIG
+exe64=
+group=3
+Name=Roadkil's DIG
+ShortDesc=Displays all available information about a given domain name.
+LongDesc=Displays all available information about a given domain name. The list of ip addresses, aliases, mail exchange servers, admin email and name servers for the domain are provided. You can also change the name server that is being queried to check for differences and mistakes. 
+
+[Software11]
+exe=DiskImg.exe
+help=
+url=http://www.roadkil.net/program.php/P12/Disk%20Image
+exe64=
+group=2
+Name=Roadkil's Disk Image
+ShortDesc=Creates and writes disk images files to hard and floppy disks.
+LongDesc=Creates and writes disk images files to hard and floppy disks. Great for writting boot disk images download from the internet or creating a perfect copy of a disk to email to someone else. 
+
+[Software12]
+exe=diskwipe.exe
+help=
+url=http://www.roadkil.net/program.php/P14/Disk%20Wipe
+exe64=
+group=2
+Name=Roadkil's Disk Wipe
+ShortDesc=Securely erases the contents of a disk replacing it with random data or leaving the drive completely blank.
+LongDesc=Securely erases the contents of a disk replacing it with random data or leaving the drive completely blank. Numerous passes can be performed to ensure data is totally unrecoverable. Program works on hard and floppy disks aswell as USB/Flash drives.
+
+
+[Software13]
+exe=DskSpeed.exe
+help=
+url=http://www.roadkil.net/program.php/P13/Disk%20Speed
+exe64=
+group=2
+Name=Roadkil's Disk Speed
+ShortDesc=Performs disk speed test and provided details about how fast your disks can transfer data.
+LongDesc=Performs disk speed test and provided details about how fast your disks can transfer data. The information provided includes data transfer rate for linear reads, random read transfer rate and the seek time of the drive. An overall score is given so you can compare different brands of drives when purchasing. Information about the drive such as firmware revision, model, size, file system and more is displayed.
+
+[Software14]
+exe=DTMF.exe
+help=
+url=http://www.roadkil.net/program.php/P35/DTMF%20Keypad
+exe64=
+group=8
+Name=Roadkil's DTMF Keypad
+ShortDesc=A keypad to play DTMF tones through your computers sound card.
+LongDesc=A keypad to play DTMF tones through your computers sound card. The tone length is modifiable.
+
+[Software15]
+exe=ErrList.exe
+help=
+url=http://www.roadkil.net/program.php/P15/Error%20List
+exe64=
+group=7
+Name=Roadkil's Error List
+ShortDesc=Displays information relating to a windows error code.
+LongDesc=Displays information relating to a windows error code. Allows you to determine what the error message given by an application actually means. The programming definition of the error is also given so coders can create a handler for them in their application. 
+
+[Software16]
+exe=ftp.exe
+help=
+url=http://www.roadkil.net/program.php/P16/FTP%20Client
+exe64=
+group=3
+Name=Roadkil's FTP Client
+ShortDesc=A feature packed FTP client.
+LongDesc=A feature packed FTP client which allows delaying downloads, saving download queues, address book, recursive uploads/downloads, file attribute changing, removing/renaming files and directories, creating new directories. 
+
+[Software17]
+exe=FTPProbe.exe
+help=
+url=http://www.roadkil.net/program.php/P17/FTP%20Probe
+exe64=
+group=3
+Name=Roadkil's FTP Probe 
+ShortDesc=Creates a fully indexed html output of all the files available for download from an FTP server.
+LongDesc=Creates a fully indexed html output of all the files available for download from an FTP server. The program can be use to scan a range of IP addresses and list any FTP servers that are found. The colours used in the html output are totally customizable to match your website design. Very good for making maps of your own network so you can incorporate them in your website.
+
+[Software18]
+exe=graph.exe
+help=
+url=http://www.roadkil.net/program.php/P18/Graph
+exe64=
+group=8
+Name=Roadkil's Graph
+ShortDesc=Draws a graph from an algebraic formula entered by you.
+LongDesc=Draws a graph from an algebraic formula entered by you. Functions such as sine, cosine, tan, log, log natural and powers can be used. The x and y range displayed on the axis can be altered to zoom in and zoom out on the graph. Grid lines and value labels are displayed on the graph for easy reading. Graphs can also be printed on any standard printer in landscape and portrait mode.
+
+[Software19]
+exe=loancalc.exe
+help=
+url=http://www.roadkil.net/program.php/P19/Loan%20Calculator
+exe64=
+group=1
+Name=Roadkil's Loan Calculator
+ShortDesc=Helps calculate how much you will need to repay.
+LongDesc=Helps calculate how much you will need to repay, total interest payments and how long it will take to repay the loan. The information can be calculated in many ways by simply entering the information you know and the missing information will be calculated. The program can also be used to calculate savings information to determine how much your savings will be worth in the years to come. 
+
+[Software20]
+exe=MemTest.exe
+help=
+url=http://www.roadkil.net/program.php/P34/RAM%20Test
+exe64=
+group=7
+Name=Roadkil's RAM Test
+ShortDesc=Allows you to test your computers RAM for errors aswell as gauge its performance.
+LongDesc=Allows you to test your computers RAM for errors aswell as gauge its performance.
+
+[Software21]
+exe=montest.exe
+help=
+url=http://www.roadkil.net/program.php/P20/Monitor%20Test
+exe64=
+group=7
+Name=Roadkil's Monitor Test
+ShortDesc=Displays test patterns for use when performing monitor repairs.
+LongDesc=Displays test patterns for use when performing monitor repairs. Displays pure colours and white screens for colour tuning or finding missing colours, grid lines for focusing and setting the image dimensions correctly. A must for any monitor repair person or checking the quality of a monitors display. 
+
+[Software22]
+exe=password.exe
+help=
+url=http://www.roadkil.net/program.php/P21/Password%20Store
+exe64=
+group=8
+Name=Roadkil's Password Store
+ShortDesc=This helpful tool allows you to save all your passwords to a file so you dont forget them!
+LongDesc=This helpful tool allows you to save all your passwords to a file so you dont forget them! The password file itself is encrypted so unless you know the master password its very hard to get into! Information such as your User ID, password, server name, server type, ip/url and port numbers can all be stored along with a comment for each entry.
+
+[Software23]
+exe=PokerTime.exe
+help=
+url=http://www.roadkil.net/program.php/P33/Poker%20Time
+exe64=
+group=5
+Name=Roadkil's Poker Time 
+ShortDesc=A timer for Texas Holdem poker game.
+LongDesc=A timer for Texas Holdem poker games to show you the current blind level, chip colours, time till blind increase plus more. A custom sound file can be selected to automatically play when the blinds increase. You can also set your own custom timer background from a BMP image to customize it to your poker club!
+
+[Software24]
+exe=RawCopy.exe
+help=
+url=http://www.roadkil.net/program.php/P22/Raw%20Copy
+exe64=
+group=2
+Name=Roadkil's Raw Copy
+ShortDesc=This program copys a disk as a raw image from one drive directly to another.
+LongDesc=This program copys a disk as a raw image from one drive directly to another. This utility is designed for people who have faulty drive and want to transfer the data directly to another drive without doing a file by file copy. This saves the need for operating system re-installs and allows drives with an unknown file system to be copied (including from console game machines, data recorders, mac etc). The program has a built in data recovery function which will attempt to recover data from bad sectors to ensure all the available data is restored from the drive. This program is designed to run under NT/XP/2000 or later operating systems. It will run under windows 95/98/Me operating systems but only windows logical drives can be copied.
+
+[Software25]
+exe=ScanPort.exe
+help=
+url=http://www.roadkil.net/program.php/P23/Scan%20Port
+exe64=
+group=3
+Name=Roadkil's Scan Port
+ShortDesc=Scans a given computer for open ports.
+LongDesc=Scans a given computer for open ports. Reports which service the port is related to and if its open, closed or filtered via a firewall. Useful utility for checking your computer is secure from hacking attempts and only services you want to share are visible to other users via the network.
+
+[Software26]
+exe=sectedit.exe
+help=
+url=http://www.roadkil.net/program.php/P24/Sector%20Editor
+exe64=
+group=2
+Name=Roadkil's Sector Editor
+ShortDesc=Allows displaying, editing, printing and searching of disks by individual sectors.
+LongDesc=Allows displaying, editing, printing and searching of disks by individual sectors. The information can be displayed and edited in both ASCII or hexadecimal. Sectors can be copied and exported to files. 
+
+[Software27]
+exe=servmon.exe
+help=
+url=http://www.roadkil.net/program.php/P25/Server%20Monitor
+exe64=
+group=3
+Name=Roadkil's Server Monitor
+ShortDesc=Monitors network connectivy to servers and reports downtime.
+LongDesc=Monitors network connectivy to servers and reports downtime, network connection dropouts and high packet loss. Handy for any network administrator who want to know when servers are offline to minimize downtime. Problems are displays in levels of severity and by the type of problem that has occured. The levels to trigger different severity levels are user defined.
+
+[Software28]
+exe=SpecialDisks.exe
+help=
+url=http://www.roadkil.net/program.php/P36/Special%20Disk%20Maker
+exe64=
+group=2
+Name=Roadkil's Special Disk Maker
+ShortDesc=This program is specially designed to force a flash card to be a 2GB FAT16 partition no matter its size.
+LongDesc=This program is specially designed to force a flash card to be a 2GB FAT16 partition no matter its size. This program is for people using legacy devices which only understand FAT16 but are unable to format larger flash cards/devices to the FAT16 file system using current operating system versions. An example of a device requiring this functionality is the Megasquirt 3 ECU for which I initially wrote the application.
+
+[Software29]
+exe=sudoku.exe
+help=
+url=http://www.roadkil.net/program.php/P32/Sudoku
+exe64=
+group=5
+Name=Roadkil's Sudoku
+ShortDesc=My version of the classic game Sudoku!
+LongDesc=My version of the classic game Sudoku! Play 10 different levels of difficulty in this classic mind game and test your skills!
+
+[Software30]
+exe=ToneGen.exe
+help=
+url=http://www.roadkil.net/program.php/P26/Tone%20Generator
+exe64=
+group=8
+Name=Roadkil's Tone Generator
+ShortDesc=This program can generate tones or harmonics of 3 tones the user selects.
+LongDesc=This program can generate tones or harmonics of 3 tones the user selects. These tones can be played over the computers sound card directly or exported to a WAV file. The frequency, volume and Left - Right balance of each tone can be changed independantly.
+
+[Software31]
+exe=trace.exe
+help=
+url=http://www.roadkil.net/program.php/P27/Trace%20Route
+exe64=
+group=3
+Name=Roadkil's Trace Route
+ShortDesc=Displays network routing information between your computer and a given address.
+LongDesc=Displays network routing information between your computer and a given address. Shows information such as ping times between computers and name information. Handy for tracking down network faults and finding where data bottlenecks occur. 
+
+[Software32]
+exe=Undelete.exe
+help=
+url=http://www.roadkil.net/program.php/P28/Undelete
+exe64=
+group=4
+Name=Roadkil's Undelete
+ShortDesc=Allows you to undelete files that you have accidentally deleted from your drives.
+LongDesc=Allows you to undelete files that you have accidentally deleted from your drives.
+
+[Software33]
+exe=UnstopCpy.exe
+help=
+url=http://www.roadkil.net/program.php/P29/Unstoppable%20Copier
+exe64=
+group=4
+Name=Roadkil's Unstoppable Copier
+ShortDesc=Recovers files from disks with physical damage.
+LongDesc=Recovers files from disks with physical damage. Allows you to copy files from disks with problems such as bad sectors, scratches or that just give errors when reading data. The program will attempt to recover every readable piece of a file and put the pieces together. Using this method most types of files can be made useable even if some parts of the file were not recoverable in the end.
+
+The program can be used as a daily backup system using its batch mode functions. A list of transfers can be saved to a file and then run from the command line to perform the same batch of transfers on a regular basis without having to use the GUI interface. The program supports command line parameters which allow the application to be run from schedulers or scripts so it can be fully integrated into daily server tasks.
+
+[Software34]
+exe=winmsg.exe
+help=
+url=http://www.roadkil.net/program.php/P30/Window%20Message
+exe64=
+group=7
+Name=Roadkil's Window Message
+ShortDesc=Displays information about the window the mouse pointer is currently over.
+LongDesc=Displays information about the window the mouse pointer is currently over. Displays the windows handle, size and the owner thread information. Useful for people writting windows applications or wanting to create an interface to another application such as macros/scripts.
+
+[Software35]
+exe=xls2csv.exe
+help=
+url=http://www.roadkil.net/program.php/P31/XLS%20to%20CSV%20Converter
+exe64=
+group=8
+Name=Roadkil's XLS to CSV Converter
+ShortDesc=Converts Excel .xls spreadsheets to .CSV files for use with other applications.
+LongDesc=Converts Excel .xls spreadsheets to .CSV files for use with other applications.

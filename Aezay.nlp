@@ -1,0 +1,79 @@
+[General]
+Name=Aezay
+GroupCount=1
+SoftwareCount=7
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=AzUtils.exe
+help=
+url=http://www.aezay.dk/aezay/azutils/
+exe64=
+group=0
+Name=Aezay Utilities
+ShortDesc=Collection of Small Tools
+LongDesc=A collection of my small tools, created and improved upon over the years, compiled into one package. They may each prove useful, or not, from time to time. Starting the program without any parameters will show the "Tool Browser", from where you can open any of the available tools.
+
+[Software1]
+exe=FileGraph.exe
+help=
+url=http://www.aezay.dk/aezay/filegraph/
+exe64=
+group=0
+Name=FileGraph
+ShortDesc=File Analysis Tool
+LongDesc=With this small tool, it is possible to analyse files and get a visual representation of what kind of data it contains. It is completely up to the user to interpret, from the visual output, what kind of data the file may hold. This tool is definitely not for everyone, but if you sometimes work with unknown file types, this may be a useful help.
+
+[Software2]
+exe=FsbExtractor.exe
+help=
+url=http://www.aezay.dk/aezay/fsbextractor/
+exe64=
+group=0
+Name=FSB Extractor
+ShortDesc=FMOD Sample Bank Extraction Tool
+LongDesc=With the tool, you can display and extract the sound samples contained within an FSB file. FSB stands for "FMOD Sample Bank". FSB files are a common filetype for storing audio in some games. Supports the FSB3, FSB4 and FSB5 file formats.
+
+[Software3]
+exe=RegCmd.exe
+help=
+url=http://www.aezay.dk/aezay/regcmd/
+exe64=
+group=0
+Name=Registry Commander
+ShortDesc=Alternative Registry Editor
+LongDesc=This application is an alternative to the registry editor that comes with Windows. It offers most of the same features, plus a little more. The main difference between Registry Commander and RegEdit, is how the registry data is visually shown.
+Instead of having all keys to the left side in a tree, they are displayed in the same window, as if they were normal file folders.
+
+[Software4]
+exe=SSD-Z.exe
+help=
+url=http://www.aezay.dk/aezay/ssdz/
+exe64=
+group=0
+Name=SSD-Z
+ShortDesc=Information tool for SSD and other disk devices
+LongDesc=SSD-Z is an information tool for Solid State Drives and other disk devices. Using a database, it will show information about your SSD, such as the controller, processing tech, NAND type etc. Other useful information related to disk devices are also shown, such as S.M.A.R.T. status and partition layout.
+
+[Software5]
+exe=SteamSweeper.exe
+help=
+url=http://www.aezay.dk/aezay/steamsweeper/
+exe64=
+group=0
+Name=Steam Sweeper
+ShortDesc=A Steam Cleanup Tool
+LongDesc=Steam Sweeper is a program to clean up the Steam folders for files no longer needed. These files are used one time during the install of games, such as DirectX, PhysX installs.
+
+[Software6]
+exe=WndHack2.exe
+help=
+url=http://www.aezay.dk/aezay/wndhack/
+exe64=
+group=0
+Name=Window Hacker
+ShortDesc=Monitor and alter the windows of Windows
+LongDesc=Allows you to enumerate, track and monitor windows, as well as perform certain actions on those windows.

@@ -1,0 +1,118 @@
+[General]
+Name=Henry++
+GroupCount=1
+SoftwareCount=11
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=chrlauncher.exe
+help=chrlauncher.txt
+url=https://www.henrypp.org/product/chrlauncher
+exe64=x64\chrlauncher.exe
+group=0
+Name=chrlauncher
+ShortDesc=Small and very fast portable launcher and updater for Chromium.
+LongDesc=Small and very fast portable launcher and updater for Chromium.
+
+[Software1]
+exe=drivedotshield.exe
+help=
+url=https://www.henrypp.org/product/drivedotshield
+exe64=
+group=0
+Name=Drive Dot Shield
+ShortDesc=Program for protect your flash drives (and other drives) from "autorun.inf" file.
+LongDesc=Program for protect your flash drives (and other drives) from "autorun.inf" file. Program creates "autorun.inf" folder on drive root and undeletable file fith dot at the end (most viruses doesnt remove this file).
+
+[Software2]
+exe=errorlookup.exe
+help=errorlookup.txt
+url=https://www.henrypp.org/product/errorlookup
+exe64=x64\errorlookup.exe
+group=0
+Name=Error Lookup
+ShortDesc=Portable open source tool which can help by translating error codes into a more meaningful text description.
+LongDesc=Portable open source tool which can help by translating error codes into a more meaningful text description. The interface is simple - just a box to type your code, and another which displays the details - so there doesn’t seem much to learn. The program also supports a wide range of codes: regular Windows errors, DirectX, NTSTATUS errors, Windows Internet errors, STOP codes, And we think it can probably be configured to read more (Settings > System modules), although there’s no documentation to confirm that and we didn’t test it. The lightweight application is less than a megabyte, and it is compatible with Windows XP SP3 and higher operating systems. You can download either the installer or portable version.
+
+[Software3]
+exe=freeshooter.exe
+help=freeshooter.txt
+url=https://www.henrypp.org/product/freeshooter
+exe64=x64\freeshooter.exe
+group=0
+Name=Free Shooter
+ShortDesc=Freeware tool for taking fastest and simple screenshots of entire screen, windows and regions.
+LongDesc=Freeware tool for taking fastest and simple screenshots of entire screen, windows and regions.
+
+[Software4]
+exe=hostsmgr.exe
+help=hostsmgr.txt
+url=https://www.henrypp.org/product/hostsmgr
+exe64=x64\hostsmgr.exe
+group=0
+Name=hostsmgr
+ShortDesc=Console tool for sysadmins and other peoples who need to autoupdate "hosts" file.
+LongDesc=Console tool for sysadmins and other peoples who need to autoupdate "hosts" file.
+
+[Software5]
+exe=inetops.exe
+help=inetops.txt
+url=https://www.henrypp.org/product/inetops
+exe64=
+group=0
+Name=InetOps
+ShortDesc=Application for execute network operations like ping, download speed meter, percent-decoding, etc.
+LongDesc=Application for execute network operations like ping, download speed meter, percent-decoding, displaying IP address of website, display information about URL (size, date of change, etc), display IP addresses (include external address), display WHOIS information about domains, display shared resources, display network system information, display IP, TCP, UDP, ICMP statistics. Full IPv6 support.
+
+[Software6]
+exe=iplookup.exe
+help=iplookup.txt
+url=https://www.henrypp.org/product/iplookup
+exe64=x64\iplookup.exe
+group=0
+Name=Ip Lookup
+ShortDesc=Application for displaying list of IP addresses your computer, include external address.
+LongDesc=Application for displaying list of IP addresses your computer, include external address.
+
+[Software7]
+exe=matrix.scr
+help=matrix.txt
+url=https://www.henrypp.org/product/matrix
+exe64=x64\matrix.scr
+group=0
+Name=Matrix Screensaver
+ShortDesc=The Matrix ScreenSaver is a small, fast and elegant Windows version of the green "Matrix" cypher-code seen in the films.
+LongDesc=The Matrix ScreenSaver is a small, fast and elegant Windows version of the green "Matrix" cypher-code seen in the films.
+
+[Software8]
+exe=memreduct.exe
+help=memreduct.txt
+url=https://www.henrypp.org/product/memreduct
+exe64=x64\memreduct.exe
+group=0
+Name=Mem Reduct
+ShortDesc=Lightweight real-time memory management application to monitor and clean system memory on your computer.
+LongDesc=Lightweight real-time memory management application to monitor and clean system memory on your computer. The program used undocumented internal system features (Native API) to clear system cache (system working set, working set, standby page lists, modified page lists) with variable result ~10-50%. Application it is compatible with Windows XP SP3 and higher operating systems, but some general features available only since Windows Vista. You can download either the installer or portable version. For correct working, need administrator rights.
+
+[Software9]
+exe=simplewall.exe
+help=simplewall.txt
+url=https://www.henrypp.org/product/simplewall
+exe64=x64\simplewall.exe
+group=0
+Name=simplewall
+ShortDesc=Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+LongDesc=Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+
+[Software10]
+exe=timevertor.exe
+help=timevertor.txt
+url=https://www.henrypp.org/product/timevertor
+exe64=x32\timevertor.exe
+group=0
+Name=TimeVertor
+ShortDesc=It's tiny and completely free application for datetime conversion to human-readable, RFC 822, ISO 8601, UNIX Timestamp, Mac Timestamp, Microsoft Timestamp and FILETIME.
+LongDesc=It's tiny and completely free application for datetime conversion to human-readable, RFC 822, ISO 8601, UNIX Timestamp, Mac Timestamp, Microsoft Timestamp and FILETIME.

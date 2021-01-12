@@ -1,0 +1,178 @@
+[General]
+Name=AskVG Apps
+GroupCount=1
+SoftwareCount=17
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Software0]
+exe=ABUSB.exe
+help=
+url=
+exe64=
+group=0
+Name=A Bootable USB
+ShortDesc=
+LongDesc=
+
+[Software1]
+exe=DeskIntegrator.exe
+help=
+url=
+exe64=
+group=0
+Name=DeskIntegrator
+ShortDesc=
+LongDesc=
+
+[Software2]
+exe=Hash Reporter.exe
+help=
+url=
+exe64=
+group=0
+Name=Hash Reporter
+ShortDesc=
+LongDesc=
+
+[Software3]
+exe=Host Mechanic.exe
+help=
+url=
+exe64=
+group=0
+Name=Host Mechanic
+ShortDesc=
+LongDesc=
+
+[Software4]
+exe=NoAutorun.exe
+help=
+url=
+exe64=
+group=0
+Name=Autorun Disabler
+ShortDesc=
+LongDesc=
+
+[Software5]
+exe=OEM Configurator.exe
+help=
+url=
+exe64=
+group=0
+Name=OEM Configurator
+ShortDesc=
+LongDesc=
+
+[Software6]
+exe=OEM Configurer.exe
+help=
+url=
+exe64=
+group=0
+Name=OEM Configurer
+ShortDesc=
+LongDesc=
+
+[Software7]
+exe=Power Scheduler.exe
+help=
+url=
+exe64=
+group=0
+Name=Power Scheduler
+ShortDesc=
+LongDesc=
+
+[Software8]
+exe=Restarter.exe
+help=
+url=
+exe64=
+group=0
+Name=Restarter
+ShortDesc=
+LongDesc=
+
+[Software9]
+exe=RightClickContextAdder.exe
+help=
+url=
+exe64=
+group=0
+Name=Right Click Context Menu Adder
+ShortDesc=
+LongDesc=
+
+[Software10]
+exe=Run Editor.exe
+help=
+url=
+exe64=
+group=0
+Name=Run Editor
+ShortDesc=
+LongDesc=
+
+[Software11]
+exe=RUN it.exe
+help=
+url=
+exe64=
+group=0
+Name=RUN it
+ShortDesc=
+LongDesc=
+
+[Software12]
+exe=SetupFromUSB.exe
+help=
+url=
+exe64=
+group=0
+Name=Setup From USB
+ShortDesc=
+LongDesc=
+
+[Software13]
+exe=ShutCP.exe
+help=
+url=
+exe64=
+group=0
+Name=ShutCP
+ShortDesc=
+LongDesc=
+
+[Software14]
+exe=UACTweak.exe
+help=
+url=
+exe64=
+group=0
+Name=UAC Tweak
+ShortDesc=
+LongDesc=
+
+[Software15]
+exe=WBICreator.exe
+help=
+url=
+exe64=
+group=0
+Name=Windows Bootable Image Creator
+ShortDesc=
+LongDesc=
+
+[Software16]
+exe=Wi-Host.exe
+help=
+url=
+exe64=
+group=0
+Name=Wifi Hosted Network Configurer
+ShortDesc=
+LongDesc=

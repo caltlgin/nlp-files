@@ -1,0 +1,254 @@
+[General]
+Name=Eric Zimmerman's Tools
+GroupCount=3
+SoftwareCount=24
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=Forensic Tools
+
+[Group2]
+Name=Other Tools
+
+[Software0]
+exe=AmcacheParser.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/AmcacheParser.zip
+exe64=
+group=1
+Name=AmcacheParser
+ShortDesc=Amcache.hve parser with lots of extra features. Handles locked files
+LongDesc=
+
+[Software1]
+exe=AppCompatCacheParser.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/AppCompatCacheParser.zip
+exe64=
+group=1
+Name=AppCompatCacheParser
+ShortDesc=AppCompatCache aka ShimCache parser. Handles locked files
+LongDesc=
+
+[Software2]
+exe=bstrings.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip
+exe64=
+group=1
+Name=Bstrings
+ShortDesc=Find them strings yo. Built in regex patterns. Handles locked files
+LongDesc=
+
+[Software3]
+exe=EvtxECmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/EvtxExplorer.zip
+exe64=
+group=1
+Name=Evtx Explorer
+ShortDesc=Event log (evtx) parser with standardized CSV, XML, and json output! Custom maps, locked file support, and more!
+LongDesc=
+
+[Software4]
+exe=EZViewer.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/EZViewer.zip
+exe64=
+group=1
+Name=EZViewer
+ShortDesc=Standalone, zero dependency viewer for .doc, .docx, .xls, .xlsx, .txt, .log, .rtf, .otd, .htm, .html, .mht, .csv, and .pdf. Any non-supported files are shown in a hex editor (with data interpreter!)
+LongDesc=
+
+[Software5]
+exe=Hasher.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/hasher.zip
+exe64=
+group=1
+Name=Hasher
+ShortDesc=Hash all the things
+LongDesc=
+
+[Software6]
+exe=iisGeolocate.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/iisGeolocate.zip
+exe64=
+group=2
+Name=iisGeoLocate
+ShortDesc=Geolocate IP addresses found in IIS logs
+LongDesc=
+
+[Software7]
+exe=JLECmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/JLECmd.zip
+exe64=
+group=1
+Name=JLECmd
+ShortDesc=Jump List parser
+LongDesc=
+
+[Software8]
+exe=JumpListExplorer.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/JumpListExplorer.zip
+exe64=
+group=1
+Name=JumpListExplorer
+ShortDesc=GUI based Jump List viewer
+LongDesc=
+
+[Software9]
+exe=LECmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/LECmd.zip
+exe64=
+group=1
+Name=LECmd
+ShortDesc=Parse lnk files
+LongDesc=
+
+[Software10]
+exe=MFTECmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/MFTECmd.zip
+exe64=
+group=1
+Name=MFTECmd
+ShortDesc=$MFT, $Boot, $J, $SDS, and $LogFile parser. Handles locked files
+LongDesc=
+
+[Software11]
+exe=MFTExplorer.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/MFTExplorer.zip
+exe64=
+group=1
+Name=MFTExplorer
+ShortDesc=Graphical $MFT viewer
+LongDesc=
+
+[Software12]
+exe=PECmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/PECmd.zip
+exe64=
+group=1
+Name=PECmd
+ShortDesc=Prefetch parser
+LongDesc=
+
+[Software13]
+exe=RBCmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/RBCmd.zip
+exe64=
+group=1
+Name=RBCmd
+ShortDesc=Recycle Bin artifact (INFO2/$I) parser
+LongDesc=
+
+[Software14]
+exe=RecentFileCacheParser.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/RecentFileCacheParser.zip
+exe64=
+group=1
+Name=RecentFileCacheParser
+ShortDesc=RecentFileCache parser
+LongDesc=
+
+[Software15]
+exe=RECmd.exe
+help=RegistryExplorerManual.pdf
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip
+exe64=
+group=1
+Name=RECmd
+ShortDesc=Registy viewer with searching, multi-hive support, plugins, and more. Handles locked files
+LongDesc=
+
+[Software16]
+exe=RegistryExplorer.exe
+help=RegistryExplorerManual.pdf
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/RegistryExplorer_RECmd.zip
+exe64=
+group=1
+Name=Registry Explorer
+ShortDesc=Registy viewer with searching, multi-hive support, plugins, and more. Handles locked files
+LongDesc=
+
+[Software17]
+exe=SBECmd.exe
+help=ShellBagsExplorerManual.pdf
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip
+exe64=
+group=1
+Name=SBECmd
+ShortDesc=Shellbags parser
+LongDesc=
+
+[Software18]
+exe=SDBExplorer.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/SDBExplorer.zip
+exe64=
+group=1
+Name=SDB Explorer
+ShortDesc=Shim database GUI
+LongDesc=
+
+[Software19]
+exe=ShellBagsExplorer.exe
+help=ShellBagsExplorerManual.pdf
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/ShellBagsExplorer.zip
+exe64=
+group=1
+Name=ShellBags Explorer
+ShortDesc=GUI for browsing shellbags data. Handles locked files
+LongDesc=
+
+[Software20]
+exe=TimeApp.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/TimeApp.zip
+exe64=
+group=2
+Name=TimeApp
+ShortDesc=A simple app that shows current time (local and UTC) and optionally, public IP address. Great for testing
+LongDesc=
+
+[Software21]
+exe=TimelineExplorer.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/TimelineExplorer.zip
+exe64=
+group=1
+Name=Timeline Explorer
+ShortDesc=View CSV and Excel files, filter, group, sort, etc. with ease
+LongDesc=
+
+[Software22]
+exe=VSCMount.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/VSCMount.zip
+exe64=
+group=1
+Name=VSCMount
+ShortDesc=Mount all VSCs on a drive letter to a given mount point
+LongDesc=
+
+[Software23]
+exe=WxTCmd.exe
+help=
+url=https://f001.backblazeb2.com/file/EricZimmermanTools/WxTCmd.zip
+exe64=
+group=1
+Name=WxTCmd
+ShortDesc=Windows 10 Timeline database parser
+LongDesc=

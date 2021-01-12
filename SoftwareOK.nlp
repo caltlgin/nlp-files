@@ -1,0 +1,539 @@
+[General]
+Name=SoftwareOK
+GroupCount=8
+SoftwareCount=51
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Business Utilities
+
+[Group2]
+Name=Desktop Utilities
+
+[Group3]
+Name=Games && Entertainment
+
+[Group4]
+Name=Graphic Apps
+
+[Group5]
+Name=Network && Internet Utilities
+
+[Group6]
+Name=Security && Privacy Utilities
+
+[Group7]
+Name=System Utilities
+
+[Software0]
+exe=12-Ants.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/12-Ants
+exe64=x64\12-Ants.exe
+group=3
+Name=12-Ants
+ShortDesc=12-Ants or more for your desktop.
+LongDesc=12-Ants or more for your desktop. Itching is not excluded. Watching the little rascals and have fun.12-Ants does not have to be installed and can be executed easily from the desktop, and can be carried on a small usb-stick or other memory device.
+
+[Software1]
+exe=4ur-Windows-8-Mouse-Balls.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/4ur-Windows-8-Mouse-Balls
+exe64=x64\4ur-Windows-8-Mouse-Balls.exe
+group=7
+Name=4ur-Windows-8-Mouse-Balls
+ShortDesc=4urWin 8 Mouse balls on a elastic rubber-band
+LongDesc=4ur Windows 8 Mouse Balls" is a lightweight portable Windows program. 8 or more balls follows the mouse on your windows desktop. It's a small fun program for all Windows-NT systems.
+
+[Software2]
+exe=AlwaysMouseWheel.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/AlwaysMouseWheel
+exe64=x64\AlwaysMouseWheel.exe
+group=7
+Name=AlwaysMouseWheel
+ShortDesc=Allows Mouse Wheel in inactive Window
+LongDesc=Always Mouse Wheel is a small portable Windows program this gives you the possibility when using the mouse wheel over any window (under the mouse pointer) to scrool via mouse wheel even if the window is not in the foreground e.g focussed.
+
+[Software3]
+exe=AutoHideDesktopIcons.exe
+help=
+exe64=
+url=https://www.softwareok.com/?seite=Freeware/AutoHideDesktopIcons
+group=7
+Name=AutoHideDesktopIcons
+ShortDesc=Auto Hide Desktop Icons Portable Win-App.
+LongDesc=AutoHideDesktopIcons is a lightweight portable Windows program. If you use desktop backgrounds, it helps you to see sometimes the wallpapers clean and in full bloom.
+
+[Software4]
+exe=AutoHideMouseCursor.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/AutoHideMouseCursor
+exe64=x64\AutoHideMouseCursor.exe
+group=7
+Name=AutoHideMouseCursor
+ShortDesc=Automatically hide the mouse cursor
+LongDesc=Automatically hide the mouse cursor with an adjustable timer, it is the right desktop tool when the cursor is too annoying to them, such as when working with word processing programs because often when you enter the text cursor is in the way.
+
+[Software5]
+exe=AutoPowerOptionsOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/AutoPowerOptionsOK
+exe64=
+group=7
+Name=AutoPowerOptionsOK
+ShortDesc=Auto Power Options Customization for Windows
+LongDesc=AutoPowerOptionsOK is a very small portable program that allows you to switch your computer from the desktop directly, or the info area of the taskbar (to-tray), for quick access to the power options, and also auto change or adjust the power plan!
+
+[Software6]
+exe=BlankAndSecure.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/BlankAndSecure
+exe64=x64\BlankAndSecure.exe
+group=6
+Name=Blank And Secure
+ShortDesc=Portable tool to securely delete the data.
+LongDesc="Blank And Secure" is a portable tool to securely delete the data. Secure delete files are required to block the recovering of deleted data.  Secure deletion is possible with this program, because "Blank And Secure" overwrites the data with zeros!
+
+[Software7]
+exe=ClassicDesktopClock.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/ClassicDesktopClock
+exe64=x64\ClassicDesktopClock.exe
+group=2
+Name=ClassicDesktopClock
+ShortDesc=Classic Desktop clock for all Windows OS
+LongDesc=The classic desktop clock is a simple Windows desktop clock with different themes and customization. Made on multiple user request, in memory of the Windows 98 SE clock, which was used for the time and date settings.
+
+[Software8]
+exe=ColorConsole.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/ColorConsole
+exe64=x64\ColorConsole.exe
+group=7
+Name=ColorConsole
+ShortDesc=ColorConsole brings a little color to you.
+LongDesc=ColorConsole brings a little color to your black and white world of Windows console . One can save many hand moves and also time!
+
+[Software9]
+exe=CpuFrequenz.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/CpuFrequenz
+exe64=
+group=7
+Name=CpuFrequenz
+ShortDesc=Identify the CPU frequency
+LongDesc=Small tool to accurately identify the CPU frequency. The PC is slow! Is it the CPU?
+
+[Software10]
+exe=DeleteOnRebot.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/Delete.On.Reboot
+exe64=DeleteOnRebot.exe
+group=7
+Name=Delete.On.Reboot
+ShortDesc=Delete files, directories, folders at reboot
+LongDesc=Delete.On.Reboot is a small and effective program when it comes to deleting non-volatile files, directories, subfolders in an elegant way on Windows computer restart.
+
+[Software11]
+exe=Desktop.OK.Calendar.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/Desktop.Calendar.Tray.OK
+exe64=
+group=1
+Name=Desktop.Calendar.Tray.OK
+ShortDesc=Desktop Calendar from To-Tray is O.K.
+LongDesc=Desktop.Calendar.Tray.OK is a very small portable program that allows you to display on your computer from the desktop directly or from the notification area of the taskbar (To-Tray) a clear desktop calendar.
+
+[Software12]
+exe=DesktopDigitalClock.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/DesktopDigitalClock
+exe64=x64\DesktopDigitalClock.exe
+group=2
+Name=DesktopDigitalClock
+ShortDesc=Digital Desktop Clock for all Windows OS
+LongDesc=The Digital Desktop Clock is a simple Windows desktop clock with different themes and customization. Made on multiple user request, in memory of the Windows 98 SE clock, which was used for the time and date settings.
+
+[Software13]
+exe=DesktopNoteOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/DesktopNoteOK
+exe64=x64\DesktopNoteOK.exe
+group=2
+Name=DesktopNoteOK
+ShortDesc=Alternative to Sticky Note from Windows 7
+LongDesc=A very decorative alternative tool known as Sticky Note in Windows 7, the basic functions: overall transparency, note size setting, as well as the selection of different fonts are available and can be customized.
+
+[Software14]
+exe=DesktopOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/DesktopOK
+exe64=x64\DesktopOK.exe
+group=2
+Name=DesktopOK
+ShortDesc=Save and restore the desktop icon positions.
+LongDesc=Save and restore the positions of icons. DesktopOK is a small but effective solution for user that have to change the screen resolution often. DesktopOK does not have to be installed and can be executed easily from the desktop.
+
+[Software15]
+exe=DesktopSnowOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/DesktopSnowOK
+exe64=x64\DesktopSnowOK.exe
+group=7
+Name=DesktopSnowOK
+ShortDesc=Magic snow flakes on your Windows Desktop
+LongDesc=To add a little winter magic feeling on your Desktop is DesktopSnowOK the right program. "DesktopSnowOK" is a lightweight portable Windows program for 5 or more snow flakes on your windows desktop.
+
+[Software16]
+exe=DirPrintOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/DirPrintOK
+exe64=x64\DirPrintOK.exe
+group=7
+Name=DirPrintOK
+ShortDesc=Easy to print the content of a directory list
+LongDesc=It is very easy to print the content of a directory with DirPrintOK. DirPrintOK has a print preview with variable aspect ratio and also export functions to XLS, HTML, CSV, TXT. Also for Windows 10 and MS Surface
+
+[Software17]
+exe=DontSleep.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/DontSleep
+exe64=x64\DontSleep.exe
+group=7
+Name=Don't Sleep
+ShortDesc=Prevent Shutdown, Stand By, Turn Off, Restart
+LongDesc=Don't Sleep is a small program to prevent system Shutdown, Stand By, Turn Off , Restart, Hibernate. Especially when old Programs run on Windows-7 or Windows Vista. Here's more aggressive power-saving features with new rules.
+
+[Software18]
+exe=ExperienceIndexOK.exe
+help=
+url=https://www.softwareok.com/?Microsoft/ExperienceIndexOK
+exe64=x64\ExperienceIndexOK.exe
+group=7
+Name=ExperienceIndexOK
+ShortDesc=Windows Experience Index reading, recalculate
+LongDesc=Effective solution to read and show your Windows Experience Index or to start a new calculation of the performance index. The program is primarily written for Windows 8.1 and the Windows 10.
+
+[Software19]
+exe=FavoritenFreund.exe
+help=
+url=https://www.softwareok.com/?Freeware/FavoritenFreund
+exe64=
+group=5
+Name=FavoritenFreund
+ShortDesc=
+LongDesc=
+
+[Software20]
+exe=Find.Same.Images.OK.exe
+help=
+url=https://www.softwareok.com/?Freeware/Find.Same.Images.OK
+exe64=x64\Find.Same.Images.OK.exe
+group=4
+Name=Find.Same.Images.OK
+ShortDesc=Quickly find the same or similar pictures.
+LongDesc=Find Same Images compares these on a pixel basis, but not only that, you can also find rotated, mirrored and negative images, even if the photo has been resized, well suited for rotated smartphone or iPhone photos.
+
+[Software21]
+exe=FontViewOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/FontViewOK
+exe64=x64\FontViewOK.exe
+group=4
+Name=FontViewOK
+ShortDesc=A quick visual overview of all installed font
+LongDesc=The problem is well known: Only the written form is remembered, but the name is forgotten.Here FontViewOK can help. It creates a quick visual overview of all installed fonts. An installation of FontViewOK is not required.
+
+[Software22]
+exe=GetWindowText.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/GetWindowText
+exe64=x64\GetWindowText.exe
+group=7
+Name=GetWindowText
+ShortDesc=A tool to read the window title and text
+LongDesc=Very small and portable program. It can be read almost all the texts, e.g. from Edit, Static, Groupbox - Controls, etc.This program supports also directory trees (SysTreeView32) and list views (SysListView32) to read the entire contents.
+
+[Software23]
+exe=IsMyHdOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/IsMyHdOK
+exe64=x64\IsMyHdOK.exe
+group=7
+Name=IsMyHdOK
+ShortDesc=SSD, HDD, SD card, USB sticks Quick test
+LongDesc=A small program but effective solutionl for a SSD, HDD, SD card, USB stick quick test. Suitable for SSD and HD and other drives.
+
+[Software24]
+exe=IsMyLcdOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/IsMyLcdOK
+exe64=x64\IsMyLcdOK.exe
+group=2
+Name=IsMyLcdOK
+ShortDesc=Check for dead/paralysed/stuck pixels on LCD
+LongDesc=IsMyLcdOK is a small program but effective solution to easily check for dead/paralysed/stuck pixels on LCD monitors. IsMyLcdOK does not have to be installed and can be executed easily from the desktop, and can be carried on a small usb-stick .
+
+[Software25]
+exe=KeepMouseSpeedOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/KeepMouseSpeedOK
+exe64=
+group=7
+Name=KeepMouseSpeedOK
+ShortDesc=KeepMouseSpeedOK to keep the Mouse Speed
+LongDesc=The automatic hold-the-mouse speed feature for Windows is the right desktop tool if mouse speed changes frequently! On some Windows operating systems, the mouse speed often changes automatically without the user having to change the mouse pointer!
+
+[Software26]
+exe=LauschAngriff.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/LauschAngriff
+exe64=
+group=7
+Name=LauschAngriff
+ShortDesc=
+LongDesc=
+
+[Software27]
+exe=MagicMouseTrails.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/MagicMouseTrails
+exe64=x64\MagicMouseTrails.exe
+group=2
+Name=MagicMouseTrails
+ShortDesc=Magic mouse trails for all Windows OS
+LongDesc=The Magic Mouse Trail tool is a simple but also beautiful extension or alternative to the standard Windows mouse tracks with different themes and individual customization.
+
+[Software28]
+exe=MeinPlatz.exe
+help=
+url=https://www.softwareok.com/?Freeware/MeinPlatz
+exe64=x64\MeinPlatz.exe
+group=7
+Name=MeinPlatz
+ShortDesc=Easy and fast way to scan for lost disk space
+LongDesc=MeinPlatz "My-Place" offers an easy and fast way to scan the hard disk for lost disk space.With analysis on a percentage basis and grouping by folders, file types, size or date. It has also a nice print and export function.
+
+[Software29]
+exe=Monitor.Turn.Off.Timer.OK.exe
+help=
+url=https://www.softwareok.com/?page=Windows/Tools/Monitor.Turn.Off.Timer.OK/1
+exe64=
+group=7
+Name=Monitor.Turn.Off.Timer.OK
+ShortDesc=Monitor.Turn.Off.Timer.OK to keep the Mouse Speed
+LongDesc=The automatic hold-the-mouse speed feature for Windows is the right desktop tool if mouse speed changes frequently! On some Windows operating systems, the mouse speed often changes automatically without the user having to change the mouse pointer!
+
+[Software30]
+exe=MultiClipBoardSlots.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/MultiClipBoardSlots
+exe64=
+group=7
+Name=MultiClipBoardSlots
+ShortDesc=10 extra Clipboard Memory Slots
+LongDesc=MultiClipBoardSlots is a small portable program that allows you to extend the Clipboard for up to 10 Clipboard Memory Slots. This allows you easily to insert text, images, and other objects between the programs via freely selectable Windows Hot-Keys!
+
+[Software31]
+exe=NewFileTime.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/NewFileTime
+exe64=x64\NewFileTime.exe
+group=7
+Name=NewFileTime
+ShortDesc=Corrections and manipulation of timestamp
+LongDesc=NewFileTime is a small but effective tool that provides you easy access to corrections and manipulation of timestamp for any file and folder on your system.Several files and/or folders can be dispatched at the same time.
+
+[Software32]
+exe=NonCompressibleFiles.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/NonCompressibleFiles
+exe64=x64\NonCompressibleFiles.exe
+group=7
+Name=NonCompressibleFiles
+ShortDesc=On the fly not or maximum compressible files
+LongDesc=NonCompressibleFiles is a small portable program that allows you to create on the fly one or more non-compressible files, or maximum compressible files.
+
+[Software33]
+exe=OK.Its.Raining.Men.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/OK.Its.Raining.Men
+exe64=x64\OK.Its.Raining.Men.exe
+group=2
+Name=OK.It's.Raining.Men
+ShortDesc=Raindrops on the Windows Desktop 4 all MS-OS
+LongDesc=OK.It's.Raining.Men creates magical raindrops on the Windows desktop. With different settings and adjustments: speed, intensity, size, length.
+
+[Software34]
+exe=OneLoupe.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/OneLoupe
+exe64=x64\OneLoupe.exe
+group=2
+Name=OneLoupe
+ShortDesc=Desktop Screen Magnifier for Windows x32/x64
+LongDesc=OneLoupe is required to view everything on the screen enlarged.Simple and easy to use, the small Magnifier is always ready when you need it to   view all fine details, even the small print in the I-Net to decipher. Take OneLuope and stretch screen .
+
+[Software35]
+exe=OnlyStopWatch.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/OnlyStopWatch
+exe64=x64\OnlyStopWatch.exe
+group=7
+Name=OnlyStopWatch
+ShortDesc=is a watch to stop the time.
+LongDesc=OnlyStopWatch is only a watch to stop the time. With milliseconds precision. Optimize your processes.
+
+[Software36]
+exe=OpenCloseDriveEject.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/OpenCloseDriveEject
+exe64=x64\OpenCloseDriveEject.exe
+group=7
+Name=OpenCloseDriveEject
+ShortDesc=Safely remove drives and open close DVD, USB
+LongDesc=Safely removing drives and opening DVD, Blu-ray drives will become a regular and easy procedure as provided by Microsoft on Windows. Here you can still partition the drives in relation!
+
+[Software37]
+exe=PointerStick.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/PointerStick
+exe64=x64\PointerStick.exe
+group=7
+Name=PointerStick
+ShortDesc=Virtual pointer stick on your Windows Desktop
+LongDesc=PointerStick is a portable tool that presents on the Windows Desktop a virtual pointer stick, for example for Presentations to highlight the current mouse position and the emphasis on presenting will be better.
+
+[Software38]
+exe=ProcessKO.exe
+help=
+url=https://www.softwareok.com/?site=Freeware/ProcessKO
+exe64=x64\ProcessKO.exe
+group=7
+Name=ProcessKO
+ShortDesc=Fast close and terminate programs
+LongDesc=ProcessKO is a small useful tool to quickly kill a running or hanging  process / program.Creating Favorite-K.O. for fast killing processes or programs! One can save many hand moves and also time !  ProcessKO does not have to be installed.
+
+[Software39]
+exe=Q-Dir.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/Q-Dir
+exe64=x64\Q-Dir.exe
+group=7
+Name=Q-Dir
+ShortDesc=Really good quad explorer 4 files and folders
+LongDesc=Q-Dir the Quad-Directory-Explore makes your files and folder easy to manage. Fast and easy access, with a amazing Quad-Explorer-View technique. Save many hand moves and time! It's a small famous utility for Windows PC-s and also an USB-stick friend.
+
+[Software40]
+exe=QuickMemoryTestOK.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/QuickMemoryTestOK
+exe64=x64\QuickMemoryTestOK.exe
+group=7
+Name=QuickMemoryTestOK
+ShortDesc=QuickMemoryTestOK the fast RAM Memory Test
+LongDesc=There may be a problem with the RAM, but it is unlikely because the RAM is under scrutiny before being sold. For verification, you can either use a hidden system tool included with Windows, or download and launch an and launch QuickMemoryTest!
+
+[Software41]
+exe=QuickTextPaste.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/QuickTextPaste
+exe64=x64\QuickTextPaste.exe
+group=7
+Name=QuickTextPaste
+ShortDesc=Paste pre-defined text via keyboard shortcut.
+LongDesc=Quick paste text is a small portable program that allows you to insert (paste) quickly pre-defined text in any Windows applications via keyboard shortcut.
+
+[Software42]
+exe=Run-Command.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/Run-Command
+exe64=x64\Run-Command.exe
+group=7
+Name=Run-Command
+ShortDesc=Alternative to standard Windows Run-Dialog
+LongDesc=Run-Command is a small, portable windows program and created as an alternative to the standard Windows Run-Dialog. In this program you will find a number of improvements e.g. the function run as administrator and add to favorites commands.
+
+[Software43]
+exe=StressMyPC.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/StressMyPC
+exe64=
+group=2
+Name=StressMyPC
+ShortDesc=Stress test for your PC. Let him sweat.
+LongDesc=Let's see! How long can your laptop battery hold a charge? Or let your PC sweat like a .... Warning! Unstable and overclocked systems can be crashed.
+
+[Software44]
+exe=TheAeroClock.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/TheAeroClock
+exe64=x64\TheAeroClock.exe
+group=2
+Name=TheAeroClock
+ShortDesc=Desktop clock with alpha transparency
+LongDesc="The Aero Clock" is a simple but at the same time beautiful desktop clock. This Windows program can be used as a portable avert. This very decorative desktop clock shows the local time at the Desktopt.
+
+[Software45]
+exe=ThisIsMyFile.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/ThisIsMyFile
+exe64=x64\ThisIsMyFile.exe
+group=7
+Name=ThisIsMyFile
+ShortDesc=Deleting locked or protected files.
+LongDesc=ThisIsMyFile is a small and effective program for unlocking and/or deleting locked or protected files. Installation is not required, simply place the ThisIsMyFile on the desktop and drop files on the ThisIsMyFile program icon.
+
+[Software46]
+exe=TraceRouteOK.exe
+help=
+url=https://www.softwareok.com/?Microsoft/TraceRouteOK
+exe64=x64\TraceRouteOK.exe
+group=5
+Name=TraceRouteOK
+ShortDesc=Path that your data travels over the internet
+LongDesc=Traceroute track the path that your data travels over the WWW, internet, or the local network. There are many programs of this type, but this is optimized for fast list of data track and quick query of the data route.
+
+[Software47]
+exe=WinBin2Iso.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/WinBin2Iso
+exe64=x64\WinBin2Iso.exe
+group=7
+Name=WinBin2Iso
+ShortDesc=WinBin2Iso convert BIN to ISO images.
+LongDesc=This small program converts BIN CD images to ISO images. Files over 2GB are also no problem. When it comes to a quick convert, is exactly the WinBin2Iso conversion tool that you need.
+
+[Software48]
+exe=WinPing.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/WinPing
+exe64=
+group=7
+Name=WinPing
+ShortDesc=
+LongDesc=
+
+[Software49]
+exe=WinScan2PDF.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/WinScan2PDF
+exe64=
+group=4
+Name=WinScan2PDF
+ShortDesc=Save the scanned documents into PDF.
+LongDesc=Are you one of those who only occasionally has to send a signed document to someone by e-mail ? Simply save the scanned documents into PDF and save them to a file on your computer. The program is very simple to use.
+
+[Software50]
+exe=Zigarettenschachtel-Spruch.exe
+help=
+url=https://www.softwareok.com/?seite=Freeware/Zigarettenschachtel-Spruch
+exe64=
+group=3
+Name=Zigarettenschachtel-Spruch
+ShortDesc=
+LongDesc=

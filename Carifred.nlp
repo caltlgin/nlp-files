@@ -1,0 +1,158 @@
+[General]
+Name=Carifred - Windows Software
+GroupCount=1
+SoftwareCount=15
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=2Browse.exe
+help=
+url=http://www.carifred.com/2browse/
+exe64=
+group=0
+Name=2Browse
+ShortDesc=2Browse is a technician tool that can be used as both a web browser and a file explorer.
+LongDesc=2Browse is a technician tool that can be used as both a web browser and a file explorer. It can also be used as an FTP client as explained in this forum topic. It's very small and light, and can not be hijacked with toolbars and ad-ons. It is also available as part of UVK and Tech Tool Store. 2Browse does not have all the functionality of a real web browser nor is it supposed to. It is intended to be used when the installed browsers or the Windows Shell are infected or working too slow, or because we just like it simple. The application is fully portable. You just need to download it by clicking the button below, and you're ready 2Browse. The app's home page lets you quickly access either the internet or the local file system by simply clicking the desired links.
+
+[Software1]
+exe=AccountProfileFixer.exe
+help=
+url=http://www.carifred.com/apf/
+exe64=
+group=0
+Name=Account Profile Fixer
+ShortDesc=Account Profile Fixer helps you to repair severe issues without the need to reinstall/reset Windows.
+LongDesc=This tool allows users to easily fix account profile related issues which can not be repaired without creating a new account. Examples of situations where this tool may come in handy are: MS Edge is not working, Windows Store apps are not working, Windows Explorer is not showing the Start screen or the notification area, or a user can not login.
+
+[Software2]
+exe=ExeFixer.com
+help=
+url=http://www.carifred.com/exefixer/
+exe64=
+group=0
+Name=File Extension Fixer (COM)
+ShortDesc=File extension fixer is a free tool intended to fix executable file associations and run programs even when those extensions are damaged.
+LongDesc=File extension fixer is a free tool intended to fix executable file associations and run programs even when those extensions are damaged. It also includes several fixes to common issues caused by modern malware to windows registry. Version .com available to be used if the .exe file association has been corrupted. Supported file extensions are: EXE, MSI, REG, BAT, CMD, COM and VBS.
+
+[Software3]
+exe=ExeFixer.exe
+help=
+url=http://www.carifred.com/exefixer/
+exe64=
+group=0
+Name=File Extension Fixer
+ShortDesc=File extension fixer is a free tool intended to fix executable file associations and run programs even when those extensions are damaged.
+LongDesc=File extension fixer is a free tool intended to fix executable file associations and run programs even when those extensions are damaged. It also includes several fixes to common issues caused by modern malware to windows registry. Version .com available to be used if the .exe file association has been corrupted. Supported file extensions are: EXE, MSI, REG, BAT, CMD, COM and VBS. 
+
+[Software4]
+exe=FVIE.exe
+help=
+url=http://www.carifred.com/fvie/
+exe64=
+group=0
+Name=File Version Info Editor
+ShortDesc=File version info editor allows you to edit the version resource info of binary files.
+LongDesc=File version info editor allows you to edit the version resource info of binary files. Supported files are: Executable files (.exe), Dynamic link libraries (.dll) and drivers (.sys). Important: This tool doesn't work for files compiled with UPX. So, always leave the Backup file before editing box checked to be able to recover the file in case something goes wrong.
+
+[Software5]
+exe=MultipleRebootScheduler.exe
+help=
+url=http://www.carifred.com/mrs/
+exe64=
+group=0
+Name=Multiple Reboot Scheduler
+ShortDesc=MultipleRebootScheduler is a technician tool that optimizes the Windows boot time.
+LongDesc=MultipleRebootScheduler is a technician tool that optimizes the Windows boot time by performing several reboots in sequence with a few minutes interval between each reboot, which in turn triggers the system's built-in boot optimization. This tool can also perform other related tasks such as backing up and restoring the layout of the desktop icons and setting up user auto-logon.
+
+[Software6]
+exe=PCData Back.exe
+help=
+url=https://www.carifred.com/pcdata_back/
+exe64=
+group=0
+Name=PCData Back
+ShortDesc=CData Back is a professional backup & restore tool for Windows, which allows you to easily backup and restore user (and other) data.
+LongDesc=PCData Back is a professional backup & restore tool for Windows, which allows you to easily backup and restore user (and other) data. It has the impressive restoring ability to create the exact same user accounts and restore data directly from a different volume or from Windows.old, making this tool a great backup/restore solution for Windows reinstall, migration to SSD or bigger HDD, or simply to keep a safe backup copy of your data.
+
+[Software7]
+exe=Quick_Any2Ico.exe
+help=
+url=http://www.carifred.com/quick_any2ico/
+exe64=
+group=0
+Name=Quick Any2Ico
+ShortDesc=Quick Any2Ico is a free portable application that creates high quality icon files from any file, folder or resource.
+LongDesc=Quick Any2Ico is a free portable application that creates high quality icon files from any file, folder or resource. It can also add or remove image formats from icon files, save the extracted icons in the PNG format and much more.
+
+[Software8]
+exe=QuickUserManager.exe
+help=
+url=http://www.carifred.com/quick_user_manager/
+exe64=
+group=0
+Name=Quick user manager
+ShortDesc=Quick user manager is a portable tool, featuring all user account management options in a simple, intuitive interface.
+LongDesc=Quick user manager is a portable tool, featuring all user account management options in a simple, intuitive interface. Quick user manager is also part of our premium tool UVK - Ultra virus killer. You are able to change user account settings, like disable/enable the account, clear the lockout state, auto-logon a user, and remove user accounts from the welcome screen. You can also set the picture associated with a user account, set or remove its password, delete and create user accounts. Quick user manager was built with simplicity and ease of use in mind. All the features are shown in the main interface, so you can perform the desired changes with just a few clicks.
+
+[Software9]
+exe=RecentFileSeeker.exe
+help=
+url=http://www.carifred.com/rfs/
+exe64=
+group=0
+Name=Recent File Seeker
+ShortDesc=Recent File Seeker is an free and portable file research tool.
+LongDesc=Recent File Seeker is an free and portable file research tool. It accepts many search filters, and writes the results to a log file.
+
+[Software10]
+exe=SHIcon.exe
+help=
+url=http://www.carifred.com/shicon/
+exe64=
+group=0
+Name=SHIcon
+ShortDesc=Hide and display your desktop icons with a double-click.
+LongDesc=Hide and display your desktop icons with a double-click. With this small tool you can keep your desktop clean without deleting all shortcuts and folders you have there. You only have to download and run it. You don't even have to copy it to the desktop, because it will do it automatically. Each time you double-click it, it will hide or display, depending on current state, all desktop shortcuts, files and folders on the desktop. However, it wont hide system icons like the computer or recycle bin icons. This "magic wand" will always be visible on your desktop, and will change its name each time it runs. If the desktop icons are visible, its name will be Hide icons, and when they're hidden, it will be Show icons. Note that SHIcon will not delete any files. It will just change their hidden attributes. When running in Windows Vista/7 SHIcon will need administrator rights to hide files in the public/common desktop folders. So, if some icons were not hidden, try running SHIcon as administrator.
+
+[Software11]
+exe=SimplySync.exe
+help=
+url=http://www.carifred.com/simplysync_backup/
+exe64=
+group=0
+Name=SimplySync Backup
+ShortDesc=SimplySync Backup is an intuitive folder backup and synchronization tool.
+LongDesc=SimplySync Backup is an intuitive folder backup and synchronization tool. It works in both portable and installed mode, and is very fast and easy to use. SimplySync Backup has unique features such as the ability to update backups ensuring they contain the very same files as the source. It also performs backups in bi-directional synchronization mode, and obviously restore operations.
+
+[Software12]
+exe=StopResettingMyApps.exe
+help=
+url=http://www.carifred.com/stop_resetting_my_apps/
+exe64=
+group=0
+Name=Stop Resetting My Apps
+ShortDesc=Stop Resetting My Apps.
+LongDesc=Important: This application was updated to work with Windows 10 build 15063. As you may have already experienced, Windows 10 may periodically reset the default apps. The reset action usually takes place after a Windows update or an update of one of the Windows built-in apps such as Microsoft Edge, Photos or Groove Music. It may also be caused by a third party program. Default apps are the programs that are executed by default when you open a file or protocol. Resetting them without your consent can be extremely unconvenient, because it can take a lot of work to set them up again. Stop Resetting My Apps helps you to work around this issue by preventing some of those built-in apps from being set as the default apps. This does not affect the functionality of those apps.
+
+[Software13]
+exe=UltraAdwareKiller.exe
+help=
+url=http://www.carifred.com/ultra_adware_killer/
+exe64=
+group=0
+Name=Ultra Adware Killer
+ShortDesc=Ultra Adware Killer is a powerful adware and malware remover for Windows.
+LongDesc=Ultra Adware Killer is a powerful adware and malware remover for Windows, which has the ability to scan all the users in a system. This can save you lots of time logging in to other user accounts and performing the scan again. Ultra Adware Killer removes browser toolbars, ad-ons, plugins, unwanted search providers and hijacked home pages, potentially unwanted programs (PUP's), and also rogues, trojans, rootkits, ransomware and all other forms of malware. It also allows to optionally reset the browsers configuration, allowing them to run as smoothly as when they were installed. If you own a PRO license, you can benefit of even more features, such as extended command line switches and scheduling automatic scans.
+
+[Software14]
+exe=UltraVirusKiller.exe
+help=
+url=http://www.carifred.com/uvk/
+exe64=x64\UltraVirusKiller.exe
+group=0
+Name=UVK - Ultra Virus Killer
+ShortDesc=With user friendly interface, UVK allows users to easily remove all forms of malware and Spyware.
+LongDesc=With user friendly interface, UVK allows users to easily remove all forms of malware and Spyware. It also includes tons of tools  to repair, cleanup and optimize Windows, ensuring the best performance and reliability for your OS.

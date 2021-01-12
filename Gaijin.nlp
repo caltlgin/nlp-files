@@ -1,0 +1,387 @@
+[General]
+Name=Gaijin
+GroupCount=6
+SoftwareCount=36
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Internet && Network
+
+[Group2]
+Name=Security
+
+[Group3]
+Name=System
+
+[Group4]
+Name=Misc
+
+[Group5]
+Name=Computer Forensics
+
+[Software0]
+exe=AddHash\AddHash.exe
+help=AddHash\AddHash.txt
+url=https://www.gaijin.at/en/software/addhash
+exe64=
+group=5
+Name=AddHash
+ShortDesc=AddHash joins two or more EnCase and/or X-Ways Forensics hashset files to a new hashset file or convert them to an other format.
+LongDesc=AddHash joins two or more Guidance EnCase and/or X-Ways Forensics hashset files to a new hashset file or convert them to an other format. AddHash removes duplicates and enables you to edit the name and category of hash files.
+
+[Software1]
+exe=Data Converter\DataConvert.exe
+help=
+url=https://gaijin.at/en/software/dataconverter
+exe64=
+group=5
+Name=Data Converter
+ShortDesc=Data Converter converts the given data to another format, like numbers, hexadecimal values or dates.
+LongDesc=With this application you can convert as example hexadecimal values from a Windows FileTime, an UNIX time_t or a DOS time value to readable date and time values. Additionally you can convert the Seagate Date Code to a readable Date.
+
+[Software2]
+exe=DevProject Manager\DevProject.exe
+help=DevProject Manager\DevProject.chm
+url=
+exe64=
+group=4
+Name=DevProject Manager
+ShortDesc=DevProject Manager is a portable rich featured project management application for freeware and shareware developers. No additional database server like MySQL or MS SQL is needed.
+LongDesc=DevProject Manager is a portable rich featured project management application for Freeware, Shareware and Open-Source developers. DevProject Manager allows you to manage general project information, version information, a to-do list and the change-logs for each project. For each project user defined files can be added, such as screenshots, help files and other important files, that can be opened for DevProject Manager. Person information for translators, other programmers, graphic artists and other involved persons can be added. Additionally a customer and license management is included and can be extended with own plug-ins. Code snippes can be stored in an own section, so you have you important source codes in hierachical form everytime with you. The source codes highlighting supports 13 different programming and scriting languages (Assembler, C#, C++, HTML, Java, JScript, Pascal, Perl, PHP, Python, SQL, VBScript and Visual Basic). DevProject Manager is portable and was designed to run on USB devices. Additional no database server like MySQL or MS SQL is needed.
+
+[Software3]
+exe=DrivePurge\DrivePurge.exe
+help=DrivePurge\DrivePurge.chm
+url=
+exe64=
+group=3
+Name=DrivePurge
+ShortDesc=DrivePurge is an application for system and drive cleanup.
+LongDesc=DrivePurge is a freeware application for for system and drive cleanup. The most important features are: DrivePurge seeks and removes unneccessary files and user tracks of more than 750 applications and system components. Found files and Registry entries can be individually selected or deselected. DrivePurge can search in whole drives or in selected folders for files or file types.
+
+[Software4]
+exe=Duplicate Code Finder\DupCodeFinder.exe
+help=
+url=
+exe64=
+group=4
+Name=Duplicate Code Finder
+ShortDesc=Duplicate Code Finder finds duplicate code parts in source code and plain text files.
+LongDesc=Duplicate Code Finder is a portable application that finds duplicate code parts in source code and plain text files. The count of lines can be configured. Multiple space charaters, tabulators and comments can be ignored. Comments in the following programming languages are supported: Basic (e.g. Visual Basic, Visual Basic.NET) C (e.g. C++, C++.NET or C#) Pascal (e.g. Object Pascal) as well as other programming laguages with a comment-syntax similar with one of the above languages.
+
+[Software5]
+exe=eMule MET Viewer\eMuleMetViewer.exe
+help=eMule MET Viewer\eMuleMetViewer.rtf
+url=https://gaijin.at/en/software/emulemetviewer
+exe64=
+group=5
+Name=eMule MET Viewer
+ShortDesc=eMule MET Viewer shows and exports various information from the eMule "known.met" file. The data can be exported in a CSV file which can be opened e.g. in Microsoft Excel.
+LongDesc=eMule MET Viewer shows and exports various information from the eMule "known.met" file. The data can be exported in a CSV file which can be opened e.g. in Microsoft Excel.
+
+[Software6]
+exe=eToolz\eToolz.exe
+help=eToolz\eToolz.chm
+url=https://gaijin.at/en/software/etoolz
+exe64=
+group=1
+Name=eToolz
+ShortDesc=eToolz includes some of the most important network tools like NS-Lookup, Ping, TraceRoute and Whois. It can check e-mail addresses, the Google PageRank and shows domain information entries.
+LongDesc=eToolz includes some of the most important network tools like NS-Lookup, Ping, TraceRoute and Whois. The most important features are: Includes some of the most importatnt Internet and network tools like NS Lookup, Ping, TraceRoute and Whois. The most importatnt DNS entries can be shown (A, PTR, NS, MX, TXT und SOA). Automatic or manual query for Whois server incl. automatic redirection. Query the Google PageRank for an URL. Mail addresses can be checked for validity. Mail headers can be broken down and the received lines can be checked for plausibility. Query and update the system time using various time servers. Query the external IP address and the external host name through Web services. Display the installed and available network adapters and their corresponding IPv4 statistics. Display the HTTP headers for a URL. eToolz supports internationalized domain names.
+
+[Software7]
+exe=EXIF Viewer\ExifView.exe
+help=EXIF Viewer\ExifView.rtf
+url=
+exe64=
+group=5
+Name=EXIF Viewer
+ShortDesc=This tool displays EXIF informations from a JPEG image. The output can be copied to the Windows Clipboard.
+LongDesc=The EXIF Viewer extracts and displays EXIF informations from a JPEG (Joint Photographic Experts Group) image. The extracted data can be copied to the Windows Clipboard. Digital cameras not only store the image data in JPEG files, but also a multitude of image and camera information. These data are stored in the EXIF information.
+
+[Software8]
+exe=FileInfo\FileInfo.exe
+help=
+url=
+exe64=
+group=5
+Name=FileInfo
+ShortDesc=FileInfo gatters file informations like size, attributes, MAC times and the owner of files and directories. For each file the CRC-32, MD5 and SAH1 hash values can be calculated as well.
+LongDesc=FileInfo gatters file informations like size, attributes, MAC times and the owner from files and directories. For each file the CRC-32, MD5 and SAH1 hash values can be calculated as well. The information can be exported as CSV file, that can be opened with Microsoft Excel. Individually configurable templates enables you to output the data in any text formats, like XML or HTML. Additionally a console version of FileInfo is included. The information will be printed as ANSI, so it can be opened and processed by any Windows application.
+
+[Software9]
+exe=Historian\Historian.exe
+help=Historian\Historian.rtf
+url=
+exe64=
+group=5
+Name=Historian
+ShortDesc=Historian reads various informations from raw browser files like the history, cookies, bookmarks and downloaded files. The most common webbrowsers are supported. The extracted data can be written to text files or into a Microsoft Excel CSV table.
+LongDesc=Historian reads various informations from raw browser files like the history, cookies, bookmarks and downloaded files. The most common webbrowsers are supported. The extracted data can be written to text files or into a Microsoft Excel CSV table.
+
+[Software10]
+exe=htCrypt\htCrypt.exe
+help=htCrypt\htCrypt.rtf
+url=
+exe64=
+group=1
+Name=htCrypt
+ShortDesc=HTTP LogStat analyze the log files of a webserver and shows extensive informations and statistics. Plain text and GZip compressed logfiles (NCSA Common / Combined, and user defined formats) will be supported. The report is written to a configurable HTML file.
+LongDesc=The application htCrypt creates passwords for use with .htpasswd files. The generated passwords are compatible to the UNIX and PHP crypt function. The salt value can be given optionally.
+
+[Software11]
+exe=HTTP LogStat\HttpLogStat.exe
+help=HTTP LogStat\HttpLogStat.chm
+url=
+exe64=
+group=1
+Name=HTTP LogStat
+AppName=HTTP LogStat
+ShortDesc=HTTP LogStat analyze the log files of a webserver and shows extensive informations and statistics.
+LongDesc=HTTP LogStat analyze the log files of a webserver and shows extensive informations and statistics. The most important features are: Plain text and GZip compressed logfiles (NCSA Common and NCSA Combined) are supported. User defined log file formats are supported, e.g. for IIS logs (e.g. with an Apache "LogFormat" expression and an IIS "Fields" expression). Multiple profiles for different websites or domains can be configured individually. The report is written to a configurable HTML file. Shows the hits by date and time, websites, downloads, images, directories, file types, hosts and countries. Lists the referrers (hosts and addresses), search engines and search terms. Shows the accessing operating systems, browsers, spiders/robots. Lists the error codes including the files and the corresponding referrers.
+
+[Software12]
+exe=IncrediMail Message Extractor\ImMsgXtract.exe
+help=IncrediMail Message Extractor\ImMsgXtract.rtf
+url=
+exe64=
+group=5
+Name=IncrediMail Message Extractor
+ShortDesc=Extracts e-mail messages from raw IncrediMail database files and put the exported messages in common EML files.
+LongDesc=IncrediMail Message Extractor extracts mails from IncrediMail files (IMH and IMM formats) and exports them as EML files. So they can serve as backup or can be opened with Outlook Express or another Mail Client or be converted into another format.
+
+[Software13]
+exe=Link Viewer\LinkView.exe
+help=Link Viewer\LinkView.rtf
+url=
+exe64=
+group=5
+Name=Link Viewer
+ShortDesc=Displays informations about the content of Microsoft shortcut files (links).
+LongDesc=Link Viewer displays informations about the content of Microsoft shortcut files (links). The extracted data can be copied to the Windows Clipboard.
+
+[Software14]
+exe=Mime DeEnCode\MimeDeEnCode.exe
+help=Mime DeEnCode\MimeDeEnCode.rtf
+url=
+exe64=
+group=1
+Name=Mime DeEnCode
+ShortDesc=This small application converts data from and to the MIME format (Base64).
+LongDesc=This small application converts data from and to the MIME format (Base64).
+
+[Software15]
+exe=NFReader\NFReader.exe
+help=NFReader\NFReader.txt
+url=
+exe64=
+group=1
+Name=NFReader
+AppName=NFReader
+ShortDesc=NFReader is a small and simple to use Feed reader for RSS, Atom and RDF feeds.
+LongDesc=NFReader is a small and simple to use Feed reader for RSS, Atom and RDF feeds. Feeds and group of feeds can be exported to OPML files. The import from OPML files is supported as well.
+
+[Software16]
+exe=NoteItDown\NoteItDown.exe
+help=NoteItDown\NoteItDown.chm
+url=https://gaijin.at/en/software/noteitdown
+exe64=
+group=4
+Name=NoteItDown
+ShortDesc=NoteItDown is a protable application for creating and managing notes of all kinds.
+LongDesc=NoteItDown is a portable application for creating and managing notes of all kinds. The most important features are: Notes can be stored in an user defined folder structure. The font, font size and colors are changeable for each note. With a RTF-editor each note can be designed individually. A search function finds notes with a specified text. Text inside of a note can be found with an incremental search function. An edited note will be saved automatically.
+
+[Software17]
+exe=Outlook Express Message Extractor\OeMsgXtract.exe
+help=Outlook Express Message Extractor\OeMsgXtract.rtf
+url=
+exe64=
+group=5
+Name=Outlook Express Message Extractor
+ShortDesc=Extracts e-mail messages and newsgroup postings from raw Outlook Express DBX files and put the exported messages in common EML files.
+LongDesc=Outlook Express Message Extractor extracts e-mail messages and newsgroup postings from raw Outlook Express DBX files and put the exported messages in common EML/NWS files. This files can be imported or opened with any other mail client.
+
+[Software18]
+exe=Opened Ports Viewer\OPView.exe
+help=
+url=
+exe64=
+group=1
+Name=Opened Ports Viewer
+ShortDesc=Opened Ports Viewer displays a list with all opened ports on a machine, including the associated process (similar the console command "netstat").
+LongDesc=Opened Ports Viewer displays a list with all opened ports on a machine, including the associated process (similar the console command "netstat"). The port list can be sorted and filtered. An export function enables youto save the list as HTML, CSV or plain text file. Opened Ports Viewer can be used in multi-user environments and on USB sticks.
+
+[Software19]
+exe=Phalanx\Phalanx.exe
+help=Phalanx\Phalanx.chm
+url=https://gaijin.at/en/software/phalanx
+exe64=
+group=1
+Name=Phalanx
+ShortDesc=Phalanx is a powerfull spam filer application for POP3 accounts. It can be used with any mail client. Phalanx supports APOP (MD5) and secure connections (SSL) for authenticaton on the mail server.
+LongDesc=Phalanx is a powerfull spam filer application for POP3 accounts. It can be used with any mail client. Phalanx supports APOP (MD5) and secure connections (SSL) for authenticaton on the mail server. The most important features: Blacklists and Whitelists: Classifies messages from specific senders as ham or spam. DNSBL filter: This filter search the IP address of the sender in a DNSBL database. URLBL filter: This filter search all URLs in the message in a URLBL database. Bayes filter: This self-learning filter classifies mails as spam or ham with the bayesian method. User defined rules: User defined rules allows to filter for specific words and terms. Regular expressions are supported. Rule sets: With rule sets you can create own rule files, that can be included in Phalanx. External rule files (rule sets) are much mor powerfull and flexible. Plug-ins: Phalanx can be extended with plug-ins. Plug-ins can filter messages with complex methods. Retrieval of headers and delete messages from the server: Regardless of your mail client, message headers can be received and filtered without receiving the complete message from the mail server. With rule options the mail can be ignored or deleted directly on the mail server.
+
+[Software20]
+exe=Picture Viewer\PicView.exe
+help=Picture Viewer\PicView.rtf
+url=
+exe64=
+group=5
+Name=Picture Viewer
+ShortDesc=Picture Viewer is a small picture viewer application for the most common graphic formats like JPEG, GIF, PNG, BMP, EMF and WMF.
+LongDesc=Picture Viewer is a small viewer for the most common graphic formats. The automatic resize and the full-screen mode displays the pictures evenly and comfortably. Pictures can be rotated and mirrored, deleted, copied and moved to an other folder. The EXIF information can be displayed in the file properties window. The following formats will be supported: JPEG, GIF, PNG, BMP, ICO, WMF, EMF and TIFF. Additionally DIB, RLE (Bitmap) and JFIF (JPEG).
+
+[Software21]
+exe=PlainEdit\PlainEdit.exe
+help=PlainEdit\PlainEdit.chm
+url=
+exe64=
+group=4
+Name=PlainEdit
+ShortDesc=PlainEdit is a text editor for ANSI and ASCII files. Syntax highlighting is supported for the most common Web, script and programming languages.
+LongDesc=PlainEdit is a text editor for ANSI and ASCII files. Syntax highlighting is supported for the most common Web, script and programming languages. Many functions for text conversion, formatting, decoding and encoding are included. The most important features are: Many text conversion function Simple switching between ANSI (Windows) or ASCII (DOS) editing mode Syntax highlighting for the most common Web, script and programming languages Automatically replace special characters to HTML encoding Incremental text search (forward and backward) User defined template for fast file creation and editing Page setup (margins, headers and footers) and a print preview Insert document and content templates PlainEdit can be extended with plug-ins
+
+[Software22]
+exe=PlainEdit.NET\PlainEditNET.exe
+help=PlainEdit.NET\PlainEditNET.chm
+url=
+exe64=
+group=4
+Name=PlainEdit.NET
+ShortDesc=PlainEdit.NET is a text editor for ANSI, UTF-8 and Unicode files. Syntax highlighting is supported for the most common Web, script and programming languages. Many functions for text conversion, formatting, decoding and encoding are included.
+LongDesc=PlainEdit.NET is a text editor for ANSI, UTF-8 and Unicode files. Syntax highlighting is supported for the most common Web, script and programming languages. Many functions for text conversion, formatting, decoding and encoding are included. The most important features are: PlanEdit.NET can open multiple files at the same time (tabbed interface). Many text conversion functions. Syntax highlighting for the most common Web, script and programming languages. Loading, editing and sving file in ANSI, UTF-8, Unicode and Unicode big-endian. Files with Windows, MacIntosh and Unix line breaks are supported. Automatically replace special characters to HTML encoding. User defined templates for fast file and text creation and editing. Page setup (with header and footer) and print preview. Snippets (templates, code snippets and other text) can be inserted via a sidebar. Incremental text search (forward and backward). Search and replace text with regular expressions - in not opened files too.
+
+[Software23]
+exe=Password Generator\PwdGen.exe
+help=Password Generator\PwdGen.rtf
+url=
+exe64=
+group=2
+Name=Password Generator
+AppName=Password Generator
+ShortDesc=Generates secure and easy to read and remember passwords automatically.
+LongDesc=With this password generator you can create secure and easy to read and remember passwords automatically.
+
+[Software24]
+exe=RegistryReport\RegReport.exe
+help=RegistryReport\RegReport.rtf
+url=https://gaijin.at/en/software/registryreport
+exe64=
+group=5
+Name=RegistryReport
+ShortDesc=RegistryReport is a free registry forensic analysis tool.
+LongDesc=RegistryReport shows information about the operating system, installed software, the last user activity, the user settings and many other details from raw Windows NT 5 Registry files "SYSTEM", "SOFTWARE", "SAM" and "NTUSER.DAT" (Windows 2000/XP/2003/Vista). You can configure the amount of information for each category in the settings dialog. Over the graphical user interface you can save, print and search the generated report. The report can be copied or saved as RTF or plain text. RegistryReport doesn't process the Registry files of the running operating system.
+
+[Software25]
+exe=RegistryViewer\RegView.exe
+help=RegistryViewer\RegView.rtf
+url=
+exe64=
+group=5
+Name=RegistryViewer
+ShortDesc=RegistryViewer can open raw Windows NT 5 Registry files. The file structure is showed similar to the Windows Registry editor. Folders, keys and values can be searched and the values can displayed in hexadecimal form.
+LongDesc=RegistryViewer can open raw Windows NT 5 Registry files (Windows 2000 / XP / 2003 / Vista). The file structure is showed similar to the Windows Registry editor. Folders, keys and values can be searched and the values can displayed in hexadecimal form. The Registry files can be opened per Drag & Drop. All Registry files ("SYSTEM", "SOFTWARE", "SAM", "NTUSER.DAT", "SECURITY", "USERDIFF" and "DEFAULT") are supported. RegistryViewer doesn't show the Registry files of the running operating system.
+
+[Software26]
+exe=XWF ReportStyler\ReportStyler.exe
+help=
+url=
+exe64=
+group=5
+Name=XWF ReportStyler
+ShortDesc=XWF ReportStyler formats reports and export lists from X-Ways Forensics saved in HTML or XML files. XWF ReportStyler can add user defined stylesheets to HTML and XML files.
+LongDesc=XWF ReportStyler formats reports and export lists from X-Ways Forensics saved in HTML or XML files. XWF ReportStyler can add user defined stylesheets to HTML and XML files. XWF ReportStyler can be included into X-Ways Forensics as HTML output viewer. In the case report some changes in the format will be made. The lines in a report table item will be split in separate cells and the lines in the description field of an device will be displayedd as table rows like the other device information. The partitions of a device will be shown in own tables.
+For the following HTML reports user-defined stylesheet can be added: Report (Case Report). Export list for files. Export list for search hits. Export list for recovered files (copylog.html). Three stylesheet-sets are already included in the download. XWF ReportStyler supports HTML reports and HTML export lists in English and German only. XML files are language independent. For XML files (file lists and search hits) XML stylesheet files can be assigned.
+
+[Software27]
+exe=SteganoG\SteganoG.exe
+help=SteganoG\SteganoG.chm
+url=
+exe64=
+group=2
+Name=SteganoG
+ShortDesc=A small but powerfull steganography tool to hide data into Bitmap pictures.
+LongDesc=SteganoG store confidential data of any kind in a bitmap file that the image appears to be unchanged. A powerful compression and an adjustable image quality will also allow you to save relatively large amounts of data. For the security of your data, you can use the RC4 encryption method, Blowfish, TEA, Twofish and Skipjack.
+
+[Software28]
+exe=StreamFinder\StreamFinder.exe
+help=
+url=
+exe64=
+group=3
+Name=StreamFinder
+ShortDesc=StreamFinder searches for Alternate Data Streams (ADS) on complete partitions or in single folders.
+LongDesc=StreamFinder searches for Alternate Data Streams (ADS) on complete partitions or in single folders.
+
+[Software29]
+exe=SystemReport\SysReport.exe
+help=SystemReport\SysReport.chm
+url=
+exe64=
+group=5
+Name=SystemReport
+ShortDesc=Gathers informations about the hardware, operating system, installed software, and much more of the local machine.
+LongDesc=Gathers informations about the hardware, operating system, installed software, and much more of the local machine. SystemReport is a package of console applications, which also can be executed individually. With batch files the gathering process can be automated. The included graphical user interface enables you to configure the process and run each of the console applications automatically. The informations are displayed in a window and can be exported as RTF or plain text file.
+
+[Software30]
+exe=The Bat! Password Recovery\TBPassRecover.exe
+help=The Bat! Password Recovery\TBPassRecover.txt
+url=
+exe64=
+group=2
+Name=The Bat! Password Recovery
+ShortDesc=The Bat! Password Recovery recovers lost passwords and all other settings from the account configuration files of the mail client The Bat!
+LongDesc=The Bat! Password Recovery recovers lost passwords and all other settings from the account configuration files of the mail client The Bat! The current accounts of The Bat! will be displayed in a Drop-Down list. Additionally, account configuration files can be added manually (e.g. from backups). The Bat! Password Recovery restores SMTP- and POP3/IMAP passwords, as well as internal account and group passwords. Additionally, the most important settings will be displayed like in the configuration dialog of The Bat!. Experienced users can paste encoded passwords or other encrypted/encoded strings. The decoded informations can be exported in a plain text file. The application supports the new account configuration files (The Bat! 2.12 or above), as well as the old account configuration files. If the OTFE (On-The-Fly Encryption) enabled, there is no possibility to recover passwords or other settings from the account or group configuration files.
+
+[Software31]
+exe=UnInstall Cleaner\UIClean.exe
+help=UnInstall Cleaner\UIClean.rtf
+url=
+exe64=
+group=3
+Name=UnInstall Cleaner
+ShortDesc=Cleans up the Windows uninstall list.
+LongDesc=UnInstall Cleaner cleans up the Windows uninstall list. UnInstall Cleaner enables you to remove entries, not properly removed by the uninstall function of the relevant application. Additionally, applications can be deinstalled with UnInstall Cleaner too. If a program does not properly uninstall or occur problems in the uninstall process, there will be remain an entry in the uninstall list of the Registry. UnInstall Cleaner can delete these entries so that you don't take the painstaking job of cleaning the Windows Registry manually.
+
+[Software32]
+exe=USB WriteProtector\UsbWriteProtect.exe
+help=USB WriteProtector\UsbWriteProtect.txt
+url=
+exe64=
+group=3
+Name=USB WriteProtector
+ShortDesc=Enables or disables the write protection for USB disks, e.g. an USB stick.
+LongDesc=USB WriteProtector enables or disables the write protection for all USB devices of the running system, e.g. USB sticks or external USB hard disks. 
+
+[Software33]
+exe=WipeDisk\WipeDisk.exe
+help=WipeDisk\WipeDisk.chm
+url=
+exe64=
+group=2
+Name=WipeDisk
+ShortDesc=Erases disks (complete harddisks or single partition) secure and fast.
+LongDesc=WipeDisk erases physical and logical disks (complete harddisks or single partition) secure and fast. WipeDisk overwrites the information sector-wise, from the first sector of the disk to the last one. This is particularly important for forensically correct deletion of data. WipeDisk supports 14 different wipe methods, e.g. two US Navy standards, the standard of the US Department of Defence, US Airforce and the NATO.
+
+[Software34]
+exe=WipeFile\WipeFile.exe
+help=WipeFile\WipeFile.chm
+url=https://gaijin.at/en/software/wipefile
+exe64=
+group=2
+Name=WipeFile
+ShortDesc=Erases complete folders as well as single files secure and fast.
+LongDesc=WipeFile erases files and folders secure and fast. WipeFile overwrites the information completely, so there is no way to undelete the files or reconstruct the file content. WipeFile supports 14 different wipe methods, e.g. two US Navy standards, the standard of the US Department of Defence, US Airforce and the NATO.
+
+[Software35]
+exe=XP-Config\XpConfig.exe
+help=
+url=
+exe64=
+group=3
+Name=XP-Config
+ShortDesc=XP-Config is a configuration tool for Windows XP. Security settings can be configured as well as performance and optical settings of Windows XP.
+LongDesc=XP-Config is a configuration tool for Windows XP. Security settings can be configured as well as performance and optical settings of Windows XP.

@@ -1,0 +1,2858 @@
+[General]
+Name=NirSoft Utilities
+GroupCount=14
+SoftwareCount=281
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Password Recovery Utilities
+
+[Group2]
+Name=Network Monitoring Tools
+
+[Group3]
+Name=Web Browser Tools
+
+[Group4]
+Name=Video/Audio Related Utilities
+
+[Group5]
+Name=Internet Related Utilities
+
+[Group6]
+Name=Desktop Utilities
+
+[Group7]
+Name=Outlook/Office Utilities
+
+[Group8]
+Name=Programmer Tools
+
+[Group9]
+Name=Disk Utilities
+
+[Group10]
+Name=System Utilities
+
+[Group11]
+Name=Other Utilities
+
+[Group12]
+Name=Command-Line Utilities
+
+[Group13]
+Name=Pre-Release Utilities
+
+[Software0]
+exe=accesspv.exe
+help=
+url=https://www.nirsoft.net/utils/accesspv.html
+exe64=
+group=1
+Name=Access PassView
+ShortDesc=
+LongDesc=This utility reveals the database password of every password-protected mdb file that created with Microsoft Access 95/97/2000/XP or with Jet Database Engine 3.0/4.0 . It can be very useful if you forgot your Access Database password and you want to recover it. 
+
+[Software1]
+exe=acm.exe
+help=acm.chm
+url=https://www.nirsoft.net/utils/acm.html
+exe64=
+group=5
+Name=ActiveX Compatibility Manager
+ShortDesc=Disable/enable ActiveX components on Internet Explorer browser.
+LongDesc=This utility allows you to easily disable/enable ActiveX components on Internet Explorer browser. It disables the desired ActiveX component by setting the "kill bit" of the desired CLSID under the following Registry key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\ActiveX Compatibility. 
+
+[Software2]
+exe=AddrView.exe
+help=AddrView.chm
+url=https://www.nirsoft.net/utils/addrview.html
+exe64=
+group=5
+Name=AddrView
+ShortDesc=Extract URL addresses from HTML pages.
+LongDesc=AddrView allows you to parse HTML pages and extract most URL addresses stored in them. AddrView extracts URLs of images (<img> tag), links to other files (<a> tag), CSS files, frames, Flash files, and more. You can save the extracted addresses list to text, HTML or XML files, or add these addresses to your Favorities. 
+
+[Software3]
+exe=AdvancedRun.exe
+help=AdvancedRun.chm
+url=https://www.nirsoft.net/utils/advanced_run.html
+exe64=x64\AdvancedRun.exe
+group=10
+Name=AdvancedRun
+ShortDesc=Run a program with different settings that you choose.
+LongDesc=AdvancedRun is a simple tool for Windows that allows you to run a program with different settings that you choose, including - low or high priority, start directory, main window state (Minimized/Maximized), run the program with different user or permissions, Operating system compatibility settings, and environment variables.
+
+[Software4]
+exe=AllThreadsView.exe
+help=AllThreadsView.chm
+url=https://www.nirsoft.net/utils/all_threads_view.html
+exe64=x64\AllThreadsView.exe
+group=10
+Name=AllThreadsView
+ShortDesc=Displays a list of all running threads in Windows.
+LongDesc=AllThreadsView is a simple tool for Windows that displays a list of all running threads from all processes on your system in one table. For every thread, the following information is displayed: Thread ID, Creation Time, Kernel Time, User Time, Duration, Start Address, Priority, Base Priority, Context Switch Count, Context Switch Change (Since the last refresh), Wait Reason, Process ID, Process Path. 
+
+[Software5]
+exe=AlternateStreamView.exe
+help=AlternateStreamView.chm
+url=https://www.nirsoft.net/utils/alternate_data_streams.html
+exe64=x64\AlternateStreamView.exe
+group=9
+Name=AlternateStreamView
+ShortDesc=Find all hidden alternate streams stored in the file system.
+LongDesc=AlternateStreamView is a small utility that allows you to scan your NTFS drive, and find all hidden alternate streams stored in the file system. After scanning and finding the alternate streams, you can extract these streams into the specified folder, delete unwanted streams, or save the streams list into text/html/csv/xml file.   
+
+[Software6]
+exe=AltStreamDump.exe
+help=AltStreamDump.chm
+url=https://www.nirsoft.net/utils/alternate_stream_dump.html
+exe64=
+group=9
+Name=AltStreamDump
+ShortDesc=Dumps the list of NTFS alternate streams.
+LongDesc=AltStreamDump is a console application (Command Prompt) that dumps the list of NTFS alternate streams found in the current directory. By using a few command-line options, you can also instruct AltStreamDump to displays the alternate streams list of other folders and to scan subfolders in the desired folder depth.
+
+[Software7]
+exe=anup.exe
+help=
+url=https://www.nirsoft.net/utils/anup.html
+exe64=
+group=1
+Name=AspNetUserPass
+ShortDesc=
+LongDesc=AspNetUserPass is a very simple console-based utility that displays the password of ASPNet user on your system. In order to use, simply run the executable (anup.exe) in console (command prompt) window. If the password of ASPNET user is stored on your system, it'll be dispalyed.
+
+[Software8]
+exe=AppAudioConfig.exe
+help=AppAudioConfig.chm
+url=https://www.nirsoft.net/utils/app_audio_config.html
+exe64=x64\AppAudioConfig.exe
+group=4
+Name=AppAudioConfig
+ShortDesc=View/change audio settings of applications.
+LongDesc=This tool displays your current audio settings of every application on your system (stored in the Registry), and allows you to easily change the setting of multiple applications at once. You can change the mute/unmute status, the sound volume level, and the right/left audio balance of the application. 
+
+[Software9]
+exe=AppCompatibilityView.exe
+help=AppCompatibilityView.chm
+url=https://www.nirsoft.net/utils/app_compatibility_view.html
+exe64=x64\AppCompatibilityView.exe
+group=10
+Name=AppCompatibilityView
+ShortDesc=List of all programs that run with different compatibility setting.
+LongDesc=AppCompatibilityView is a simple tool that displays the list of all programs that run with different compatibility settings, stored in the Registry under HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers and HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers keys.  It also allows you to easily modify or delete the compatibility settings of multiple applications at once. 
+
+[Software10]
+exe=AppCrashView.exe
+help=AppCrashView.chm
+url=https://www.nirsoft.net/utils/app_crash_view.html
+exe64=
+group=10
+Name=AppCrashView
+ShortDesc=Displays the details of all application crashes occurred in your system. 
+LongDesc=AppCrashView is a small utility for Windows Vista and Windows 7 that displays the details of all application crashes occurred in your system. The crashes information is extracted from the .wer files created by the Windows Error Reporting (WER) component of the operating system every time that a crash is occurred. AppCrashView also allows you to easily save the crashes list to text/csv/html/xml file. 
+
+[Software11]
+exe=AppNetworkCounter.exe
+help=AppNetworkCounter.chm
+url=https://www.nirsoft.net/utils/app_network_counter.html
+exe64=x64\AppNetworkCounter.exe
+group=2
+Name=AppNetworkCounter
+ShortDesc=Displays number of TCP/UDP bytes and packets sent/received by every application.
+LongDesc=AppNetworkCounter is a simple tool for Windows that counts and displays the number of TCP/UDP bytes and packets sent and received by every application on your system. For every application, the following information is displayed: the number of sent and received bytes, number of sent and received packets, number of sent/received IPv4 bytes, and number of sent/received IPv6 bytes. 
+
+[Software12]
+exe=AppReadWriteCounter.exe
+help=AppReadWriteCounter.chm
+url=https://www.nirsoft.net/utils/app_read_write_counter.html
+exe64=x64\AppReadWriteCounter.exe
+group=9
+Name=AppReadWriteCounter
+ShortDesc=Displays read/write operations of every application running on your system.
+LongDesc=AppReadWriteCounter is a tool for Windows that counts and displays the current file read/write operations of every application running on your system. It displays the number of read/write bytes, the number of read/write operations, current calculated read/write speed, and the details about the application (product name, product version, and so on) that makes the file read/write operations. 
+
+[Software13]
+exe=asterie.exe
+help=asterie.chm
+url=https://www.nirsoft.net/utils/asterie.html
+exe64=
+group=1
+Name=AsterWin IE
+ShortDesc=
+LongDesc==When you login into a web site with user name and password, you sometimes have the option to store the password in your computer. If you choose to save the password, in the next time that we'll visit this site, the password field will be automatically filled with your password, but you won't be able to view it, because the password-box shows the password as sequence of asterisks (****). 
+
+[Software14]
+exe=asterwin.exe
+help=
+url=https://www.nirsoft.net/utils/asterwin.html
+exe64=
+group=1
+Name=AsterWin
+ShortDesc=
+LongDesc=This utility reveals the passwords stored behind the asterisks ('***') in standard password text-boxes. 
+
+[Software15]
+exe=astlog.exe
+help=astlog.chm
+url=https://www.nirsoft.net/utils/astlog.html
+exe64=
+group=1
+Name=Asterisk Logger
+ShortDesc=Reveals the passwords stored behind the asterisks ('***') boxes.
+LongDesc=Many applications, like CuteFTP, CoffeeCup Free FTP, VNC, IncrediMail, Outlook Express, and others, allows you to type a password for using it in the application. The typed password is not displayed on the screen, and instead of the real password, you see a sequence of asterisk ('****') characters. This utility can reveal the passwords stored behind the asterisks in standard password text-boxes. 
+
+[Software16]
+exe=atnow.exe
+help=
+url=https://www.nirsoft.net/utils/atnow.html
+exe64=
+group=12
+Name=AtNow
+ShortDesc=
+LongDesc=AtNow is a command-line utility that schedules programs and commands to run in the near future. By default, the commands are executed within 70 seconds or less from the moment that you run the AtNow utility with the desired command.
+
+[Software17]
+exe=awatch.exe
+help=awatch.chm
+url=https://www.nirsoft.net/utils/awatch.html
+exe64=
+group=2
+Name=AdapterWatch
+ShortDesc=Displays useful information about your network adapters.
+LongDesc=AdapterWatch displays useful information about your network adapters: IP addresses, Hardware address, WINS servers, DNS servers, MTU value, Number of bytes received or sent, The current transfer speed, and more. In addition, it displays general TCP/IP/UDP/ICMP statistics for your local computer.
+
+[Software18]
+exe=axhelper.exe
+help=axhelper.chm
+url=https://www.nirsoft.net/utils/axhelper.html
+exe64=
+group=10
+Name=ActiveXHelper
+ShortDesc=view essential information about ActiveX components installed on your computer.
+LongDesc=ActiveXHelper is a small utility that allows you to view essential information about ActiveX components installed on your computer. You can view the entire (and very large !) list of ActiveX components by loading it from HKEY_CLASSES_ROOT\CLSID Registry key, or alternatively, display only the ActiveX components that you specify.
+
+[Software19]
+exe=BatteryInfoView.exe
+help=BatteryInfoView.chm
+url=https://www.nirsoft.net/utils/battery_information_view.html
+exe64=
+group=10
+Name=BatteryInfoView
+ShortDesc=Displays battery information on laptops and netbooks.
+LongDesc=BatteryInfoView is a small utility for laptops and netbook computers that displays the current status and information about your battery. The displayed battery information includes the battery name, manufacture name, serial number, manufacture date, power state (charging/discharging), current battery capacity, full charged capacity, voltage, charge/discharge rate, and more...  
+
+[Software20]
+exe=BlueScreenView.exe
+help=BlueScreenView.chm
+url=https://www.nirsoft.net/utils/blue_screen_view.html
+exe64=x64\BlueScreenView.exe
+group=10
+Name=BlueScreenView
+ShortDesc=Show information about blue screen crashes occurred in your system.
+LongDesc=BlueScreenView scans all your minidump files created during 'blue screen of death' crashes, and displays the information about all crashes in one table. For each crash, BlueScreenView displays the minidump filename, the date/time of the crash, the basic crash information displayed in the blue screen (Bug Check Code and 4 parameters), and the details of the driver or module that possibly caused the crash.
+
+[Software21]
+exe=BluetoothCL.exe
+help=BluetoothCL.chm
+url=https://www.nirsoft.net/utils/bluetoothcl.html
+exe64=
+group=12
+Name=BluetoothCL
+ShortDesc=Show bluetooth devices  list
+LongDesc=BluetoothCL is a small console application that dumps all current detected bluetooth devices into the standard output. For each Bluetooth device, the following information is displayed: MAC Address, Name, Major Device Type, Minor Device Type, and optionally the company name of the device (if external file of MAC addresses - oui.txt is provided) 
+
+[Software22]
+exe=BluetoothLogView.exe
+help=BluetoothLogView.chm
+url=https://www.nirsoft.net/utils/bluetooth_log_view.html
+exe64=
+group=10
+Name=BluetoothLogView
+ShortDesc=Creates a log of Bluetooth activity in your area.
+LongDesc=BluetoothLogView is a small utility that monitors the activity of Bluetooth devices around you, and displays a log of Bluetooth devices on the main window. Every time that a new Bluetooth device arrives to your area and when the device leaves your area, a new log line is added with the following information: Device Name, Device Address, Event Time, Event Type ('Device Arrival' or 'Device Left'), and Device Type...
+
+[Software23]
+exe=BluetoothView.exe
+help=BluetoothView.chm
+url=https://www.nirsoft.net/utils/bluetooth_viewer.html
+exe64=
+group=10
+Name=BluetoothView
+ShortDesc=Monitors the activity of Bluetooth devices around you.
+LongDesc=BluetoothView is a small utility that runs in the background, and monitor the activity of Bluetooth devices around you. For each detected Bluetooth device, it displays the following information: Device Name, Bluetooth Address, Major Device Type, Minor Device Type, First Detection Time, Last Detection Time, and more.   
+
+[Software24]
+exe=BrowserAddonsView.exe
+help=BrowserAddonsView.chm
+url=https://www.nirsoft.net/utils/web_browser_addons_view.html
+exe64=x64\BrowserAddonsView.exe
+group=3
+Name=BrowserAddonsView
+ShortDesc=Displays the details of all Web browser addons/plugins installed in your system.
+LongDesc=BrowserAddonsView is a simple tool that displays the details of all Web browser addons/plugins installed in your system. BrowserAddonsView can scan and detect the addons of most popular Web browsers: Chrome, Firefox, and Internet Explorer. For Chrome and Firefox, BrowserAddonsView detects and scans all Web browser profiles if there are multiple profiles. 
+
+[Software25]
+exe=BrowserDownloadsView.exe
+help=BrowserDownloadsView.chm
+url=https://www.nirsoft.net/utils/web_browser_downloads_view.html
+exe64=x64\BrowserDownloadsView.exe
+group=3
+Name=BrowserDownloadsView
+ShortDesc=Displays the details of downloaded files of Chrome and Firefox Web browsers
+LongDesc=BrowserDownloadsView is a tool for Windows that displays the details of downloaded files of Chrome and Firefox Web browsers. For every download, the following information is displayed: Filename, Download URL, Web Page URL, Start Time, End Time, Download Duration, Download Size, Web Browser, and more...
+
+[Software26]
+exe=BrowsingHistoryView.exe
+help=BrowsingHistoryView.chm
+url=https://www.nirsoft.net/utils/browsing_history_view.html
+exe64=x64\BrowsingHistoryView.exe
+group=3
+Name=BrowsingHistoryView
+ShortDesc=View browsing history of popular Web browsers 
+LongDesc=BrowsingHistoryView is a utility that reads the history data of 4 different Web browsers (Internet Explorer, Mozilla Firefox, Google Chrome, and Safari) and displays the browsing history of all these Web browsers in one table. The browsing history table includes the following information: Visited URL, Title, Visit Time, Visit Count, Web browser and User Profile.  
+
+[Software27]
+exe=BulkFileChanger.exe
+help=BulkFileChanger.chm
+url=https://www.nirsoft.net/utils/bulk_file_changer.html
+exe64=x64\BulkFileChanger.exe
+group=10
+Name=BulkFileChanger
+ShortDesc=Change date/time/attributes of multiple files.
+LongDesc=BulkFileChanger is a small utility that allows you to create files list from multiple folders, and then make some action on them - Modify their created/modified/accessed time, change their file attribute (Read Only, Hidden, System), run an executable with these files as parameter, and copy/cut paste into Explorer. 
+
+[Software28]
+exe=BulletsPassView.exe
+help=BulletsPassView.chm
+url=https://www.nirsoft.net/utils/bullets_password_view.html
+exe64=x64\BulletsPassView.exe
+group=1
+Name=BulletsPassView
+ShortDesc=Reveals the passwords stored behind the bullets.
+LongDesc=BulletsPassView is a password recovery tool that reveals the passwords stored behind the bullets in the standard password text-box of Windows operating system and Internet Explorer Web browser. After revealing the passwords, you can easily copy them to the clipboard or save them into text/html/csv/xml file. 
+
+[Software29]
+exe=ChromeCacheView.exe
+help=ChromeCacheView.chm
+url=https://www.nirsoft.net/utils/chrome_cache_view.html
+exe64=
+group=3
+Name=ChromeCacheView
+ShortDesc=Chrome Browser Cache Viewer
+LongDesc=ChromeCacheView is a small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache. For each cache file, the following information is displayed: URL, Content type, File size, Last accessed time, Expiration time, Server name, Server response, and more.   
+
+[Software30]
+exe=ChromeCookiesView.exe
+help=ChromeCookiesView.chm
+url=https://www.nirsoft.net/utils/chrome_cookies_view.html
+exe64=
+group=3
+Name=ChromeCookiesView
+ShortDesc=Alternative to the standard internal cookies viewer of Google Chrome
+LongDesc=ChromeCookiesView is an alternative to the standard internal cookies viewer of Google Chrome Web browser. it displays the list of all cookies stored by Google Chrome Web browser, and allows you to easily delete unwanted cookies. It also allows you export the cookies into text/csv/html/xml file.  For every cookie, the following information is displayed: Host Name, Path, Name, Value, Secure (Yes/No), HTTP Only Cookie (Yes/No), and more...
+
+[Software31]
+exe=ChromeHistoryView.exe
+help=ChromeHistoryView.chm
+url=https://www.nirsoft.net/utils/chrome_history_view.html
+exe64=
+group=3
+Name=ChromeHistoryView 
+ShortDesc=View the browsing history of Chrome Web browser
+LongDesc=ChromeHistoryView is a small utility that reads the history data file of Google Chrome Web browser, and displays the list of all visited Web pages in the last days. For each visited Web page, the following information is displayed: URL, Title, Visit Date/Time, Number of visits, number of times that the user typed this address, Referrer, and Visit ID.  You can select one or more history items, and them export them into html/xml/csv/text file.
+
+[Software32]
+exe=ChromePass.exe
+help=ChromePass.chm
+url=https://www.nirsoft.net/utils/chromepass.html
+exe64=
+group=1
+Name=ChromePass
+ShortDesc=Password recovery tool for Google Chrome Web browser. 
+LongDesc=ChromePass is a small password recovery tool that allows you to view the user names and passwords stored by Google Chrome Web browser. For each password entry, the following information is displayed: Origin URL, Action URL, User Name Field, Password Field, User Name, Password, and Created Time.   You can select one or more items and then save them into text/html/xml file or copy them to the clipboard. 
+
+[Software33]
+exe=CleanAfterMe.exe
+help=CleanAfterMe.chm
+url=https://www.nirsoft.net/utils/clean_after_me.html
+exe64=
+group=10
+Name=CleanAfterMe
+ShortDesc=Clean files and Registry values in your system.
+LongDesc=CleanAfterMe allows you to easily clean files and Registry entries that are automatically created by the Windows operating system during your regular computer work.   With CleanAfterMe, you can clean the cookies/history/cache/passwords of Internet Explorer, the 'Recent' folder, the Registry entries that record the last opened files, the temporary folder of Windows, the event logs, the Recycle Bin, and more.   
+
+[Software34]
+exe=Clipboardic.exe
+help=Clipboardic.chm
+url=https://www.nirsoft.net/utils/clipboardic.html
+exe64=
+group=6
+Name=Clipboardic
+ShortDesc=Small and simple clipboard manager.
+LongDesc=Clipboardic is a small utility that listen to the clipboard activity, and each time that you copy something into the clipboard, it automatically save the copied data into Windows clipboard file. Later, when you need the copied data again, you can simply select the right clipboard file, and Clipboardic will automatically insert it into the clipboard.   Clipboardic also allows you to easily share the clipboard data between multiple computers.
+
+[Software35]
+exe=conadvpass.exe
+help=
+url=https://www.nirsoft.net/utils/conadvpass.html
+exe64=
+group=1
+Name=Content Advisor Password Remover
+ShortDesc=
+LongDesc=Content Advisor is a feature in Internet Explorer that allows supervisors to restrict the web sites that the users can browse. The supervisor can set a password in order to prevent from other users from changing the Content Advisor properties. If the supervisor forgets the password, he cannot change the Content Advisor properties in the regular way. The simplest way to solve this problem is to delete the password in the Registry.
+
+[Software36]
+exe=ControlMyMonitor.exe
+help=ControlMyMonitor.chm
+url=https://www.nirsoft.net/utils/control_my_monitor.html
+exe64=
+group=10
+Name=ControlMyMonitor
+ShortDesc=View and modify the settings of your monitor.
+LongDesc=ControlMyMonitor allows you view and modify the settings of your monitor (Also known as 'VCP Features'), like brightness, contrast, sharpness, red/green/blue color balance, and more... You can modify the monitor settings from the GUI and from command-line. You can also export all settings of your monitor into a configuration file and then later load the same configuration back into your monitor. 
+
+[Software37]
+exe=CountryTraceRoute.exe
+help=CountryTraceRoute.chm
+url=https://www.nirsoft.net/utils/country_traceroute.html
+exe64=
+group=2
+Name=CountryTraceRoute
+ShortDesc=Fast Traceroute utility with IP country information.
+LongDesc=CountryTraceRoute is a Traceroute utility, similar to the tracert tool of Windows, but with graphical user interface, and it's also much faster than tracert of Windows. CountryTraceRoute also displays the country of the owner of every IP address found in the Traceroute.  After the Traceroute is completed, you can select all items (Ctrl+A) and then save them into csv/tab-delimited/html/xml file with 'Save Selected Items' option (Ctrl+S)
+
+[Software38]
+exe=cports.exe
+help=cports.chm
+url=https://www.nirsoft.net/utils/cports.html
+exe64=x64\cports.exe
+group=2
+Name=CurrPorts 
+ShortDesc=Displays the list of all currently opened TCP/UDP ports on your computer.
+LongDesc=CurrPorts displays the list of all currently opened TCP/IP and UDP ports on your local computer. For each port in the list, information about the process that opened the port is also displayed, including the process name, version information, the user that created it, and more.   In addition, CurrPorts allows you to close unwanted TCP connections, kill the process that opened the ports, and save the TCP/UDP ports list to HTML file, and more.
+
+[Software39]
+exe=CProcess.exe
+help=CProcess.chm
+url=https://www.nirsoft.net/utils/cprocess.html
+exe64=
+group=10
+Name=CurrProcess
+ShortDesc=Displays the list of all processes currently running on your system.
+LongDesc=CurrProcess utility displays the list of all processes currently running on your system. For each process, you can view the list of all modules (DLL files) that the process loads into memory. for all processes and modules, additional useful information is also displayed: product name, version, company name, description of the file, the size of the file, and more. 
+
+[Software40]
+exe=CredentialsFileView.exe
+help=CredentialsFileView.chm
+url=https://www.nirsoft.net/utils/credentials_file_view.html
+exe64=x64\CredentialsFileView.exe
+group=1
+Name=CredentialsFileView
+ShortDesc=Decrypts Credentials files of Windows.
+LongDesc=CredentialsFileView is a simple tool for Windows that decrypts and displays the passwords and other data stored inside Credentials files of Windows. You can use it to decrypt the Credentials data of your currently running system, as well as the Credentials data stored on external hard drive.
+
+[Software41]
+exe=CSVFileView.exe
+help=CSVFileView.chm
+url=https://www.nirsoft.net/utils/csv_file_view.html
+exe64=x64\CSVFileView.exe
+group=11
+Name=CSVFileView
+ShortDesc=CSV/Tab-delimited file viewer and converter
+LongDesc=CSVFileView is a simple CSV file viewer/converter utility that allows you to easily view the content of CSV or tab-delimited file created by NirSoft utilities or by any other software, in a simple table viewer. You can sort the lines according to one of the fields, remove unwanted fields and change their order, and then save the result back into CSV file, tab-delimited file, XML file, or HTML report. 
+
+[Software42]
+exe=ctie.exe
+help=
+url=https://www.nirsoft.net/utils/ctie.html
+exe64=
+group=5
+Name=CustomizeIE
+ShortDesc=Add/delete toolbar buttons and menu items in Internet Explorer.
+LongDesc=The CustomizeIE utility allows you to easily add, edit and delete additional toolbar buttons and menu items in Internet Explorer. (Version 5.0 and above) 
+
+[Software43]
+exe=CustomExplorerToolbar.exe
+help=CustomExplorerToolbar.chm
+url=https://www.nirsoft.net/utils/custom_explorer_toolbar.html
+exe64=
+group=6
+Name=CustomExplorerToolbar
+ShortDesc=Add Copy/Cut/Paste buttons to the Explorer toolbar of Windows 7.
+LongDesc=CustomExplorerToolbar is small utility for Windows 7 only, which allows you to easily customize the toolbar of Windows Explorer, and add buttons that were existed in previous versions of Windows, like Copy, Cut, Paste, Select All, and more.  This utility also allows you to remove the toolbar buttons that you previously added. 
+
+[Software44]
+exe=DataProtectionDecryptor.exe
+help=DataProtectionDecryptor.chm
+url=https://www.nirsoft.net/utils/dpapi_data_decryptor.html
+exe64=x64\DataProtectionDecryptor.exe
+group=1
+Name=DataProtectionDecryptor
+ShortDesc=Decrypt DPAPI-encrypted data of Windows.
+LongDesc=DataProtectionDecryptor is a powerful tool for Windows that allows you to decrypt passwords and other information encrypted by the DPAPI (Data Protection API) system of Windows operating system. You can use this tool to decrypt DPAPI data on your current running system and to decrypt DPAPI data stored on external hard drive. 
+
+[Software45]
+exe=DeviceIOView.exe
+help=DeviceIOView.chm
+url=https://www.nirsoft.net/utils/device_io_view.html
+exe64=x64\DeviceIOView.exe
+group=8
+Name=DeviceIOView
+ShortDesc=Watch the data transfer between a software or service and a device driver.
+LongDesc=DeviceIOView allows you to watch the data transfer between a software or service and a device driver (DeviceIoControl calls). For each call to a device driver, the following information is displayed: Handle, Control Code, number of input bytes, number of output bytes, the name of the device handle, and all the input/output bytes, displayed as Hex dump. 
+
+[Software46]
+exe=DevManView.exe
+help=DevManView.chm
+url=https://www.nirsoft.net/utils/device_manager_view.html
+exe64=x64\DevManView.exe
+group=10
+Name=DevManView
+ShortDesc=Alternative to the standard Device Manager of Windows.
+LongDesc=DevManView is an alternative to the standard Device Manager of Windows, which displays all devices and their properties in flat table, instead of tree viewer. In addition to displaying the devices of your local computer, DevManView also allows you view the devices list of another computer on your network, as long as you have administrator access rights to this computer.  
+
+[Software47]
+exe=Dialupass.exe
+help=Dialupass.chm
+url=https://www.nirsoft.net/utils/dialupass.html
+exe64=
+group=1
+Name=Dialupass
+ShortDesc=Recovers Dial-Up passwords in all versions of Windows.
+LongDesc=This utility enumerates all Dial-Up entries on your computer and recovers their logon details: User Name, Password and Domain.  it works perfectly in the following operating systems: Windows 95, Windows 98, Windows ME, Windows NT, Windows 2000, and Windows XP. In Windows 2000 and Windows XP, the Dialupass utility can recover the Dial-Up passwords only if you are logged on with administrator privileges. 
+
+[Software48]
+exe=DiskCountersView.exe
+help=DiskCountersView.chm
+url=https://www.nirsoft.net/utils/disk_counters_view.html
+exe64=
+group=9
+Name=DiskCountersView
+ShortDesc=Show disk drive read/write counters.
+LongDesc=DiskCountersView displays the system counters of each disk drive in your system, including the total number of read/write operations and the total number of read/write bytes. It also displays general drive information, like disk name, partition number, partition location, and so on.  You can save the information into text/html/csv/xml file or copy it to the clipboard.
+
+[Software49]
+exe=DiskSmartView.exe
+help=DiskSmartView.chm
+url=https://www.nirsoft.net/utils/disk_smart_view.html
+exe64=
+group=9
+Name=DiskSmartView
+ShortDesc=Retrieves S.M.A.R.T information from IDE/SATA disks.
+LongDesc=DiskSmartView is a small utility that retrieves the S.M.A.R.T information (S.M.A.R.T = Self-Monitoring, Analysis, and Reporting Technology) from IDE disks. This information includes the disk model/firmware/serial number, cylinders/heads, power-on hours (POH), internal temperature, disk errors rate, and more. You can use the S.M.A.R.T information retrieved by DiskSmartView to find out whether there is any significant problem in your disk drive.
+
+[Software50]
+exe=dllexp.exe
+help=dllexp.chm
+url=https://www.nirsoft.net/utils/dll_export_viewer.html
+exe64=x64\dllexp.exe
+group=8
+Name=DLL Export Viewer
+ShortDesc=Lists DLL exported functions and their memory addresses - for debugging.
+LongDesc=This utility displays the list of all exported functions and their virtual memory addresses for the specified DLL files. You can easily copy the memory address of the desired function, paste it into your debugger, and set a breakpoint for this memory address. When this function is called, the debugger will stop in the beginning of this function. 
+
+[Software51]
+exe=DNSDataView.exe
+help=DNSDataView.chm
+url=https://www.nirsoft.net/utils/dns_records_viewer.html
+exe64=
+group=5
+Name=DNSDataView
+ShortDesc=Retrieve the DNS records (MX, NS, A, SOA) of the specified domains. 
+LongDesc=This utility is a GUI alternative to the NSLookup tool that comes with Windows operating system. It allows you to easily retrieve the DNS records (MX, NS, A, SOA) of the specified domains. You can use the default DNS server of your Internet connection, or use any other DNS server that you specify. After retrieving the DNS records for the desired domains, you can save them into text/xml/html/csv file. 
+
+[Software52]
+exe=DNSQuerySniffer.exe
+help=DNSQuerySniffer.chm
+url=https://www.nirsoft.net/utils/dns_query_sniffer.html
+exe64=x64\DNSQuerySniffer.exe
+group=2
+Name=DNSQuerySniffer
+ShortDesc=Network sniffer utility that shows the DNS queries sent on your system. 
+LongDesc=DNSQuerySniffer is a network sniffer utility that shows the DNS queries sent on your system. For every DNS query, the following information is displayed: Host Name, Port Number, Query ID, Request Type (A, AAAA, NS, MX, and so on), Request Time, Response Time, Duration, Response Code, Number of records, and the content of the returned DNS records.  
+
+[Software53]
+exe=DomainHostingView.exe
+help=DomainHostingView.chm
+url=https://www.nirsoft.net/utils/domain_hosting_view.html
+exe64=
+group=5
+Name=DomainHostingView
+ShortDesc=Displays extensive information about a domain.
+LongDesc=DomainHostingView is a utility for Windows that collects extensive information about a domain by using a series of DNS and WHOIS queries, and generates HTML report that can be displayed in any Web browser.  The information displayed by the report of DomainHostingView includes: the hosting company or data center that hosts the Web server, mail server, and domain name server (DNS) of the specified domain, the created/changed/expire date, and more..
+
+[Software54]
+exe=DotNetResourcesExtract.exe
+help=DotNetResourcesExtract.chm
+url=https://www.nirsoft.net/utils/dot_net_resources_extract.html
+exe64=
+group=11
+Name=DotNetResourcesExtract
+ShortDesc=Extract embedded resources from .NET applications.
+LongDesc=DotNetResourcesExtract is a small utility that scan dll/exe files of .NET applications, and extract all .NET embedded resources (Bitmaps, Gifs, HTML files, and so on) stored in them into the folder that you specify. 
+
+[Software55]
+exe=DownTester.exe
+help=DownTester.chm
+url=https://www.nirsoft.net/utils/download_speed_tester.html
+exe64=
+group=5
+Name=DownTester
+ShortDesc=Test your Internet download speed.
+LongDesc=DownTester allows you to easily test your Internet download speed in multiple locations around the world. It automatically test the download speed of the URLs that you choose, one after another. It moves to the next download URL after the specified number of seconds has been elapsed or after it downloads the specified amount of KB - just according to your preferences. 
+
+[Software56]
+exe=DriveLetterView.exe
+help=DriveLetterView.chm
+url=https://www.nirsoft.net/utils/drive_letter_view.html
+exe64=x64\DriveLetterView.exe
+group=9
+Name=DriveLetterView
+ShortDesc=View and change drive letter assignments 
+LongDesc=DriveLetterView is a simple utility that allows you to view the list of all drive letter assignments in your system, including local drives, remote network drives, CD/DVD drives, and USB drives - even if they are not currently plugged. It also allows you to easily change a drive letter of USB devices and remote network shares, as well as to delete a drive letter of USB device that is not plugged. 
+
+[Software57]
+exe=DriverView.exe
+help=DriverView.chm
+url=https://www.nirsoft.net/utils/driverview.html
+exe64=x64\DriverView.exe
+group=10
+Name=DriverView
+ShortDesc=Displays the list of all device drivers currently loaded on your system.
+LongDesc=DriverView utility displays the list of all device drivers currently loaded on your system. For each driver in the list, additional useful information is displayed: load address of the driver, description, version, product name, company that created the driver, and more. 
+
+[Software58]
+exe=DumpEDID.exe
+help=DumpEDID.chm
+url=https://www.nirsoft.net/utils/dump_edid.html
+exe64=
+group=12
+Name=DumpEDID
+ShortDesc=Dump EDID information into the console window.
+LongDesc=DumpEDID is a small console application that extract the EDID ("Extended display identification data") records from your computer, analyze it, and dump it into the console window. EDID record provide essential information about your monitor: manufacture week/year, monitor manufacturer, monitor model, supported display modes, and so on...   
+
+[Software59]
+exe=EdgeCookiesView.exe
+help=EdgeCookiesView.chm
+url=https://www.nirsoft.net/utils/edge_cookies_view.html
+exe64=
+group=3
+Name=EdgeCookiesView
+ShortDesc=Display cookies from new versions of MS-Edge
+LongDesc=EdgeCookiesView is a tool for Windows that displays the cookies stored by newer versions of Microsoft Edge Web browser (Starting from Fall Creators Update 1709 of Windows 10). It also allows you to select one or more cookies and then export them to tab-delimited, csv file, html file, or to a file in cookies.txt format. You can read the cookies from the current running system or from the WebCacheV01.dat database on external hard drive. 
+
+[Software60]
+exe=empv.exe
+help=
+url=https://www.nirsoft.net/utils/empv.html
+exe64=
+group=1
+Name=Enterprise Manager PassView
+ShortDesc=
+LongDesc=Enterprise Manager is a graphical tool that allows you to easily configure and manage your SQL Server. If you connect your SQL Server by using the SQL Server authentication, and you don't select the "Always prompt for login name and password" option, the password and the user-name are stored on your Registry. This utility enumerates all servers registered in your Enterprise Manager, and reveals the user-names and the passwords, if they are stored on your computer. It supports the Enterprise Manager of SQL Server 7.0 and SQL Server 2000.
+
+[Software61]
+exe=EncryptedRegView.exe
+help=EncryptedRegView.chm
+url=https://www.nirsoft.net/utils/encrypted_registry_view.html
+exe64=x64\EncryptedRegView.exe
+group=1
+Name=EncryptedRegView
+ShortDesc=Scans the Registry and  decrypts the data encrypted with  DPAPI.
+LongDesc=EncryptedRegView is a tool for Windows that scans the Registry of your current running system or the Registry of external hard drive you choose and searches for data encrypted with DPAPI (Data Protection API). When it finds encrypted data in the Registry, it tries to decrypt it and displays the decrypted data in the main window of EncryptedRegView.
+
+[Software62]
+exe=ESEDatabaseView.exe
+help=ESEDatabaseView.chm
+url=https://www.nirsoft.net/utils/ese_database_view.html
+exe64=
+group=11
+Name=ESEDatabaseView
+ShortDesc=View the content of ESE database files (.edb files)
+LongDesc=ESEDatabaseView is a simple utility that reads and displays the data stored inside Extensible Storage Engine (ESE) database (Also known as 'Jet Blue' or .edb file). It displays a list of all tables available in the opened database file, allows you to choose the desired table to view, and then when you choose a table, it displays all records found in the selected table.
+
+[Software63]
+exe=EventLogChannelsView.exe
+help=EventLogChannelsView.chm
+url=https://www.nirsoft.net/utils/event_log_channels_view.html
+exe64=x64\EventLogChannelsView.exe
+group=10
+Name=EventLogChannelsView
+ShortDesc=View,Disable,Enable Event Log Channels.
+LongDesc=EventLogChannelsView is a simple tool for Windows 10/8/7/Vista that shows the list of all event log channels on your system, including the channel name, event log filename, enabled/disabled status, current number of events in the channel, and more...  It also allows you to easily make some actions on multiple channels at once: enable/disable channels, set their maximum file size, and clear all events stored in the channels. 
+
+[Software64]
+exe=EventLogSourcesView.exe
+help=EventLogSourcesView.chm
+url=https://www.nirsoft.net/utils/event_log_sources_view.html
+exe64=x64\EventLogSourcesView.exe
+group=10
+Name=EventLogSourcesView
+ShortDesc=Displays the list of all event log sources installed on your system. 
+LongDesc=EventLogSourcesView is a simple tool that displays the list of all event log sources installed on your system. For every event log source, the following information is displayed: Event Source Name, Event Type, DLL/EXE Files containing the event message strings, Registry Modified Time, and version information taken from the DLL/EXE file (Product Name, Company, File Description, File Version) 
+
+[Software65]
+exe=ExecutedProgramsList.exe
+help=ExecutedProgramsList.chm
+url=https://www.nirsoft.net/utils/executed_programs_list.html
+exe64=
+group=10
+Name=ExecutedProgramsList
+ShortDesc=Displays programs and batch files that you previously executed on your system.
+LongDesc=ExecutedProgramsList is a simple tool that displays a list of programs and batch files that you previously executed on your system. For every program, ExecutedProgramsList displays the .exe file, the created/modified time of the .exe file, and the current version information of the program (product name, product version, company name) if it's available. For some of the programs, the last time execution time of the program is also displayed. 
+
+[Software66]
+exe=exeinfo.exe
+help=
+url=https://www.nirsoft.net/utils/exeinfo.html
+exe64=
+group=11
+Name=ExeInfo
+ShortDesc=
+LongDesc=The ExeInfo utility shows general information about executable files (*.exe), dynamic-link libraries (*.dll), ocx files, and drivers files. It can recognize all major types of executables, including MS-DOS files, New Executable files (16-bit) and Portable Executable files (32-bit).
+
+[Software67]
+exe=ExifDataView.exe
+help=ExifDataView.chm
+url=https://www.nirsoft.net/utils/exif_data_view.html
+exe64=
+group=11
+Name=ExifDataView
+ShortDesc=Displays the Exif data stored inside .jpg image files
+LongDesc=ExifDataView is a small utility that reads and displays the Exif data stored inside .jpg image files generated by digital cameras. The EXIF data includes the name of the company created the camera, camera model, the date/time that the photograph was taken, Exposure Time, ISO Speed, GPS information (for digital cameras with GPS), and more. 
+
+[Software68]
+exe=explorestart.exe
+help=
+url=https://www.nirsoft.net/utils/restart_explorer.html
+exe64=
+group=10
+Name=Explorestart
+ShortDesc=
+LongDesc=Explorestart is a very simple utility that simply restart Explorer and Internet Explorer. When you run this tool, all instances of Explorer (explorer.exe) and Internet Explorer (iexplore.exe) are terminated instantly, and a new instance of Explorer is created after a few seconds. You can use this utility when something goes wrong with Explorer or Internet Explorer. For example: when you fails to open a new window of Internet Explorer, when Internet Explorer crashes, when everything start to work too slowly, and so on...
+
+[Software69]
+exe=ExtPassword.exe
+help=
+url=https://www.nirsoft.net/alpha/index.html
+exe64=
+group=13
+Name=ExtPassword!
+ShortDesc=
+LongDesc=
+
+[Software70]
+exe=FastResolver.exe
+help=FastResolver.chm
+url=https://www.nirsoft.net/utils/fastresolver.html
+exe64=
+group=5
+Name=FastResolver
+ShortDesc=Resolves multiple host names into IP addresses/MAC Addresses and vice versa. 
+LongDesc=FastResolver is a small utility that resolves multiple host names into IP addresses and vice versa. You can simply type the list of IP addresses or host name that you want to resolve, or alternatively, you can specify IP addresses range that you want to scan. For local network, FastResolver also allows you to get the MAC address of all IP addresses that you scan.
+
+[Software71]
+exe=faview.exe
+help=faview.chm
+url=https://www.nirsoft.net/utils/faview.html
+exe64=
+group=3
+Name=FavoritesView
+ShortDesc=displays the list of all your Favorties/bookmarks in a single page.
+LongDesc=FavoritesView displays the list of all your Favorties (of Internet Explorer browser) and bookmarks (of Netscape/Mozilla browsers) in a single page. Each line in the list specifies the title of the item, the URL address, the created/modified date, and the folder name. You select one or more of these bookmarks, and then copy them to the clipboard, delete them (Only for Internet Explorer Favorites), or export them to file.
+
+[Software72]
+exe=FBCacheView.exe
+help=FBCacheView.chm
+url=https://www.nirsoft.net/utils/facebook_cache_viewer.html
+exe64=
+group=3
+Name=FBCacheView
+ShortDesc=Shows Facebook images stored in the cache of your Web browser.
+LongDesc=FBCacheView is a simple tool that scans the cache of your Web browser (Internet Explorer, Firefox, or Chrome), and lists all images displayed in Facebook pages that you previously visited, including profile pictures, images uploaded to Facebook, and images taken from other Web sites. 
+
+[Software73]
+exe=FileAccessErrorView.exe
+help=
+url=https://www.nirsoft.net/utils/file_access_error_view.html
+exe64=x64\FileAccessErrorView.exe
+group=9
+Name=FileAccessErrorView
+ShortDesc=Displays file access error information
+LongDesc=FileAccessErrorView is a diagnostic tool for Windows that displays information about errors occur while programs running on your system try to open/read/write/delete a file.It displays the filename that the application tried to open/read/write/delete, the process id/name of the application, the error code (NTSTATUS code), the description of the error code, the number of times that this error occurred, and the timestamp of this error. 
+
+[Software74]
+exe=FileDate.exe
+help=
+url=https://www.nirsoft.net/utils/filedatech.html
+exe64=
+group=9
+Name=FileDate Changer
+ShortDesc=
+LongDesc=The FileDate Changer utility allows you to easily change the Created/Modified/Accessed dates of one or more files. You can use this utility in all 32-bit Operating systems (Windows 95,98,ME,NT,2000,XP) with Internet Explorer version 3.0 or above.
+
+[Software75]
+exe=FileActivityWatch.exe
+help=FileActivityWatch.chm
+url=https://www.nirsoft.net/utils/file_activity_watch.html
+exe64=x64\FileActivityWatch.exe
+group=10
+Name=FileActivityWatch
+ShortDesc=Alternative to the 'File Types' manager of Windows.
+LongDesc=FileTypesMan is an alternative to the 'File Types' tab in the 'Folder Options' of Windows. It displays the list of all file extensions and types registered on your computer, and allows you to easily edit the properties and flags of each file type, as well as it allows you to add, edit, and remove actions in a file type. 
+
+[Software76]
+exe=FileTypesMan.exe
+help=FileTypesMan.chm
+url=https://www.nirsoft.net/utils/file_types_manager.html
+exe64=x64\FileTypesMan.exe
+group=6
+Name=FileTypesMan
+ShortDesc=Alternative to the 'File Types' manager of Windows.
+LongDesc=FileTypesMan is an alternative to the 'File Types' tab in the 'Folder Options' of Windows. It displays the list of all file extensions and types registered on your computer, and allows you to easily edit the properties and flags of each file type, as well as it allows you to add, edit, and remove actions in a file type. 
+
+[Software77]
+exe=FirefoxDownloadsView.exe
+help=FirefoxDownloadsView.chm
+url=https://www.nirsoft.net/utils/firefox_downloads_view.html
+exe64=
+group=3
+Name=FirefoxDownloadsView
+ShortDesc=Displayed the list of downloaded files in Firefox
+LongDesc=This utility displays the list of the latest files that you downloaded with Firefox. For every download record, the following information is displayed: Download URL, Download Filename (with full path), Referrer, MIME Type, File Size, Start/End Time, Download Duration, and Average Download Speed.
+
+[Software78]
+exe=FirmwareTablesView.exe
+help=FirmwareTablesView.chm
+url=https://www.nirsoft.net/utils/firmware_tables_view.html
+exe64=x64\FirmwareTablesView.exe
+group=10
+Name=FirmwareTablesView
+ShortDesc=Displays a list of firmware tables (ACPI, SMBIOS) stored on your system.
+LongDesc=FirmwareTablesView is a simple tool that displays a list of firmware tables (ACPI, SMBIOS) stored on your system. You can view the content of these tables in Hex-dump format and export them to a binary file. 
+
+[Software79]
+exe=FlashCookiesView.exe
+help=FlashCookiesView.chm
+url=https://www.nirsoft.net/utils/flash_cookies_view.html
+exe64=
+group=3
+Name=FlashCookiesView
+ShortDesc=View Flash cookies stored in your computer.
+LongDesc=FlashCookiesView is a small utility that displays the list of cookie files created by Flash component (Local Shared Object) in your Web browser. For each cookie file, the lower pane of FlashCookiesView displays the content of the file in readable format or as Hex dump.  You can also select one or more cookie files, and then copy them to the clipboard, save them to text/html/xml file or delete them. 
+
+[Software80]
+exe=FolderChangesView.exe
+help=FolderChangesView.chm
+url=https://www.nirsoft.net/utils/folder_changes_view.html
+exe64=
+group=10
+Name=FolderChangesView
+ShortDesc=Monitor folder/drive changes.
+LongDesc=FolderChangesView is a simple tool that monitors the folder or disk drive that you choose and lists every filename that is being modified, created, or deleted while the folder is being monitored.  You can use FolderChangesView with any local disk drive or with a remote network share, as long as you have read permission to the selected folder. 
+
+[Software81]
+exe=folrep.exe
+help=folrep.chm
+url=https://www.nirsoft.net/utils/folrep.html
+exe64=
+group=10
+Name=FoldersReport
+ShortDesc=Scans your disk, and displays a report about each folder.
+LongDesc=The FoldersReport utility scans a drive or a base folder that you select, and displays essential information for each folder that it finds: The size of all files inside the folder, The real files size on the disk, number of files inside the folder, number of hidden files, number of compressed files, and number of subfolders. You can use this utility to easily find out which folders use the most space in your drive. You can scan the folders of your local drives, CD-ROM drives, and network resources on a remote computer.
+
+[Software82]
+exe=FolderTimeUpdate.exe
+help=FolderTimeUpdate.chm
+url=https://www.nirsoft.net/utils/folder_time_update.html
+exe64=x64\FolderTimeUpdate.exe
+group=10
+Name=FolderTimeUpdate
+ShortDesc=Updates the 'Modified Time' of folders.
+LongDesc=FolderTimeUpdate is a simple tool for Windows that scans all files and folders under the base folder you choose, and updates the 'Modified Time' of every folder according the latest modified time of the files stored in it.  This tool might be useful if, for example, you backup a cluster of folders and then restore them into another disk, but the backup program doesn't restore the original modified time of the folders. 
+
+[Software83]
+exe=FullEventLogView.exe
+help=FullEventLogView.chm
+url=https://www.nirsoft.net/utils/full_event_log_view.html
+exe64=x64\FullEventLogView.exe
+group=10
+Name=FullEventLogView
+ShortDesc=Event log viewer for Windows 10/8/7/Vista.
+LongDesc=FullEventLogView is a simple tool for Windows 10/8/7/Vista that displays in a table the details of all events from the event logs of Windows, including the event description. It allows you to view the events of your local computer, events of a remote computer on your network, and events stored in .evtx files. It also allows you to export the events list to text/csv/tab-delimited/html/xml file from the GUI and from command-line. 
+
+[Software84]
+exe=GACView.exe
+help=GACView.chm
+url=https://www.nirsoft.net/dot_net_tools/gac_viewer.html
+exe64=
+group=10
+Name=GACView
+ShortDesc=Alternative to the standard .NET assembly viewer on Windows Explorer.
+LongDesc=GACView is an alternative to the standard .NET assembly viewer on Windows Explorer. In addition to the standard columns, GACView displays additional information for each assembly, like modified date, file size, full path of the assembly file, file version, and so on. GACView also allows you to delete an assembly the cannot be uninstalled in the regular way.
+
+[Software85]
+exe=GDIView.exe
+help=GDIView.chm
+url=https://www.nirsoft.net/utils/gdi_handles.html
+exe64=x64\GDIView.exe
+group=8
+Name=GDIView 
+ShortDesc=Displays the list of GDI handles opened by every process
+LongDesc=GDIView is a unique tool that displays the list of GDI handles (brushes, pens, fonts, bitmaps, and others) opened by every process. It displays the total count for each type of GDI handle, as well as detailed information about each handle.   This tool can be useful for developers that need to trace GDI resources leak in their software. 
+
+[Software86]
+exe=GetNir.exe
+help=GetNir.chm
+url=https://www.nirsoft.net/utils/get_nir_command_line_tool.html
+exe64=
+group=12
+Name=GetNir
+ShortDesc=Command line tool to extract values from tab-delimited and comma-delimited data
+LongDesc=GetNir is a command-line tool for Windows that receives tab-delimited or comma-delimited data from other tools through Standard input (stdin) , finds and extracts the desired values according to the specified filter expression and column names, and then sends these values to the Standard output (stdout). 
+
+[Software87]
+exe=grank.exe
+help=grank.chm
+url=https://www.nirsoft.net/utils/grank.html
+exe64=
+group=5
+Name=GoogRank 
+ShortDesc=Retrieves and displays the Google's PageRank of a Web page.
+LongDesc=GoogRank is a simple utility that retrieves and displays the Google's PageRank of a Web page ,without using Google Toolbar or any other browser plugin.
+
+[Software88]
+exe=grankcmd.exe
+help=grankcmd.chm
+url=https://www.nirsoft.net/utils/grankcmd.html
+exe64=
+group=12
+Name=GoogRankCmd
+ShortDesc=
+LongDesc=GoogRankCmd is a simple command-line utility that retrieves and displays the Google's PageRank of a Web page ,without using Google Toolbar or any other browser plugin.
+
+[Software89]
+exe=GUIPropView.exe
+help=GUIPropView.chm
+url=https://www.nirsoft.net/utils/gui_prop_view.html
+exe64=x64\GUIPropView.exe
+group=6
+Name=GUIPropView
+ShortDesc=Displays extensive information about all windows currently opened on your system
+LongDesc=GUIPropView displays extensive information about all windows currently opened on your system. The upper pane of GUIPropView displays all top level windows, and when you select a window in the upper pane, the lower pane displays the list of all child windows of the selected top level window.  You can also select one or more windows and then do some actions on them like close, hide, show, minimize, maximize, disable, enable, and so on... 
+
+[Software90]
+exe=HandleCountersView.exe
+help=HandleCountersView.chm
+url=https://www.nirsoft.net/utils/handle_counters_view.html
+exe64=x64\HandleCountersView.exe
+group=10
+Name=HandleCountersView
+ShortDesc=Shows handle counter for every process
+LongDesc=HandleCountersView is a simple tool for Windows that shows the current number of handles (File, Directory, Token, Job, Thread, and so on...) opened by every process running on your system and the change in number of handles since the last time that you reset the counters. 
+
+[Software91]
+exe=HashMyFiles.exe
+help=HashMyFiles.chm
+url=https://www.nirsoft.net/utils/hash_my_files.html
+exe64=x64\HashMyFiles.exe
+group=11
+Name=HashMyFiles
+ShortDesc=Calculate the MD5/SHA1 hashes of your files
+LongDesc=HashMyFiles is small utility that allows you to calculate the MD5 and SHA1 hashes of one or more files in your system. You can easily copy the MD5/SHA1 hashes list into the clipboard, or save them into text/html/xml file.   HashMyFiles can also be launched from the context menu of Windows Explorer, and display the MD5/SHA1 hashes of the selected file or folder.
+
+[Software92]
+exe=HeapMemView.exe
+help=HeapMemView.chm
+url=https://www.nirsoft.net/utils/heap_memory_view.html
+exe64=x64\HeapMemView.exe
+group=8
+Name=HeapMemView
+ShortDesc=View the content of all memory blocks allocated in the heap.
+LongDesc=HeapMemView is a small utility that allows you to view the content of all memory blocks allocated in the heap of the process the you select.   This tool can be useful for developers that need to trace memory leaks in their software. 
+
+[Software93]
+exe=HostedNetworkStarter.exe
+help=HostedNetworkStarter.chm
+url=https://www.nirsoft.net/utils/wifi_hotspot_starter.html
+exe64=
+group=5
+Name=HostedNetworkStarter
+ShortDesc=Create a wifi hotspot with your wireless network adapter
+LongDesc=HostedNetworkStarter is a simple tool for Windows 7 and later that allows you to easily create a wifi hotspot with your wireless network adapter, using the Wifi hosted network feature of Windows operating system. With the wifi hotspot created by this tool, you can allow any device with wifi support to access the network and the Internet connection available in your computer. 
+
+[Software94]
+exe=HotKeysList.exe
+help=HotKeysList.chm
+url=https://www.nirsoft.net/utils/hot_keys_list.html
+exe64=
+group=11
+Name=HotKeysList
+ShortDesc=Displays the list of hot keys that are currently registered on your system.
+LongDesc=HotKeysList is a simple tool for Windows that displays the list of hot keys that are currently registered on your system. You can use this tool to easily determine which hot keys on your system are available to use. 
+
+[Software95]
+exe=HtmlAsText.exe
+help=HtmlAsText.chm
+url=https://www.nirsoft.net/utils/htmlastext.html
+exe64=
+group=5
+Name=HTMLAsText
+ShortDesc=Converts HTML documents to simple text files.
+LongDesc=Converts HTML documents to simple text files, by removing all HTML tags and formatting the text according to your preferences.
+
+[Software96]
+exe=HtmlDocEdit.exe
+help=HtmlDocEdit.chm
+url=https://www.nirsoft.net/utils/html_doc_edit.html
+exe64=
+group=11
+Name=HtmlDocEdit 
+ShortDesc=Simple HTML designer/editor
+LongDesc=HtmlDocEdit is a simple HTML designer/editor based on the Internet Explorer browser, that allows you to easily edit HTML files without any knowledge in HTML. with HtmlDocEdit you can change the font/color of selected text, add images, add links, add ordered and unordered lists, and more... 
+
+[Software97]
+exe=HTTPNetworkSniffer.exe
+help=HTTPNetworkSniffer.chm
+url=https://www.nirsoft.net/utils/http_network_sniffer.html
+exe64=x64\HTTPNetworkSniffer.exe
+group=2
+Name=HTTPNetworkSniffer
+ShortDesc=Captures and displays HTTP requests/responses.
+LongDesc=HTTPNetworkSniffer is a packet sniffer tool that captures all HTTP requests/responses sent between the Web browser and the Web server and displays them in a simple table. For every HTTP request, the following information is displayed: Host Name, HTTP method (GET, POST, HEAD), URL Path, User Agent, Response Code, Response String, Content Type, Referer, Content Encoding, Transfer Encoding, Server Name, Content Length, Cookie String, and more...  
+
+[Software98]
+exe=IconsExt.exe
+help=IconsExt.chm
+url=https://www.nirsoft.net/utils/iconsext.html
+exe64=
+group=11
+Name=IconsExtract
+ShortDesc=Extract icons and cursors from executbale files (EXE, DLL, OCX, CPL,  etc.)
+LongDesc=This utility scans the files and folders on your computer,   and extract the icons and cursors stored in EXE, DLL, OCX, CPL, and in   other file types. You can save the extracted icons to ICO files (or CUR files for cursors),   or copy the image of a single icon into the clipboard.
+
+[Software99]
+exe=IdenSwitch.exe
+help=IdenSwitch.chm
+url=https://www.nirsoft.net/utils/idenswitch.html
+exe64=
+group=5
+Name=IdenSwitch
+ShortDesc=
+LongDesc=Starting from version 5.0, Outlook Express allows you to create multiple identities, where every identity has a separate address book, inbox and other folders. However, in order to switch to other identity, you have to open Outlook Express with the current identity, select 'Switch Identity' from the File menu, and then select the desired identity.
+
+[Software100]
+exe=IECacheView.exe
+help=IECacheView.chm
+url=https://www.nirsoft.net/utils/ie_cache_viewer.html
+exe64=
+group=3
+Name=IECacheView
+ShortDesc=List all files currently stored in the cache of Internet Explorer.
+LongDesc=IECacheView is a small utility that reads the cache folder of Internet Explorer, and displays the list of all files currently stored in the cache. For each cache file, the following information is displayed: Filename, Content Type, URL, Last Accessed Time, Last Modified Time, Expiration Time, Number Of Hits, File Size, Folder Name, and full path of the cache filename. 
+
+[Software101]
+exe=IECompo.exe
+help=
+url=https://www.nirsoft.net/utils/iecompo.html
+exe64=
+group=10
+Name=IECompo
+ShortDesc=
+LongDesc=This small utility displays the list of Internet Explorer components that are installed on your computer.
+
+[Software102]
+exe=iecv.exe
+help=iecv.chm
+url=https://www.nirsoft.net/utils/iecookies.html
+exe64=
+group=3
+Name=IECookiesView
+ShortDesc=Displays the cookies that Internet Explorer stores on your computer
+LongDesc=This utility displays the details of all cookies that Internet Explorer stores on your computer. In addition, it allows you to change the content of the cookies, delete unwanted cookie files, save the cookies into a readable text file, find cookies by specifying the domain name, view the cookies of other users and in other computers, and more...
+
+[Software103]
+exe=IEDesignMode.exe
+help=IEDesignMode.chm
+url=https://www.nirsoft.net/utils/ie_design_mode.html
+exe64=
+group=3
+Name=IEDesignMode
+ShortDesc=Switch the active Internet Explorer window to design mode.
+LongDesc=IEDesignMode Adds a new menu item into the context menu of Internet Explorer that allows you to easily switch the active Internet Explorer window to design mode. 
+When a Web page in in design mode, you can change the location of images and other objects, change the current text, paste a new text into the Web page, and so on. After you made your changes, you can easily switch back to non-design mode and/or save the modified Web page to HTML file.
+
+[Software104]
+exe=iehv.exe
+help=iehv.chm
+url=https://www.nirsoft.net/utils/iehv.html
+exe64=
+group=3
+Name=IEHistoryView
+ShortDesc=Displays the list of Web sites that you visited with IE Web browser.
+LongDesc=This utility reads all information from the history file created by Internet Explorer, and displays the list of all URLs that you have visited in the last few days.
+
+[Software105]
+exe=iepv.exe
+help=iepv.chm
+url=https://www.nirsoft.net/utils/internet_explorer_password.html
+exe64=
+group=1
+Name=IE PassView
+ShortDesc=Recover passwords stored by Internet Explorer (Versions 4.0 - 8.0)
+LongDesc=IE PassView is a small utility that reveals the passwords stored by Internet Explorer Web browser. It supports all versions of Internet Explorer, from version 4.0 and up to 8.0.  For each password that is stored by Internet Explorer, the following information is displayed: Web address, Password Type (AutoComplete, Password-Protected Web Site, or FTP), Storage Location, and the user name/password pair. 
+
+[Software106]
+exe=ImageCacheViewer.exe
+help=ImageCacheViewer.chm
+url=https://www.nirsoft.net/utils/image_cache_viewer.html
+exe64=
+group=3
+Name=ImageCacheViewer
+ShortDesc=Displays images stored in the cache of your Web browsers.
+LongDesc=ImageCacheViewer is a simple tool that scans the cache of your Web browser (Internet Explorer, Firefox, or Chrome), and lists the images displayed in the Web sites that you recently visited. For every cached image file, the following information is displayed: URL of the image, Web browser that was used to visit the page, image type, date/time of the image, browsing time, and file size.  
+
+[Software107]
+exe=InjectedDLL.exe
+help=InjectedDLL.chm
+url=https://www.nirsoft.net/utils/injected_dll.html
+exe64=
+group=8
+Name=InjectedDLL
+ShortDesc=InjectedDLL is a small utility that displays the list of DLLs that are automatically injected on every process in your system.
+LongDesc=InjectedDLL is a small utility that displays the list of DLLs that are automatically injected on every process in your system.
+
+[Software108]
+exe=InsideClipboard.exe
+help=InsideClipboard.chm
+url=https://www.nirsoft.net/utils/inside_clipboard.html
+exe64=
+group=6
+Name=InsideClipboard
+ShortDesc=Displays the content of all formats stored in the clipboard.
+LongDesc=InsideClipboard is a small utility that displays the binary content of all formats that are currently stored in the clipboard, and allow you to save the content of specific format into a binary file. 
+
+[Software109]
+exe=InstalledAppView.exe
+help=InstalledAppView.chm
+url=https://www.nirsoft.net/utils/installed_app_view.html
+exe64=x64\InstalledAppView.exe
+group=10
+Name=InstalledAppView
+ShortDesc=View installed Windows 10 apps
+LongDesc=InstalledAppView is a tool for Windows 10 that displays the details of Windows 10 apps installed on your system. it  allows you to load the Windows 10 apps list from your local system, remote computer on your network, and from external disk.
+
+[Software110]
+exe=InstalledCodec.exe
+help=InstalledCodec.chm
+url=https://www.nirsoft.net/utils/installed_codec.html
+exe64=x64\InstalledCodec.exe
+group=4
+Name=InstalledCodec
+ShortDesc=List Codec drivers and DirectShow filters installed on your system.
+LongDesc=InstalledCodec is a small utility displays the list of all Codec drivers and DirectShow filters currently installed on your system. For each component the following information is displayed: Display Name, Type, Disabled Status, Installed/Modified Time, Description, Company Name, Filename, and more...   It allows you to easily disable or enable any Codec/DirectShow component or export the list into text/xml/html file. 
+
+[Software111]
+exe=InstalledDriversList.exe
+help=InstalledDriversList.chm
+url=https://www.nirsoft.net/utils/installed_drivers_list.html
+exe64=x64\InstalledDriversList.exe
+group=10
+Name=InstalledDriversList
+ShortDesc=Lists all device drivers that are currently installed on your system.
+LongDesc=InstalledDriversList is a simple tool for Windows that lists all device drivers that are currently installed on your system. For every device driver, the following information is displayed: Driver Name, Display Name, Description, Startup Type, Driver type, Driver Group, Filename, File Size, Modified/Created Time of the driver file, and version information of the driver file.  
+
+[Software112]
+exe=InstalledPackagesView.exe
+help=InstalledPackagesView.chm
+url=https://www.nirsoft.net/utils/installed_packages_view.html
+exe64=x64\InstalledPackagesView.exe
+group=10
+Name=InstalledPackagesView
+ShortDesc=Displays installed MSI packages on your system.
+LongDesc=InstalledPackagesView is a tool for Windows that displays the list of all software packages installed on your system with Windows Installer, and lists the files, Registry keys, and .NET Assemblies associated with them. For every installed software, the following information is displayed: Display Name, Display Version, Install Date, Registry Time, Estimated Size, Install Location, Install Source, MSI Filename (In C:\Windows\Installer), and more...
+
+[Software113]
+exe=IPInfoOffline.exe
+help=IPInfoOffline.chm
+url=https://www.nirsoft.net/utils/ip_country_info_offline.html
+exe64=
+group=5
+Name=IPInfoOffline
+ShortDesc=view country information about IP addresses.
+LongDesc=IPInfoOffline Allows you to view information about IP addresses, without connecting any external server. It uses a compressed IP addresses database that is stored inside the exe file.   For each IP address, the following information is displayed: IP block range, Organization (RIPE, ARIN, APNIC, LACNIC or AFRINIC), Assigned Date, Country Name, and Country Code. 
+
+[Software114]
+exe=ipnetinfo.exe
+help=ipnetinfo.chm
+url=https://www.nirsoft.net/utils/ipnetinfo.html
+exe64=
+group=5
+Name=IPNetInfo
+ShortDesc=Easily find all available information about IP address.
+LongDesc=IPNetInfo is a small utility that allows you to easily find all available information about an IP address: The owner of the IP address, the country/state name, IP addresses range, contact information (address, phone, fax, and email), and more. 
+
+[Software115]
+exe=JRView.exe
+help=JRView.chm
+url=https://www.nirsoft.net/utils/jrview.html
+exe64=
+group=10
+Name=JRView
+ShortDesc=Displays the installed Java Runtime  Environments.
+LongDesc=JRView is a small utility that displays the list of all Java Runtime Environments and Java Development Kits installed on your system, and allows you to run a Java application (.class or .jar file) on the desired Java environment.
+
+[Software116]
+exe=jsae.exe
+help=jsae.chm
+url=https://www.nirsoft.net/utils/jsae.html
+exe64=
+group=5
+Name=JavaScript Animator Express
+ShortDesc=This utility allows you to easily create animation from image files (GIFs and JPGs) on your local drive. The animation is achieved by creating a simple HTML page with JavaScript animation, and running it on your default browser.
+
+[Software117]
+exe=JumpListsView.exe
+help=JumpListsView.chm
+url=https://www.nirsoft.net/utils/jump_lists_view.html
+exe64=
+group=10
+Name=JumpListsView
+ShortDesc=Displays the information stored by the 'Jump Lists' feature of Windows 7.
+LongDesc=JumpListsView is a simple tool that displays the information stored by the 'Jump Lists' feature of Windows 7 and Windows 8. For every record found in the Jump Lists, the following information is displayed: The filename that the user opened, the date/time of the file opening event, the ID of the application that was used to open the file, the size/time/attributes of the file on the time that the file was opened, and more...  
+
+[Software118]
+exe=KeyboardStateView.exe
+help=KeyboardStateView.chm
+url=https://www.nirsoft.net/utils/keyboard_state_view.html
+exe64=
+group=10
+Name=KeyboardStateView
+ShortDesc=Shows the  current state and virtual key code of every key you press.
+LongDesc=KeyboardStateView is a simple tool for Windows that displays the current state and virtual key code of every key you press. It also allows you to view the current state of all keyboard keys.  For every key, the following information is displayed: Key Name (VK_XXXX ), Description, Key Code (Decimal), Key Code (Hexadecimal), Key Pressed Status, Key Toggled Status (Useful for Num Lock, Caps Lock), and last time that the key was pressed. 
+
+[Software119]
+exe=LastActivityView.exe
+help=LastActivityView.chm
+url=https://www.nirsoft.net/utils/computer_activity_view.html
+exe64=
+group=10
+Name=LastActivityView
+ShortDesc=View the latest computer activity.
+LongDesc=LastActivityView is a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. The activity displayed by LastActivityView includes: Running .exe file, Opening open/save dialog-box, Opening file/folder from Explorer or other software, software installation, system shutdown/start, application or system crash,and more...
+
+[Software120]
+exe=LiveContactsView.exe
+help=LiveContactsView.chm
+url=https://www.nirsoft.net/utils/live_messenger_contacts.html
+exe64=
+group=11
+Name=LiveContactsView
+ShortDesc=View the details of all contacts in your Windows Live Messenger.
+LongDesc=LiveContactsView is a small utility that allows you to view the details of all contacts in your Windows Live Messenger. For each contact, LiveContactsView display the following fields: Email address, nickname, quick name, first name, last name, and more. You can easily select one or more contacts and then export them into text/xml/html/csv file, or copy them into the clipboard and then paste them into Excel or to other spreadsheet application.
+
+[Software121]
+exe=LiveTcpUdpWatch.exe
+help=LiveTcpUdpWatch.chm
+url=https://www.nirsoft.net/utils/live_tcp_udp_watch.html
+exe64=x64\LiveTcpUdpWatch.exe
+group=2
+Name=LiveTcpUdpWatch
+ShortDesc=Displays live information about all TCP and UDP activity on your system.
+LongDesc=LiveTcpUdpWatch is a tool for Windows that displays live information about all TCP and UDP activity on your system. Every line in the main table of LiveTcpUdpWatch displays the protocol (TCP/UDP/IPv4/IPv6), local/remote IP address, local/remote port, number of sent/received bytes, number of sent/received packets, connect/disconnect time (For TCP only), and the process (ID and path) responsible for this activity. 
+
+[Software122]
+exe=LoadedDllsView.exe
+help=LoadedDllsView.chm
+url=https://www.nirsoft.net/utils/loaded_dll_view.html
+exe64=x64\LoadedDllsView.exe
+group=10
+Name=LoadedDllsView
+ShortDesc=Displays all DLL files loaded on your system.
+LongDesc=LoadedDllsView is a simple tool for Windows that scans all running processes on your system and displays the list of all DLL files loaded by these processes and the number of processes that load each DLL in the list. When selecting a DLL file in the upper pane of LoadedDllsView, the lower pane displays the list of all processes that use the selected DLL file.
+
+[Software123]
+exe=LSASecretsDump.exe
+help=LSASecretsDump.chm
+url=https://www.nirsoft.net/utils/lsa_secrets_dump.html
+exe64=x64\LSASecretsDump.exe
+group=1
+Name=LSASecretsDump
+ShortDesc=Dump the LSA secrets from the Registry.
+LongDesc=LSASecretsDump is a small console application that extract the LSA secrets from the Registry, decrypt them, and dump them into the console window.   The LSA secrets key is located under HKEY_LOCAL_MACHINE\Security\Policy\Secrets and may contain your RAS/VPN passwords, Autologon password, and other system passwords/keys. 
+
+[Software124]
+exe=LSASecretsView.exe
+help=LSASecretsView.chm
+url=https://www.nirsoft.net/utils/lsa_secrets_view.html
+exe64=x64\LSASecretsView.exe
+group=1
+Name=LSASecretsView
+ShortDesc= displays the list of all LSA secrets stored in the Registry on your computer. 
+LongDesc=LSASecretsView is a small utility that displays the list of all LSA secrets stored in the Registry on your computer.   The LSA secrets key is located under HKEY_LOCAL_MACHINE\Security\Policy\Secrets and may contain your RAS/VPN passwords, Autologon password, and other system passwords/keys. 
+
+[Software125]
+exe=MACAddressView.exe
+help=MACAddressView.chm
+url=https://www.nirsoft.net/utils/mac_address_lookup_find.html
+exe64=
+group=5
+Name=MACAddressView
+ShortDesc=MAC address lookup tool
+LongDesc=MACAddressView is a MAC address lookup tool that allows you to easily find the company details (company name, address, and country) according to the MAC address of a product.   MACAddressView also allows you to find MAC address records according to the company name, company address, or country name.
+
+[Software126]
+exe=mailpv.exe
+help=mailpv.chm
+url=https://www.nirsoft.net/utils/mailpv.html
+exe64=
+group=1
+Name=Mail PassView
+ShortDesc=Recovers email passwords
+LongDesc=Mail PassView is a small password-recovery tool that reveals the passwords and other account details for the following email clients:    Outlook Express  Microsoft Outlook 2000 (POP3 and SMTP Accounts only)  Microsoft Outlook 2002/2003 (POP3, IMAP, HTTP and SMTP Accounts)  IncrediMail  Eudora  Netscape 6.x/7.x  Mozilla Thunderbird  Group Mail Free  Web-based email clients  
+
+[Software127]
+exe=MIMEView.exe
+help=MIMEView.chm
+url=https://www.nirsoft.net/utils/mimeview.html
+exe64=
+group=5
+Name=MIMEView
+ShortDesc=
+LongDesc=This utility displays the list of all MIME types defined in your system. For each MIME type, information about the associated file extension and installed plugin is also displayed.
+
+[Software128]
+exe=MMCSnapInsView.exe
+help=MMCSnapInsView.chm
+url=https://www.nirsoft.net/utils/mmc_snapins_view.html
+exe64=x64\MMCSnapInsView.exe
+group=10
+Name=MMCSnapInsView
+ShortDesc=Displays the details of all MMC snap-ins installed on your system.
+LongDesc=MMCSnapInsView is a simple tool for Windows that displays the details of all MMC snap-ins installed on your system, including name, description, CLSID, dll file, product name, company name, file version, and more...  You can also select multiple MMC snap-ins and then open them in MMC application.
+
+[Software129]
+exe=mmview.exe
+help=
+url=https://www.nirsoft.net/utils/mmview.html
+exe64=
+group=10
+Name=MMCompView
+ShortDesc=Lists the installed Codec, and allows you to disable/enable them.
+LongDesc=The MMCompView utility displays the details of all installed multimedia components (Codec and ActiveX filters) and allows you to disable and enable specific components.
+
+[Software130]
+exe=MobileFileSearch.exe
+help=MobileFileSearch.chm
+url=https://www.nirsoft.net/utils/mobile_device_file_search.html
+exe64=x64\MobileFileSearch.exe
+group=11
+Name=MobileFileSearch
+ShortDesc=Search files inside a mobile device
+LongDesc=MobileFileSearch is a tool for Windows that allows you to search files inside a mobile device (Smartphone or Tablet) plugged to the USB port on your computer, with Media Transfer Protocol (MTP). You can search files by their size, their created time, their modified time, or their name (using wildcard).
+
+[Software131]
+exe=MonitorInfoView.exe
+help=MonitorInfoView.chm
+url=https://www.nirsoft.net/utils/monitor_info_view.html
+exe64=
+group=10
+Name=MonitorInfoView
+ShortDesc=displays essential information about your monitor.
+LongDesc=MonitorInfoView is a small utility that displays essential information about your monitor: manufacture week/year, monitor manufacturer, monitor model, supported display modes, and more... The information is extracted from the EDID ("Extended display identification data") records stored on your computer.   You can also view the monitor information of multiple computers on your network, if you login to these computers with administrator rights.
+
+[Software132]
+exe=MozillaCacheView.exe
+help=MozillaCacheView.chm
+url=https://www.nirsoft.net/utils/mozilla_cache_viewer.html
+exe64=
+group=3
+Name=MZCacheView
+ShortDesc=List all files currently stored in the cache of Firefox/Mozilla browser.
+LongDesc=MozillaCacheView is a small utility that reads the cache folder of Firefox/Mozilla/Netscape Web browsers, and displays the list of all files currently stored in the cache. For each cache file, the following information is displayed: URL, Content type, File size, Last modified time, Last fetched time, Expiration time, Fetch count, Server name, and more.   
+
+[Software133]
+exe=MozillaHistoryView.exe
+help=MozillaHistoryView.chm
+url=https://www.nirsoft.net/utils/mozilla_history_view.html
+exe64=x64\MozillaHistoryView.exe
+group=3
+Name=MZHistoryView
+ShortDesc=Displays the list of visited Web sites in Firefox/Mozilla/Netscape Web browsers.
+LongDesc=MozillaHistoryView is a small utility that reads the history data file (history.dat) of Firefox/Mozilla/Netscape Web browsers, and displays the list of all visited Web pages in the last days. For each visited Web page, the following information is displayed: URL, First visit date, Last visit date, Visit counter, Referrer, Title, and Host name.   You can also easily export the history data to text/HTML/Xml file. 
+
+[Software134]
+exe=mpk.exe
+help=mpk.chm
+url=https://www.nirsoft.net/utils/mpk.html
+exe64=
+group=5
+Name=MyPopupKiller
+ShortDesc=
+LongDesc=The MyPopupKiller utility displays the list of all opened windows of your Web browser, and closes unwanted popup and advertising windows. In addition, it can automatically hide the internal ads of Kazaa Media Desktop, Download Accelerator (DAP), and Opera browser.
+
+[Software135]
+exe=mspass.exe
+help=mspass.chm
+url=https://www.nirsoft.net/utils/mspass.html
+exe64=
+group=1
+Name=MessenPass
+ShortDesc=Recovers the passwords of instant messenger programs
+LongDesc=MessenPass is a password recovery tool that reveals the passwords of the following instant messenger applications: MSN Messenger, Windows Messenger (In Windows XP), Yahoo Messenger, ICQ Lite 4.x/2003, AOL Instant Messenger, AOL Instant Messenger/Netscape 7, Trillian, Miranda, and GAIM.  
+
+[Software136]
+exe=MUICacheView.exe
+help=MUICacheView.chm
+url=https://www.nirsoft.net/utils/muicache_view.html
+exe64=
+group=10
+Name=MUICacheView
+ShortDesc=Edit/delete MUICache items in your system
+LongDesc=Each time that you start using a new application, Windows operating system automatically extract the application name from the version resource of the exe file, and stores it for using it later, in Registry key known as the 'MuiCache'.   This utility allows you to easily view and edit the list of all MuiCache items on your system. You can edit the name of the application, or alternatively, you can delete unwanted MUICache items.  
+
+[Software137]
+exe=MultiMonitorTool.exe
+help=MultiMonitorTool.chm
+url=https://www.nirsoft.net/utils/multi_monitor_tool.html
+exe64=x64\MultiMonitorTool.exe
+group=10
+Name=MultiMonitorTool 
+ShortDesc=Enable,disable,and set the primary monitor in Multi-Monitor system.
+LongDesc=MultiMonitorTool is a small tool that allows you to do some actions related to working with multiple monitors. With MultiMonitorTool, you can disable/enable monitors, set the primary monitor, save and load the configuration of all monitors, and move windows from one monitor to another. You can do these actions from the user interface or from command-line, without displaying user interface.
+
+[Software138]
+exe=mweather.exe
+help=mweather.chm
+url=https://www.nirsoft.net/utils/mweather.html
+exe64=
+group=11
+Name=MetarWeather
+ShortDesc=Decode METAR weather reports, and display them in a simple weather report table.
+LongDesc=The MetarWeather utility decodes METAR weather reports from around the world, and displays them in a simple weather report table. You can save the weather report into a text or HTML files. MetarWeather can decode METAR reports from a text file, or download the latest reports directly from the Internet.
+
+[Software139]
+exe=MyEventViewer.exe
+help=MyEventViewer.chm
+url=https://www.nirsoft.net/utils/my_event_viewer.html
+exe64=x64\MyEventViewer.exe
+group=10
+Name=MyEventViewer
+ShortDesc=MyEventViewer is a simple alternative to the standard event viewer of Windows.
+LongDesc=MyEventViewer is a simple alternative to the standard event viewer of Windows. As oppose to Windows event viewer, MyEventViewer allows you to watch multiple event logs in one list, as well as the event description and data are displayed in the main window, instead of opening a new one. 
+
+[Software140]
+exe=MyLastSearch.exe
+help=MyLastSearch.chm
+url=https://www.nirsoft.net/utils/my_last_search.html
+exe64=
+group=3
+Name=MyLastSearch
+ShortDesc=View your latest searches with Google, Yahoo, and MSN
+LongDesc=MyLastSearch utility scans the cache and history files of your Web browser, and locate all search queries that you made with the most popular search engines (Google, Yahoo and MSN). The search queries that you made are displayed in a table with the following columns: Search Text, Search Engine, Search Time, Web Browser, and the search URL.   
+
+[Software141]
+exe=myuninst.exe
+help=myuninst.chm
+url=https://www.nirsoft.net/utils/myuninst.html
+exe64=
+group=1
+Name=MyUninstaller
+ShortDesc=Alternative utility to the standard Add/Remove applet of Windows.
+LongDesc=MyUninstaller is an alternative utility to the standard Add/Remove applet of Windows operating system. It displays the list of all installed application, and allows you to uninstall an application, delete an uninstall entry, and more.
+
+[Software142]
+exe=mzcv.exe
+help=mzcv.chm
+url=https://www.nirsoft.net/utils/mzcv.html
+exe64=x64\mzcv.exe
+group=3
+Name=MZCookiesView
+ShortDesc=alternative to the standard 'Cookie Manager' provided by Netscape and Mozilla.
+LongDesc=MozillaCookiesView is an alternative to the standard 'Cookie Manager' provided by Netscape and Mozilla browsers. It displays the details of all cookies stored inside the cookies file (cookies.txt) in one table, and allows you to save the cookies list into text, HTML or XML file, delete unwanted cookies, and backup/restore the cookies file.
+
+[Software143]
+exe=NetBScanner.exe
+help=NetBScanner.chm
+url=https://www.nirsoft.net/utils/netbios_scanner.html
+exe64=
+group=2
+Name=NetBScanner
+ShortDesc=Scans all computers in the IP addresses range you choose, using NetBIOS protocol
+LongDesc=NetBScanner is a network scanner tool that scans all computers in the IP addresses range you choose, using NetBIOS protocol. For every computer located by this NetBIOS scanner, the following information is displayed: IP Address, Computer Name, Workgroup or Domain, MAC Address, and the company that manufactured the network adapter (determined according to the MAC address). NetBScanner also shows whether a computer is a Master Browser.
+
+[Software144]
+exe=NetConnectChoose.exe
+help=NetConnectChoose.chm
+url=https://www.nirsoft.net/utils/net_connect_choose.html
+exe64=
+group=5
+Name=NetConnectChoose
+ShortDesc=Set default Internet connection and view general connection information.
+LongDesc=NetConnectChoose is a simple tool that allows you to easily choose the default Internet connection that will be used by all Internet applications, when you have more than a single Internet connection on the same time.   It also displays extensive information about every active network/Internet connection, including network adapter name, MAC Address, Name Servers, MTU, Interface Speed, current incoming/outgoing data speed, and more...
+
+[Software145]
+exe=netpass.exe
+help=netpass.chm
+url=https://www.nirsoft.net/utils/network_password_recovery.html
+exe64=x64\netpass.exe
+group=1
+Name=Network Password Recovery
+ShortDesc=Recover network passwords on Windows XP/2003/Vista.
+LongDesc=When you connect to a network share on your LAN or to your .NET Passport account, Windows XP allows you to save your password in order to use it in each time that you connect the remote server. This utility recovers all network passwords stored on your system for the current logged-on user. It can also recover the passwords stored in Credentials file of external drive, as long as you know the last log-on password. 
+
+[Software146]
+exe=NetResView.exe
+help=NetResView.chm
+url=https://www.nirsoft.net/utils/netresview.html
+exe64=
+group=2
+Name=NetResView
+ShortDesc=displays the list of all network resources  on your LAN.
+LongDesc=NetResView is a small utility that displays the list of all network resources (computers, disk shares, and printer shares) on your LAN. As opposed to "My Network Places" module of Windows, NetResView display all network resources from all domains/workgroups in one screen, and including admin/hidden shares. Also, for each computer, NetResView displays the IP address, the operating system name/version, and the MAC address of the network card.
+
+[Software147]
+exe=NetRouteView.exe
+help=NetRouteView.chm
+url=https://www.nirsoft.net/utils/network_route_view.html
+exe64=
+group=2
+Name=NetRouteView
+ShortDesc=GUI alternative to the standard route utility of Windows.
+LongDesc=NetRouteView is a GUI alternative to the standard route utility (Route.exe) of Windows operating system. It displays the list of all routes on your current network, including the destination, mask, gateway, interface IP address, metric value, type, protocol, age (in seconds), interface name, and the MAC address.  NetRouteView also allows you to easily add new routes, as well as to remove or modify existing static routes. 
+
+[Software148]
+exe=Netscapass.exe
+help=
+url=https://www.nirsoft.net/utils/netscapass.html
+exe64=
+group=1
+Name=Netscapass
+ShortDesc=
+LongDesc=When you configure Netscape Communicator 4.x or Netscape 6.x/7.x to automatically remember your mail password, the password is stored on your machine, and you don't need to type the password every time that you want to check your email. However, if you forget your password, Netscape doesn't allow you to recover the password. Netscape 6.x/7.x also allows you to save the passwords of web-sites, and automatically use them when they're needed, but the same problem exists also with web-sites passwords: You can't recover the passwords if they're lost... This utility can reveal the stored mail password (POP3 server password) for Netscape Communicator 4.x, Netscape 6.x and Netscape 7. It can also reveal the stored web-sites passwords in Netscape 6.x and Netscape 7.
+
+[Software149]
+exe=NetworkConnectLog.exe
+help=NetworkConnectLog.chm
+url=https://www.nirsoft.net/utils/network_connect_log.html
+exe64=
+group=2
+Name=NetworkConnectLog
+ShortDesc=Shows a log of connected/disconnected computers on your network.
+LongDesc=NetworkConnectLog is a simple utility that repeatedly scans your local area network (Using ARP and Netbios protocols) and add a new log line every time that a new computer or device connects to your network, and when a computer or device disconnects from your network.  After the connect/disconnect log lines are accumulated, you can easily export the log lines to comma-delimited/tab-delimited/html/xml file. 
+
+[Software150]
+exe=NetworkCountersWatch.exe
+help=NetworkCountersWatch.chm
+url=https://www.nirsoft.net/utils/network_counters_watch.html
+exe64=
+group=2
+Name=NetworkCountersWatch
+ShortDesc=Displays system counters for every network interface on your system.
+LongDesc=NetworkCountersWatch is a tool for Windows that displays system counters for every network interface on your system. The system counters include the number of incoming/outgoing bytes, number of incoming/outgoing packets, number of broadcast packets, and more. You can also initialize all counters to zero at any time in order to watch the network counters for specific event.
+
+[Software151]
+exe=NetworkInterfacesView.exe
+help=NetworkInterfacesView.chm
+url=https://www.nirsoft.net/utils/network_interfaces.html
+exe64=x64\NetworkInterfacesView.exe
+group=10
+Name=NetworkInterfacesView
+ShortDesc=Displays the list of all network adapters/interfaces installed on your system.
+LongDesc=NetworkInterfacesView is a simple tool that displays the list of all network adapters/interfaces installed on your system. It displays network interfaces that are currently active, as well as network interfaces that have been installed previously, and now they are not connected (like USB wireless network adapters).  
+
+[Software152]
+exe=NetworkLatencyView.exe
+help=NetworkLatencyView.chm
+url=https://www.nirsoft.net/utils/network_latency_view.html
+exe64=x64\NetworkLatencyView.exe
+group=2
+Name=NetworkLatencyView
+ShortDesc=Calculates the network latency (in milliseconds) for every new TCP connection.
+LongDesc=NetworkLatencyView is a simple tool for Windows that listens to the TCP connections on your system and calculates the network latency (in milliseconds) for every new TCP connection detected on your system. For every IP address, NetworkLatencyView displays up to 10 network latency values, and their average. The latency value calculated by NetworkLatencyView is very similar to the result you get from pinging to the same IP address.  
+
+[Software153]
+exe=NetworkOpenedFiles.exe
+help=NetworkOpenedFiles.chm
+url=https://www.nirsoft.net/utils/network_opened_files.html
+exe64=x64\NetworkOpenedFiles.exe
+group=2
+Name=NetworkOpenedFiles
+ShortDesc=Displays the files that are currently opened by other computers on your network.
+LongDesc=NetworkOpenedFiles is a simple tool for Windows that displays the list of all files that are currently opened by other computers on your network. For every opened filename, the following information is displayed: Filename, user name, computer name (On Windows 7/2008 or later), Permissions information (Read/Write/Create), locks count, file owner, file size, file attributes, and more... 
+
+[Software154]
+exe=NetworkTrafficView.exe
+help=NetworkTrafficView.chm
+url=https://www.nirsoft.net/utils/network_traffic_view.html
+exe64=x64\NetworkTrafficView.exe
+group=2
+Name=NetworkTrafficView
+ShortDesc=Displays network traffic statistics on your network adapter
+LongDesc=NetworkTrafficView is a network monitoring tool that captures the packets pass through your network adapter, and displays general statistics about your network traffic. The packets statistics is grouped by the Ethernet Type, IP Protocol, Source/Destination Addresses, and Source/Destination ports. For every statistics line, the following information is displayed: Ethernet Type, IP Protocol, Source/Destination Address, Packets Count, and more...
+
+[Software155]
+exe=NetworkUsageView.exe
+help=NetworkUsageView.chm
+url=https://www.nirsoft.net/utils/network_usage_view.html
+exe64=x64\NetworkUsageView.exe
+group=2
+Name=NetworkUsageView
+ShortDesc=Displays network usage information for Windows 8 and Windows 10
+LongDesc=NetworkUsageView extracts and displays the network usage information stored in the SRUDB.dat database of Windows 8 and Windows 10. The network usage data is collected every hour by Windows operating systems and includes the following information: The name and description of the service or application, the name and SID of the user, the network adapter, and the total number of bytes sent and received by the specified service/application. 
+
+[Software156]
+exe=NirCmd.exe
+help=NirCmd.chm
+url=https://www.nirsoft.net/utils/nircmd.html
+exe64=x64\NirCmd.exe
+group=12
+Name=NirCmd
+ShortDesc=Do many useful tasks from command-line.
+LongDesc=NirCmd is a small utility that allows you to do many useful tasks from command-line, without displaying any user interface: write and delete values and keys in the Registry, dial to your internet account, restart windows or shut down the computer, create shortcut to a file, change the created/modified date of a file, change your display settings, turn off your monitor, open the door of your CD-ROM drive, and more... 
+
+[Software157]
+exe=nirext.exe
+help=nirext.chm
+url=https://www.nirsoft.net/utils/nirext.html
+exe64=
+group=6
+Name=NirExt
+ShortDesc=Adds 3 useful context menu extensions to your Windows Explorer environment.
+LongDesc=The NirExt utility add 3 useful context menu extensions to your Windows Explorer environment.
+
+[Software158]
+exe=NK2Edit.exe
+help=NK2Edit.chm
+url=https://www.nirsoft.net/utils/outlook_nk2_edit.html
+exe64=
+group=7
+Name=NK2Edit
+ShortDesc=Full NK2 (AutoComplete) editor for Microsoft Outlook
+LongDesc=NK2Edit is full editor for the AutoComplete file of Microsoft Outlook (NK2 file)    It allows you to modify all fields in NK2 file, delete unwanted records, add new records, fix corrupted files, merge 2 or more NK2 files and more...  
+
+[Software159]
+exe=NK2View.exe
+help=NK2View.chm
+url=https://www.nirsoft.net/utils/outlook_nk2_autocomplete.html
+exe64=
+group=10
+Name=NK2View
+ShortDesc=View the content of Outlook AutoComplete .NK2 file.
+LongDesc=Each time that you send a new message in Outlook, the emails that you type in To/Cc fields, are automatically inserted into the AutoComplete list, so in the next time that you type an email address, Outlook automatically completes the right email address for you. The AutoComplete file of Outlook is stored under [Your Profile]\Application Data\Microsoft\Outlook , and it always saved as the profile name of Outlook with .NK2 extension. This utility reads the AutoComplete file of Outlook (with .NK2 extension), displays all email records stored in it, and allows you to easily export these records into text/html/xml file.
+
+[Software160]
+exe=NTFSLinksView.exe
+help=NTFSLinksView.chm
+url=https://www.nirsoft.net/utils/ntfs_links_view.html
+exe64=x64\NTFSLinksView.exe
+group=9
+Name=NTFSLinksView
+ShortDesc=View the list of NTFS symbolic links/junctions in selected folder.
+LongDesc=Starting from Windows Vista, Microsoft uses symbolic links and junction points of NTFS file system in order to make changes in the folders structure of Windows and keep the compatibility of applications written for older versions of Windows. This utility simply shows you to list of all symbolic links and junctions in the specified folder, and their target paths. It also allows you to save the symbolic links/junctions list into text/html/xml file.
+
+[Software161]
+exe=OfficeIns.exe
+help=OfficeIns.chm
+url=https://www.nirsoft.net/utils/officeins.html
+exe64=
+group=7
+Name=OfficeIns
+ShortDesc=displays the details of all installed Microsoft Office add-ins on your computer.
+LongDesc=OfficeIns is a small utility that displays the details of all installed Microsoft Office add-ins on your computer, and allows you to disable/enable them. 
+
+[Software162]
+exe=OfflineRegistryFinder.exe
+help=OfflineRegistryFinder.chm
+url=https://www.nirsoft.net/utils/offline_registry_finder.html
+exe64=x64\OfflineRegistryFinder.exe
+group=10
+Name=OfflineRegistryFinder
+ShortDesc=Find data in external Registry files
+LongDesc=OfflineRegistryFinder is a tool for Windows that allows you to scan Registry files from external drive and find the desired Registry keys/values/data according to the search criteria you define. After OfflineRegistryFinder displays the search result, you can easily select one or more items and then export them into a .reg file that can be used to import in the RegEdit tool of Windows.  
+
+[Software163]
+exe=OfflineRegistryView.exe
+help=OfflineRegistryView.chm
+url=https://www.nirsoft.net/utils/offline_registry_view.html
+exe64=x64\OfflineRegistryView.exe
+group=10
+Name=OfflineRegistryView
+ShortDesc=View offline Registry files
+LongDesc=OfflineRegistryView is a simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format. 
+
+[Software164]
+exe=OpenedFilesView.exe
+help=OpenedFilesView.chm
+url=https://www.nirsoft.net/utils/opened_files_view.html
+exe64=x64\OpenedFilesView.exe
+group=10
+Name=OpenedFilesView
+ShortDesc=Displays the list of all opened files on your system.
+LongDesc=OpenedFilesView displays the list of all opened files on your system. For each opened file, additional information is displayed: handle value, read/write/delete access, file postion, the process that opened the file, and more...   Optionally, you can also close one or more opened files, or close the process that opened these files.   
+
+[Software165]
+exe=OpenSaveFilesView.exe
+help=OpenSaveFilesView.chm
+url=https://www.nirsoft.net/utils/open_save_files_view.html
+exe64=x64\OpenSaveFilesView.exe
+group=10
+Name=OpenSaveFilesView
+ShortDesc=Displays list of files that you previously opened.
+LongDesc=OpenSaveFilesView is a simple tool that displays the list of files that you previously opened with the standard open/save dialog-box of Windows. For every file in the list, the following information is displayed: Filename, Extension, Order (The order that the files were opened for every file extension), Open Time (Available only for the last opened file of every file type), File Modified/Created Time, File Size, and File Attributes. 
+
+[Software166]
+exe=OpenWithView.exe
+help=OpenWithView.chm
+url=https://www.nirsoft.net/utils/open_with_view.html
+exe64=
+group=6
+Name=OpenWithView
+ShortDesc=Disable/enable items in the  'Open With'  dialog-box of Windows.
+LongDesc=OpenWithView is a small utility that displays the list of all available applications in the 'Open With' dialog-box of Windows, and allows you to easily disable/enable the applications in the list. When application is disabled, it won't be displayed in the 'Other Programs' section of the 'Open With' dialog-box.   
+
+[Software167]
+exe=OperaCacheView.exe
+help=OperaCacheView.chm
+url=https://www.nirsoft.net/utils/opera_cache_view.html
+exe64=
+group=3
+Name=OperaCacheView
+ShortDesc=Cache viewer for Opera Web browser.
+LongDesc=OperaCacheView is a small utility that reads the cache folder of Opera Web browser, and displays the list of all files currently stored in the cache. For each cache file, the following information is displayed: URL, Content type, File size, Last accessed time, and last modified time in the server.   You can easily select one or more items from the cache list, and then extract the files to another folder, or copy the URLs list to the clipboard. 
+
+[Software168]
+exe=OperaPassView.exe
+help=OperaPassView.chm
+url=https://www.nirsoft.net/utils/opera_password_recovery.html
+exe64=
+group=1
+Name=OperaPassView
+ShortDesc=Password recovery tool for Opera Web browser.
+LongDesc=OperaPassView is a small password recovery tool that decrypts the content of the Opera Web browser password file (wand.dat) and displays the list of all Web site passwords stored in this file. You can easily select one or more passwords in the OperaPassView window, and then copy the passwords list to the clipboard and save it into text/html/csv/xml file. 
+
+[Software169]
+exe=OutlookAddressBookView.exe
+help=OutlookAddressBookView.chm
+url=https://www.nirsoft.net/utils/outlook_address_book_view.html
+exe64=
+group=7
+Name=OutlookAddressBookView
+ShortDesc=Displays the details of all recipients stored in the address books of Outlook
+LongDesc=OutlookAddressBookView is a simple utility that displays the details of all recipients stored in the address books of Microsoft Outlook. For every recipient entry, the following information is displayed: Email Address, Display Name, Address Type (MS-Exchange or SMTP), Street Address, Phone Number, Created Time, Modified Time (Works only with address books of Exchange server), and more...  
+
+[Software170]
+exe=OutlookAttachView.exe
+help=OutlookAttachView.chm
+url=https://www.nirsoft.net/utils/outlook_attachment.html
+exe64=
+group=7
+Name=OutlookAttachView
+ShortDesc=Extract multiple attachments from Outlook.
+LongDesc=OutlookAttachView scans all messages stored in your Outlook, and displays the list of all attached files that it finds. You can easily select one or more attachments and save all of them into the desired folder, as well as you can delete unwanted large attachments that take too much disk space in your mailbox. You can also save the list of attachments into xml/html/text/csv file. 
+
+[Software171]
+exe=OutlookStatView.exe
+help=OutlookStatView.chm
+url=https://www.nirsoft.net/utils/outlook_statistics.html
+exe64=
+group=7
+Name=OutlookStatView
+ShortDesc=Display a general statistics of your Outlook emails.
+LongDesc=OutlookStatView scans your Outlook mailbox, and display a general statistics about the users that you communicate via emails. For each user/email, the following information is displayed: The number of outgoing messages that you sent to the user (separated by to/cc/bcc), the number of incoming message that the user sent to you, the total size of messages sent by the user, the email client software used by this user, and more.
+
+[Software172]
+exe=PasswordFox.exe
+help=PasswordFox.chm
+url=https://www.nirsoft.net/utils/passwordfox.html
+exe64=x64\PasswordFox.exe
+group=1
+Name=PasswordFox
+ShortDesc=View passwords stored in Firefox Web browser.
+LongDesc=PasswordFox is a small password recovery tool that allows you to view the user names and passwords stored by Mozilla Firefox Web browser. By default, PasswordFox displays the passwords stored in your current profile, but you can easily select to watch the passwords of any other Firefox profile. For each password entry, the following information is displayed: Record Index, Web Site, User Name, Password, User Name Field, Password Field, and more.
+
+[Software173]
+exe=PasswordScan.exe
+help=PasswordScan.chm
+url=https://www.nirsoft.net/utils/password_security_scanner.html
+exe64=x64\PasswordScan.exe
+group=10
+Name=Password Security Scanner
+ShortDesc=Displays security information about passwords stored in your system.
+LongDesc=This utility scans the passwords stored by popular Windows applications (Microsoft Outlook, Internet Explorer, Mozilla Firefox, and more...) and displays security information about all these passwords. The security information of every stored password includes the total number of characters, number of numeric characters, number of lowercase/uppercase characters, number of repeating characters, and password strength. 
+
+[Software174]
+exe=PCAnyPass.exe
+help=
+url=https://www.nirsoft.net/utils/pcanypass.html
+exe64=
+group=1
+Name=PCAnywhere PassView
+ShortDesc=
+LongDesc=Symantec pcANYWHERE has 2 different types of passwords: 1. For all types of items: pcANYWHERE allows you to protect an item with a password (in "Protect item" tab). If an item is protected with a password, pcANYWHERE doesn't allow you modify or view the item's properties (depending on what you choose in the protection options). 2. In remote control items and caller items: pcANYWHERE saves the login name and password details, for using them during the remote control sessions. This utility can recover instantly both types of passwords.
+
+[Software175]
+exe=pcanyscan.exe
+help=
+url=https://www.nirsoft.net/utils/pcanyscan.html
+exe64=
+group=11
+Name=pcANYWHERE Hosts Scanner
+ShortDesc=
+LongDesc=This small utility can scan any range of 2 IP addresses and show the list of pcANYWHERE hosts within that range. It finds the pcANYWHERE hosts by sending a specific UDP packet to all hosts in the specified range. You can use this scanner for checking if there are pcANYWHERE hosts running on your TCP/IP network.
+
+[Software176]
+exe=PingInfoView.exe
+help=PingInfoView.chm
+url=https://www.nirsoft.net/utils/multiple_ping_tool.html
+exe64=
+group=2
+Name=PingInfoView 
+ShortDesc=ping multiple host names and IP addresses.
+LongDesc=PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/html/xml file, or copy it to the clipboard. 
+
+[Software177]
+exe=PreviousFilesRecovery.exe
+help=PreviousFilesRecovery.chm
+url=https://www.nirsoft.net/utils/previous_files_recovery.html
+exe64=x64\PreviousFilesRecovery.exe
+group=10
+Name=PreviousFilesRecovery
+ShortDesc=find and recovery files from Windows shadow copies
+LongDesc=PreviousFilesRecovery is a simple tool for Windows 10/8/7/Vista that allows you to scan the shadow copies of your local hard drive and find deleted files as well as older versions of existing files. If the file you need is found in the shadow copies of Windows, you can easily recover it by copying it into existing folder on your drive. 
+
+[Software178]
+exe=ProcessActivityView.exe
+help=ProcessActivityView.chm
+url=https://www.nirsoft.net/utils/process_activity_view.html
+exe64=x64\ProcessActivityView.exe
+group=10
+Name=ProcessActivityView 
+ShortDesc=Show the file activity for selected process.
+LongDesc=ProcessActivityView creates a summary of all files and folders that the selected process tries to access. For each file that the process access, the following information is displayed: Number of times that the file was opened and closed, number of read/write calls, total number of read/write bytes, the dll that made the last open-file call, and more.
+
+[Software179]
+exe=ProcessTCPSummary.exe
+help=ProcessTCPSummary.chm
+url=https://www.nirsoft.net/utils/process_tcp_summary.html
+exe64=x64\ProcessTCPSummary.exe
+group=2
+Name=ProcessTCPSummary
+ShortDesc=Displays TCP connections summary
+LongDesc=ProcessTCPSummary is a simple tool for Windows that displays a summary of all process that have TCP connections or listening UDP ports. For every process, this tool displays the total number of TCP connections, number of TCP connections for each status (Established, Listening, Syn-Sent, Syn-Received...), number of IPv4 TCP connections, number of IPv6 TCP connections, common port numbers, and more...  
+
+[Software180]
+exe=ProcessThreadsView.exe
+help=ProcessThreadsView.chm
+url=https://www.nirsoft.net/utils/process_threads_view.html
+exe64=x64\ProcessThreadsView.exe
+group=10
+Name=ProcessThreadsView
+ShortDesc=Displays extensive information about all threads of the process that you choose.
+LongDesc=ProcessThreadsView is a small utility that displays extensive information about all threads of the process that you choose. The threads information includes the ThreadID, Context Switches Count, Priority, Created Time, User/Kernel Time, Number of Windows, Window Title, Start Address, and more.  
+
+[Software181]
+exe=ProduKey.exe
+help=ProduKey.chm
+url=https://www.nirsoft.net/utils/product_cd_key_viewer.html
+exe64=x64\ProduKey.exe
+group=10
+Name=ProduKey
+ShortDesc=Displays the CD-Keys of MS-Office/Windows installed on your computer.
+LongDesc=ProduKey is a small utility that displays the ProductID and the CD-Key of MS-Office, Windows, and SQL Server installed on your computer. You can view this information for your current running operating system, or for another operating system/computer - by using command-line options. This utility can be useful if you lost the product key of your Windows/Office, and you want to reinstall it on your computer. 
+
+[Software182]
+exe=PropertySystemView.exe
+help=PropertySystemView.chm
+url=http://www.nirsoft.net/utils/windows_property_system_view.html
+exe64=x64\PropertySystemView.exe
+group=10
+Name=PropertySystemView
+ShortDesc=View/edit file properties
+LongDesc=PropertySystemView is a tool that allows you view and modify the properties of file from GUI and command-line, using the property system of Windows operating system.
+
+[Software183]
+exe=pspv.exe
+help=pspv.chm
+url=https://www.nirsoft.net/utils/pspv.html
+exe64=
+group=1
+Name=Protected Storage PassView
+ShortDesc=Reveals the passwords stored on your computer by Internet Explorer.
+LongDesc=Protected Storage PassView is a small utility that reveals the passwords stored on your computer by Internet Explorer, Outlook Express and MSN Explorer. The passwords are revealed by reading the information from the Protected Storage.
+
+[Software184]
+exe=PstPassword.exe
+help=PstPassword.chm
+url=https://www.nirsoft.net/utils/pst_password.html
+exe64=
+group=1
+Name=PstPassword
+ShortDesc=Recover lost password of Outlook PST file.
+LongDesc=PstPassword is a small utility that recover lost password of Outlook PST (Personal Folders) file. Works with PST file created by any version of Outlook (Outlook 97 - 2003).  The password is recovered instantly.
+
+[Software185]
+exe=QuickSetDNS.exe
+help=QuickSetDNS.chm
+url=https://www.nirsoft.net/utils/quick_set_dns.html
+exe64=
+group=5
+Name=QuickSetDNS
+ShortDesc=Change the DNS servers that are used for your Internet connection.
+LongDesc=QuickSetDNS is a simple tool that allows you to easily change the DNS servers that are used for your Internet connection. You can set the desired DNS servers from the user interface, by choosing from a list of DNS servers that you defined, or from command-line, without displaying any user interface. 
+
+[Software186]
+exe=rdpv.exe
+help=rdpv.chm
+url=https://www.nirsoft.net/utils/remote_desktop_password.html
+exe64=
+group=1
+Name=Remote Desktop PassView
+ShortDesc=Reveals the password stored by Microsoft Remote Desktop utility.
+LongDesc=Remote Desktop PassView is a small utility that reveals the password stored by Microsoft Remote Desktop Connection utility inside the .rdp files. 
+
+[Software187]
+exe=RecentFilesView.exe
+help=RecentFilesView.chm
+url=https://www.nirsoft.net/utils/recent_files_view.html
+exe64=
+group=10
+Name=RecentFilesView
+ShortDesc=Display the list of recently opened files
+LongDesc=Each time that you open a file from Windows Explorer or from a standard open/save dialog-box, the name of the file that you opened is recorded by the operating system. Some of the names are saved into the 'Recent' folder. Other are saved into the Registry.   This utility display the list of all recently opened files, and allows you to delete unwanted filename entries. You can also save the files list into text/html/xml file. 
+
+[Software188]
+exe=RegDllView.exe
+help=RegDllView.chm
+url=https://www.nirsoft.net/utils/registered_dll_view.html
+exe64=x64\RegDllView.exe
+group=10
+Name=RegDllView
+ShortDesc=RegDllView is a small utility that displays the list of all registered files.
+LongDesc=RegDllView is a small utility that displays the list of all registered dll/ocx/exe files (COM registration). For each registered file, you can view the last date/time that it was registered, and the list of all registration entries (CLSID/ProgID). 
+
+[Software189]
+exe=RegFileExport.exe
+help=RegFileExport.chm
+url=https://www.nirsoft.net/utils/registry_file_offline_export.html
+exe64=
+group=12
+Name=RegFileExport
+ShortDesc=Export offline Registry file to .reg file
+LongDesc=RegFileExport is a small console application that allows you to easily extract data from offline Registry file located on another disk drive. RegFileExport read the Registry file, ananlyze it, and then export the Registry data into a standard .reg file of Windows. You can export the entire Registry file, or only a specific Registry key.  
+
+[Software190]
+exe=RegFromApp.exe
+help=RegFromApp.chm
+url=https://www.nirsoft.net/utils/reg_file_from_application.html
+exe64=x64\RegFromApp.exe
+group=10
+Name=RegFromApp
+ShortDesc=Creates .reg file according to Registry changes made by application.
+LongDesc=RegFromApp monitors the Registry changes made by the application that you selected, and creates a standard RegEdit registration file (.reg) that contains all the Registry changes made by the application. You can use the generated .reg file to import these changes with RegEdit when it's needed. 
+
+[Software191]
+exe=RegistryChangesView.exe
+help=RegistryChangesView.chm
+url=https://www.nirsoft.net/utils/registry_changes_view.html
+exe64=x64\RegistryChangesView.exe
+group=10
+Name=RegistryChangesView
+ShortDesc=Compares 2 snapshots of Windows Registry.
+LongDesc=RegistryChangesView is a tool for Windows that allows you to take a snapshot of Windows Registry and later compare it with another Registry snapshots, with the current Registry or with Registry files stored in a shadow copy created by Windows. When comparing 2 Registry snapshots, you can see the exact changes made in the Registry between the 2 snapshots, and optionally export the Registry changes into a standard .reg file of RegEdit.
+
+[Software192]
+exe=RegScanner.exe
+help=RegScanner.chm
+url=https://www.nirsoft.net/utils/regscanner.html
+exe64=x64\RegScanner.exe
+group=10
+Name=RegScanner
+ShortDesc=Scan and find values in the Registry
+LongDesc=RegScanner is a small utility that allows you to scan the Registry, find the desired Registry values that match to the specified search criteria, and display them in one list. After finding the Registry values, you can easily jump to the right value in RegEdit, simply by double-clicking the desired Registry item. You can also export the found Registry values into a .reg file that can be used in RegEdit.
+
+[Software193]
+exe=ResourcesExtract.exe
+help=ResourcesExtract.chm
+url=https://www.nirsoft.net/utils/resources_extract.html
+exe64=x64\ResourcesExtract.exe
+group=11
+Name=ResourcesExtract
+ShortDesc=Extract resources from dll/ocx/exe files.
+LongDesc=ResourcesExtract is a small utility that scans dll/ocx/exe files and extract all resources (bitmaps, icons, cursors, AVI movies, HTML files, and more...) stored in them into the folder that you specify.   You can use ResourcesExtract in user interface mode, or alternatively, you can run ResourcesExtract in command-line mode without displaying any user interface. 
+
+[Software194]
+exe=RouterPassView.exe
+help=RouterPassView.chm
+url=https://www.nirsoft.net/utils/router_password_recovery.html
+exe64=
+group=1
+Name=RouterPassView
+ShortDesc=Recover passwords from router config file.
+LongDesc=This utility allows you to recover passwords or other data from the configuration file created by a router, including the login user/password of your ISP, the login password of your router, and wireless keys. 
+
+[Software195]
+exe=RTMPDumpHelper.exe
+help=RTMPDumpHelper.chm
+url=https://www.nirsoft.net/utils/rtmp_dump_helper.html
+exe64=x64\RTMPDumpHelper.exe
+group=4
+Name=RTMPDumpHelper
+ShortDesc=Download RTMP streams in conjunction with RTMPDump toolkit.
+LongDesc=RTMPDumpHelper is a small utility that can help you to easily download RTMP video/audio streams. By combining this utility and the proxy server of RTMPDump toolkit, you can simply open a Web page containing RTMP video stream in your favorite Web browser, and while watching the video, it'll be saved to your disk automatically as .flv or .mp4 file.  
+
+[Software196]
+exe=RunAsDate.exe
+help=RunAsDate.chm
+url=https://www.nirsoft.net/utils/run_as_date.html
+exe64=x64\RunAsDate.exe
+group=10
+Name=RunAsDate
+ShortDesc=Run a program with the specified date.
+LongDesc=RunAsDate is a small utility that allows you to run a program in the date and time that you specify. This utility doesn't change the current system date and time of your computer, but it only injects the date/time that you specify into the desired application.   You can run multiple applications simultaneously, each application works with different date and time, while the real date/time of your system continues to run normally.   
+
+[Software197]
+exe=RunFromProcess.exe
+help=RunFromProcess.chm
+url=https://www.nirsoft.net/utils/run_from_process.html
+exe64=x64\RunFromProcess.exe
+group=12
+Name=RunFromProcess
+ShortDesc=Run a program from another process that you choose.
+LongDesc=RunFromProcess is a command-line utility that allows you to run a program from another process that you choose.  The program that you run will be executed as a child of the specified process and it'll run with the same user and security context of the specified parent process.    
+
+[Software198]
+exe=SafariCacheView.exe
+help=SafariCacheView.chm
+url=https://www.nirsoft.net/utils/safari_cache_view.html
+exe64=
+group=3
+Name=SafariCacheView
+ShortDesc=Cache viewer/extractor for Safari Web browser
+LongDesc=SafariCacheView is a simple utility for Windows that reads and parses the cache file of Safari Web browser (cache.db) and displays the list of all cached files in a simple table. SafariCacheView also allows you to select one or more cache items and then extract them into the desired folder or save the cache list into html/text/xml/csv file.   
+
+[Software199]
+exe=SafariHistoryView.exe
+help=SafariHistoryView.chm
+url=https://www.nirsoft.net/utils/safari_history_view.html
+exe64=
+group=3
+Name=SafariHistoryView
+ShortDesc=History viewer for Safari Web browser
+LongDesc=SafariHistoryView is a simple utility for Windows that reads and parses the history file of Safari Web browser (history.plist) and displays the browsing history in a simple table. Every browsing history line includes the following information: URL, Web Page Title, Last Visit Time, Visit Count, Redirected To URL, and Record Index.  
+
+[Software200]
+exe=SearchFilterView.exe
+help=SearchFilterView.chm
+url=https://www.nirsoft.net/utils/search_filter_view.html
+exe64=
+group=10
+Name=SearchFilterView
+ShortDesc=view the search filters installed on your system.
+LongDesc=When you search the content of files with Windows search, it uses the right search IFilter plugin according to the file extension. This utility allows you to easily view the search filters installed on your system and the file extensions that are associated with them, as well as it allows you to easily add or remove file extensions for these filters.
+
+[Software201]
+exe=SearchMyFiles.exe
+help=SearchMyFiles.chm
+url=https://www.nirsoft.net/utils/search_my_files.html
+exe64=x64\SearchMyFiles.exe
+group=9
+Name=SearchMyFiles
+ShortDesc=Alternative to the standard "Search For Files And Folders" module of Windows.
+LongDesc=SearchMyFiles is an alternative to the standard "Search For Files And Folders" module of Windows. It allows you to easily search files in your system by wildcard, by last modified/created/last accessed time, by file attributes, by file content (text or binary search), and by the file size. 
+
+[Software202]
+exe=SecurityQuestionsView.exe
+help=
+url=https://www.nirsoft.net/alpha/index.html
+exe64=
+group=13
+Name=SecurityQuestionsView
+ShortDesc=
+LongDesc=
+
+[Software203]
+exe=SecuritySoftView.exe
+help=SecuritySoftView.chm
+url=https://www.nirsoft.net/utils/security_software_view.html
+exe64=
+group=10
+Name=SecuritySoftView
+ShortDesc=Displays the list of AntiVirus/AntiSpyware/ Firewall programs on your system.
+LongDesc=SecuritySoftView is a simple tool that displays the AntiVirus, AntiSpyware, and Firewall programs that are currently installed on your system and registered with the security center of Windows operating system. 
+
+[Software204]
+exe=SeqDownload.exe
+help=SeqDownload.chm
+url=https://www.nirsoft.net/utils/seqdownload.html
+exe64=
+group=5
+Name=SeqDownload
+ShortDesc=Download sequence of images from the Web, and create animation from them.
+LongDesc=With this utility, you can download live images (like live cams, radar images, and so on) from the Web for every few seconds or minutes, and store them on your local drive. After collecting a fair amount of images on your disk, you can easily create nice animation from them, and watch it in your browser.
+
+[Software205]
+exe=ServiWin.exe
+help=ServiWin.chm
+url=https://www.nirsoft.net/utils/serviwin.html
+exe64=x64\ServiWin.exe
+group=10
+Name=ServiWin
+ShortDesc=displays the list of installed drivers and services on your system.
+LongDesc=ServiWin utility displays the list of installed drivers and services on your system. For some of them, additional useful information is displayed: file description, version, product name, company that created the driver file, and more.   In addition, ServiWin allows you to easily stop, start, restart, pause, and continue service or driver, change the startup type of service or driver, save the list of services and drivers to file, and more...
+
+[Software206]
+exe=ShadowCopyView.exe
+help=ShadowCopyView.chm
+url=https://www.nirsoft.net/utils/shadow_copy_view.html
+exe64=x64\ShadowCopyView.exe
+group=10
+Name=ShadowCopyView
+ShortDesc=View shadow copies on your system
+LongDesc=ShadowCopyView is simple tool for Windows 10/8/7/Vista that lists the snapshots of your hard drive created by the 'Volume Shadow Copy' service of Windows. Every snapshot contains an older versions of your files and folders from the date that the snapshot was created, you can browse the older version of your files and folders, and optionally copy them into a folder on your disk. 
+
+[Software207]
+exe=ShellBagsView.exe
+help=ShellBagsView.chm
+url=https://www.nirsoft.net/utils/shell_bags_view.html
+exe64=
+group=10
+Name=ShellBagsView
+ShortDesc=Displays the list of all folder settings saved by Windows. 
+LongDesc=Each time that you open a folder in Explorer, Windows automatically save the settings of this folder into the Registry. This utility displays the list of all folder settings saved by Windows. For each folder, the following information is displayed: The date/time that you opened it, the entry number, display mode (Details, Icons, Tiles, and so on...), the last position of the window, and the last size of the window. 
+
+[Software208]
+exe=ShellMenuNew.exe
+help=ShellMenuNew.chm
+url=https://www.nirsoft.net/utils/shell_menu_new.html
+exe64=
+group=10
+Name=ShellMenuNew
+ShortDesc=Disable/Enable items in the New submenu of Explorer.
+LongDesc=ShellMenuNew is a small utility that displays the list of all menu items in the 'New' submenu of Windows Explorer. It allows you to easily disable unwanted menu items, so this 'New' submenu will display only the items that you need. 
+
+[Software209]
+exe=shexview.exe
+help=shexview.chm
+url=https://www.nirsoft.net/utils/shexview.html
+exe64=x64\shexview.exe
+group=10
+Name=ShellExView
+ShortDesc=Displays the details of shell extensions installed on your computer.
+LongDesc=The ShellExView utility displays the details of shell extensions installed on your computer, and allows you to easily disable and enable each shell extension. 
+
+[Software210]
+exe=shman.exe
+help=shman.chm
+url=https://www.nirsoft.net/utils/shman.html
+exe64=x64\shman.exe
+group=6
+Name=ShortcutsMan
+ShortDesc=Lists all shortcuts on your desktop/start menu.
+LongDesc=ShortcutsMan displays the details about all shortcuts that you have on your desktop and under your start menu. Broken shortcuts (shortcuts that point to file that doesn't exist) are automatically painted with pink color. You select one or more shortcuts, and then delete them, resolve them or save the shortcut's details to HTML/Text/XML file. 
+
+[Software211]
+exe=shmnview.exe
+help=shmnview.chm
+url=https://www.nirsoft.net/utils/shell_menu_view.html
+exe64=x64\shmnview.exe
+group=10
+Name=ShellMenuView
+ShortDesc=Disable/enable static menu items in context menu of Explorer.
+LongDesc=ShellMenuView is a small utility that display the list of static menu items that appeared in the context menu when you right-click a file/folder on Windows Explorer, and allows you to easily disable unwanted menu items. 
+
+[Software212]
+exe=SimpleProgramDebugger.exe
+help=SimpleProgramDebugger.chm
+url=https://www.nirsoft.net/utils/simple_program_debugger.html
+exe64=x64\SimpleProgramDebugger.exe
+group=8
+Name=SimpleProgramDebugger
+ShortDesc=Displays debugging events of a running program.
+LongDesc=SimpleProgramDebugger is a simple debugging tool that attaches to existing running program or starts a new program in debugging mode, and then displays all major debugging events occurs while the program is running, including Exception, Create Thread, Create Process, Exit Thread, Exit Process, Load DLL, Unload Dll, and Debug String.  
+
+[Software213]
+exe=SimpleWMIView.exe
+help=SimpleWMIView.chm
+url=https://www.nirsoft.net/utils/simple_wmi_view.html
+exe64=x64\SimpleWMIView.exe
+group=10
+Name=SimpleWMIView
+ShortDesc=Displays the result of WMI queries in a simple table
+LongDesc=SimpleWMIView is a simple tool for Windows that displays the result of WMI queries in a simple table, and allows you to easily export the data to text/csv/tab-delimited/html/xml file, or to copy the selected items to the clipboard and then paste them to Excel or other spreadsheet application. With SimpleWMIView you can get extensive information about your system, like a list of running processes, services, drivers, user accounts, and so on...
+
+[Software214]
+exe=SiteShoter.exe
+help=SiteShoter.chm
+url=https://www.nirsoft.net/utils/web_site_screenshot.html
+exe64=
+group=5
+Name=SiteShoter
+ShortDesc=Save a screenshot of any Web page into a file.
+LongDesc=SiteShoter is a small utility that allows you to save a screenshot of any Web page into a file. It automatically creates hidden window of Internet Explorer, loads the desired Web page, and than save the entire content of the Web page into an image file (.png, .jpg, .tiff, .bmp or .gif).   You can use SiteShoter in user interface mode, or alternatively, you can run SiteShoter in command-line mode without displaying any user interface. 
+
+[Software215]
+exe=SkypeContactsView.exe
+help=SkypeContactsView.chm
+url=https://www.nirsoft.net/utils/skype_contacts_view.html
+exe64=
+group=11
+Name=SkypeContactsView
+ShortDesc=Displays the list of Skype contacts stored in the local database file of Skype.
+LongDesc=SkypeContactsView is a simple tool that displays the list of all Skype contacts stored in the local database file of Skype.  For each contact, one or more of the following fields are displayed: Skype Name, Full Name, Display Name, Gender, ID, Birthday, Profile Time, Last Online Time, Last Used Time, Phone, Emails, and more...  
+
+[Software216]
+exe=SkypeLogView.exe
+help=SkypeLogView.chm
+url=https://www.nirsoft.net/utils/skype_log_view.html
+exe64=
+group=11
+Name=SkypeLogView
+ShortDesc=View log files created by Skype
+LongDesc=SkypeLogView reads the log files created by Skype application, and displays the details of incoming/outgoing calls, chat messages, and file transfers made by the specified Skype account. You can select one or more items from the logs list, and then copy them to the clipboard, or export them into text/html/csv/xml file. 
+
+[Software217]
+exe=smsniff.exe
+help=smsniff.chm
+url=https://www.nirsoft.net/utils/smsniff.html
+exe64=x64\smsniff.exe
+group=2
+Name=SmartSniff 
+ShortDesc=Captures TCP/IP packets and view the captured data as sequence of conversations.
+LongDesc=SmartSniff allows you to capture TCP/IP packets that pass through your network adapter, and view the captured data as sequence of conversations between clients and servers. You can view the TCP/IP conversations in Ascii mode (for text-based protocols, like HTTP, SMTP, POP3 and FTP.) or as hex dump. (for non-text base protocols, like DNS) 
+
+[Software218]
+exe=SniffPass.exe
+help=SniffPass.chm
+url=https://www.nirsoft.net/utils/password_sniffer.html
+exe64=x64\SniffPass.exe
+group=2
+Name=SniffPass
+ShortDesc=capture the passwords that pass through your network adapter.
+LongDesc=SniffPass is small utility that listens to your network, capture the passwords that pass through your network adapter, and display them on the screen instantly. SniffPass can capture the passwords of the following Protocols: POP3, IMAP4, SMTP, FTP, and HTTP (basic authentication passwords).   You can use this utility to recover lost Web/FTP/Email passwords. 
+
+[Software219]
+exe=snremove.exe
+help=snremove.chm
+url=https://www.nirsoft.net/dot_net_tools/strong_name_remove.html
+exe64=
+group=12
+Name=SNRemove
+ShortDesc=
+LongDesc=This utility removes the reference to strong name signature from .NET exe and dll files. After removing the strong name reference, you can make any change you want in dll/exe file, without getting any exception or error message. However, be aware that assemblies with no strong name reference cannot be added into the Global Assembly Cache (GAC).
+
+[Software220]
+exe=SocketSniff.exe
+help=SocketSniff.chm
+url=https://www.nirsoft.net/utils/socket_sniffer.html
+exe64=
+group=2
+Name=SocketSniff
+ShortDesc=Watch the Windows Sockets (WinSock) activity of the selected process.
+LongDesc=SocketSniff allows you to watch the Windows Sockets (WinSock) activity of the selected process.   For each created socket, the following information is displayed: socket handle, socket type, local and remote addresses, local and remote ports, total number of send/receive bytes, and more. You can also watch the content of each send or receive call, in Ascii mode or as Hex Dump. 
+
+[Software221]
+exe=SoundVolumeView.exe
+help=SoundVolumeView.chm
+url=https://www.nirsoft.net/utils/sound_volume_view.html
+exe64=x64\SoundVolumeView.exe
+group=4
+Name=SoundVolumeView
+ShortDesc=View/change sound levels && save/load sound level profiles on Windows Vista/7/8
+LongDesc=SoundVolumeView is a simple tool for Windows Vista/7/8/2008 that displays general information and current volume level for all active sound components, and allows you to mute/unmute them instantly.  It also allows you to save a sound profile into a file, containing the current volume level and other information, and then later, load the same file to restore exactly the same volume levels and settings.  
+
+[Software222]
+exe=SpecialFoldersView.exe
+help=SpecialFoldersView.chm
+url=https://www.nirsoft.net/utils/special_folders_view.html
+exe64=x64\SpecialFoldersView.exe
+group=6
+Name=SpecialFoldersView
+ShortDesc=Easily jump to special folders in your system.
+LongDesc=Windows operating system have dozens of special folders that are used for storing application settings and files, storing Internet files, saving temporary files, storing shortcuts to other files, and so on.   This utility displays the list of all special folders in your system, and allows you to easily jump to the right folder simply by double-clicking the folder item. You can also save the list of all folder paths into text/html/xml file. 
+
+[Software223]
+exe=StartBlueScreen.exe
+help=StartBlueScreen.chm
+url=https://www.nirsoft.net/utils/start_blue_screen.html
+exe64=
+group=10
+Name=StartBlueScreen
+ShortDesc=Initiate a Blue Screen of Death (BSOD) in Windows operating system.
+LongDesc=This utility, just as it sounds, allows your to crash the Windows operating system by initiating a Blue Screen of Death according to 5 parameters that you specify from command-line. 
+
+[Software224]
+exe=strun.exe
+help=strun.chm
+url=https://www.nirsoft.net/utils/strun.html
+exe64=
+group=10
+Name=StartupRun
+ShortDesc=Displays the list of all applications that are loaded on startup.
+LongDesc=The StartupRun utility displays the list of all applications that are loaded automatically when Windows boots. For each application, additional information is displayed (Product Name, File Version, Description, and Company Name), in order to allow you to easily identify the applications that are loaded at Windows startup. 
+
+[Software225]
+exe=sysexp.exe
+help=sysexp.chm
+url=https://www.nirsoft.net/utils/sysexp.html
+exe64=x64\sysexp.exe
+group=10
+Name=SysExporter
+ShortDesc=Grab the data stored in list-views, tree-views, list boxes, and combo boxes.
+LongDesc=SysExporter utility allows you to grab the data stored in standard list-views, tree-views, list boxes, and combo boxes from almost any application running on your system, and export it to text, HTML or XML file. 
+
+[Software226]
+exe=TableTextCompare.exe
+help=TableTextCompare.chm
+url=https://www.nirsoft.net/utils/csv_file_comparison.html
+exe64=
+group=11
+Name=TableTextCompare
+ShortDesc=Compare tab-delimited or comma-delimited (csv) files.
+LongDesc=TableTextCompare is a small utility that allows you to easily compare 2 tab-delimited or comma-delimited (csv) files, and find out the difference between the 2 files. You can use this tool for comparing 2 different snapshots of data, created by other NirSoft utilities, like DriverView, ServiWin, USBDeview, CurrPorts, WirelessNetView, ShellExView, and many others...  
+
+[Software227]
+exe=TagsRep.exe
+help=TagsRep.chm
+url=https://www.nirsoft.net/utils/tagsrep.html
+exe64=
+group=5
+Name=TagsReport
+ShortDesc=
+LongDesc=TagsReport reads HTML file and displays statistical information about the tags the appears in it. You can use this utility to locate problems in your HTML page. 
+For Example: If the end counter value for <table> tag is different from the start counter value, something is possibly wrong in your HTML file, because every <table> tag must have a closing tag (</table>)
+
+[Software228]
+exe=TaskSchedulerView.exe
+help=TaskSchedulerView.chm
+url=https://www.nirsoft.net/utils/task_scheduler_view.html
+exe64=x64\TaskSchedulerView.exe
+group=10
+Name=TaskSchedulerView
+ShortDesc=View/Disable/Enable tasks from the Task Scheduler of Windows.
+LongDesc=TaskSchedulerView is a simple tool for Windows Vista/7/8/10 that displays in a single table the list of all tasks from the Task Scheduler of Windows. It also allows you to easily disable/enable mutiple tasks at once. For every task, the following information is displayed: Task Name, Description, Status, Hidden (Yes/No), Last Run/Next Run Times, Task Folder, EXE filename or COM handler of the task, number of missed runs, and more... 
+
+[Software229]
+exe=TcpLogView.exe
+help=TcpLogView.chm
+url=https://www.nirsoft.net/utils/tcp_log_view.html
+exe64=x64\TcpLogView.exe
+group=2
+Name=TcpLogView
+ShortDesc=Monitors the opened TCP connections on your system.
+LongDesc=TcpLogView is a simple utility that monitors the opened TCP connections on your system, and adds a new log line every time that a TCP connection is opened or closed. For every log line, the following information is displayed: Even Time, Event Type (Open, Close, Listen), Local Address, Remote Address, Remote Host Name, Local Port, Remote Port, Process ID, Process Name, and the country information of the Remote IP.
+
+[Software230]
+exe=TFlash.exe
+help=
+url=https://www.nirsoft.net/utils/tflash2.html
+exe64=
+group=5
+Name=TurnFlash
+ShortDesc=
+LongDesc=This utility allows you to easily disable and enable the Flash component in Internet Explorer browser (Version 5.00 and above).
+
+[Software231]
+exe=TimeZonesView.exe
+help=TimeZonesView.chm
+url=https://www.nirsoft.net/utils/time_zones_view.html
+exe64=
+group=10
+Name=TimeZonesView
+ShortDesc=Displays all world time zones.
+LongDesc=TimeZonesView is a simple tool for Windows that displays all world time zones. For every time zone, the following information is displayed: name, description, current date/time in this time zone and date/time that daylight saving time begins and ends. 
+
+[Software232]
+exe=TraceMenuID.exe
+help=
+url=https://www.nirsoft.net/alpha/index.html
+exe64=
+group=13
+Name=TraceMenuID
+ShortDesc=
+LongDesc=
+
+[Software233]
+exe=TurnedOnTimesView.exe
+help=TurnedOnTimesView.chm
+url=https://www.nirsoft.net/utils/computer_turned_on_times.html
+exe64=
+group=10
+Name=TurnedOnTimesView
+ShortDesc=View the time/date ranges that your computer was turned on.
+LongDesc=TurnedOnTimesView is a simple tool that analyses the event log of Windows operating system, and detects the time ranges that your computer was turned on. For every period of time that the computer was turned on, the following information is displayed: Startup Time, Shutdown Time, Duration, Shutdown Reason, Shutdown Type, Shutdown Process, and Shutdown Code.
+
+[Software234]
+exe=TurnFlash.exe
+help=
+url=https://www.nirsoft.net/utils/tflash.html
+exe64=
+group=5
+Name=TurnFlash (Command-Line Version)
+ShortDesc=
+LongDesc=This utility allows you to easily disable and enable the Flash component in Internet Explorer browser (Version 5.00 and above).
+
+[Software235]
+exe=UninstallView.exe
+help=UninstallView.chm
+url=https://www.nirsoft.net/utils/uninstall_view.html
+exe64=x64\UninstallView.exe
+group=10
+Name=UninstallView
+ShortDesc=Shows installed programs on your system and allows you to uninstall them.
+LongDesc=UninstallView is a tool for Windows that collects information about all programs installed on your system and displays the details of the installed programs in one table. You can use it to get installed programs information for your local system, for remote computer on your network, and for external hard-drive plugged to your computer. It also allows you to easily uninstall a software on your local computer and remote computer.
+
+[Software236]
+exe=URLProtocolView.exe
+help=URLProtocolView.chm
+url=https://www.nirsoft.net/utils/url_protocol_view.html
+exe64=
+group=10
+Name=URLProtocolView
+ShortDesc=View/disable/enable the URL protocols installed on your system
+LongDesc=URLProtocolView is a simple utility that displays all URL protocols (for example: ftp:, telnet:, mailto:) that are currently installed on your system. For each URL protocol, the following information is displayed: The protocol name, the protocol description, the command-line that is executed when you type or click the URL, the product name, and the company name.   This utility also allows you to easily enable/disable the URL protocols. 
+
+[Software237]
+exe=URLStringGrabber.exe
+help=URLStringGrabber.chm
+url=https://www.nirsoft.net/utils/url_string_grabber.html
+exe64=
+group=3
+Name=URLStringGrabber
+ShortDesc=Grab URL strings of Web sites from Internet Explorer
+LongDesc=URLStringGrabber is a small utility that scans all opened windows of Internet Explorer and grab the URLs stored in them, including clickable links, images, script files, CSS files, RSS feeds, and flash (.swf) files.  The URLs list is displayed in table, and you can easily export some of the URLs or the entire URLs list into text, csv, html, or xml file. 
+
+[Software238]
+exe=USBDeview.exe
+help=USBDeview.chm
+url=https://www.nirsoft.net/utils/usb_devices_view.html
+exe64=x64\USBDeview.exe
+group=10
+Name=USBDeview 
+ShortDesc=Lists all installed USB devices that you previously used.
+LongDesc=USBDeview is a small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.   For each USB device, extended information is displayed: Device name/description, device type, serial number (for mass storage devices), the date/time that device was added, VendorID, ProductID, and more...   
+
+[Software239]
+exe=USBLogView.exe
+help=USBLogView.chm
+url=https://www.nirsoft.net/utils/usb_log_view.html
+exe64=
+group=10
+Name=USBLogView
+ShortDesc=Records the details of any USB device that is plugged/unplugged into your system
+LongDesc=USBLogView is a small utility that runs in the background and records the details of any USB device that is plugged or unplugged into your system. For every log line created by USBLogView, the following information is displayed: Event Type (Plug/Unplug), Event Time, Device Name, Description, Device Type, Drive Letter (For storage devices), Serial Number (Only for some types of devices), Vendor ID, Product ID, Vendor Name, Product Name, and more..
+
+[Software240]
+exe=UserAssistView.exe
+help=UserAssistView.chm
+url=https://www.nirsoft.net/utils/userassist_view.html
+exe64=
+group=10
+Name=UserAssistView
+ShortDesc=This utility decrypt and displays the list of all UserAssist entries
+LongDesc=This utility decrypt and displays the list of all UserAssist entries stored under HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist key in the Registry. The UserAssist key contains information about the exe files and links that you open frequently. you can save the list of UserAssist entries into text/html/xml/csv file, as well as you can delete unwanted items. 
+
+[Software241]
+exe=UserProfilesView.exe
+help=UserProfilesView.chm
+url=https://www.nirsoft.net/utils/user_profiles_view.html
+exe64=
+group=10
+Name=UserProfilesView
+ShortDesc=View user profiles information on your system.
+LongDesc=UserProfilesView displays the list of all user profiles that you currently have in your system. For each user profile, the following information is displayed: Domain\User Name, Profile Path, Last Load Time, Registry File Size, User SID, and more. You can save the profiles list into text/xml/html/csv file. 
+
+[Software242]
+exe=VaultPasswordView.exe
+help=VaultPasswordView.chm
+url=https://www.nirsoft.net/utils/vault_password_view.html
+exe64=x64\VaultPasswordView.exe
+group=1
+Name=VaultPasswordView
+ShortDesc=Decrypts passwords stored in Windows Vault
+LongDesc=VaultPasswordView is a simple tool for Windows 10/8/7 that decrypts and displays the passwords and other data stored inside 'Windows Vault'. You can use it to decrypt the Windows Vault data of your currently running system, as well as the Windows Vault data stored on external hard drive. 
+
+[Software243]
+exe=VideoCacheView.exe
+help=VideoCacheView.chm
+url=https://www.nirsoft.net/utils/video_cache_view.html
+exe64=x64\VideoCacheView.exe
+group=4
+Name=VideoCacheView
+ShortDesc=Extract Web site video files from the cache of your Web browser
+LongDesc=After watching a video in a Web site, you may want to save the video file into your local disk for playing it offline in the future. If the video file is stored in your browser's cache, this utility can help you to extract the video file from the cache and save it on your local disk for watching it in the future. 
+
+[Software244]
+exe=VNCPassView.exe
+help=VNCPassView.chm
+url=https://www.nirsoft.net/utils/vnc_password.html
+exe64=
+group=1
+Name=VNCPassView
+ShortDesc=Recover the passwords stored by the VNC tool.
+LongDesc=VNCPassView is a small utility that recover the passwords stored by the VNC tool. It can recover 2 of passwords: password stored for the current logged-on user (HKEY_CURRENT_USER in the Registry), and password stored for the all users. 
+
+[Software245]
+exe=Volumouse.exe
+help=Volumouse.chm
+url=https://www.nirsoft.net/utils/volumouse.html
+exe64=x64\Volumouse32.exe
+group=4
+Name=Volumouse
+ShortDesc=Adjust the volume of your speaker with the wheel of your mouse.
+LongDesc=Volumouse provides a quick and easy way to control the sound volume on your system - simply by rolling the wheel of your wheel mouse.   It allows you to define a set of rules for determining when the wheel will be used for changing the sound volume. For example: You can configure Volumouse to use your mouse wheel for volume control when the Alt key is hold down, when a mouse button is down, when the mouse cursor is over the taskbar, and so on... 
+
+[Software246]
+exe=WakeMeOnLan.exe
+help=WakeMeOnLan.chm
+url=https://www.nirsoft.net/utils/wake_on_lan.html
+exe64=x64\WakeMeOnLan.exe
+group=2
+Name=WakeMeOnLan
+ShortDesc=Turn on one or more computers remotely by sending Wake-on-LAN (WOL) packet
+LongDesc=This utility allows you to easily turn on one or more computers remotely by sending Wake-on-LAN (WOL) packet to the remote computers.  When your computers are turned on, WakeMeOnLan allows you to scan your network, and collect the MAC addresses of all your computers, and save the computers list into a file. Later, when your computers are turned off or in standby mode, you can use the stored computers list to easily turn on the desired computers.
+
+[Software247]
+exe=WebBrowserPassView.exe
+help=WebBrowserPassView.chm
+url=https://www.nirsoft.net/utils/web_browser_password.html
+exe64=
+group=1
+Name=WebBrowserPassView
+ShortDesc=Recover lost passwords from your Web browser.
+LongDesc=WebBrowserPassView is a password recovery tool that reveals the passwords stored by the following Web browsers: Internet Explorer (Version 4.0 - 8.0), Mozilla Firefox (All Versions), Google Chrome, and Opera. This tool can be used to recover your lost/forgotten password of any Website, including popular Web sites, like Facebook, Yahoo, Google, and GMail, as long as the password is stored by your Web Browser.  
+
+[Software248]
+exe=WebCacheImageInfo.exe
+help=WebCacheImageInfo.chm
+url=https://www.nirsoft.net/utils/web_cache_image_info.html
+exe64=
+group=3
+Name=WebCacheImageInfo
+ShortDesc=Shows EXIF information of the images stored in Web browser cache.
+LongDesc=WebCacheImageInfo is a simple tool that searches for JPEG images with EXIF information stored inside the cache of your Web browser (Internet Explorer, Firefox, or Chrome), and then it displays the list of all images found in the cache with the interesting information stored in them, like the software that was used to create the image, the camera model that was used to photograph the image, and the date/time that the image was created.
+
+[Software249]
+exe=WebCamImageSave.exe
+help=WebCamImageSave.chm
+url=https://www.nirsoft.net/utils/web_cam_image_capture.html
+exe64=
+group=11
+Name=WebCamImageSave
+ShortDesc=Capture still images from your WebCam.
+LongDesc=WebCamImageSave is simple WebCam capture utility that allows you to easily capture a still image from your camera every number of seconds that you choose, and save it into image file (.jpg, .png, .bmp) on your disk. You can format the saved image filename with the date/time that the image was taken according to your preference, for example: c:\images\img20110725_123256.jpg
+
+[Software250]
+exe=WebCookiesSniffer.exe
+help=WebCookiesSniffer.chm
+url=https://www.nirsoft.net/utils/web_cookies_sniffer.html
+exe64=x64\WebCookiesSniffer.exe
+group=3
+Name=WebCookiesSniffer
+ShortDesc=Captures Web site cookies and displays them in a simple table
+LongDesc=WebCookiesSniffer is a packet sniffer tool that captures all Web site cookies sent between the Web browser and the Web server and displays them in a simple table. The upper pane of WebCookiesSniffer displays the cookie string and the Web site/host name that sent or received this cookie. When selecting a cookie string in the upper pane, WebCookiesSniffer parses the cookie string and displays the cookies as name-value format in the lower pane.
+
+[Software251]
+exe=WebSiteSniffer.exe
+help=WebSiteSniffer.chm
+url=https://www.nirsoft.net/utils/web_site_sniffer.html
+exe64=x64\WebSiteSniffer.exe
+group=5
+Name=WebSiteSniffer
+ShortDesc=Capture Web site files and save them on your hard drive.
+LongDesc=WebSiteSniffer is a packet sniffer tool that captures all Web site files downloaded by your Web browser while browsing the Internet, and stores them on your hard drive under the base folder that you choose. WebSiteSniffer allows you to choose which type of Web site files will be captured: HTML Files, Text Files, XML Files, CSS Files, Video/Audio Files, Images, Scripts, and Flash (.swf) files.    
+
+[Software252]
+exe=WebVideoCap.exe
+help=WebVideoCap.chm
+url=https://www.nirsoft.net/utils/web_video_capture.html
+exe64=
+group=4
+Name=WebVideoCap
+ShortDesc=Capture Flash Video files and RTSP streams while watching them in a Web browser.
+LongDesc=This utility allows you to capture Flash Video files and RTSP streams while the Web browser download and play them inside a Web page. After the entire video file is downloaded and played by the Web browser, the video file is saved in the folder that you selected, and you can play it offline later with any Video player. WebVideoCap can capture the video files of many video-sharing sites, including YouTube, Google Video, Yahoo Video, and more.
+
+[Software253]
+exe=WhatInStartup.exe
+help=WhatInStartup.chm
+url=https://www.nirsoft.net/utils/what_run_in_startup.html
+exe64=x64\WhatInStartup.exe
+group=10
+Name=WhatInStartup
+ShortDesc=disable/enable/delete programs that are loaded at Windows startup.
+LongDesc=This utility displays the list of all applications that are loaded automatically when Windows starts up. For each application, the following information is displayed: Startup Type (Registry/Startup Folder), Command-Line String, Product Name, File Version, Company Name, Location in the Registry or file system, and more. 
+
+[Software254]
+exe=WhatIsHang.exe
+help=WhatIsHang.chm
+url=https://www.nirsoft.net/utils/what_is_hang.html
+exe64=x64\WhatIsHang.exe
+group=10
+Name=WhatIsHang
+ShortDesc=Get information about Windows software that hangs.
+LongDesc=Sometimes, Windows or a running application hangs, the user interface abruptly stops responding, and you cannot determine what has caused the problem or how to troubleshoot the issue. This utility tries to detect the software or process that is currently hung, and displays some information that may allow you to sort out and understand what exactly is at the root of such unexpected behavior.
+
+[Software255]
+exe=WhoisCL.exe
+help=WhoisCL.chm
+url=https://www.nirsoft.net/utils/whoiscl.html
+exe64=
+group=12
+Name=WhoisCL
+ShortDesc=Get WHOIS information about a registered domain from command-line.
+LongDesc=WhoisCL is a simple command-line utility that allows you to easily get information about a registered domain. It automatically connect to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain.   It supports both generic domains and country code domains. 
+
+[Software256]
+exe=WhoIsConnectedSniffer.exe
+help=WhoIsConnectedSniffer.chm
+url=https://www.nirsoft.net/utils/who_is_connected_sniffer.html
+exe64=x64\WhoIsConnectedSniffer.exe
+group=2
+Name=WhoIsConnectedSniffer
+ShortDesc=Shows who connects to your network by listening to network packets.
+LongDesc=WhoIsConnectedSniffer is a network discovery tool that listens to network packets on your network adapter using a capture driver (WinpCap or MS network monitor) and accumulates a list of computer and devices currently connected to your network. WhoIsConnectedSniffer uses various protocols to detect the computers connected to your network, including ARP, UDP, DHCP, mDNS, and BROWSER.  
+
+[Software257]
+exe=whoistd.exe
+help=whoistd.chm
+url=https://www.nirsoft.net/utils/whois_this_domain.html
+exe64=
+group=5
+Name=WhoisThisDomain
+ShortDesc=Get information about a registered domain from WHOIS server.
+LongDesc=This utility allows you to easily get information about a registered domain. It automatically connect to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain.   It support both generic domains and country code domains. 
+
+[Software258]
+exe=WhosIP.exe
+help=WhosIP.chm
+url=https://www.nirsoft.net/utils/whosip.html
+exe64=
+group=12
+Name=WhosIP
+ShortDesc=find all available information about an IP address from command-line.
+LongDesc=WhosIP is a simple command-line utility that allows you to easily find all available information about an IP address: The owner of the IP address, the country/state name, IP addresses range, contact information (address, phone, fax, and email), and more.   
+
+[Software259]
+exe=WifiChannelMonitor.exe
+help=WifiChannelMonitor.chm
+url=https://www.nirsoft.net/utils/wifi_channel_monitor.html
+exe64=x64\WifiChannelMonitor.exe
+group=2
+Name=WifiChannelMonitor
+ShortDesc=Captures wifi traffic in monitor mode and displays AP/clients information.
+LongDesc=WifiChannelMonitor captures wifi traffic on the channel you choose, using Microsoft Network Monitor capture driver in monitor mode, and displays extensive information about access points and the wifi clients connected to them. WifiChannelMonitor also allows you to view the information about wifi clients that are not connected to any access points, including the list of SSIDs (network names) that they are trying to connect.  
+
+[Software260]
+exe=WifiHistoryView.exe
+help=WifiHistoryView.chm
+url=https://www.nirsoft.net/utils/wifi_history_view.html
+exe64=
+group=2
+Name=WifiHistoryView
+ShortDesc=Displays the history of connections to wireless networks on your computer. 
+LongDesc=WifiHistoryView is a simple tool for Windows 10/8/7/Vista that displays the history of connections to wireless networks on your computer. For every event that the computer connected to a wireless network or disconnected from it, the following information is displayed: The date/time that the event occurred, network name (SSID), profile name, network adapter name, BSSID of the router/Access Point, and more...  
+
+[Software261]
+exe=WifiInfoView.exe
+help=WifiInfoView.chm
+url=https://www.nirsoft.net/utils/wifi_information_view.html
+exe64=
+group=2
+Name=WifiInfoView
+ShortDesc=Displays extensive information about wireless networks in your area.
+LongDesc=WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...
+
+[Software262]
+exe=win9xpv.exe
+help=
+url=https://www.nirsoft.net/utils/win9xpv.html
+exe64=
+group=1
+Name=Win9x PassView
+ShortDesc=
+LongDesc=The Win9x PassView utility reveals the passwords stored on your computer by Windows 95/98 operating system.
+
+[Software263]
+exe=WinCrashReport.exe
+help=WinCrashReport.chm
+url=https://www.nirsoft.net/utils/application_crash_report.html
+exe64=x64\WinCrashReport.exe
+group=10
+Name=WinCrashReport
+ShortDesc=Displays a report about crashed Windows application.
+LongDesc=WinCrashReport provides an alternative to the built-in crash reporting program of Windows. When application crashes in your system and Windows displays the internal crash window of the operating system, you can run WinCrashReport, and get extensive report about the crashed application. The crash report includes the following information:Crash memory address, Exception code, Exception description, Strings found in the stack, call stack, and more.
+
+[Software264]
+exe=WinDefThreatsView.exe
+help=
+url=https://www.nirsoft.net/alpha/index.html
+exe64=
+group=13
+Name=WinDefThreatsView
+ShortDesc=
+LongDesc=
+
+[Software265]
+exe=winexp.exe
+help=winexp.chm
+url=https://www.nirsoft.net/utils/winexp.html
+exe64=
+group=11
+Name=WinExplorer
+ShortDesc=
+LongDesc=WinExplorer is a utility that shows all system's windows in hierarchical display. For every window in the hierarchy, you can view its properties, like handle, class name, caption, size, position and more. You can also modify some properties, like Caption and Visible/Enabled.
+
+[Software266]
+exe=WinFontsView.exe
+help=WinFontsView.chm
+url=https://www.nirsoft.net/utils/windows_fonts_viewer.html
+exe64=
+group=11
+Name=WinFontsView
+ShortDesc=Display sample of all fonts installed on your system.
+LongDesc=WinFontsView is a small utility that enumerates all fonts installed on your system, and displays them in one simple table. For each font, WinFontsView draws 5 samples of the font in different sizes, in order to allow you to easily find and choose the desired font that you need. WinFontsView also allows you to view the fonts as Bold, as Italic or with underline, as well as it allows you to export the fonts list into html file.   
+
+[Software267]
+exe=WinLister.exe
+help=WinLister.chm
+url=https://www.nirsoft.net/utils/winlister.html
+exe64=x64\WinLister.exe
+group=6
+Name=WinLister
+ShortDesc=This utility displays the list of opened windows on your system. 
+LongDesc=This utility displays the list of opened windows on your system. For each window, some useful information is displayed: the title, the handle of window, location, size, class name, process number, the name of the program that created the window, and more...   In addition, you can easily hide, show or close the selected windows, or save the windows list to text or HTML file.
+
+[Software268]
+exe=WinLogOnView.exe
+help=WinLogOnView.chm
+url=https://www.nirsoft.net/utils/windows_log_on_times_view.html
+exe64=
+group=10
+Name=WinLogOnView
+ShortDesc=Displays logon/logoff times on Windows Vista/7/8/2008
+LongDesc=WinLogOnView is a simple tool for Windows Vista/7/8/2008 that analyses the security event log of Windows operating system, and detects the date/time that users logged on and logged off. For every time that a user log on/log off to your system, the following information is displayed: Logon ID, User Name, Domain, Computer, Logon Time, Logoff Time, Duration, and network address.  
+
+[Software269]
+exe=WinPrefetchView.exe
+help=WinPrefetchView.chm
+url=https://www.nirsoft.net/utils/win_prefetch_view.html
+exe64=x64\WinPrefetchView.exe
+group=10
+Name=WinPrefetchView
+ShortDesc=View the Prefetch files (.pf) stored in your system.
+LongDesc=WinPrefetchView is a small utility that reads the Prefetch files stored in your system and display the information stored in them. By looking in these files, you can learn which files every application is using, and which files are loaded on Windows boot. 
+
+[Software270]
+exe=WinsockServicesView.exe
+help=WinsockServicesView.chm
+url=https://www.nirsoft.net/utils/winsock_service_providers.html
+exe64=
+group=10
+Name=WinsockServicesView
+ShortDesc=View/Disable/Enable Winsock service providers installed on your system.
+LongDesc=This utility displays the details of all Winsock service providers installed on your system. For every Winsock service, the following information is displayed: Display Name, Status (Enabled/Disabled), DLL Type (32-bit or 64-bit), DLL Filename, DLL Description/Version, and Created/Modified Time.  WinsockServicesView also allows you to easily disable/enable a Winsock service provider.
+
+[Software271]
+exe=WinUpdatesView.exe
+help=WinUpdatesView.chm
+url=https://www.nirsoft.net/utils/windows_updates_history_viewer.html
+exe64=x64\WinUpdatesView.exe
+group=10
+Name=Windows Updates History Viewer
+ShortDesc=Displays the history of Windows updates for your system.
+LongDesc=WinUpdatesView is a simple tool that displays the history of Windows updates on your system. WinUpdatesView can load the Windows updates history from your local system, using API, and it can also read and parse the Windows updates database file (DataStore.edb) from external drive or from remote computer on your network.
+
+[Software272]
+exe=WirelessConnectionInfo.exe
+help=WirelessConnectionInfo.chm
+url=https://www.nirsoft.net/utils/wireless_connection_information.html
+exe64=
+group=2
+Name=WirelessConnectionInfo
+ShortDesc=Displays general information and statistics about the active wifi connection.
+LongDesc=WirelessConnectionInfo is a simple tool for Windows Vista/7/8/2008 that displays general information and statistics about the active wifi connection, including the SSID, BSSID, PHY Type, Signal Quality, Receiving rate, Transmission Rate, Authentication Algorithm, Channel Number, Total number of transmitted/received frames, and more... 
+
+[Software273]
+exe=WirelessKeyDump.exe
+help=WirelessKeyDump.chm
+url=https://www.nirsoft.net/utils/wireless_key_dump.html
+exe64=x64\WirelessKeyDump.exe
+group=1
+Name=WirelessKeyDump
+ShortDesc=dumps the list of all wireless keys stored by Windows
+LongDesc=WirelessKeyDump is a console application (Command Prompt) that dumps the list of all wireless keys stored by the wireless networks module of Windows operating system. 
+
+[Software274]
+exe=WirelessKeyView.exe
+help=WirelessKeyView.chm
+url=https://www.nirsoft.net/utils/wireless_key.html
+exe64=x64\WirelessKeyView.exe
+group=1
+Name=WirelessKeyView
+ShortDesc=recovers lost wireless network keys (WEP/WPA) stored in your computer.
+LongDesc=WirelessKeyView recovers all wireless network keys (WEP/WPA) stored in your computer by the 'Wireless Zero Configuration' service of Windows XP and by the 'WLAN AutoConfig' service of Windows Vista. It allows you to easily save all keys to text/html/xml file, or copy a single key to the clipboard. 
+
+[Software275]
+exe=WirelessNetConsole.exe
+help=WirelessNetConsole.chm
+url=https://www.nirsoft.net/utils/wireless_net_console.html
+exe64=
+group=12
+Name=WirelessNetConsole
+ShortDesc=View wireless networks information (console application)
+LongDesc=WirelessNetConsole is a small console application that dumps all current detected wireless networks information into the standard output. For each wireless network, the following information is displayed: SSID, Signal Quality in %, PHY types, RSSI, MAC Address, Channel Frequency, and more. 
+
+[Software276]
+exe=WirelessNetView.exe
+help=WirelessNetView.chm
+url=https://www.nirsoft.net/utils/wireless_network_view.html
+exe64=
+group=2
+Name=WirelessNetView
+ShortDesc=Monitor the activity of wireless networks around you.
+LongDesc=WirelessNetView is a small utility that runs in the background, and monitor the activity of wireless networks around you. For each detected network, it displays the following information: SSID, Last Signal Quality, Average Signal Quality, Detection Counter, Authentication Algorithm, Cipher Algorithm, and more. 
+
+[Software277]
+exe=WNetWatcher.exe
+help=WNetWatcher.chm
+url=https://www.nirsoft.net/utils/wireless_network_watcher.html
+exe64=
+group=2
+Name=Wireless Network Watcher
+ShortDesc=Shows who is connected to your wireless network.
+LongDesc=Wireless Network Watcher is a small utility that scans your wireless network and displays the list of all computers and devices that are currently connected to your network.  For every computer or device that is connected to your network, the following information is displayed: IP address, MAC address, the company that manufactured the network card, and optionally the computer name.  
+
+[Software278]
+exe=wul.exe
+help=wul.chm
+url=https://www.nirsoft.net/utils/wul.html
+exe64=
+group=10
+Name=WinUpdatesList
+ShortDesc=Displays the list of all Windows updates (Service Packs and Hotfixes).
+LongDesc=WinUpdatesList displays the list of all Windows updates (Service Packs and Hotfixes) installed on your local computer. For hotfix updates, this utility also displays the list of files updated with these hotfixes. In addition, it allows you to instantly open the Web link in Microsoft Web site that provides more information about the selected update, uninstall an update, copy the update information to the clipboard, or save it to text/HTML/XML file
+
+[Software279]
+exe=xorfiles.exe
+help=
+url=https://www.nirsoft.net/utils/xorfiles.html
+exe64=
+group=11
+Name=XorFiles
+ShortDesc=
+LongDesc=This utility perform a logical exclusion ("XOR") on 2 files, and saves the result into the destination file. You can use it for viewing the difference locations between 2 binary files. In the destination file, the equal bytes in the 2 files are represented by zero value. (A XOR A = 0)
+
+[Software280]
+exe=zipinst.exe
+help=zipinst.chm
+url=https://www.nirsoft.net/utils/zipinst.html
+exe64=
+group=11
+Name=ZipInstaller
+ShortDesc=Install applications that do not provide an installation module.
+LongDesc=The ZipInstaller utility installs and uninstalls applications and utilities that do not provide an internal installation program. It automatically extracts all files from the Zip file, copies them to the destination folder you select, creates shortcuts in the start menu and in your desktop, and adds an uninstall module to allow you to automatically remove the software in the future.

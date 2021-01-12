@@ -1,0 +1,798 @@
+[General]
+Name=Skwire Empire
+GroupCount=11
+SoftwareCount=76
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Audio && Multimedia
+
+[Group2]
+Name=Business
+
+[Group3]
+Name=Desktop
+
+[Group4]
+Name=Games && Entertainment
+
+[Group5]
+Name=Graphic Apps
+
+[Group6]
+Name=Home && Hobby
+
+[Group7]
+Name=Network && Internet
+
+[Group8]
+Name=Security && Privacy
+
+[Group9]
+Name=System Utilities
+
+[Group10]
+Name=Other
+
+[Software0]
+exe=.\AlbumPrinter\AlbumPrinter.exe
+help=
+url=http://www.dcmembers.com/skwire/download/album-printer/
+exe64=
+group=1
+Name=Album Printer
+ShortDesc=Build a list of artists and albums in your music collection.
+LongDesc=Quickly build an "artist - album" list based on audio file tags. Export to CSV option. Drag-n-drop interface. Custom delimiter.
+
+[Software1]
+exe=.\Anuran\Anuran.exe
+help=.\Anuran\Anuran.chm
+url=http://www.dcmembers.com/skwire/download/anuran/
+exe64=
+group=2
+Name=Anuran
+ShortDesc=A rotating, automatic-prompting personal text log.
+LongDesc=Anuran is a simple, unobtrusive productivity app, designed to record and archive your text on a schedule, or at any moment. It incorporates a timed popup window that accepts your text input, which it then archives into simple, timestamped text files.
+
+[Software2]
+exe=.\Anuran\AnuVu.exe
+help=.\Anuran\Anuran.chm
+url=http://www.dcmembers.com/skwire/download/anuran/
+exe64=
+group=2
+Name=AnuVu
+ShortDesc=AnuVu is the log-viewer component of Anuran.
+LongDesc=
+
+[Software3]
+exe=.\Arti\Arti.exe
+help=
+url=http://www.dcmembers.com/skwire/download/arti/
+exe64=
+group=5
+Name=Arti (Aspect Ratio Tool for Images)
+ShortDesc=Lists aspect ratios for images.
+LongDesc=Lists aspect ratios for images. Exact ratios are listed in addition to a nearest match ratio based on a configurable preset list.
+
+[Software4]
+exe=.\Barbecue\Barbecue.exe
+help=
+url=http://www.dcmembers.com/skwire/download/barbecue/
+exe64=
+group=9
+Name=Barbecue
+ShortDesc=Generate progress bars related to your projects.
+LongDesc=Easily generate progress bars related to just about anything.
+
+[Software5]
+exe=.\Bestimate\Bestimate.exe
+help=
+url=http://www.dcmembers.com/skwire/download/bestimate/
+exe64=
+group=9
+Name=Bestimate
+ShortDesc=Track the accuracy of your goals, predictions or promises.
+LongDesc=A small utility designed to help you become more accurate and realistic about your predictions, projections and estimates. Simple interface. Track as many estimates as you would like. Export data to CSV format.
+
+[Software6]
+exe=.\Birthdays\Birthdays.exe
+help=
+url=http://www.dcmembers.com/skwire/download/birthdays/
+exe64=
+group=9
+Name=Birthdays
+ShortDesc=A simple, straightforward app to help keep track of birthdays.
+LongDesc=A simple, straightforward app to help keep track of birthdays. Use the menu entries or toolbar buttons to add or delete birthdays. The checkboxes are there to track whether or not you have sent a gift or card to said person for that year.
+
+[Software7]
+exe=.\BootSnooze\BootSnooze.exe
+help=
+url=http://www.dcmembers.com/skwire/download/boot-snooze/
+exe64=
+group=9
+Name=Boot Snooze
+ShortDesc=Reboot your computer and make it automatically hibernate or standby.
+LongDesc=Reboot and direct hibernate or standby your computer. Full command-line support for use in scripts.
+
+[Software8]
+exe=.\ChoppingList\ChoppingList.exe
+help=
+url=http://www.dcmembers.com/skwire/download/chopping-list/
+exe64=
+group=9
+Name=Chopping List
+ShortDesc=Split text files out to multiple files based on a custom delimiter.
+LongDesc=Split the content of text files into multiple new files based on a user-provided delimiter.
+
+[Software9]
+exe=.\ClipTrap\ClipTrap.exe
+help=
+url=http://www.dcmembers.com/skwire/download/cliptrap/
+exe64=
+group=9
+Name=ClipTrap
+ShortDesc=Aggregate text copied to the clipboard.
+LongDesc=Simple app to keep track of the clipboard. Unicode capable. Easily toggle on/off. Customizable font. Minimize to tray.
+
+[Software10]
+exe=.\ComicBookArchiveCreator\ComicBookArchiveCreator.exe
+help=
+url=http://www.dcmembers.com/skwire/download/comic-book-archive-creator/
+exe64=
+group=5
+Name=Comic Book Archive Creator
+ShortDesc=Create Comic Book Archive files from PDF and image files.
+LongDesc=Easily create Comic Book Archives (cbz, cbr, cb7, cbt). Accepts PDF, JPG, PNG, GIF, TIF, & BMP.
+
+[Software11]
+exe=.\CovArtOps\CovArtOps.exe
+help=
+url=http://www.dcmembers.com/skwire/download/covart-ops/
+exe64=
+group=9
+Name=CovArt Ops
+ShortDesc=Scan your album folders for missing cover art.
+LongDesc=Quickly determine if folders have album cover art in them. Large albumart display. Simple listview-driven interface. Export to CSV option.
+
+[Software12]
+exe=.\Deletist\Deletist.exe
+help=
+url=http://www.dcmembers.com/skwire/download/deletist/
+exe64=
+group=9
+Name=Deletist
+ShortDesc=Delete files and folders sourced from a text file.
+LongDesc=Delete files and folders sourced from a text file containing their full paths. Simple listview-driven drag-n-drop interface.
+
+[Software13]
+exe=.\Dimensions2Folders\Dimensions2Folders.exe
+help=
+url=http://www.dcmembers.com/skwire/download/dimensions-2-folders/
+exe64=
+group=5
+Name=Dimensions 2 Folders
+ShortDesc=Sort image files into folders based on their dimensions.
+LongDesc=Sort images into folders based on their resolutions. Recursive scanning. Three methods, 1) Sort based on resolution, 2) Sort based on matched resolutions with configurable tolerances & 3) Sort based on aspect ratio with configurable tolerances.
+
+[Software14]
+exe=.\DriveLettersTool\DriveLettersTool.exe
+help=
+url=http://www.dcmembers.com/skwire/download/drive-letters-tool/
+exe64=
+group=9
+Name=Drive Letters Tool
+ShortDesc=Change the way drive letters are displayed in Windows Explorer and other Windows dialogs.
+LongDesc=Change the way drive letters are displayed in Windows Explorer and other Windows dialogs.
+
+[Software15]
+exe=.\DropZone\DropZone.exe
+help=
+url=http://www.dcmembers.com/skwire/download/drop-zone/
+exe64=
+group=9
+Name=Drop Zone
+ShortDesc=Simple drag-n-drop windows to quickly copy or move files.
+LongDesc=Simple, configurable drop zones to copy and move files.
+
+[Software16]
+exe=.\Earl\Earl.exe
+help=
+url=http://www.dcmembers.com/skwire/download/earl/
+exe64=
+group=9
+Name=Earl
+ShortDesc=Convert .URL files to .LNK files.
+LongDesc=Earl allows you to convert .URL files into standard Window shortcut files (.LNK). This can be helpful if you use an application that doesn't understand .URL files but does understand standard Windows shortcuts.
+
+[Software17]
+exe=.\epCheck\epCheck.exe
+help=
+url=http://www.dcmembers.com/skwire/download/epcheck/
+exe64=
+group=1
+Name=epCheck
+ShortDesc=Easily track and view TV series data.
+LongDesc=Quickly view upcoming and archived TV series' episode title data.
+
+[Software18]
+exe=.\FileBucket\FileBucket.exe
+help=
+url=http://www.dcmembers.com/skwire/download/file-bucket/
+exe64=
+group=9
+Name=File Bucket
+ShortDesc=Create a collection of files and then copy them all to new destination.
+LongDesc=Create collection of files from various locations & copy them to a new location.  Save list with full or relative paths, too.
+
+[Software19]
+exe=.\FilePunter\FilePunter.exe
+help=
+url=http://www.dcmembers.com/skwire/download/file-punter/
+exe64=
+group=9
+Name=File Punter
+ShortDesc=Use regular expressions to copy/move files into dynamically generated destination folders.
+LongDesc=Use regular expressions to copy/move files into new, dynamically generated destination folders.
+
+[Software20]
+exe=.\Files2Folder\Files2Folder.exe
+help=
+url=http://www.dcmembers.com/skwire/download/files-2-folder/
+exe64=
+group=9
+Name=Files 2 Folder
+ShortDesc=Shell extension to create a folder & move files into that folder.
+LongDesc=A right-click shell extension that will automatically create a folder based on the selected filename and move that file into that folder. If you select multiple files, a box will pop up asking for a folder name and all files will moved.
+
+[Software21]
+exe=.\Frameless\Frameless.exe
+help=
+url=http://www.dcmembers.com/skwire/download/frameless/
+exe64=
+group=5
+Name=Frameless
+ShortDesc=Borderless, captionless image viewer with commandline options for display placement.
+LongDesc=Frameless is a borderless, captionless image viewer with commandline options for display placement.
+
+[Software22]
+exe=.\IEProxyToggle\IEProxyToggle.exe
+help=
+url=http://www.dcmembers.com/skwire/download/ie-proxy-toggle/
+exe64=
+group=9
+Name=IE Proxy Toggle
+ShortDesc=Tray-based program to quickly switch the Internet Explorer proxy on and off.
+LongDesc=Easily toggle the Internet Explorer proxy setting on/off from the system tray.
+
+[Software23]
+exe=.\KeyCounter\KeyCounter.exe
+help=
+url=http://www.dcmembers.com/skwire/download/keycounter/
+exe64=
+group=9
+Name=KeyCounter
+ShortDesc=Keep track of the number of keystrokes you make.
+LongDesc=Keep track of how many times you press any key(s).
+
+[Software24]
+exe=.\kLED\kLED.exe
+help=
+url=http://www.dcmembers.com/skwire/download/kled/
+exe64=
+group=9
+Name=kLED
+ShortDesc=Tray icons for num/caps/scroll lock status. Configurable OSD, too.
+LongDesc=Tray icons for num/caps/scroll lock status. Configurable on-screen display as well.
+
+[Software25]
+exe=.\ListNumberer\ListNumberer.exe
+help=
+url=http://www.dcmembers.com/skwire/download/list-numberer/
+exe64=
+group=9
+Name=List Numberer
+ShortDesc=Quickly number a text listing in various ways.
+LongDesc=Format & number a text list in various ways.
+
+[Software26]
+exe=.\Looper\Looper.exe
+help=
+url=http://www.dcmembers.com/skwire/download/looper/
+exe64=
+group=1
+Name=Looper
+ShortDesc=Gaplessly loop an audio file.
+LongDesc=Tiny gapless audio player. Great for drumbeat files. Drag-n-drop interface. Minimize to tray.
+
+[Software27]
+exe=.\Lucidity\Lucidity.exe
+help=
+url=http://www.dcmembers.com/skwire/download/lucidity/
+exe64=
+group=5
+Name=Lucidity
+ShortDesc=Apply a neat, translucent effect on your entire desktop.
+LongDesc=Sets an image as your wallpaper and then creates a neat translucent effect on your entire desktop.
+
+[Software28]
+exe=.\MAT\MouseAccelToggler.exe
+help=
+url=http://www.dcmembers.com/skwire/download/mat/
+exe64=
+group=9
+Name=MAT (Mouse Acceleration Toggler)
+ShortDesc=Change mouse acceleration and speed settings from the commandline.
+LongDesc=Change your mouse acceleration and speed settings via commandline.
+
+[Software29]
+exe=.\MPCPLed\MPCPLed.exe
+help=
+url=http://www.dcmembers.com/skwire/download/mpcpled/
+exe64=
+group=1
+Name=MPCPLed
+ShortDesc=Media Player Classic playlist editor -- easily edit and re-order MPCPL files.
+LongDesc=
+
+[Software30]
+exe=.\MPH\MPH.exe
+help=
+url=http://www.dcmembers.com/skwire/download/mph/
+exe64=
+group=9
+Name=MPH (Media Player Hotkeys)
+ShortDesc=Control various media players from one set global hotkeys.
+LongDesc=Hotkey application to control various audio, video and media players.
+
+[Software31]
+exe=.\OMDbTool\OMDbTool.exe
+help=
+url=http://www.dcmembers.com/skwire/download/omdb-tool/
+exe64=
+group=7
+Name=OMDb Tool
+ShortDesc=Look up IMDB data using the OMDb API and format the output.
+LongDesc=Look up IMDB data using the OMDb API and format the output.
+
+[Software32]
+exe=.\PDFInfoGUI\PDFInfoGUI.exe
+help=
+url=http://www.dcmembers.com/skwire/download/pdfinfogui/
+exe64=
+group=1
+Name=PDFInfoGUI
+ShortDesc=GUI front-end for pdfinfo.exe from the Xpdf package from FooLabs.
+LongDesc=A GUI for pdfinfo.exe
+
+[Software33]
+exe=.\PiggyBanks\PiggyBanks.exe
+help=
+url=http://www.dcmembers.com/skwire/download/piggy-banks/
+exe64=
+group=9
+Name=Piggy Banks
+ShortDesc=Track ‘fund’ accounts where a little money is put away each day.
+LongDesc=Keep track of money in funds until you reach your goal. Realtime updating of completion date based on daily accruals. Simple, listview-driven interface.
+
+[Software34]
+exe=.\PlayTime\PlayTime.exe
+help=
+url=http://www.dcmembers.com/skwire/download/playtime/
+exe64=
+group=1
+Name=PlayTime
+ShortDesc=Determine the total playtime for a list of music and movie files.
+LongDesc=Quickly calculate the total play time of a list of most any music or movie file. In addition, PlayTime will show extensive information about each file. Simple listview-driven interface. Drag-n-drop enabled. Export to CSV option.
+
+[Software35]
+exe=.\PowerSchemeToggler\PowerSchemeToggler.exe
+help=
+url=http://www.dcmembers.com/skwire/download/power-scheme-toggler/
+exe64=
+group=9
+Name=Power Scheme Toggler
+ShortDesc=Easily switch between two power schemes in Windows.
+LongDesc=Easily switch between two power schemes. Commandline support for use in scripts, hotkeys, etc.
+
+[Software36]
+exe=.\RecursiView\RecursiView.exe
+help=
+url=http://www.dcmembers.com/skwire/download/recursiview/
+exe64=
+group=10
+Name=RecursiView
+ShortDesc=Quickly view all images in a folder structure.
+LongDesc=RecursiView is an image viewer that will allow you to load a folder and all its subfolders at one time. This can be handy when you have your images organized into folders but you don't want to have to click through each folder to view them.
+
+[Software37]
+exe=.\sCheckbook\sCheckbook.exe
+help=
+url=http://www.dcmembers.com/skwire/download/scheckbook/
+exe64=
+group=2
+Name=sCheckbook
+ShortDesc=Simple checkbook or bank account register.
+LongDesc=Simple checkbook register application.
+
+[Software38]
+exe=.\sChecklist\sChecklist.exe
+help=
+url=http://www.dcmembers.com/skwire/download/schecklist/
+exe64=
+group=2
+Name=sChecklist
+ShortDesc=Simple checklist app. Just rows of text entries and a checkbox for each. No B.S., i.e., no categories, no sub-tasks, no time tracking, and no other crazy, wizzbang features.
+LongDesc=Simple checklist application.
+
+[Software39]
+exe=.\SCURLed\SCURLed.exe
+help=
+url=http://www.dcmembers.com/skwire/download/scurled/
+exe64=
+group=9
+Name=SCURLed
+ShortDesc=Easily batch edit Windows .LNK and .URL shortcut files.
+LongDesc=Edit LNK and URL shortcut files.
+
+[Software40]
+exe=.\SensatronicsTrayTool\SensatronicsTrayTool.exe
+help=
+url=http://www.dcmembers.com/skwire/download/sensatronics-tray-tool/
+exe64=
+group=10
+Name=Sensatronics Tray Tool
+ShortDesc=Tray-based monitoring tool for Sensatronic temperature sensors (E4 and U16 models).
+LongDesc=Sensatronics Tray Tool is designed to work with Sensatronics model E4 and U16 units. It offers an easy way to monitor these units from the Windows system tray. Totally portable and low memory usage.
+
+[Software41]
+exe=.\SFVNinja\SFVNinja.exe
+help=
+url=http://www.dcmembers.com/skwire/download/sfv-ninja/
+exe64=
+group=9
+Name=SFV Ninja
+ShortDesc=SFV (Simple File Verification) application.
+LongDesc=SFV (Simple File Verification) application.
+
+[Software42]
+exe=.\SigcheckGUI\SigcheckGUI.exe
+help=
+url=http://www.dcmembers.com/skwire/download/sigcheckgui/
+exe64=
+group=8
+Name=SigcheckGUI
+ShortDesc=GUI front-end for sigheck.exe from Sysinternals.
+LongDesc=A GUI for sigcheck.exe
+
+[Software43]
+exe=.\sImgurUploader\sImgurUploader.exe
+help=
+url=http://www.dcmembers.com/skwire/download/simguruploader/
+exe64=
+group=5
+Name=sImgurUploader
+ShortDesc=Commandline app to upload an image to Imgur and automatically copy URL to clipboard. Also can be used as a Screenshot Captor upload tool.
+LongDesc=Upload an image to Imgur using commandline and return URL on the clipboard
+
+[Software44]
+exe=.\SimpleWordGen\SimpleWordGen.exe
+help=
+url=http://www.dcmembers.com/skwire/download/simple-word-gen/
+exe64=
+group=9
+Name=Simple Word Gen
+ShortDesc=Create random word lists.
+LongDesc=Build random word lists. Several options including templates.
+
+[Software45]
+exe=.\SizeMatters\SizeMatters.exe
+help=
+url=http://www.dcmembers.com/skwire/download/size-matters/
+exe64=
+group=9
+Name=Size Matters
+ShortDesc=Easily track lists of files and their sizes.
+LongDesc=Track filesizes of list of files.
+
+[Software46]
+exe=.\sLyrics\sLyrics.exe
+help=
+url=http://www.dcmembers.com/skwire/download/slyrics/
+exe64=
+group=1
+Name=sLyrics
+ShortDesc=Lyric app using the Chart Lyrics API from the Chart Lyrics website.
+LongDesc=Lyric browser app using the ChartLyrics API from ChartLyrics.com.
+
+[Software47]
+exe=.\SnapDB\SnapDB.exe
+help=
+url=http://www.dcmembers.com/skwire/download/snap-db/
+exe64=
+group=2
+Name=Snap DB
+ShortDesc=Simple, flat-file database/list app.
+LongDesc=Small, simple flat-file database.
+
+[Software48]
+exe=.\Spews\Spews.exe
+help=
+url=http://www.dcmembers.com/skwire/download/spews/
+exe64=
+group=3
+Name=Spews
+ShortDesc=Wallpaper switcher with a twist.
+LongDesc=Wallpaper switcher with a twist.
+
+[Software49]
+exe=.\sPinger\sPinger.exe
+help=
+url=http://www.dcmembers.com/skwire/download/spinger/
+exe64=
+group=7
+Name=sPinger
+ShortDesc=Ping multiple IP addresses and hostnames with fun icon themes.
+LongDesc=Ping multiple IP addresses and hostnames with fun icon themes.
+
+[Software50]
+exe=.\SpinZip\SpinZip.exe
+help=
+url=http://www.dcmembers.com/skwire/download/spinzip/
+exe64=
+group=9
+Name=SpinZip
+ShortDesc=Compression app with some unique methods.
+LongDesc=Zip files in one of three unique ways. 1) User-specified size 2) Number of files per zip 3) One file per automatically named zip.
+
+[Software51]
+exe=.\Splat\Splat.exe
+help=.\Splat\Splat.chm
+url=http://www.dcmembers.com/skwire/download/splat/
+exe64=
+group=9
+Name=Splat
+ShortDesc=Profile-based program launcher.
+LongDesc=Build multiple profiles to start/stop programs/services.
+
+[Software52]
+exe=.\sPlaylistMaker\sPlaylistMaker.exe
+help=.\sPlaylistMaker\sPlaylistMaker.chm
+url=http://www.dcmembers.com/skwire/download/splaylistmaker/
+exe64=
+group=1
+Name=sPlaylistMaker
+ShortDesc=Recursively create .m3u playlist files.
+LongDesc=sPlaylistMaker allows you to easily create .m3u and .m3u8 playlists via drag-and-drop or via the commandline. sPlaylistMaker will recursively scan through dropped folders and create a playlist file in each folder with the name of that folder.
+
+[Software53]
+exe=.\SqueakyMouse\SqueakyMouse.exe
+help=
+url=http://www.dcmembers.com/skwire/download/squeaky-mouse/
+exe64=
+group=9
+Name=Squeaky Mouse
+ShortDesc=Play sounds when clicking mouse buttons.
+LongDesc=Play sounds when clicking mouse buttons.
+
+[Software54]
+exe=.\sStockQuote\sStockQuote.exe
+help=
+url=http://www.dcmembers.com/skwire/download/sstockquote/
+exe64=
+group=2
+Name=sStockQuote
+ShortDesc=Simple stock quote tracker with CSV export.
+LongDesc=Simple stock quote tracker with CSV export.
+
+[Software55]
+exe=.\SteamURLConverter\SteamURLConverter.exe
+help=
+url=http://www.dcmembers.com/skwire/download/steam-url-converter/
+exe64=
+group=4
+Name=Steam URL Converter
+ShortDesc=Convert Steam URL shortcuts to regular Windows shortcuts.
+LongDesc=Steam allows you to create shortcuts on your desktop to launch games. However, these shortcuts are not standard Windows .LNK files. They are .URL files and, sometimes, they don't show the proper icon for the intended game.
+
+[Software56]
+exe=.\sTray\sTray.exe
+help=
+url=http://www.dcmembers.com/skwire/download/stray/
+exe64=
+group=9
+Name=sTray
+ShortDesc=Tiny, tray-based utility that gives you the option to shutdown, restart, switch user, log off, lock, sleep, or hibernate your computer.
+LongDesc=Tray utility for easy shutdown/reboot/logout.
+
+[Software57]
+exe=.\SubAHK\SubAHK.exe
+help=
+url=http://www.dcmembers.com/skwire/download/subahk/
+exe64=
+group=1
+Name=SubAHK
+ShortDesc=Subsonic desktop client.
+LongDesc=Windows Subsonic client.
+
+[Software58]
+exe=.\sWavPlayer\sWavPlayer.exe
+help=
+url=http://www.dcmembers.com/skwire/download/swavplayer/
+exe64=
+group=1
+Name=sWavPlayer
+ShortDesc=Commandline WAV file player.
+LongDesc=Simple commandline WAV file player.
+
+[Software59]
+exe=.\sWeather\sWeather.exe
+help=
+url=http://www.dcmembers.com/skwire/download/sweather/
+exe64=
+group=9
+Name=sWeather
+ShortDesc=Tray-based weather app featuring multiple location support.
+LongDesc=Tray-based weather app featuring multiple location support. Tray icons for conditions and temperature (optional). Tray icons and images are customizable. Weather data is provided by Yahoo! Weather.
+
+[Software60]
+exe=.\Switcheroo\Switcheroo.exe
+help=
+url=http://www.dcmembers.com/skwire/download/switcheroo/
+exe64=
+group=9
+Name=Switcheroo
+ShortDesc=Switch two file’s names with a drag & drop GUI.
+LongDesc=Quickly switch two file's names with a drag-n-drop GUI.
+
+[Software61]
+exe=.\Tags2Folders\Tags2Folders.exe
+help=
+url=http://www.dcmembers.com/skwire/download/tags-2-folders/
+exe64=
+group=1
+Name=Tags 2 Folders
+ShortDesc=Sort audio files into folders based on their tags.
+LongDesc=Sort audio files into folders based on their tags. Drag-n-drop interface. Recursive scanning. Custom folder naming template system (even subfolders).
+
+[Software62]
+exe=.\TenTimer\TenTimer.exe
+help=
+url=http://www.dcmembers.com/skwire/download/ten-timer/
+exe64=
+group=9
+Name=Ten Timer
+ShortDesc=Simple, multiple timer app.
+LongDesc=Ten simple timers in one application.
+
+[Software63]
+exe=.\Text2Folders\Text2Folders.exe
+help=
+url=http://www.dcmembers.com/skwire/download/text-2-folders/
+exe64=
+group=9
+Name=Text 2 Folders
+ShortDesc=Create folders based on a simple text file.
+LongDesc=Create folders based on a simple text list.
+
+[Software64]
+exe=.\tiffInfoGUI\tiffInfoGUI.exe
+help=
+url=http://www.dcmembers.com/skwire/download/tiffinfogui/
+exe64=
+group=5
+Name=tiffInfoGUI
+ShortDesc=View information related to tiff image files.
+LongDesc=Show extended info about tiff images. Drag-n-drop, listview-driven interface. Export to CSV option.
+
+[Software65]
+exe=.\TIFFsyTurvy\TIFFsyTurvy.exe
+help=
+url=http://www.dcmembers.com/skwire/download/tiffsy-turvy/
+exe64=
+group=5
+Name=TIFFsy Turvy
+ShortDesc=Extract multi-page TIFF files, rotate and export to jpg in one step.
+LongDesc=Extract multi-page TIFF files, apply rotation and export to jpg in one step. Handy when you get faxes in TIFF format that are upside-down.
+
+[Software66]
+exe=.\TrackErr\TrackErr.exe
+help=
+url=http://www.dcmembers.com/skwire/download/trackerr/
+exe64=
+group=1
+Name=TrackErr
+ShortDesc=Quickly find malformed, i.e. DRM, audio tracks in your collection.
+LongDesc=Quickly find malformed, i.e. DRM, audio tracks in your collection.
+
+[Software67]
+exe=.\TrayHostChecker\TrayHostChecker.exe
+help=
+url=http://www.dcmembers.com/skwire/download/tray-host-checker/
+exe64=
+group=7
+Name=Tray Host Checker
+ShortDesc=Tiny application which periodically pings a configured hostname or IP address and displays a tray icon to show success or failure.
+LongDesc=Tiny application which periodically pings a configured hostname or IP address and displays a tray icon to show success or failure.
+
+[Software68]
+exe=.\TrayLang\TrayLang.exe
+help=
+url=http://www.dcmembers.com/skwire/download/traylang/
+exe64=
+group=9
+Name=TrayLang
+ShortDesc=Tiny, tray-based utility that displays an icon indicating the currently selected keyboard layout.
+LongDesc=Show icon in the system tray of the currently selected keyboard language.
+
+[Software69]
+exe=.\Trout\Trout.exe
+help=
+url=http://www.dcmembers.com/skwire/download/trout/
+exe64=
+group=1
+Name=Trout
+ShortDesc=Music player.
+LongDesc=Small, lightweight, freeware audio player with extensive format support. Simple, standard drag-n-drop interface. It also has last.fm scrobbling support, FreeDB lookups for CDs, a lyrics display, toaster popup, album art and more.
+
+[Software70]
+exe=.\Video2MP3\Video2MP3.exe
+help=
+url=http://www.dcmembers.com/skwire/download/video-2-mp3/
+exe64=
+group=1
+Name=Video 2 MP3
+ShortDesc=Automatically extract audio from a video file and make an MP3 of it.
+LongDesc=Automatically extract the audio from a video file and make an MP3 of it.
+
+[Software71]
+exe=.\Volt\Volt.exe
+help=.\Volt\Volt.chm
+url=http://www.dcmembers.com/skwire/download/volt/
+exe64=
+group=1
+Name=Volt
+ShortDesc=System tray hotkey-driven volume controller.
+LongDesc=System tray-based hotkey volume control. Simple tray-icon skins.
+
+[Software72]
+exe=.\WallpaperWelder\WallpaperWelder.exe
+help=
+url=http://www.dcmembers.com/skwire/download/wallpaper-welder/
+exe64=
+group=3
+Name=Wallpaper Welder
+ShortDesc=Create a wallpaper using a separate image per monitor (for multiple monitor setups).
+LongDesc=Use multiple images on multiple monitor setups.
+
+[Software73]
+exe=.\WasteNot\WasteNot.exe
+help=
+url=http://www.dcmembers.com/skwire/download/waste-not/
+exe64=
+group=6
+Name=Waste Not
+ShortDesc=Keep track of what’s in the fridge and their expiration dates.
+LongDesc=Keep track of what's in the fridge and their expiration dates. Simple, listview-driven interface.
+
+[Software74]
+exe=.\WHAT\WHAT.exe
+help=
+url=http://www.dcmembers.com/skwire/download/what/
+exe64=
+group=9
+Name=WHAT (Window Hotkey Activator Tool)
+ShortDesc=Assign hotkeys to activate/focus windows.
+LongDesc=Assign hotkeys to activate/focus windows.
+
+[Software75]
+exe=.\ZeroZipper\ZeroZipper.exe
+help=
+url=http://www.dcmembers.com/skwire/download/zero-zipper/
+exe64=
+group=9
+Name=Zero Zipper
+ShortDesc=Clone a folder/file structure as zero-byte and zip them.
+LongDesc=Duplicate a folder/file structure as zero-byte files and then create a zip from them.

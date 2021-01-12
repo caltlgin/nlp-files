@@ -1,0 +1,715 @@
+[General]
+Name=F2KO Software
+GroupCount=3
+SoftwareCount=70
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=GUI Tools
+
+[Group2]
+Name=CMD Tools
+
+[Software0]
+exe=CMD Tools\aes.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/aes-x64.exe
+group=2
+Name=AES
+ShortDesc=AES encryption
+LongDesc=[-d|-e] [pass] [source] [target]
+
+[Software1]
+exe=AudioCD Ripper\AudioCD Ripper.exe
+help=AudioCD Ripper\help.html
+url=http://www.f2ko.de/en/acd.php
+exe64=
+group=1
+Name=AudioCD Ripper
+ShortDesc=AudioCD Ripper converts tracks from an AudioCD into other formats.
+LongDesc=AudioCD Ripper supports converting to aac, mp3, mpc, wav. Insert an AudioCD in your CD/DVD-Rom-drive before or while the program is running. Select some tracks. Set the bitrate, codec and optionally the CD/DVD-Rom-drive. If the AudioCD will be inserted while the program is running you have to refresh the program's window. If you have multiple CD/DVD-Rom-drives and get trouble while extracting the tracks, you should set the drive-id manually using program's settings.
+
+[Software2]
+exe=AudioVideo To Exe\AudioVideo To Exe.exe
+help=
+url=http://www.f2ko.de/en/av2e.php
+exe64=
+group=1
+Name=Audio/Video To Exe
+ShortDesc=Audio/Video To Exe can convert multimedia files to other formats and selfplaying executables.
+LongDesc=
+
+[Software3]
+exe=CMD Tools\base64.exe
+help=
+url=http://www.f2ko.de/en/b64.php
+exe64=CMD Tools\base64-x64.exe
+group=2
+Name=Base64 De-/Encoder
+ShortDesc=Base64 De-/Encoder is a commandline program that can decode and encode files using the Base64 algorithm.
+LongDesc=
+
+[Software4]
+exe=Bat To Exe Converter\Bat To Exe Converter.exe
+help=Bat To Exe Converter\help.chm
+url=http://www.f2ko.de/en/b2e.php
+exe64=Bat To Exe Converter\Bat To Exe Converter (x64).exe
+group=1
+Name=Bat To Exe Converter
+ShortDesc=Bat To Exe Converter can convert BAT (.bat) script files to the EXE (.exe) format.
+LongDesc=
+
+[Software5]
+exe=CMD Tools\brieflz.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/brieflz-x64.exe
+group=2
+Name=BriefLZ
+ShortDesc=BriefLZ Compressor/Decompressor
+LongDesc=[-c|-d] [source] [target]
+
+[Software6]
+exe=CMD Tools\changeexeicon.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/changeexeicon-x64.exe
+group=2
+Name=Change Exe Icon
+ShortDesc=Change the icon of an exe file
+LongDesc=[iconfile] [infile] [outfile]
+
+[Software7]
+exe=CMD Tools\closewindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/closewindow-x64.exe
+group=2
+Name=Close Window
+ShortDesc=Close the specified window
+LongDesc=[windowtitle]
+
+[Software8]
+exe=CMD Tools\consolelocate.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/consolelocate-x64.exe
+group=2
+Name=Console Locate
+ShortDesc=Move the cursor to the given position
+LongDesc=[X] [Y]
+
+[Software9]
+exe=CMD Tools\crc32.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/crc32-x64.exe
+group=2
+Name=CRC32
+ShortDesc=Calculate the CRC32-checksum
+LongDesc=[file|-s string]
+
+[Software10]
+exe=CMD Tools\download.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools\download-x64.exe
+group=2
+Name=Download
+ShortDesc=Internet file download
+LongDesc=[URL] [target]
+
+[Software11]
+exe=CMD Tools\downloadheader.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/downloadheader-x64.exe
+group=2
+Name=Download Header
+ShortDesc=Download the HTTP header of the given URL
+LongDesc=[URL] {target}
+
+[Software12]
+exe=Duplicate File Eraser\Duplicate File Eraser.exe
+help=
+url=http://www.f2ko.de/en/dfe.php
+exe64=Duplicate File Eraser\Duplicate File Eraser (x64).exe
+group=1
+Name=Duplicate File Eraser
+ShortDesc=Duplicate File Eraser is a simple program that can find and remove duplicate files.
+LongDesc=
+
+[Software13]
+exe=CMD Tools\far.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/far-x64.exe
+group=2
+Name=Find And Replace Utility
+ShortDesc=Far is a commandline utility to search and replace text/data in files.
+LongDesc=Far allows searching for text or byte sequences in text and binary files,
+and reading from stdin/writing to stdout.
+
+[Software14]
+exe=CMD Tools\filebrowse.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/filebrowse-x64.exe
+group=2
+Name=File Browse
+ShortDesc=Browse for files
+LongDesc=[title] [default file] ...
+
+[Software15]
+exe=CMD Tools\flashwindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/flashwindow-x64.exe
+group=2
+Name=Flash Window
+ShortDesc=Flash a window
+LongDesc=[title] [count] [timeout] [flag] [background]
+
+[Software16]
+exe=CMD Tools\folderbrowse.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/folderbrowse-x64.exe
+group=2
+Name=Folder Browse
+ShortDesc=Browse for folder
+LongDesc=[title] [initial folder]
+
+[Software17]
+exe=Free Internetcam\Free Internetcam.exe
+help=
+url=http://www.f2ko.de/en/fic.php
+exe64=Free Internetcam\Free Internetcam (x64).exe
+group=1
+Name=Free Internetcam
+ShortDesc=Free Internetcam is a webcam server and monitoring application.
+LongDesc=
+
+[Software18]
+exe=CMD Tools\getlanguage.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/getlanguage-x64.exe
+group=2
+Name=Get Language
+ShortDesc=Detect system/user language
+LongDesc=[-s|-u]
+
+[Software19]
+exe=CMD Tools\getmimetype.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/getmimetype-x64.exe
+group=2
+Name=Get MIME Type
+ShortDesc=Detect the mime type of the given extension
+LongDesc=[extension]
+
+[Software20]
+exe=CMD Tools\getparentprocessname.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/getparentprocessname-x64.exe
+group=2
+Name=Get Parent Process Name
+ShortDesc=Retrieve the name of the parent process
+LongDesc={-h|-v}
+
+[Software21]
+exe=CMD Tools\getparentprocesspid.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/getparentprocesspid-x64.exe
+group=2
+Name=Get Parent Process PID
+ShortDesc=Retrieve the ID of the parent process
+LongDesc={-h|-v}
+
+[Software22]
+exe=CMD Tools\getspecialfolder.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/getspecialfolder-x64.exe
+group=2
+Name=Get Special Folder
+ShortDesc=Retrieve special folder
+LongDesc=[value]
+
+[Software23]
+exe=CMD Tools\gzip32.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=GZip32
+ShortDesc=Compress/Decompress GZip-files
+LongDesc=[-d|-e] [source] [target]
+
+[Software24]
+exe=CMD Tools\hidewindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/hidewindow-x64.exe
+group=2
+Name=Hide Window
+ShortDesc=Hide the specified window
+LongDesc=[windowtitle]
+
+[Software25]
+exe=CMD Tools\iconextractor.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=Icon Extractor
+ShortDesc=Extract exe-icons
+LongDesc=[infile.exe] {outpath}
+
+[Software26]
+exe=CMD Tools\inkey.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/inkey-x64.exe
+group=2
+Name=In Key
+ShortDesc=Wait for a key to be pressed
+LongDesc={-h|-v}
+
+[Software27]
+exe=CMD Tools\inputbox.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/inputbox-x64.exe
+group=2
+Name=Input Box
+ShortDesc=Input box
+LongDesc={-m} [title] [text] [def. input]
+
+[Software28]
+exe=CMD Tools\join-and-split.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/join-and-split-x64.exe
+group=2
+Name=Join And Split
+ShortDesc=Join and split file(s)
+LongDesc=[-j|-s] [file] [outpath.] {size}
+
+[Software29]
+exe=CMD Tools\lzma.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/lzma-x64.exe
+group=2
+Name=LZMA
+ShortDesc=LZMA Compressor/Decompressor
+LongDesc=[-c|-d] [source] [target]
+
+[Software30]
+exe=MacroCMD\MacroCMD.exe
+help=
+url=http://www.f2ko.de/en/mcr.php
+exe64=MacroCMD\MacroCMD-x64.exe
+group=2
+Name=Macro CMD
+ShortDesc=Macro CMD is a command line application that can record and play mouse and keyboard actions.
+LongDesc=
+
+[Software31]
+exe=CMD Tools\makeadmin.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/makeadmin-x64.exe
+group=2
+Name=Make Admin
+ShortDesc=Add an administrator manifest to the exe
+LongDesc=[infile] [outfile] {-d}
+
+[Software32]
+exe=CMD Tools\maketoolwindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/maketoolwindow-x64.exe
+group=2
+Name=Make Tool Window
+ShortDesc=Window to toolwindow
+LongDesc=[windowtitle]
+
+[Software33]
+exe=CMD Tools\maskedinput.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/maskedinput-x64.exe
+group=2
+Name=Masked Input
+ShortDesc=Masked text input
+LongDesc=[title]
+
+[Software34]
+exe=CMD Tools\maximizewindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/maximizewindow-x64.exe
+group=2
+Name=Maximize Window
+ShortDesc=Maximize the specified window
+LongDesc=[windowtitle]
+
+[Software35]
+exe=CMD Tools\md5.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/md5-x64.exe
+group=2
+Name=MD5
+ShortDesc=Calculate the MD5-checksum
+LongDesc=[file|-s string]
+
+[Software36]
+exe=CMD Tools\messagebox.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/messagebox-x64.exe
+group=2
+Name=Message Box
+ShortDesc=Display a messagebox
+LongDesc=[title] [text] {flagnr.}
+
+[Software37]
+exe=CMD Tools\minimizewindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/minimizewindow-x64.exe
+group=2
+Name=Minimize Window
+ShortDesc=Minimize the specified window
+LongDesc=[windowtitle]
+
+[Software38]
+exe=CMD Tools\mouse.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/mouse-x64.exe
+group=2
+Name=Mouse
+ShortDesc=Simulate mouse clicks
+LongDesc=[Click]
+
+[Software39]
+exe=CMD Tools\movewindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/movewindow-x64.exe
+group=2
+Name=Move Window
+ShortDesc=Move a window
+LongDesc=[X] [Y]
+
+[Software40]
+exe=MyVNC\MyVNC.exe
+help=MyVNC\help.chm
+url=http://www.f2ko.de/en/mvnc.php
+exe64=MyVNC\MyVNC (x64).exe
+group=1
+Name=MMyVNC
+ShortDesc=MyVNC is a small program that will give you access to a remote computer.
+LongDesc=
+
+[Software41]
+exe=CMD Tools\osversion.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/osversion-x64.exe
+group=2
+Name=OS Version
+ShortDesc=Detect the operation system
+LongDesc={-h|-v}
+
+[Software42]
+exe=CMD Tools\pathbrowse.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/pathbrowse-x64.exe
+group=2
+Name=Path Browse
+ShortDesc=Browse for folder
+LongDesc=[startpath] [text]
+
+[Software43]
+exe=CMD Tools\play.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/play-x64.exe
+group=2
+Name=Play
+ShortDesc=Simple Media Player
+LongDesc={-f} [file]
+
+[Software44]
+exe=Ps1 To Exe\Ps1 To Exe.exe
+help=Ps1 To Exe\help.chm
+url=http://www.f2ko.de/en/p2e.php
+exe64=Ps1 To Exe\Ps1 To Exe (x64).exe
+group=1
+Name=Ps1 To Exe
+ShortDesc=Ps1 To Exe can convert PowerShell (.ps1) files to the EXE (.exe) format.
+LongDesc=
+
+[Software45]
+exe=CMD Tools\rc4.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/rc4-x64.exe
+group=2
+Name=RC4
+ShortDesc=RC4 encryption
+LongDesc=[password] [infile] [outfile]
+
+[Software46]
+exe=CMD Tools\record.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/record-x64.exe
+group=2
+Name=Record
+ShortDesc=Sound recorder
+LongDesc=[seconds] [outfile]
+
+[Software47]
+exe=CMD Tools\resizewindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/resizewindow-x64.exe
+group=2
+Name=Resize Window
+ShortDesc=Resize window
+LongDesc=[title] [X] [Y] [width] [height]
+
+[Software48]
+exe=CMD Tools\savefiledialog.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/savefiledialog-x64.exe
+group=2
+Name=Save File Dialog
+ShortDesc=Open a dialog to save a file
+LongDesc=[title] [default file] ...
+
+[Software49]
+exe=CMD Tools\screenshot.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/screenshot-x64.exe
+group=2
+Name=Screenshot
+ShortDesc=Screenshot utility
+LongDesc=[X] [Y] [width] [height]
+
+[Software50]
+exe=CMD Tools\sendkey.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=Send Key
+ShortDesc=Simulate special keys
+LongDesc=[key]
+
+[Software51]
+exe=CMD Tools\sendkeys.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/sendkeys-x64.exe
+group=2
+Name=Send Keys
+ShortDesc=Simulate text
+LongDesc=[option] [text]
+
+[Software52]
+exe=CMD Tools\setcursorposition.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/setcursorposition-x64.exe
+group=2
+Name=Set Cursor Position
+ShortDesc=Change the cursor position
+LongDesc=[X] [Y]
+
+[Software53]
+exe=CMD Tools\setforegroundwindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/setforegroundwindow-x64.exe
+group=2
+Name=Set Foreground Window
+ShortDesc=Set the foreground window
+LongDesc=[windowtitle]
+
+[Software54]
+exe=CMD Tools\setwindowtitle.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/setwindowtitle-x64.exe
+group=2
+Name=Set Window Title
+ShortDesc=Set the windowtitle
+LongDesc=[windowtitle] [new title]
+
+[Software55]
+exe=CMD Tools\setwindowtransparency.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/setwindowtransparency-x64.exe
+group=2
+Name=Set Window Transparency
+ShortDesc=Set the transparency of a window
+LongDesc=[windowtitle] [value]
+
+[Software56]
+exe=CMD Tools\sha1.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/sha1-x64.exe
+group=2
+Name=SHA1
+ShortDesc=Calculate the SHA1-checksum
+LongDesc=[file|-s string]
+
+[Software57]
+exe=CMD Tools\sha2.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/sha2-x64.exe
+group=2
+Name=SHA2
+ShortDesc=Calculate the SHA2-checksum
+LongDesc=[file|-s string]
+
+[Software58]
+exe=CMD Tools\sha3.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/sha3-x64.exe
+group=2
+Name=SHA3
+ShortDesc=Calculate the SHA3-checksum
+LongDesc=[file|-s string]
+
+[Software59]
+exe=CMD Tools\showwindow.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/showwindow-x64.exe
+group=2
+Name=Show Window
+ShortDesc=Show the specified window
+LongDesc=[windowtitle]
+
+[Software60]
+exe=CMD Tools\sleep.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/sleep-x64.exe
+group=2
+Name=Sleep
+ShortDesc=Suspend execution
+LongDesc=[milliseconds]
+
+[Software61]
+exe=CMD Tools\speak.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/speak-x64.exe
+group=2
+Name=Speak
+ShortDesc=Speak text/filecontent
+LongDesc=[-t text|-f filename]
+
+[Software62]
+exe=CMD Tools\unlzma.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=Un-LZMA
+ShortDesc=Uncompress LZMA-files
+LongDesc=[infile] {outfile}
+
+[Software63]
+exe=CMD Tools\urldecode.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=URL Decode
+ShortDesc=URL-Decoder
+LongDesc=[Url]
+
+[Software64]
+exe=CMD Tools\url-de-encoder.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/-x64url-de-encoder.exe
+group=2
+Name=URL De-/Encoder
+ShortDesc=URL De-/Encoder
+LongDesc=[-d|-e] [Url]
+
+[Software65]
+exe=CMD Tools\urlencode.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=URL Encode
+ShortDesc=URL-Encoder
+LongDesc=[Url]
+
+[Software66]
+exe=Vbs To Exe\Vbs To Exe.exe
+help=Vbs To Exe\help.chm
+url=http://www.f2ko.de/en/v2e.php
+exe64=Vbs To Exe\Vbs To Exe (x64).exe
+group=1
+Name=Vbs To Exe
+ShortDesc=Vbs To Exe can convert VBS (.vbs) files to the EXE (.exe) format.
+LongDesc=
+
+[Software67]
+exe=CMD Tools/webserver.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/webserver-x64.exe
+group=2
+Name=Web Server
+ShortDesc=Http web server
+LongDesc=[base directory] {port}
+
+[Software68]
+exe=CMD Tools/windowontop.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=CMD Tools/windowontop-x64.exe
+group=2
+Name=Window On Top
+ShortDesc=Make the window stay on top
+LongDesc=[windowtitle]
+
+[Software69]
+exe=CMD Tools/xmlparser.exe
+help=
+url=http://www.f2ko.de/en/cmd.php
+exe64=
+group=2
+Name=XML Parser
+ShortDesc=XML-parser
+LongDesc=[XML-File]

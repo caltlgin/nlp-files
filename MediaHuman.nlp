@@ -1,0 +1,54 @@
+[General]
+Name=MediaHuman
+GroupCount=1
+SoftwareCount=4
+
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+
+[Software0]
+exe=YouTube to MP3 Converter\YouTubeToMp3.exe
+help=
+url=https://www.mediahuman.com/youtube-to-mp3-converter/
+exe64=
+group=0
+Name=YouTube to MP3 Converter
+AppName=YouTube to MP3 Converter
+ShortDesc=You like to listen to music on YouTube or SoundCloud and want to save it for offline playing. Or you want to download soundtrack of a new movie. Then we recommend you to try out this software developed specifically for this purpose.
+LongDesc=You like to listen to music on YouTube or SoundCloud and want to save it for offline playing. Or you want to download soundtrack of a new movie. Then we recommend you to try out this software developed specifically for this purpose.
+
+[Software1]
+exe=Audio Converter\MHAudioConverter.exe
+help=
+url=https://www.mediahuman.com/audio-converter/
+exe64=
+group=0
+Name=Audio Converter
+AppName=Audio Converter
+ShortDesc=MediaHuman Audio Converter is a freeware application for Mac OS X and Windows. It can help you to convert your music absolutely free to WMA, MP3, AAC, WAV, FLAC, OGG, AIFF, Apple Lossless format and bunch of others.
+LongDesc=MediaHuman Audio Converter is a freeware application for Mac OS X and Windows. It can help you to convert your music absolutely free to WMA, MP3, AAC, WAV, FLAC, OGG, AIFF, Apple Lossless format and bunch of others.
+
+[Software2]
+exe=Lyrics Finder\LyricsFinder.exe
+help=
+url=https://www.mediahuman.com/lyrics-finder/
+exe64=
+group=0
+Name=Lyrics Finder
+AppName=Lyrics Finder
+ShortDesc=MediaHuman Lyrics Finder is a free software application, which can help you find and add missing lyrics (song text) to all songs in your music library. It's a safe operation because the app doesn't overwrite lyrics you've already had.
+LongDesc=MediaHuman Lyrics Finder is a free software application, which can help you find and add missing lyrics (song text) to all songs in your music library. It's a safe operation because the app doesn't overwrite lyrics you've already had.
+
+[Software3]
+exe=Collagerator\Collagerator.exe
+help=
+url=https://www.mediahuman.com/collagerator/
+exe64=
+group=0
+Name=Collagerator
+AppName=Collagerator
+ShortDesc=If you love taking pictures of everything around you, then the best way to share it with your friends without disturbing them is to make a beautiful collage. With our Collagerator you can create a collage that collects favorite moments of your life.
+LongDesc=If you love taking pictures of everything around you, then the best way to share it with your friends without disturbing them is to make a beautiful collage. With our Collagerator you can create a collage that collects favorite moments of your life.

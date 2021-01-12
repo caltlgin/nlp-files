@@ -1,0 +1,592 @@
+[General]
+Name=MiTeC Utilites
+GroupCount=9
+SoftwareCount=56
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=Components
+
+[Group2]
+Name=Database Tools
+
+[Group3]
+Name=Delphi Tools
+
+[Group4]
+Name=Network Tools
+
+[Group5]
+Name=Registry/INI Tools
+
+[Group6]
+Name=System Tools
+
+[Group7]
+Name=Forensic
+
+[Group8]
+Name=Miscellaneous
+
+[Software0]
+exe=AccList.exe
+help=
+url=
+exe64=
+group=6
+Name=Account List
+ShortDesc=
+LongDesc=
+
+[Software1]
+exe=ADExp.exe
+help=
+url=
+exe64=
+group=6
+Name=AD Explorer
+ShortDesc=
+LongDesc=
+
+[Software2]
+exe=ADOQuery.exe
+help=
+url=http://www.mitec.cz/adoq.html
+exe64=
+group=2
+Name=ADO Query
+ShortDesc=A must-have tool for ADO supported databases administration.
+LongDesc=This application manages any databases suppoted by Microsoft ActiveX data Objects (need to be installed). You can also import data from CSV and export to CSV and XML format.
+
+[Software3]
+exe=CertInfo.exe
+help=
+url=http://www.mitec.cz/certinfo.html
+exe64=
+group=8
+Name=Certificate Information
+ShortDesc=Certificate and signed file viewer
+LongDesc=
+
+[Software4]
+exe=CompInfo.exe
+help=
+url=
+exe64=
+group=6
+Name=Computer Information Utility
+ShortDesc=
+LongDesc=
+
+[Software5]
+exe=DataEdit.exe
+help=
+url=
+exe64=
+group=2
+Name=Data Editor
+ShortDesc=
+LongDesc=
+
+[Software6]
+exe=DBFView.exe
+help=
+url=
+exe64=
+group=1
+Name=DBF Viewer
+ShortDesc=
+LongDesc=
+
+[Software7]
+exe=DBView.exe
+help=
+url=
+exe64=
+group=2
+Name=DB Viewer
+ShortDesc=
+LongDesc=
+
+[Software8]
+exe=DBXView.exe
+help=
+url=
+exe64=
+group=8
+Name=DBX Viewer
+ShortDesc=Viewer for standalone files containing Microsoft Outlook 5 and 6 message database (*.dbx).
+LongDesc=It displays list of contained messages and their header. Message can be viewed in detailed view including attachments (save ability) and HTML preview and printing. Messages can be saved to *.eml files.
+
+[Software9]
+exe=DDG_IBFB.exe
+help=
+url=
+exe64=
+group=2
+Name=Database Documentation/Code Generator for Interbase/Firebird
+ShortDesc=
+LongDesc=
+
+[Software10]
+exe=DDG_MSSQL.exe
+help=
+url=
+exe64=
+group=2
+Name=Database Documentation/Code Generator for MS SQL
+ShortDesc=
+LongDesc=
+
+[Software11]
+exe=DFMEdit.exe
+help=
+url=
+exe64=
+group=3
+Name=Delphi Form Editor
+ShortDesc=
+LongDesc=
+
+[Software12]
+exe=DirList.exe
+help=
+url=http://www.mitec.cz/dirlist.html
+exe64=
+group=8
+Name=DirList
+ShortDesc=Tool for directory listing creation
+LongDesc=This application allows to browse all connected disks like explorer and select folders and files for listing. Files can be listed by content too. Result listing can be saved to CSV file or as HTML with defined layout with preview.
+
+[Software13]
+exe=DXFView.exe
+help=
+url=
+exe64=
+group=8
+Name=DXF Viewer
+ShortDesc=Viewer for Drawing Interchgange Files (DXF) with object inspector.
+LongDesc=
+
+[Software14]
+exe=EHB.exe
+help=
+url=http://www.mitec.cz/ehb.html
+exe64=
+group=7
+Name=E-mail History Browser
+ShortDesc=Collects and displays e-mail communication history taken from supported e-mail clients
+LongDesc=E-mail History Browser collects and displays e-mail communication history taken from supported e-mail clients in comprehensive interface with powerful filtering engine. You can trace and see all your (or someone else's) e-mail communication. Everything except message body and attachments is saved and displayed. Supported e-mail clients: Microsoft Outlook Express, Microsoft Windows Mail, Microsoft Windows Live Mail, Mozilla Thunderbird
+
+[Software15]
+exe=EXE.exe
+help=
+url=http://www.mitec.cz/exe.html
+exe64=
+group=8
+Name=EXE Explorer
+ShortDesc=Executable File Explorer for OS/2, NE, PE32, PE32+ and VxD file types
+LongDesc=This application is based on MiTeC Portable Executable Reader. It reads and displays executable file properties and structure. It is compatible with PE32 (Portable Executable), PE32+ (64bit), NE (Windows 3.x New Executable) and VxD (Windows 9x Virtual Device Driver) file types. .NET executables are supported too. It enumerates introduced classes, used units and forms for files compiled by Borland compilers. It contains powerfull Resource Viewer that is able to abalyze and display al basic resouce types and some extra ones as JPEG, PNG, GIF, AVI, REGISTRY. It contains excellent Type Library viewer that enumerates all objects and creates import interface unit in Object Pascal language. Every type of resource can be saved to file. EXE Explorer produces text report with all important information about selected file. Searching capability is also available. It searches all resources that can be interpreted as text.
+
+[Software16]
+exe=GAI.exe
+help=
+url=
+exe64=
+group=4
+Name=Get Adapter Info
+ShortDesc=
+LongDesc=
+
+[Software17]
+exe=HEXEdit.exe
+help=
+url=http://www.mitec.cz/hex.html
+exe64=
+group=8
+Name=Hexadecimal Editor
+ShortDesc=Powerfull hexadecimal editor
+LongDesc=HexEdit is powerfull hexadecimal editor with following features: MDI interface, Data Inspector, Calculator, File Compare, Memory Dumper, Disk Dumper (NT only)
+
+[Software18]
+exe=IBPM.exe
+help=
+url=
+exe64=
+group=2
+Name=Interbase Performance Monitor
+ShortDesc=
+LongDesc=
+
+[Software19]
+exe=IBQ.exe
+help=
+url=http://www.mitec.cz/ibq.html
+exe64=
+group=2
+Name=Interbase Query
+ShortDesc=A must-have tool for every Interbase/Firebird administrator or developer.
+LongDesc=This tool allows completely manage any Interbase >5.x/Firebird database.
+
+[Software20]
+exe=IconExplorer.exe
+help=
+url=http://www.mitec.cz/iconex.html
+exe64=
+group=8
+Name=Icon Explorer
+ShortDesc=Application for browsing, searching, extracting and managing icons files and libraries.
+LongDesc=This tool allows to manage icon libraries, standalone icons and executable that contains icons as resources.
+
+[Software21]
+exe=IconFactory.exe
+help=
+url=
+exe64=
+group=8
+Name=Icon Factory
+ShortDesc=Icon extracting and managing tool.
+LongDesc=It has ability to extract icons from executables, libraries and other files. Also can save separate icons or icon pages to standalone icons or bitmaps.
+
+[Software22]
+exe=IHB.exe
+help=
+url=http://www.mitec.cz/ihb.html
+exe64=
+group=7
+Name=Internet History Browser
+ShortDesc=Collects and displays internet browsing history
+LongDesc=Internet History Browser collects and displays internet browsing history in comprehensive interface with powerful filtering engine. You can trace and see all your (or someone else's) web sites visits including date and time and used browser. Supported browsers: Microsoft Internet Explorer, Google Chrome, Opera, Apple Safari, Mozilla Firefox
+
+[Software23]
+exe=IMHB.exe
+help=
+url=http://www.mitec.cz/imhb.html
+exe64=
+group=7
+Name=Instant Messaging History Browser
+ShortDesc=Collects and displays communication history
+LongDesc=Instant Messaging History Browser collects and displays communication history in comprehensive interface with powerful filtering engine. You can trace and see all your (or someone else's) IM chats, calls or file transfers (if supported by client) by time or person. Supported IM clients: Skype, ICQ 7, Windows Live Messenger, Yahoo Messenger
+
+[Software24]
+exe=InfoDesk.exe
+help=
+url=http://www.mitec.cz/infodesk.html
+exe64=
+group=8
+Name=Information Desk
+ShortDesc=Versatile tool not only for programmers but also for ordinary users
+LongDesc=There are displayed most important information about your computer. If you double-click on any panel detailed information about is displayed in the bubble. When you press down rigth button menu is displayed. All modules/tools can be invoked by system-wide hot keys. Fully customizable interface is also available.
+
+[Software25]
+exe=INIEdit.exe
+help=
+url=
+exe64=
+group=5
+Name=INI Editor
+ShortDesc=
+LongDesc=
+
+[Software26]
+exe=JSONView.exe
+help=
+url=http://www.mitec.cz/jsonv.html
+exe64=
+group=8
+Name=JSON Viewer
+ShortDesc=Full featured JSON Viewer.
+LongDesc=
+
+[Software27]
+exe=MailView.exe
+help=
+url=http://www.mitec.cz/mailview.html
+exe64=
+group=8
+Name=Mail Viewer
+ShortDesc=Viewer for Outlook Express, Windows Mail/Windows Live Mail and Mozilla Thunderbird message databases as well as single EML files.
+LongDesc=Viewer for standalone files containing Microsoft Outlook Express 4,5 and 6 message database (*.idx/*.mbx/*.dbx), Windows Vista Mail/Windows Live Mail and Mozilla Thunderbird message databases as well as standalone EML files. This application is based on MiTeC Outlook Express Reader. It displays list of contained messages with all needed properties as ordinary e-mail client. Message can be viewed in detailed view including attachments (save ability) and HTML preview. It has powerful searching and filtering capability and also allows to extract all email address from all emails in opened folder to list by one click. Selected messages can be saved to *.eml files with or without their attachments. Attachments can be extracted from selected messages by one command. Of course, opened messages can be printed including images.
+
+[Software28]
+exe=MediaMan.exe
+help=
+url=
+exe64=
+group=8
+Name=Media Manager
+ShortDesc=
+LongDesc=
+
+[Software29]
+exe=MSIXMLRV.exe
+help=
+url=
+exe64=
+group=1
+Name=System Information XML Report Viewer
+ShortDesc=
+LongDesc=
+
+[Software30]
+exe=MJ.exe
+help=
+url=
+exe64=
+group=6
+Name=Machine Journal
+ShortDesc=
+LongDesc=
+
+[Software31]
+exe=MJFViewer.exe
+help=
+url=
+exe64=
+group=1
+Name=Machine Journal
+ShortDesc=
+LongDesc=
+
+[Software32]
+exe=MSAQuery.exe
+help=
+url=http://www.mitec.cz/msaq.html
+exe64=
+group=2
+Name=MSA Query
+ShortDesc=A must-have tool for every MS Access administrator or developer.
+LongDesc=This tool allows completely manage any MS Access database. It is based on Microsoft DAO Engine.
+
+[Software33]
+exe=MSIX.exe
+help=
+url=http://www.mitec.cz/msi.html
+exe64=MSIX64.exe
+group=6
+Name=System Information X
+ShortDesc=Full-featured system information about your system.
+LongDesc=This application is based on MiTeC System Information Component Suite and provides complex system information about your system. It has capability to save brief text of full XML report and store data in structured storage file (readable by using standard Windows API), that can be lately viewed as well. 
+
+[Software34]
+exe=MSQP.exe
+help=
+url=
+exe64=
+group=2
+Name=MS SQL Query Pad
+ShortDesc=
+LongDesc=
+
+[Software35]
+exe=NetMet.exe
+help=
+url=http://www.mitec.cz/netmet.html
+exe64=
+group=4
+Name=Network Meter
+ShortDesc=Tool for network traffic measuring
+LongDesc=This application scans for network interfaces and adapters installed in system and their monitoring. Detailed info for every interface is provided. Every interface monitor has simple statistics view and graphic display with time history. 
+
+[Software36]
+exe=NetScanner.exe
+help=
+url=http://www.mitec.cz/netscan.html
+exe64=
+group=4
+Name=Network Scanner
+ShortDesc=Network detection tool
+LongDesc=It is a free multi-threaded Port, IP, NetBIOS and SNMP scanner with many advanced features. It is intended for both system administrators and general users who are interested in computer security. The program performs ping sweep, scans for opened TCP and UDP ports, resource shares and services. For devices with SNMP capability available interfaces are detected and basic properties displayed. In addition you have to edit results, save/load results to/from CSV and print network device list and any data in any section can be exported to CSV. It can also resolve host names and auto-detect your local IP range.
+
+[Software37]
+exe=OEView.exe
+help=
+url=
+exe64=
+group=8
+Name=OE Viewer
+ShortDesc=
+LongDesc=
+
+[Software38]
+exe=OLExp.exe
+help=
+url=
+exe64=
+group=8
+Name=OLE/COM Object Explorer
+ShortDesc=Tool for exploring OLE/COM Objects sorted by CLSID, Type Library, Application ID and Interface.
+LongDesc=Retrieves complete source from Type Library in Object Pascal and enumerates all related registry keys.
+
+[Software39]
+exe=PDE.exe
+help=
+url=
+exe64=
+group=2
+Name=Paradox Data Editor
+ShortDesc=
+LongDesc=
+
+[Software40]
+exe=PhotoView.exe
+help=
+url=
+exe64=
+group=8
+Name=Photo View
+ShortDesc=
+LongDesc=
+
+[Software41]
+exe=PV.exe
+help=
+url=
+exe64=
+group=6
+Name=Process Viewer
+ShortDesc=
+LongDesc=
+
+[Software42]
+exe=PwdHack95.exe
+help=
+url=
+exe64=
+group=6
+Name=Windows 9x Password Hacker
+ShortDesc=
+LongDesc=
+
+[Software43]
+exe=RBE.exe
+help=
+url=
+exe64=
+group=6
+Name=ROM BIOS Explorer
+ShortDesc=
+LongDesc=
+
+[Software44]
+exe=RegView.exe
+help=
+url=
+exe64=
+group=5
+Name=Registry Viewer
+ShortDesc=
+LongDesc=
+
+[Software45]
+exe=RFV.exe
+help=
+url=
+exe64=
+group=5
+Name=Registry File Viewer
+ShortDesc=Viewer for standalone files containing Microsoft Windows registry hives.
+LongDesc=MiTeC Registry File Viewer is based on TObject class and contains complete interface for reading Microsoft Windows registry hives stored in files. It features extended registry searching, registry dumping and exporting to REGEDIT4 format and detailed key information. For NT registry files there's possibility to explore all security records and hash values.
+
+[Software46]
+exe=SE.exe
+help=
+url=
+exe64=
+group=6
+Name=Startup Explorer
+ShortDesc=This tool allows to review and manage all startup applications.
+LongDesc=
+
+[Software47]
+exe=SQLiteQuery.exe
+help=
+url=http://www.mitec.cz/sqliteq.html
+exe64=
+group=2
+Name=SQLite Query
+ShortDesc=A must-have tool for SQLite3 databases administration and data manipulation.
+LongDesc=This application manages any SQLite3 databases. You can also import data from CSV and export to CSV and SQL format.
+
+[Software48]
+exe=SSView.exe
+help=
+url=http://www.mitec.cz/ssv.html
+exe64=
+group=8
+Name=Structured Storage Viewer
+ShortDesc=This tool allows completely manage any MS OLE Structured Storage based file.
+LongDesc=This tool allows to completely manage any MS OLE Structured Storage based file. You can save and load streams, add, delete, rename and edit items and property sets. Embedded streams can be viewed as hexadecimal listing, text, bitmap, icon or RTF. 
+
+[Software49]
+exe=TMX.exe
+help=
+url=http://www.mitec.cz/tmx.html
+exe64=TMX64.exe
+group=6
+Name=Task Manager DeLuxe
+ShortDesc=Full-featured task manager replacement.
+LongDesc=Task Manager DeLuxe (TMX) is based on MiTeC System Information Component Suite and offers powerfull features available in standard Windows Task Manager in lightweight portable package with many more enhancements. It needs no installation and leaves no tracks in system so it can be easily used as portable application everywhere. There is also AutoRefresh feature providing automatic refreshning of current screen in defined interval. Session viewer contains automatic session journal which logs every session login, logout, lock and status change. It is useful especially on terminal servers to watch how users connect and disconnect to their desktops. 
+
+[Software50]
+exe=WeatherAgent.exe
+help=
+url=
+exe64=
+group=8
+Name=Weather Agent
+ShortDesc=
+LongDesc=
+
+[Software51]
+exe=WFA.exe
+help=
+url=http://www.mitec.cz/wfa.html
+exe64=
+group=7
+Name=Windows File Analyzer
+ShortDesc=Tool for forensic file analysis
+LongDesc=This application decodes and analyzes some special files used by Windows OS. In these files is interesting information for forensic analysis. Every analysis results can be printed in user-friendly form.
+
+[Software52]
+exe=WMIExp.exe
+help=
+url=
+exe64=
+group=6
+Name=WMI Explorer
+ShortDesc=
+LongDesc=
+
+[Software53]
+exe=WRA.exe
+help=
+url=
+exe64=
+group=5
+Name=Windows Registry Analyzer
+ShortDesc=
+LongDesc=
+
+[Software54]
+exe=WRR.exe
+help=
+url=http://www.mitec.cz/wrr.html
+exe64=
+group=7
+Name=Windows Registry Recovery
+ShortDesc=The best tool for crashed machine registry configuration data recovery
+LongDesc=This application allows to read files containing Windows 9x,NT,2K,XP,2K3 registry hives. It extracts many useful information about configuration and windows installation settings of host machine. Registry hive can be exported into REGEDIT4 format. Every topic data can be saved to CSV.
+
+[Software55]
+exe=XPing.exe
+help=
+url=
+exe64=
+group=4
+Name=XPing
+ShortDesc=
+LongDesc=

@@ -1,0 +1,189 @@
+[General]
+Name=Eusing Software
+GroupCount=1
+SoftwareCount=18
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=Auto Window Manager\AutoWin.exe
+help=Auto Window Manager\AutoWindow.chm
+url=http://www.eusing.com/WindowManager/WindowManager.htm
+exe64=
+group=0
+Name=Auto Window Manager
+ShortDesc=Resize your programs automatically, such as maximize, minimize, normal, minimize to tray, stay on top; set the transparency of application windows.
+LongDesc=
+
+[Software1]
+exe=CD to MP3 Converter\cdextract.exe
+help=CD to MP3 Converter\cdextract.chm
+url=http://www.eusing.com/CDRipper/CDRipper.htm
+exe64=
+group=0
+Name=Free CD to MP3 Converter
+ShortDesc=A free and easy-to-use CD ripper software allows you to rip audio CDs and convert to MP3.
+LongDesc=
+
+[Software2]
+exe=Free Internet Window Washer\Clearpch.exe
+help=Free Internet Window Washer\WindowsWasher.chm
+url=http://www.eusing.com/Window_Washer/Window_Washer.htm
+exe64=
+group=0
+Name=Free Internet Window Washer
+AppName=Free Internet Window Washer
+ShortDesc=Free Internet Window Washer securely erases Internet tracks.
+LongDesc=
+
+[Software3]
+exe=Eusing Clock\EFClock.exe
+help=
+url=http://www.eusing.com/free_desktop_clock/alarm_clock.htm
+exe64=
+group=0
+Name=Eusing Clock
+ShortDesc=Eusing Clock is a small desktop clock application that will place a great looking, colorful clock on the screen of your computer.
+LongDesc=
+
+[Software4]
+exe=Eusing Launcher\eLauncher.exe
+help=
+url=http://www.eusing.com/launcher/eusing_launcher.htm
+exe64=
+group=0
+Name=Eusing Launcher
+ShortDesc=Eusing Launcher organizes all the desktop icons, allowing you to quickly find any desired icon.
+LongDesc=
+
+[Software5]
+exe=Eusing Utilities\EusingUtilities.exe
+help=
+url=http://www.eusing.com/free_utilities/eusing_utilities.htm
+exe64=
+group=0
+Name=Eusing Utilities
+ShortDesc=Eusing Utilities can diagnose and optimize your computer.
+LongDesc=
+
+[Software6]
+exe=Fast Folder Access\fastfolder.exe
+help=Fast Folder Access\FastFolder.chm
+url=http://www.eusing.com/FastFolder/FastFolder.htm
+exe64=
+group=0
+Name=Fast Folder Access
+ShortDesc=Shell enhancement to jump quickly to your favorite folders from within common Open/Save dialogs, in Windows Explorer, the desktop, and the Start button.
+LongDesc=
+
+[Software7]
+exe=Free IP Scanner\ipscan.exe
+help=
+url=http://www.eusing.com/ipscan/free_ip_scanner.htm
+exe64=
+group=0
+Name=Free IP Scanner
+ShortDesc=Free IP scanner is a very fast IP scanner and port scanner.
+LongDesc=
+
+[Software8]
+exe=Free IP Switcher\IpSwitch.exe
+help=
+url=http://www.eusing.com/ipswitch/free_ip_switcher.htm
+exe64=
+group=0
+Name=Free IP Switcher
+ShortDesc=Free IP Switcher is a very useful utility when you change your network settings under different locations.
+LongDesc=
+
+[Software9]
+exe=Eusing Maze Lock\MazeLock.exe
+help=
+url=http://www.eusing.com/mazelock/pclock.htm
+exe64=
+group=0
+Name=Eusing Maze Lock
+ShortDesc=Eusing Maze Lock uses a pattern based technique to lock your computer.
+LongDesc=
+
+[Software10]
+exe=Eusing Free MP3 Cutter\mp3cutter.exe
+help=
+url=http://www.eusing.com/free_mp3_cutter/mp3_cutter.htm
+exe64=
+group=0
+Name=Eusing Free MP3 Cutter
+ShortDesc=Eusing Free MP3 Cutter is a simple utility that allows you to cut out pieces of an audio file (MP3, WAV, WMA).
+LongDesc=
+
+[Software11]
+exe=Free Registry Cleaner\Regcleaner.exe
+help=
+url=http://www.eusing.com/free_registry_cleaner/registry_cleaner.htm
+exe64=
+group=0
+Name=Free Registry Cleaner
+ShortDesc=Eusing Free Registry Cleaner is a free registry repair software that allows you to safely clean and repair registry problems with a few simple mouse clicks.
+LongDesc=
+
+[Software12]
+exe=Eusing Free Registry Defrag\RegDefrag.exe
+help=
+url=http://www.eusing.com/free_registry_defrag/registry_defrag.htm
+exe64=
+group=0
+Name=Eusing Free Registry Defrag
+ShortDesc=Eusing Free Registry Defrag is a free registry defragmentation software.
+LongDesc=
+
+[Software13]
+exe=Registry Jump\Regkj.exe
+help=
+url=hhttp://www.eusing.com/free_registry_jump/registry_jump.htm
+exe64=
+group=0
+Name=Registry Jump
+ShortDesc=Free Registry Jump can jump to a certain registry key or value instantly.
+LongDesc=
+
+[Software14]
+exe=System Cleaner\SCleaner.exe
+help=
+url=http://www.eusing.com/free_system_cleaner/system_cleaner.htm
+exe64=
+group=0
+Name=System Cleaner
+ShortDesc=System Cleaner allows you to find and remove the unused files in your system.
+LongDesc=
+
+[Software15]
+exe=Taskbar Hide\TaskBar.exe
+help=Taskbar Hide\Taskbar.chm
+url=http://www.eusing.com/hidewindows/bosskey.htm
+exe64=
+group=0
+Name=Taskbar Hide - hide windows program
+ShortDesc=Hide windows program completely through a hotkey or as an icon in system tray.
+LongDesc=
+
+[Software16]
+exe=Video Converter\VideoConverter.exe
+help=
+url=http://www.eusing.com/free_video_converter/video_converter.htm
+exe64=
+group=0
+Name=Eusing Free Video Converter
+ShortDesc=Eusing Free Video Converter can convert video files between many formats with ease.
+LongDesc=
+
+[Software17]
+exe=WMA MP3 Converter\Wmpcon.exe
+help=
+url=http://www.eusing.com/free_wma_converter/mp3_wma_converter.htm
+exe64=
+group=0
+Name=WMA MP3 Converter
+ShortDesc=Free WMA MP3 Converter helps you convert WMA to MP3, MP3 to WMA, WAV to MP3, WAV to WMA, MP3 to WAV, WMA to WAV etc.
+LongDesc=

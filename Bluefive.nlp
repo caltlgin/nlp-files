@@ -1,0 +1,279 @@
+[General]
+Name=Bluefive Software
+GroupCount=8
+SoftwareCount=25
+
+[Group0]
+Name=All Tools
+ShowAll=1
+
+[Group1]
+Name=Business
+
+[Group2]
+Name=Desktop
+
+[Group3]
+Name=Graphic Apps
+
+[Group4]
+Name=Network && Internet
+
+[Group5]
+Name=Security && Privacy
+
+[Group6]
+Name=System Utilities
+
+[Group7]
+Name=Web Development
+
+[Software0]
+exe=Alarm\Alarm.exe
+help=
+url=https://bluefive.pairsite.com/alarm.htm
+exe64=
+group=2
+Name=Alarm
+ShortDesc=Alarm is a digital alarm clock.
+LongDesc=Alarm is a digital clock that you can set to display a message and play a sound at a time of your choice. It is meant to be of help when you want to be warned while you are working.
+
+[Software1]
+exe=ASCIIvalues\ASCIIvalues.exe
+help=
+url=https://bluefive.pairsite.com/asciivalues.htm
+exe64=
+group=2
+Name=ASCIIvalues
+ShortDesc=Displays the ASCII value of a key.
+LongDesc=ASCIIvalues is a small program that displays the ASCII value of each key as you press it. It shows ASCII character codes for alphabetic, numeric, and symbolic characters.
+
+[Software2]
+exe=Beyondo\Beyondo.exe
+help=
+url=https://bluefive.pairsite.com/beyondo.htm
+exe64=
+group=6
+Name=Beyondo
+ShortDesc=Alter your system date.
+LongDesc=If you want to alter your system date just for a short period of time then Beyondo is the tool you want.
+
+[Software3]
+exe=BootStatus\BootStatus.exe
+help=
+url=https://bluefive.pairsite.com/bootstatus.htm
+exe64=
+group=6
+Name=BootStatus
+ShortDesc=Keeps track on how many times your PC boots.
+LongDesc=This little thing keeps a log of times you rebooted the PC. Can come in handy. (In my early Win95 days, I created this to actually make sure I wasn't hallucinating about the times I had to reboot...)
+
+[Software4]
+exe=DOSname\DOSname.exe
+help=
+url=https://bluefive.pairsite.com/dosname.htm
+exe64=
+group=6
+Name=DOSname
+ShortDesc=DOSname gets the DOS form of a path or file.
+LongDesc=DOSname is a small program that gets you the DOS form of a specified path or file. I've been using this for ages, never came round to actually put it online, but there we are. If you occasionally need to get the (short) form of a path or filename, this tool comes to help.
+
+[Software5]
+exe=EmptyDesk\EmptyDesk.exe
+help=
+url=https://bluefive.pairsite.com/emptydesk.htm
+exe64=
+group=2
+Name=EmptyDesk
+ShortDesc=EmptyDesk clears your desktop.
+LongDesc=EmptyDesk is free easy-to-use windows utility that lets you clear your desktop, removing all the icons, with just a click on a button.
+
+[Software6]
+exe=EuroConvert\EuroConvert.exe
+help=
+url=https://bluefive.pairsite.com/euroconvert.htm
+exe64=
+group=1
+Name=EuroConvert
+ShortDesc=Euro converter.
+LongDesc=EuroConvert is another 'No Nonsense' tool that allows you to convert an Euro value to one of the twelve European currencies or vice versa.
+
+[Software7]
+exe=FontPage\FontPage.exe
+help=
+url=https://bluefive.pairsite.com/fontpage.htm
+exe64=
+group=3
+Name=FontPage
+ShortDesc=FontPage lets you examine your fonts.
+LongDesc=FontPage lets you examine and compare all of the fonts on your system. You can also print out a specimen page for any font, or print a list of them. FontPage has its own character table, a compare tool, and can preview uninstalled fonts.
+
+[Software8]
+exe=HEXwrite\HEXwrite.exe
+help=
+url=https://bluefive.pairsite.com/hexwrite.htm
+exe64=
+group=6
+Name=HEXwrite
+ShortDesc=ASCII converter.
+LongDesc=HEXwrite immediately converts your keyboard input into HEX or ASCII, depending on what program mode you selected. There's two to choose from: "ASCII to HEX" and "HEX to ASCII". Output can be copied to the clipboard for further use.
+
+[Software9]
+exe=HTMLcolor\HTMLcolor.exe
+help=
+url=https://bluefive.pairsite.com/htmlcolor.htm
+exe64=
+group=7
+Name=HTMLcolor
+ShortDesc=Advanced HTML-color picker.
+LongDesc=Advanced HTML-color picker: Configure your own colors (RGB input) and paste the results (HTML code) in your web document. Previews fore, back and links-colors. Option to load image files. HTMLcolor even creates web-pages.
+
+[Software10]
+exe=HTMLlink\HTMLlink.exe
+help=
+url=https://bluefive.pairsite.com/htmllink.htm
+exe64=
+group=7
+Name=HTMLlink
+ShortDesc=Easily create HTML code for Internet links.
+LongDesc=With HTMLlink you can easily create HTML source code for Internet links. I wrote this utility to quickly manage a sort of "News headlines".
+
+[Software11]
+exe=InTime\InTime.exe
+help=
+url=https://bluefive.pairsite.com/intime.htm
+exe64=
+group=4
+Name=InTime
+ShortDesc=Synchronize your system time.
+LongDesc=InTime is a small time synchronizer that allows you to set your system time over the internet, using more than a dozen NTP servers to choose from (you can also add your own). Run the program, select a time server from the list and click Synchronize.
+
+[Software12]
+exe=IPaddress\IPaddress.exe
+help=
+url=https://bluefive.pairsite.com/ipaddress.htm
+exe64=
+group=4
+Name=IPaddress
+ShortDesc=IPaddress lets you view/copy/email your IP.
+LongDesc=Want a quick view at your IP address? Then get IPaddress! It's a tiny utility that finds your IP address and lets you copy it to the computer's clipboard. You can then paste it from there into whatever application or doc that requires it.
+
+[Software13]
+exe=Lodger\Lodger.exe
+help=
+url=https://bluefive.pairsite.com/lodger.htm
+exe64=
+group=2
+Name=Lodger
+ShortDesc=Reminder.
+LongDesc=This easy-to-configure program will notify you of certain events. With its simple and intuitive interface it's great for those anniversaries, birthdays, meetings.
+
+[Software14]
+exe=Mince\Mince.exe
+help=
+url=https://bluefive.pairsite.com/mince.htm
+exe64=
+group=5
+Name=Mince
+ShortDesc=Text encryption tool.
+LongDesc=This is an easy to use and very reliable text encryption tool. Right click a text file, select 'Mince-Encrypt', type a password and your file will be secure from unwanted prying eyes. Double-click to decrypt.
+
+[Software15]
+exe=PCLoupe\PCLoupe.exe
+help=
+url=https://bluefive.pairsite.com/pcloupe.htm
+exe64=
+group=3
+Name=PCLoupe
+ShortDesc=Magnifier.
+LongDesc=PCLoupe is a small display utility that shows a magnified image of the area around your mousepointer in its window. You can move or resize this window, change its refresh rate, and make it topmost if you like.
+
+[Software16]
+exe=PIXresizer\PIXresizer.exe
+help=
+url=https://bluefive.pairsite.com/pixresizer.htm
+exe64=
+group=3
+Name=PIXresizer
+ShortDesc=PIXresizer is a photo resizing program.
+LongDesc=PIXresizer is a photo resizing program to easily create web and email friendly versions of your images with reduced file sizes. The reduced files are saved in a different folder, so your original images are not altered at all.
+
+[Software17]
+exe=Recase\Recase.exe
+help=
+url=https://bluefive.pairsite.com/recase.htm
+exe64=
+group=6
+Name=Recase
+ShortDesc=Filename case-conversion.
+LongDesc=Recase is a tiny but handy folder and filename case-conversion tool: it allows you to equalize your file naming and bring order in your directories! Right click a file (or select a bunch), and select one of the Recase options.
+
+[Software18]
+exe=Recase.net\Recase.exe
+help=
+url=https://bluefive.pairsite.com/recase.htm
+exe64=
+group=6
+Name=Recase.net
+ShortDesc=Filename case-conversion.
+LongDesc=Recase is a tiny but handy folder and filename case-conversion tool: it allows you to equalize your file naming and bring order in your directories! Right click a file (or select a bunch), and select one of the Recase options.
+
+[Software19]
+exe=RecycleNOW\RecycleNOW.exe
+help=
+url=https://bluefive.pairsite.com/recyclenow.htm
+exe64=
+group=6
+Name=RecycleNOW
+ShortDesc=Empties the Recycle Bin.
+LongDesc=RecycleNOW is a small utility that, when triggered, immediately empties the Recycle Bin. It is meant to be a time-saver as, especially on slower computers, emptying the Bin can take a while.
+
+[Software20]
+exe=SnapShot\SnapShot.exe
+help=
+url=https://bluefive.pairsite.com/snapshot.htm
+exe64=
+group=3
+Name=SnapShot
+ShortDesc=SnapShot is a powerful screen capture tool.
+LongDesc=SnapShot is a screen capturing tool that allows you to grab your desktop, window, or any part of the screen and save it as JPG or PNG or send it to your favorite editor, for further editing. You can also e-mail the screen captures from the program.
+
+[Software21]
+exe=TABS2spaces\TABS2spaces.exe
+help=
+url=https://bluefive.pairsite.com/tabs2spaces.htm
+exe64=
+group=6
+Name=TABS2spaces
+ShortDesc=TABS2spaces converts tabs to spaces.
+LongDesc=TABS2spaces converts tab characters to space characters in text files and on the clipboard. The number of space characters can be customized. The program has the ability to convert multiple files all at once.
+
+[Software22]
+exe=TempLAB\TempLAB.exe
+help=
+url=https://bluefive.pairsite.com/templab.htm
+exe64=
+group=2
+Name=TempLAB
+ShortDesc=Temperature conversion tool.
+LongDesc=Not a real lab, but definitely a handy temperature conversion tool. This tiny instrument will simultaneously show Celsius, Fahrenheit and Kelvin degrees with one push on the slider.
+
+[Software23]
+exe=TXTcollector\TXTcollector.exe
+help=
+url=https://bluefive.pairsite.com/txtcollector.htm
+exe64=
+group=6
+Name=TXTcollector
+ShortDesc=TXTcollector combines text files
+LongDesc=TXTcollector grabs all .txt files from the directory of your choice and combines them into a new (larger) text file. This can come in handy: I use TXTcollector myself to grab a CD full of readme's to enable me to read them all in one go.
+
+[Software24]
+exe=XSLaunch\XSLaunch.exe
+help=
+url=https://bluefive.pairsite.com/xslaunch.htm
+exe64=
+group=6
+Name=XSLaunch
+ShortDesc=Windows Explorer add-on.
+LongDesc=XSLaunch is a simple but a most efficient Windows Explorer add-on which operates from the taskbar. Launch the Windows Explorer like you want it. If you enter or paste URL's in it, it will launch the default web browser.

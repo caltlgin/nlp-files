@@ -1,0 +1,78 @@
+[General]
+Name=RaMMicHaeL's Software
+GroupCount=1
+SoftwareCount=7
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=32\7+ Taskbar Numberer.exe
+help=readme.htm
+url=http://rammichael.com/7-taskbar-numberer
+exe64=64\7+ Taskbar Numberer.exe
+group=0
+Name=7+ Taskbar Numberer
+ShortDesc=Adds numbers to your taskbar buttons. Useful for speech recognition software users and for Win+# keyboard shortcuts.
+LongDesc=This utility has been designed for speech recognition users who use voice macros to switch between open applications and tray icons.
+
+[Software1]
+exe=7+ Taskbar Tweaker.exe
+help=help\en-US.chm
+url=http://rammichael.com/7-taskbar-tweaker
+exe64=
+group=0
+Name=7+ Taskbar Tweaker
+ShortDesc=A program for tweaking the taskbar of Windows 7, 8, 8.1, and 10. It provides options like disabling grouping, middle-click to close, etc.
+LongDesc=7+ Taskbar Tweaker allows you to configure various aspects of the Windows taskbar. Most of the configuration options it provides can’t be tweaked using the taskbar properties or the registry.
+
+[Software2]
+exe=RAR Unlocker.exe
+help=
+url=http://rammichael.com/rar-unlocker
+exe64=
+group=0
+Name=RAR Unlocker
+ShortDesc=This tool allows you to view the RAR archive attributes, and set/remove the archive lock attribute (which protects the archive from modifications).
+LongDesc=This tool allows you to view the RAR archive attributes, and set/remove the archive lock attribute (which protects the archive from modifications).
+
+[Software3]
+exe=Textify.exe
+help=
+url=http://rammichael.com/textify
+exe64=
+group=0
+Name=Textify
+ShortDesc=A small tool which allows to copy text from dialogs and controls which don’t allow it otherwise.
+LongDesc=Have you ever wanted to copy some text from a dialog box which doesn’t provide such functionality? Textify was created to solve this problem: you can point your mouse over the text, click on the mouse shortcut (Shift + Middle click by default), and get a selectable view of the text.
+
+[Software4]
+exe=unchecky.exe
+help=
+url=https://unchecky.com/
+exe64=
+group=0
+Name=Unchecky
+ShortDesc=Aims to keep potentially unwanted programs out of your computer.
+LongDesc=Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser? Unchecky aims to keep potentially unwanted programs out of your computer.
+
+[Software5]
+exe=32\Virtuoz.exe
+help=
+url=http://rammichael.com/virtuoz
+exe64=64\Virtuoz.exe
+group=0
+Name=Virtuoz
+ShortDesc=A minimal and robust virtual desktop utility for Windows 7 and 8.
+LongDesc=Virtuoz was designed to be a minimal and robust program that allows to have more than one desktop on Windows. It was inspired by Sysinternals Desktops, but uses a different approach, which doesn’t impose the limitations which Desktops is bound to.
+
+[Software6]
+exe=winapiexec.exe
+help=
+url=http://rammichael.com/winapiexec
+exe64=winapiexec64.exe
+group=0
+Name=winapiexec
+ShortDesc=A small tool that allows you to run WinAPI functions through command line parameters.
+LongDesc=A small tool that allows you to run WinAPI functions through command line parameters.

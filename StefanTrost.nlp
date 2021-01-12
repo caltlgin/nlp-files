@@ -1,0 +1,198 @@
+[General]
+Name=Stefan Trost Media
+GroupCount=1
+SoftwareCount=19
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=AnswerCoach.exe
+help=
+url=https://www.sttmedia.com/answercoach
+exe64=
+group=0
+Name=AnswerCoach
+ShortDesc=The AnswerCoach questions patiently as long as you know everything!
+LongDesc=Your next examination can come! The AnswerCoach questions patiently as long as you know everything! In addition this software offers some other functions, for example integrated statistics, the possibility to manage the questions or a tool to produce question lists. 
+
+[Software1]
+exe=ClipboardSaver.exe
+help=
+url=https://www.sttmedia.com/clipboardsaver
+exe64=
+group=0
+Name=Clipboard Saver
+ShortDesc=With this tool you can save and change your clipboard contents automatically.
+LongDesc=With this tool you can save and change your clipboard contents automatically. For example it is possible to search and replace clipboard texts, add strings before or after texts, resize images in the clipboard or save texts or images from the clipboard to a file automatically. In addition, you can use this tool as clipboard manager to access old clipboard contents.
+
+[Software2]
+exe=FasterFiles.exe
+help=
+url=https://www.sttmedia.com/fasterfiles
+exe64=
+group=0
+Name=Faster Files
+ShortDesc=Faster Files makes it possible to create system-wide keyboard shortcuts for arbitrary actions and action lists.
+LongDesc=Faster Files makes it possible to create system-wide keyboard shortcuts for arbitrary actions and action lists. You can select from a variety of different actions - from copying files or folders to opening applications or websites. The actions can refer to each other so that nearly all computer tasks can be automated.
+
+[Software3]
+exe=FilelistCreator.exe
+help=
+url=https://www.sttmedia.com/filelistcreator
+exe64=
+group=0
+Name=Filelist Creator
+ShortDesc=The Filelist Creator prepares lists of your files or directories for you with only one click.
+LongDesc=The Filelist Creator prepares lists of your files or directories for you with only one click. Despite the simplicity, it is possible to adjust freely, which information about the files should be written to the table, whether the table shall be issued as text, image or HTML document and much more.
+
+[Software4]
+exe=FileRenamer.exe
+help=
+url=https://www.sttmedia.com/filerenamer
+exe64=
+group=0
+Name=File Renamer
+ShortDesc=If you want to rename numbers of files or folders at the same time, you can use this tool.
+LongDesc=If you want to rename numbers of files or folders at the same time, you can use this tool. For example, It is possible to search and replace in file and folder names, you can number files and folders, you can truncate names, you can change the writing, you can insert, append or delete texts and you are able to apply rewritings, placeholders or masks.
+
+[Software5]
+exe=ImageConverter.exe
+help=
+url=https://www.sttmedia.com/imageconverter
+exe64=
+group=0
+Name=Image Converter
+ShortDesc=Convert images.
+LongDesc=Whenever you would like to change a variety of pictures without a difficult graphics program, the Image Converter comes to its use. With only one click you can change the size of pictures, cut pictures to size, add watermarks, write text on images, change the colour values, convert pictures into another fileformat and much more.
+
+[Software6]
+exe=ImageResizer.exe
+help=
+url=https://www.sttmedia.com/imageresizer
+exe64=
+group=0
+Name=Image Resizer
+ShortDesc=With the Image Resizer it is easily and quickly possible to enlarge or shrink a great number of images simultaneously.
+LongDesc=With the Image Resizer it is easily and quickly possible to enlarge or shrink a great number of images simultaneously. You can resize or stretch to an arbitrary pixel size, percentage or to your desired file size.
+
+[Software7]
+exe=IndexAuthor.exe
+help=
+url=https://www.sttmedia.com/indexauthor
+exe64=
+group=0
+Name=Index Author
+ShortDesc=Create index from file.
+LongDesc=It does not matter whether you need an index for a book with page numbers or an interlinked HTML document for your homepage, where visitors are able to search for keywords. In every case the Index Author, coming to you with many further functions, is the right choice.
+
+[Software8]
+exe=mp3player.exe
+help=
+url=https://www.sttmedia.com/mp3player
+exe64=
+group=0
+Name=Easy MP3 Player
+ShortDesc=This MP3 Player dispense with all, which is not necessary, without surrendering comfortable functions.
+LongDesc=This MP3 Player dispense with all, which is not necessary, without surrendering comfortable functions. With this combination the Easy MP3 Player achieves a maximum of performance and is able to handle also large collections without any restrictions. Even searching with regular expressions (RegEx) in your collection of music is no problem for this tool.
+
+[Software9]
+exe=PasswordGenerator.exe
+help=
+url=https://www.sttmedia.com/passwordgenerator
+exe64=
+group=0
+Name=PasswordGenerator
+ShortDesc=With this password generator you can create random passwords of any length.
+LongDesc=This password generator allows you to create random passwords. You can determine the length of the generated passwords and which characters are used for your password.
+
+[Software10]
+exe=Pipette.exe
+help=
+url=https://www.sttmedia.com/pipette
+exe64=
+group=0
+Name=Pipette
+ShortDesc=You are able to pick up colors from your screen to adapt or change them or you can convert them to other color models.
+LongDesc=The pipette is an interesting tool in dealing with colors. You are able to pick up colors from your screen to adapt or change them or you can convert them to other color models. You are also able to learn some interesting things about the topic with our color lexicon, color charts and the other explanations.
+
+[Software11]
+exe=PrintMyFonts.exe
+help=
+url=https://www.sttmedia.com/printmyfonts
+exe64=
+group=0
+Name=Print My Fonts
+ShortDesc=Print fonts.
+LongDesc=Many fonts on the computer yield to a great confusion. You are able to win your overview back! This special tool helps you with that and can display and work with both, installed fonts and uninstalled fonts from files.
+
+[Software12]
+exe=SlippyClerk.exe
+help=
+url=https://www.sttmedia.com/slippyclerk
+exe64=
+group=0
+Name=Slippy Clerk
+ShortDesc=The Slippy Clerk makes it possible to work fast, productively and precisely.
+LongDesc=The Slippy Clerk makes it possible to work fast, productively and precisely. Start in a new dimension of writing certainly today. 
+
+[Software13]
+exe=Sudoku.exe
+help=
+url=https://www.sttmedia.com/sudoku
+exe64=
+group=0
+Name=Sudoku
+ShortDesc=Sudoku.
+LongDesc=You cannot get rid of this game? Then you should download this program to try a Sudoku game with letters or symbols. Of course the classic 9x9 game with numbers can also be played with this tool.
+
+[Software14]
+exe=TextConverter.exe
+help=
+url=https://www.sttmedia.com/textconverter
+exe64=
+group=0
+Name=Text Converter
+ShortDesc=With the Text Converter, you can change many Text Files at once.
+LongDesc=With the Text Converter, you can change many Text Files at once: Replacing of text or lines, working with regular expressions (RegEx) on text files, deleting of text or lines, inserting of text at special locations, changing the notation, splitting or joining files, HTML options, Unicode conversions and lots of other things are possible. The output can be carried out as text, image or HTML document.
+
+[Software15]
+exe=TextEncoder.exe
+help=
+url=https://www.sttmedia.com/textencoder
+exe64=
+group=0
+Name=TextEncoder
+ShortDesc=With the TextEncoder you can change the encoding and the used line break of multiple text files at once.
+LongDesc=If you want to change the encoding or the type of line break of many text files, you can either open, edit and save all the files individually with the new encoding. Or you can use the TextEncoder.
+
+[Software16]
+exe=TextImages.exe
+help=
+url=https://www.sttmedia.com/textimages
+exe64=
+group=0
+Name=Text Images
+ShortDesc=Convert text to images.
+LongDesc=On websites or other areas, where it is not guaranteed that your desired font is available, it makes sense to embed texts as images. Our tool Text Images facilitates the task to export text as an image and makes it possible to create text images in arbitrary formats and formatings quickly and easily. So, you can guarantee, that your website or publication will be displayed on all systems in the way you want.
+
+[Software17]
+exe=UnitConverter.exe
+help=
+url=https://www.sttmedia.com/unitconverter
+exe64=
+group=0
+Name=Unit Converter
+ShortDesc=Unit Converter.
+LongDesc=With the help of the Unit Converter, you can convert over 4500 units from 33 categories and it is also possible to create custom units and categories to work with them. Lots of settings and tools help you to use this application optimally integrated into your workflow.
+
+[Software18]
+exe=WordCreator.exe
+help=
+url=https://www.sttmedia.com/wordcreator
+exe64=
+group=0
+Name=WordCreator
+ShortDesc=With the WordCreator, you can create random words.
+LongDesc=With the WordCreator, you can create random words or whole texts from a repertoire of letters, syllables, single words or sentence fragments which can in addition be weighted by probabilities. In addition, many additional functions, such as counting of characters, di- and trigrams or real syllables, are integrated.

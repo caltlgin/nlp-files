@@ -1,0 +1,118 @@
+[General]
+Name=NodeSoft
+GroupCount=1
+SoftwareCount=11
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=CoverPrinter.exe
+help=
+url=https://www.nodesoft.com/coverprinter
+exe64=
+group=0
+Name=Cover printer
+ShortDesc=Cover printer is an easy tool for printing DVD and CD covers.
+LongDesc=
+
+[Software1]
+exe=DiskBench.exe
+help=
+url=https://www.nodesoft.com/diskbench
+exe64=
+group=0
+Name=Disk Bench
+ShortDesc=How fast are my disks really? In a real life situation.
+LongDesc=
+
+[Software2]
+exe=EraseTemp.exe
+help=
+url=https://www.nodesoft.com/erasetemp
+exe64=
+group=0
+Name=Erase Temp
+ShortDesc=EraseTemp is a utility that automatically deletes old temporary files from your computer.
+LongDesc=
+
+[Software3]
+exe=FileVer.exe
+help=
+url=https://www.nodesoft.com/filever
+exe64=
+group=0
+Name=File Ver
+ShortDesc=FileVer is a tool that scans/updates a drive/path for selected files.
+LongDesc=
+
+[Software4]
+exe=FolderMonitor.exe
+help=
+url=https://www.nodesoft.com/foldermonitor
+exe64=
+group=0
+Name=Folder Monitor
+ShortDesc=FolderMonitor helps you monitor what happens in a folder.
+LongDesc=
+
+[Software5]
+exe=FolderUsage.exe
+help=
+url=https://www.nodesoft.com/folderusage
+exe64=
+group=0
+Name=Folder Usage
+ShortDesc=Folder Usage shows how large each folder is, including subfolders
+LongDesc=
+
+[Software6]
+exe=IIS Logfile Analyser.exe
+help=
+url=https://www.nodesoft.com/iislogfileanalyser
+exe64=
+group=0
+Name=IIS Logfile Analyser
+ShortDesc=I always wanted to know how many visitors I've had on my website.
+LongDesc=
+
+[Software7]
+exe=MP3 Rename.exe
+help=
+url=https://www.nodesoft.com/mp3rename
+exe64=
+group=0
+Name=MP3 Rename
+ShortDesc=MP3 Rename will rename mp3 and other files according to many rules that you specify.
+LongDesc=
+
+[Software8]
+exe=Search And Replace.exe
+help=
+url=https://www.nodesoft.com/searchandreplace
+exe64=
+group=0
+Name=Search And Replace
+ShortDesc=Search and replace several files for advanced strings, including new lines / line breaks, tabs.
+LongDesc=
+
+[Software9]
+exe=Text Line Remover.exe
+help=
+url=
+exe64=
+group=0
+Name=Text Line Remover
+ShortDesc=This tool has but one use. Search in text files for some specific phrase, and either delete the lines, or delete all other lines (not containing these phrases).
+LongDesc=
+
+[Software10]
+exe=VB.Net Analyzer.exe
+help=
+url=https://www.nodesoft.com/vbdotnetanalyser
+exe64=
+group=0
+Name=VB.net Analyser
+ShortDesc=How many lines of code is my VB.Net project / solution?
+LongDesc=

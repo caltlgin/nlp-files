@@ -1,0 +1,58 @@
+[General]
+Name=Catch22!
+GroupCount=1
+SoftwareCount=5
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=x86\HexEdit.exe
+help=
+url=http://www.catch22.net/software/hexedit
+exe64=x64\HexEdit.exe
+group=0
+Name=HexEdit 2
+ShortDesc=HexEdit is a hexadecimal file editor for Microsoft Windows.
+LongDesc=HexEdit is a hexadecimal file editor for Microsoft Windows. HexEdit allows the user to view and edit any type of file, no matter what format it is saved in. With a maximum file size limit of 16Exabytes (17,179,869,184 gigabytes!!), HexEdit can cut, copy, paste, insert and delete any amount of data with no decrease in performance with larger files. With unlimited multi-level undo and redo capability, no matter how large the file, HexEdit brings a new level of control over file editing.
+
+[Software1]
+exe=HexEdit.exe
+help=
+url=
+exe64=
+group=0
+Name=HexEdit
+ShortDesc=HexEdit is a hexadecimal file editor for Microsoft Windows.
+LongDesc=HexEdit is a hexadecimal file editor for Microsoft Windows. HexEdit allows the user to view and edit any type of file, no matter what format it is saved in. With a maximum file size limit of 4Gb, HexEdit can cut, copy, paste, insert and delete any amount of data with no decrease in performance with larger files. With unlimited multi-level undo and redo capability, no matter how large the file, HexEdit brings a new level of control over file editing. HexEdit is fully Drag and Drop enabled, and allows files to be dropped into any position in the current document, as well as dragging data from the HexEdit window to create individual files in Windows Explorer. Data can also be drag-and-dropped between separate instances of HexEdit, as well as within the current document. Integrated with HexEdit is a new way to view and edit files: TypeView allows the creation of user-defined structured views comprised of basic data types (byte, word, dword, Ascii and Hex strings). By using TypeView, you can examine file headers or structured portions of a file in an intuitive manner. Also included with HexEdit is a built-in version of Supercalc, the small but powerful expression calculator. Doing away with the clumsiness of rows of buttons associated with traditional calculators, with Supercalc you can type the exact expression you want to evaluate. Supercalc can be docked neatly at the bottom of the HexEdit main window to provide a convenient helping hand. Welcome to the new standard in binary file editors.
+
+[Software2]
+exe=sc.exe
+help=supercalc.hlp
+url=http://www.catch22.net/software/supercalc
+exe64=
+group=0
+Name=Supercalc
+ShortDesc=Supercalc is an expression calculator for Windows.
+LongDesc=Supercalc is an expression calculator for Windows. An expression calculator gives the user the ability to type an equation exactly as it is to be evaluated. This allows for much more intuitive use of the calculator. Instead of the cumbersome buttons associated with a traditonal windows calculator, you simply type what you want. Supercalc is a fully functioning Application Desktop Toolbar, just like the standard Windows Taskbar. The Supercalc window can be docked at either the top or bottom of the screen, or can be left floating by itself. When it is docked, Supercalc can be made to auto-hide, so that it can remain hidden unobstrusively at the top of the screen. When the mouse is moved over it, Supercalc will slide into view allowing you to perform a quick calculation. Supercalc also installs its own icon in the system tray area of the Taskbar. Even when you close the Supercalc window down, Supercalc will always be accessible to you. A simple double-click of the Supercalc icon will popup the window for quick calculations.
+
+[Software3]
+exe=Shed.exe
+help=Shed.hlp
+url=http://www.catch22.net/software/shed
+exe64=
+group=0
+Name=Shed
+ShortDesc=Shed is a single player card game for all 32bit versions of Windows.
+LongDesc=Shed is a single player card game for all 32bit versions of Windows. It is based on the popular student card-game of "Shit-head", which I believe is sometimes known as "Shit-boots" in America. It gets its name due to the profanity that is usually voiced when someone wins the game. This version of the game allows you to re-create those chaotic games of Shed by playing against a computer opponent. I didn't think there'd be much use in a two-player or multi-player version, as this game is best played with a real deck of cards.
+
+[Software4]
+exe=WinSpy.exe
+help=
+url=http://http://www.catch22.net/software/winspy
+exe64=
+group=0
+Name=WinSpy++
+ShortDesc=WinSpy++ is a handy programmer's utility which can be used to select and view the properties of any window in the system.
+LongDesc=WinSpy++ is a handy programmer's utility which can be used to select and view the properties of any window in the system. WinSpy is based around the Spy++ utility that ships with Microsoft Visual Studio.

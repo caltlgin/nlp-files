@@ -1,0 +1,128 @@
+[General]
+Name=KC Softwares
+GroupCount=1
+SoftwareCount=12
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Software0]
+exe=AviBitrateGrapher.exe
+help=
+url=
+exe64=
+group=0
+Name=AVI Bitrate Grapher
+ShortDesc=
+LongDesc=
+
+[Software1]
+exe=BatExpert.exe
+help=
+url=http://www.kcsoftwares.com/?batexpert
+exe64=
+group=0
+Name=BATExpert
+ShortDesc=BATExpert gives you a crystal-clear vision of your laptop battery health status.
+LongDesc=
+
+[Software2]
+exe=HDDExpert.exe
+help=
+url=http://www.kcsoftwares.com/?hdde
+exe64=
+group=0
+Name=HDDExpert
+ShortDesc=HDDExpert gives you a crystal-clear vision of your Hard Drive.
+LongDesc=HDDExpert gives you a crystal-clear vision of your Hard Drive (HDD or SSD) health and performance and translates S.M.A.R.T. attributes into readable indication. It then recommends maintenance (fans upgrade, spare purchase, backups and more) depending on the amount of failures detected on your hard drives.
+
+[Software3]
+exe=IDPhotoStudio.exe
+help=
+url=http://www.kcsoftwares.com/?idps
+exe64=
+group=0
+Name=IDPhotoStudio
+ShortDesc=IDPhotoStudio is a user-friendly ID photo duplicator & printer. 
+LongDesc=
+
+[Software4]
+exe=KFK.exe
+help=
+url=http://www.kcsoftwares.com/?kfk
+exe64=
+group=0
+Name=KFK
+ShortDesc=KFK is a user friendly file splitter.
+LongDesc=KFK is a user friendly file splitter. with KFK you can chop large files into smaller chunks. It can help you transferring a large file on floppy disks or a larger file on CD or DVD. KFK can also burn the files onto CD/DVD and generate an automatic rebuild file so that KFK is not required to regenerate the original file.
+
+[Software5]
+exe=MassCert.exe
+help=
+url=http://www.kcsoftwares.com/?masscert
+exe64=
+group=0
+Name=MassCert
+ShortDesc=MassCert is a user-friendly batch digital signature utility.
+LongDesc=
+
+[Software6]
+exe=PortExpert.exe
+help=
+url=http://www.kcsoftwares.com/?portexpert
+exe64=
+group=0
+Name=PortExpert
+ShortDesc=PortExpert gives you a detailed vision of your personnal computer cybersecurity.
+LongDesc=PortExpert gives you a detailed vision of your personnal computer cybersecurity. It automatically monitors all applications connected to the Internet and give you all the information you might need to identify potential threats to your system.
+
+[Software7]
+exe=RAMExpert.exe
+help=
+url=http://www.kcsoftwares.com/?ramexpert
+exe64=
+group=0
+Name=RAMExpert
+ShortDesc=RAMExpert gives you a crystal-clear vision of your RAM.
+LongDesc=RAMExpert gives you a crystal-clear vision of your RAM (Random Access Memory) specification. It then recommends upgrade if appropriate.
+
+[Software8]
+exe=SuS.exe
+help=
+url=http://www.kcsoftwares.com/?sus
+exe64=
+group=0
+Name=Startup Sentinel
+ShortDesc=Startup Sentinel (a.k.a. SuS) makes your PC startup faster.
+LongDesc=Startup Sentinel (a.k.a. SuS) makes your PC startup faster and more secure by giving you full control on loaded software. Every single program added to your startup sequence is detected on the fly and can be approved, rejected or blacklisted (for further automatic rejection by SuS).
+
+[Software9]
+exe=Vampix.exe
+help=
+url=http://www.kcsoftwares.com/?vampix
+exe64=
+group=0
+Name=Vampix
+ShortDesc=Vampix is designed to make nice Color / Black+White effect to your pictures.
+LongDesc=
+
+[Software10]
+exe=VideoInspector.exe
+help=
+url=http://www.kcsoftwares.com/?vtb
+exe64=
+group=0
+Name=VideoInspector
+ShortDesc=VideoInspector is a tool designed to provide you with as much information as possible about your video files.
+LongDesc=VideoInspector is a tool designed to provide you with as much information as possible about your video files. With VideoInspector you'll know why your video files has no sound or refuses to play correctly. VideoInspector will help you installing the required CoDecs (coder/decoder software) for an optimal performance. VideoInspector can also inspect your system to find which codecs are available.
+
+[Software11]
+exe=Zer0.exe
+help=
+url=http://www.kcsoftwares.com/?zero
+exe64=
+group=0
+Name=Zer0
+ShortDesc=Zer0 is a user friendly file deletion tool with a high level of security.
+LongDesc=Zer0 is a user friendly file deletion tool with a high level of security. With Zer0, you'll be able to delete files and to prevent file recovery by a 3rd person. So far, no user reported an efficient method to recover a file deleted by Zer0.

@@ -1,0 +1,147 @@
+[General]
+Name=Resplendence
+GroupCount=7
+SoftwareCount=11
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Registry Tools
+
+[Group2]
+Name=File Protection Tools
+
+[Group3]
+Name=Security Tools
+
+[Group4]
+Name=Crash Analysis Tools
+
+[Group5]
+Name=System Monitoring Tools
+
+[Group6]
+Name=Miscellaneous Tools
+
+[Software0]
+exe=Registrar Registry Manager\rr.exe
+help=Registrar Registry Manager\readme.txt
+url=http://www.resplendence.com/registrar
+exe64=
+group=1
+Name=Registrar Registry Manager
+AppName=Registrar Registry Manager 8.04
+ShortDesc=Advanced Registry Manager for administrators and power users
+LongDesc=Advanced Registry Manager for administrators and power users
+
+[Software1]
+exe=Undeluxe\undeluxe.exe
+help=Undeluxe\undeluxe.chm
+url=http://www.resplendence.com/undeluxe
+exe64=
+group=2
+Name=Undeluxe
+AppName=Undeluxe
+ShortDesc=Advanced file protection and recovery
+LongDesc=Advanced file protection and recovery
+
+[Software2]
+exe=SanityCheck\sanity.exe
+help=SanityCheck\readme.txt
+url=http://www.resplendence.com/sanity
+exe64=
+group=3
+Name=SanityCheck
+AppName=SanityCheck
+ShortDesc=Advanced rootkit and malware detector
+LongDesc=Advanced rootkit and malware detector
+
+[Software3]
+exe=AntiFreeze\AntiFreeze.exe
+help=AntiFreeze\AntiFreeze.chm
+url=http://www.resplendence.com/antifreeze
+exe64=
+group=3
+Name=AntiFreeze
+AppName=AntiFreeze
+ShortDesc=Emergency task manager for unresponsive and hanging systems.
+LongDesc=Emergency task manager for unresponsive and hanging systems.
+
+[Software4]
+exe=WhoCrashed\WhoCrashedEx.exe
+help=WhoCrashed\WhoCrashed.txt
+url=http://www.resplendence.com/whocrashed
+exe64=
+group=4
+Name=WhoCrashed
+AppName=WhoCrashed
+ShortDesc=Comprehensible crash dump analysis, find out why your system crashed.
+LongDesc=Comprehensible crash dump analysis, find out why your system crashed.
+
+[Software5]
+exe=WhySoSlow\WhySoSlow.exe
+help=WhySoSlow\WhySoSlow.txt
+url=http://www.resplendence.com/whysoslow
+exe64=
+group=5
+Name=WhySoSlow
+AppName=WhySoSlow
+ShortDesc=Find out why your system is running slow.
+LongDesc=Find out why your system is running slow.
+
+[Software6]
+exe=MultiMon\MultiMon.exe
+help=MultiMon\multiMon.txt
+url=http://www.resplendence.com/multimon
+exe64=
+group=5
+Name=MultiMon
+AppName=MultiMon
+ShortDesc=Multifunctional application, system, file system, registry and user monitor
+LongDesc=Multifunctional application, system, file system, registry and user monitor
+
+[Software7]
+exe=LatencyMon\LatMon.exe
+help=LatencyMon\LatencyMon.txt
+url=http://www.resplendence.com/latencymon
+exe64=
+group=5
+Name=LatencyMon
+AppName=LatencyMon
+ShortDesc=Real-time audio suitability checker
+LongDesc=Real-time audio suitability checker
+
+[Software8]
+exe=DispatchMon\DisMon.exe
+help=DispatchMon\DispatchMon.txt
+url=http://www.resplendence.com/dispatchmon
+exe64=
+group=5
+Name=DispatchMon
+AppName=DispatchMon
+ShortDesc=An in-depth look into the Windows dispatcher 
+LongDesc=An in-depth look into the Windows dispatcher 
+
+[Software9]
+exe=ObjMon\objMon.exe
+help=ObjMon\objMon.chm
+url=http://www.resplendence.com/objmon
+exe64=
+group=5
+Name=ObjMon
+AppName=ObjMon
+ShortDesc=Monitor kernel object activity in realtime
+LongDesc=Monitor kernel object activity in realtime
+
+[Software10]
+exe=errorLookup.exe
+help=
+url=http://www.resplendence.com/errorlookup
+exe64=
+group=6
+Name=ErrorLookup
+AppName=ErrorLookup
+ShortDesc=Command-line lookup utility for Microsoft Windows error and status codes.
+LongDesc=Command-line lookup utility for Microsoft Windows error and status codes.

@@ -1,0 +1,42 @@
+[General]
+Name=RedCrab Software
+GroupCount=1
+SoftwareCount=3
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+
+[Software0]
+exe=RedCrab Calculator\RedCrab.exe
+help=RedCrab Calculator\RedCrab_VI_Introduction.pdf
+url=https://www.redchillicrab.com/en/redcrab/index.php
+exe64=
+group=1
+Name=RedCrab Calculator
+AppName=RedCrab Calculator
+ShortDesc=Math software with full screen formula editor
+LongDesc=Free placement of algebraic formulas in mathematical notation. 2D- and 3D function-plotter. Functions for technical, scientific , statistical and financial calculations
+
+[Software1]
+exe=RedCrab SonoG\SonoG.exe
+help=RedCrab SonoG\ReadMe.pdf
+url=https://www.redchillicrab.com/en/sonog/index.php
+exe64=
+group=1
+Name=RedCrab SonoG
+AppName=RedCrab SonoG
+ShortDesc=Tone generator software with two stand-alone generators
+LongDesc=Tone generator software with two stand-alone generators. Frequency direct input from the key panel or step less adjustable with radio knobs. SonoG supports tone-burst, modulation, sweep and DTMF pulse.
+
+[Software2]
+exe=Sudoku\Sudoku.exe
+help=Sudoku\CR-Sudoku manual-en.pdf
+url=https://www.redchillicrab.com/en/sudoku/index.php
+exe64=
+group=1
+Name=Sudoku
+AppName=Sudoku
+ShortDesc=With RedCrab Sudoku you can generate, play, solve and save Sudoku games.
+LongDesc=With RedCrab Sudoku you can generate, play, solve and save Sudoku games. All generated games have only one solution and can be solved logically.

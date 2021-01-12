@@ -1,0 +1,175 @@
+[General]
+Name=Steve Miller's Home Page
+GroupCount=1
+SoftwareCount=15
+
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+
+[Software0]
+exe=PureText x86\PureText.exe
+help=
+url=http://stevemiller.net/puretext/
+exe64=PureText x64\PureText.exe
+group=0
+Name=PureText
+AppName=PureText
+ShortDesc=PureText removes rich formatting from text.
+LongDesc=Have you ever copied some text from a web page, a word document, help, etc., and wanted to paste it as simple text into another application without getting all the formatting from the original source? PureText makes this simple. Just copy/cut whatever you want to the clipboard, click on the PureText tray icon, and then paste to any application. Better yet, you can configure a Hotkey to convert and paste the text for you. The pasted text will be pure and free from all formatting. After running PureText.exe, you will see a "PT" icon appear near the clock on your task bar. You can click on this icon to remove formatting from the text that is currently on the clipboard. You can right-click on the icon to display a menu with more options. The easiest way to use PureText is to simply use its Hotkey to paste text instead of using the standard CTRL+V Hotkey that is built into most Windows applications. To configure PureText, right-click on its tray icon and choose "Options" from the pop-up menu. The default Hotkey is WINDOWS+V, but this can be changed. In this Options window, you can also configure PureText to run each time you log into Windows.
+
+[Software1]
+exe=Dependency Walker x86\depends.exe
+help=Dependency Walker x86\depends.chm
+url=http://www.dependencywalker.com/
+exe64=Dependency Walker x64\depends.exe
+group=0
+Name=Dependency Walker
+AppName=Dependency Walker
+ShortDesc=Dependency Walker is a free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules.
+LongDesc=Dependency Walker is a free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules. For each module found, it lists all the functions that are exported by that module, and which of those functions are actually being called by other modules. Another view displays the minimum set of required files, along with detailed information about each file including a full path to the file, base address, version numbers, machine type, debug information, and more. Dependency Walker is also very useful for troubleshooting system errors related to loading and executing modules. Dependency Walker detects many common application problems such as missing modules, invalid modules, import/export mismatches, circular dependency errors, mismatched machine types of modules, and module initialization failures. Dependency Walker runs on Windows 95, 98, Me, NT, 2000, XP, 2003, Vista, 7, and 8. It can process any 32-bit or 64-bit Windows module, including ones designed for Windows CE. It can be run as graphical application or as a console application. Dependency Walker handles all types of module dependencies, including implicit, explicit (dynamic / runtime), forwarded, delay-loaded, and injected. A detailed help is included. Dependency Walker is completely free to use. However, you may not profit from the distribution of it, nor may you bundle it with another product.
+
+[Software2]
+exe=ShareWatch\ShareWatch.exe
+help=
+url=http://stevemiller.net/sharewatch/
+exe64=
+group=0
+Name=ShareWatch
+AppName=ShareWatch
+ShortDesc=ShareWatch allows you to see who is connected to a computer.
+LongDesc=ShareWatch allows you to see who is connected to a computer and what files they are accessing. Have you ever wondered why your hard drive or modem is active, but you aren't doing anything to cause it to be active? It is possible a remote user is accessing your computer. Have you ever had a file locked but you don't know why? ShareWatch can tell you if a network user is using the file and allows you to disconnect them so that you can edit/delete the file. Have you ever wanted to shutdown a computer, but don't want to drop people using the computer. ShareWatch will show you all resources in use by remote users.
+
+[Software3]
+exe=WinSock Relay\WsRelay.exe
+help=
+url=http://stevemiller.net/wsrelay/
+exe64=
+group=0
+Name=WinSock Relay
+AppName=WinSock Relay
+ShortDesc=WinSock Relay is a tool which allows you to route incoming socket connections on your computer to a different port and/or computer.
+LongDesc=WinSock Relay is a tool which allows you to route incoming socket connections on your computer to a different port and/or computer. This is sometimes referred to as IP forwarding. I originally wrote WinSock Relay to allow multiple computers to share a dial-up connection.  It would allow you to point your email client or web browser to a server on your network running WinSock Relay.  WinSock Relay would detect incoming connections on the server, automatically dial-up to your ISP, then forward the connection to the real mail or web server.  When done, it would disconnect to save you on your ISP charges. Ok, that was 1996.  Today, dial-up is pretty much history.  Also, Windows NT supports IP forwarding in the OS if you can figure out how to configure it.  So why use WinSock Relay?  WinSock Relay is simple to configure, and you can easily save and load configurations.  WinSock Relay can bypass all Windows socket security.  WinSock Relay can log all traffic that passes through it for later viewing.  This can be very useful for debugging HTTP and other socket communications.
+
+[Software4]
+exe=Pocket UnZip\punzip.exe
+help=Pocket UnZip\punzip.html
+url=http://stevemiller.net/punzip/
+exe64=
+group=0
+Name=Pocket UnZip
+AppName=Pocket UnZip
+ShortDesc=Pocket UnZip brings support for the popular Zip file format to the Windows CE platform.
+LongDesc=Pocket UnZip brings support for the popular Zip file format to the Windows CE platform (also runs on Windows NT/2000/XP/2003/Vista/7/8). Backed by the power of the Info-ZIP Group's source code, Pocket UnZip allows you to extract, test, and view files directly from any Zip file, even encrypted ones. For all you Windows CE web surfers, you can now finally download Zip files from the Internet and actually put them to good use. Pocket UnZip can also help you maximize your PC Card storage - just Zip up all your data files into a single compressed Zip file on your desktop computer and store it on a PC Card. Then use Pocket UnZip to view those files directly from the Zip file itself. Best of all, Pocket UnZip is totally free to use.
+
+[Software5]
+exe=Quick Change Directory (QCD)\qcd.com
+help=
+url=http://stevemiller.net/qcd/
+exe64=
+group=0
+Name=Quick Change Directory (QCD)
+AppName=Quick Change Directory (QCD)
+ShortDesc=QCD provides fast directory navigation (Windows NT/2000/XP/2003/Vista/7/8 only) and graphical drive usage statistics (Windows 95/98/Me/NT/2000/XP/2003/Vista/7/8).
+LongDesc=QCD provides fast directory navigation (Windows NT/2000/XP/2003/Vista/7/8 only) and graphical drive usage statistics (Windows 95/98/Me/NT/2000/XP/2003/Vista/7/8). With fast directory navigation, you no longer need to type in those lengthy paths to get to some far-off directory. Just type in any name or partial name of a directory anywhere on your entire drive and QCD will take you straight there... fast!. If there is more than one match, QCD will display a list of possible directories, allowing you to choose. The other great feature of QCD is the graphical drive usage display. With QCD, you can graph the usage of your entire drive in terms of bytes used, bytes allocated, file counts, or directory counts. Note: QCD is 11 years old and may display statistics incorrectly on drives over 4GB (yes, that was a huge drive back in 1995).  However, the quick directory changing feature (NT/2000/XP/2003/Vista/7/8 only) will work fine.  If I ever find the time, I will update QCD to support larger drives.
+
+[Software6]
+exe=ctbw32\detab.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=DeTab
+AppName=DeTab
+ShortDesc=DeTab replaces all tab characters in one or more files with spaces.
+LongDesc=DeTab replaces all tab characters in one or more files with spaces.
+
+[Software7]
+exe=ctbw32\errmsg.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=ErrMsg
+AppName=ErrMsg
+ShortDesc=ErrMsg will display the system error message for one or more Win32 error values.
+LongDesc=ErrMsg will display the system error message for one or more Win32 error values.
+
+[Software8]
+exe=ctbw32\filecase.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=FileCase
+AppName=FileCase
+ShortDesc=FileCase will rename one or more file names and/or directory names to uppercase or lowercase.
+LongDesc=FileCase will rename one or more file names and/or directory names to uppercase or lowercase.
+
+[Software9]
+exe=ctbw32\filetype.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=FileType
+AppName=FileType
+ShortDesc=FileType displays the file type of one or more files.
+LongDesc=FileType displays the file type of one or more files. For executable files, it will give details such as 16/32 bit, console/GUI, CPU type, etc. For all other files it will list the registered system description for that type of file.
+
+[Software10]
+exe=ctbw32\global.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=Global
+AppName=Global
+ShortDesc=Global makes any application or utility recursive.
+LongDesc=Global makes any application or utility recursive. It will recursively execute any command in the current directory and in all subdirectories under the current directory.
+
+[Software11]
+exe=ctbw32\newline.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=NewLine
+AppName=NewLine
+ShortDesc=NewLine converts one or more text files to use a single LF or a CR/LF sequence to end each line in each file.
+LongDesc=NewLine converts one or more text files to use a single LF or a CR/LF sequence to end each line in each file.
+
+[Software12]
+exe=ctbw32\shutdown.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=ShutDown
+AppName=ShutDown
+ShortDesc=ShutDown allows you to automatically log off, shut down, reboot, or power off your system.
+LongDesc=ShutDown allows you to automatically log off, shut down, reboot, or power off your system.
+
+[Software13]
+exe=ctbw32\touch.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=Touch
+AppName=Touch
+ShortDesc=Touch displays or sets the created, access, and modified times of one or more files.
+LongDesc=Touch displays or sets the created, access, and modified times of one or more files.
+
+[Software14]
+exe=ctbw32\webcat.exe
+help=ctbw32\README.TXT
+url=http://stevemiller.net/apps/
+exe64=
+group=0
+Name=WebCat
+AppName=WebCat
+ShortDesc=WebCat quickly generates an HTML page to catalog all your images, animated icons, and other web related files.
+LongDesc=WebCat quickly generates an HTML page to catalog all your images, animated icons, and other web related files. Now you can easily use your web browser to catalog all your content on one page.

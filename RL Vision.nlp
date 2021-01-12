@@ -1,0 +1,174 @@
+[General]
+Name=RL Vision
+GroupCount=1
+SoftwareCount=15
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+
+[Software0]
+exe=Flash Renamer\Flash Renamer.exe
+help=Flash Renamer\Help.html
+url=http://www.rlvision.com/flashren/about.php
+exe64=
+group=0
+Name=Flash Renamer Registered
+AppName=Flash Renamer Registered
+ShortDesc=Rename multiple files in one click! A great time saver when managing your file collections!
+LongDesc=Since 1999 Flash Renamer has been the program of choice for users in need of a fast and intuitive way to rename multiple files in an automated fashion. With more features than any other program on the market and a critically acclaimed user interface, this is batch renaming at it's best!
+
+[Software1]
+exe=PDF Image Extraction Wizard\PDF Image Extraction Wizard.exe
+help=PDF Image Extraction Wizard\Help.html
+url=http://www.rlvision.com/pdfwiz/about.php
+exe64=
+group=0
+Name=PDF Image Extraction Wizard Registered
+AppName=PDF Image Extraction Wizard Registered
+ShortDesc=Easily extract images from inside PDF documents and save as separate image files!
+LongDesc=With PDF Wiz you can extract bitmap images embedded in PDF documents and save them as individual image files. You can choose to extract all pictures in a single click, or limit to specific pdf pages and/or image sizes. Images are ripped straight from the PDF document without recompression. This means that extracted images will have the maximum possible quality, only limited by the document's original quality settings! PDF Wiz can also render complete pages as separate images at desired resolution. You can choose to rotate the pages, make the paper background transparent, apply gamma correction and many other useful options.
+
+[Software2]
+exe=Exif Tag Remover\Exif Tag Remover.exe
+help=Exif Tag Remover\Help.html
+url=http://www.rlvision.com/exif/about.php
+exe64=
+group=0
+Name=Exif Tag Remover Registered
+AppName=Exif Tag Remover Registered
+ShortDesc=Protect your privacy with this utility that deletes Exif, XMP, GPS and other metadata tags from digital photos before publishing online.
+LongDesc= Did you know that digital photos contain hidden information - metadata tags - about the image, camera, photographer and location? These tags are created by digital cameras and photo editing software. There are many different tags, for example Exif, GPS, IPTC & XMP, just to name a few. Although mostly a useful compliment to the picture, there are many reasons why you would want to remove these tags before publishing an image. First of all they can be a threat to your privacy by relevaling private and sensitive information. The tags also take up valuble space, increasing disk usage and download times. Exif Tag Remover allows you to easily delete all metadata tags. By doing so before publishing an image you take an active step toward protecting your privacy on the Internet!
+
+[Software3]
+exe=Dupli Find\Dupli Find.exe
+help=Dupli Find\Help.html
+url=http://www.rlvision.com/dupli/about.php
+exe64=
+group=0
+Name=Dupli Find Registered
+AppName=Dupli Find Registered
+ShortDesc=Searches text files, Excel spreadsheets & Word documents for identical or similar lines, and removes them if needed.
+LongDesc=Dupli Find is an automation utility that searches duplicate lines in text files and Word documents, and duplicate rows/cells in Excel spreadsheets. Found duplicates are presented visually and can easily be removed from the source with a minumim of work required. Filtering can be used to pinpoint specific parts of the lines for better results. Dupli Find can also be used as a general text utility that provides many functions for manipulating text files.
+
+[Software4]
+exe=Replace Genius\Replace Genius.exe
+help=Replace Genius\Help.html
+url=http://www.rlvision.com/genius/about.php
+exe64=
+group=0
+Name=Replace Genius
+AppName=Replace Genius
+ShortDesc=Find & Replace on steroids! This versatile automation utility processes each line according to rules you set. Works on text files and Word/Excel docs.
+LongDesc= Replace Genius is a free, versatile automation utility for manipulating text and data files, including Word documents and Excel spreadsheets. Think of it like a Find & Replace command on steroids! It is built to process each line according to the rules you set. With ten specialized functions and a rich set of options and filters it will let you quickly process your data to suit your unique needs.
+
+[Software5]
+exe=Office Image Extraction Wizard\Office Image Extraction Wizard.exe
+help=Office Image Extraction Wizard\Help.html
+url=http://www.rlvision.com/officewiz/about.php
+exe64=
+group=0
+Name=Office Img Extract
+AppName=Office Img Extract
+ShortDesc=Save images from various office document and e-book formats on your hard drive without quality loss.
+LongDesc=Office Image Extraction Wizard is an app that allows you to easily extract images from many "office type" documents and ebook formats, and save these as normal picture files on your hard drive. More than 45 common file formats are supported! Images are extracted in their original format, with no image processing or re-compression being performed, so no quality is lost during the extraction. It does not require MS Office to work. Office Wiz is free, open source software.
+
+[Software6]
+exe=Notepad2BE\Notepad2.exe
+help=Notepad2BE\Notepad2.txt
+url=http://www.rlvision.com/notepad2/about.php
+exe64=
+group=0
+Name=Notepad2 BE
+AppName=Notepad2 BE
+ShortDesc=Light-weight, free and open source Notepad-like text editor with syntax highlighting. Bookmark Edition is my own version of with extra features!
+LongDesc=Notepad2 is a light-weight, free and open source Notepad-like text editor with syntax highlighting. Notepad2 is probably the best Notepad replacement you can find. Ever since I discovered this great program it's been an essential part of my every-day computer toolkit, and it has greatly speeded up my workflow. But I felt that it lacked a few features, in particular a bookmark feature. Since it is open source I decided to make my own version of the program. Don't forget to visit Flo's Freeware, the original author of Notepad2! 
+
+[Software7]
+exe=PhotoSift\PhotoSift.exe
+help=PhotoSift\ReadMe.txt
+url=http://www.rlvision.com/photosift/about.php
+exe64=
+group=0
+Name=PhotoSift
+AppName=PhotoSift
+ShortDesc=Quickly organize unsorted images into libraries (folders) using the keyboard.
+LongDesc=PhotoSift is a free utility helping you to quickly organize unsorted image libraries. The basic idea is to load the program with images, then show and inspect each image and press a key on the keyboard. The image will then be moved or copied to a folder of your choice corresponding to that key, and the next images is displayed. This allows you to rapidly go through and organize your large amounts of pictures.
+
+[Software8]
+exe=HotSpotStudio\Spots.exe
+help=HotSpotStudio\ReadMe.txt
+url=http://www.rlvision.com/spots/about.php
+exe64=
+group=0
+Name=Hot Spot Studio
+AppName=Hot Spot Studio
+ShortDesc=Create stunning looking images with this fun little toy. You'll be surprised at how much fun it is to play with! 
+LongDesc=This fun little freeware toy lets you create stunning looking images. Place your "spotlights" on the work canvas and let the program render the lights using its advanced lightning formulas. You'll be surprised at how much fun it is to play with!
+
+[Software9]
+exe=Snap2HTML\Snap2HTML.exe
+help=Snap2HTML\ReadMe.txt
+url=http://www.rlvision.com/snap2html/about.php
+exe64=
+group=0
+Name=Snap2HTML
+AppName=Snap2HTML
+ShortDesc=The easy way to create self contained HTML file listings. Interactive features makes it feel just like a real file explorer.
+LongDesc=Snap2HTML takes a "snapshot" of folder structures on your harddrive and saves as HTML files. What's unique about Snap2HTML is that the HTML file uses modern techniques to make it feel more like a "real" application, similar to Windows Explorer, displaying a treeview with folders that you can click to view the files contained within (see example output). There is also a built in file search. Still, everything is contained in a single HTML file that you can easily store or distribute.
+
+[Software10]
+exe=Snap2IMG\Snap2IMG.exe
+help=Snap2IMG\ReadMe.txt
+url=http://www.rlvision.com/snap2img/about.php
+exe64=
+group=0
+Name=Snap2IMG
+AppName=Snap2IMG
+ShortDesc=Generate contact (thumbnail) index sheets from folders on your hard drive with many customization options.
+LongDesc=Snap2IMG generates contact sheets (also known as thumbnail sheets or image index) for folders on your hard drive. The result is a larger image containing thumnails showing all the images in the folder. It can process a single folder or a complete folder structure, automatically generating a sheet for each subfolder. A large number of options allows you to style the sheets to your own liking.
+
+[Software11]
+exe=BubbleMath\BubbleMath.exe
+help=BubbleMath\ReadMe.txt
+url=http://www.rlvision.com/bubblemath/about.php
+exe64=
+group=0
+Name=Bubble Math
+AppName=Bubble Math
+ShortDesc=A free edutainment game, similar to pool/billiards. The goal is to match numbered balls to solve a math problem. Can you clear the board?
+LongDesc= Bubble Math is an edutainment game with mechanics similar to billiards/pool. You shoot your bubble around, knocking other bubbles trying to get them to hit each other so that their numbers together equal the specified goal. Bubble Math is a free, open source game. It works on Windows and other operating systems with Python installed.
+
+[Software12]
+exe=DinnerWiz\DinnerWiz.exe
+help=DinnerWiz\Help.html
+url=http://www.rlvision.com/dinnerwiz/about.php
+exe64=
+group=0
+Name=DinnerWiz
+AppName=DinnerWiz
+ShortDesc=Tries to solve the everyday problem of coming up with dinner suggestions by creating weekly menus for your inspiration.
+LongDesc=Figuring out what to eat to dinner each night is not an easy thing to do 365 days a year. That's why I created Dinner Wizard. This free program will assist you by suggesting a weekly menu based on your preferences. It's very easy to use and the result is a nice looking menu that you can use for inspiration (or follow strictly if you want to).
+
+[Software13]
+exe=NsfTool\NsfTool.exe
+help=NsfTool\ReadMe.txt
+url=http://www.rlvision.com/misc/nsf_tool.php
+exe64=
+group=0
+Name=NSF Tool
+AppName=NSF Tool
+ShortDesc=NSF files contain authentic NES music in all its 8bit glory.
+LongDesc=NSF files contain authentic NES music in all its 8bit glory. It is a direct copy of the music data from the Nintendo carts (similar to emulation roms, but with only the music information left). There are players and plugins that let you listen to this music on your computer. It is even possible to create new NSF-music with tools such as FamiTracker. If you want to download NSF music I can recommend a visit to Akumun's NSF Archive. To play NSF files you can use Audio Overload or one of the many WinAmp plugins.
+
+[Software14]
+exe=Beep.exe
+help=Beep.txt
+url=http://www.rlvision.com/misc/beep.php
+exe64=
+group=0
+Name=Beep.Exe
+AppName=Beep.Exe
+ShortDesc=Beep is a tiny command line utility for Windows computers that uses the internal PC speaker to make a notification sound.
+LongDesc=Beep is a tiny command line utility for Windows computers that uses the internal PC speaker to make a notification sound. This can be useful in situations when you do not have a sound card or speakers are not connected or turned on. Freeware. By default, a notification sounds is played, but you can use the program to create your own sounds with full control of what is played. Typical usage is in batch scripts or similar to signal events. For example, I use it myself to signal when my PC has booted and launched all startup applications and is ready to use. 

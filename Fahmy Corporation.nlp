@@ -1,0 +1,371 @@
+[General]
+Name=Fahmy Corporation
+GroupCount=4
+SoftwareCount=32
+
+
+[Group0]
+Name=All Utilities
+ShowAll=1
+
+[Group1]
+Name=Paid Software
+
+[Group2]
+Name=Free Software
+
+[Group3]
+Name=Free Software (Discontinued)
+
+
+[Software0]
+exe=Context Menu Manager\CMM.exe
+help=
+url=http://fcorp.co.nf/products/cmm.php
+exe64=
+group=1
+Name=Context Menu Manager Pro
+AppName=Context Menu Manager Pro
+ShortDesc=Manage file associations and right-click context menu.
+LongDesc=Manage file associations and right-click context menu.
+
+[Software1]
+exe=File-Folder Launcher\FFLauncher.exe
+help=
+url=http://fcorp.co.nf/products/fflauncher.php
+exe64=
+group=1
+Name=File/Folder Launcher Pro
+AppName=File/Folder Launcher Pro
+ShortDesc=FASTER Access to your Favorite Files, Folders, Programs, etc.
+LongDesc=FASTER Access to your Favorite Files, Folders, Programs, etc.
+
+[Software2]
+exe=My Quick Launch\MQL.exe
+help=
+url=http://fcorp.co.nf/products/mql.php
+exe64=
+group=1
+Name=My Quick Launch Pro
+AppName=My Quick Launch Pro
+ShortDesc=Quickly access your Favorite Files, Folders, Programs, etc by typing Commands.
+LongDesc=Quickly access your Favorite Files, Folders, Programs, etc by typing Commands.
+
+[Software3]
+exe=Imaging\Imaging.exe
+help=
+url=http://fcorp.co.nf/products/imaging.php
+exe64=
+group=1
+Name=Imaging Pro
+AppName=Imaging Pro
+ShortDesc="ALL IN ONE" Image Processing Tools.
+LongDesc="ALL IN ONE" Image Processing Tools.
+
+[Software4]
+exe=My Suite\MySuite.exe
+help=
+url=http://fcorp.co.nf/products/mysuite.php
+exe64=
+group=1
+Name=My Suite Pro
+AppName=My Suite Pro
+ShortDesc=Save Some Space on your Desktop & Make your own Application Suite.
+LongDesc=Save Some Space on your Desktop & Make your own Application Suite.
+
+[Software5]
+exe=Acronym Database\AcroBase.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Acronym Database
+AppName=Acronym Database
+ShortDesc=Search through more than 15,000 acronyms from many countries
+LongDesc=Search through more than 15,000 acronyms from many countries
+
+[Software6]
+exe=Anagram\Anagram.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Anagram
+AppName=Anagram
+ShortDesc=Find Words from scrambled Letters
+LongDesc=Find Words from scrambled Letters
+
+[Software7]
+exe=Cleaner++\CPP.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Cleaner++
+AppName=Cleaner++
+ShortDesc=FREE & Portable Registry Cleaner, Disk Cleaner and Uninstaller.
+LongDesc=FREE & Portable Registry Cleaner, Disk Cleaner and Uninstaller.
+
+[Software8]
+exe=CryptoMiner\CryptoMiner.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=CryptoMiner
+AppName=CryptoMiner
+ShortDesc=CryptoCurrency Mining Assistant (Bitcoin, Litecoin, Dogecoin, Peercoin and Dash).
+LongDesc=CryptoCurrency Mining Assistant (Bitcoin, Litecoin, Dogecoin, Peercoin and Dash).
+
+[Software9]
+exe=Drive-Thru\DThru.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Drive-Thru
+AppName=Drive-Thru
+ShortDesc=Manage your hard drive and other storage devices.
+LongDesc=Manage your hard drive and other storage devices.
+
+[Software10]
+exe=File & Folder Tools\FFTools.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=File & Folder Tools
+AppName=File & Folder Tools
+ShortDesc="ALL-IN-ONE" File & Folder Processing Tools.
+LongDesc="ALL-IN-ONE" File & Folder Processing Tools.
+
+[Software11]
+exe=ID Book\IDBook.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=ID Book
+AppName=ID Book
+ShortDesc=FREE & Portable Contact Manager.
+LongDesc=FREE & Portable Contact Manager.
+
+[Software12]
+exe=Image Hijacker\IH.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Image Hijacker
+AppName=Image Hijacker
+ShortDesc=Block Unwanted Program from running on Your PC.
+LongDesc=Block Unwanted Program from running on Your PC.
+
+[Software13]
+exe=KickStart\KickStart.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=KickStart
+AppName=KickStart
+ShortDesc=Windows StartUp & Services Manager.
+LongDesc=Windows StartUp & Services Manager.
+
+[Software14]
+exe=Link Manager\LinkMan.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Link Manager
+AppName=Link Manager
+ShortDesc="FREE Bookmark Manager" which can help you manage your Favorite Websites.
+LongDesc="FREE Bookmark Manager" which can help you manage your Favorite Websites.
+
+[Software15]
+exe=Lyric Library\LyricLib.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Lyric Library
+AppName=Lyric Library
+ShortDesc=View more than 24000 Lyrics of English, Indian, Indonesian, Japanese & Korean Song.
+LongDesc=View more than 24000 Lyrics of English, Indian, Indonesian, Japanese & Korean Song.
+
+[Software16]
+exe=My Calendar\MyCalendar.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=My Calendar
+AppName=My Calendar
+ShortDesc=Manage diary/note, schedule, todo, birthday, etc.
+LongDesc=Manage diary/note, schedule, todo, birthday, etc.
+
+[Software17]
+exe=My Desktop\MyDesktop.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=My Desktop
+AppName=My Desktop
+ShortDesc=PC Logon Screen Customizer, Icon Customizer, Wallpaper Changer & Screen Capture.
+LongDesc=PC Logon Screen Customizer, Icon Customizer, Wallpaper Changer & Screen Capture.
+
+[Software18]
+exe=My List\MyList.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=My List
+AppName=My List
+ShortDesc=Advanced List Processing Tools.
+LongDesc=Advanced List Processing Tools.
+
+[Software19]
+exe=My Quick Launch (LITE Version)\MQL-LITE.exe
+help=
+url=http://fcorp.co.nf/products/mql.php
+exe64=
+group=2
+Name=My Quick Launch (LITE Version)
+AppName=My Quick Launch (LITE Version)
+ShortDesc=Quickly access your Favorite Files, Folders, Programs, etc by typing Commands.
+LongDesc=Quickly access your Favorite Files, Folders, Programs, etc by typing Commands.
+
+[Software20]
+exe=Name Dictionary\ND.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Name Dictionary
+AppName=Name Dictionary
+ShortDesc=Find the meaning of a name. Also includes a name generator.
+LongDesc=Find the meaning of a name. Also includes a name generator.
+
+[Software21]
+exe=Randomizer\Randomizer.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Randomizer
+AppName=Randomizer
+ShortDesc=Randomize Card, Coin, Color, DateTime, Dice, Number, Word, List, etc.
+LongDesc=Randomize Card, Coin, Color, DateTime, Dice, Number, Word, List, etc.
+
+[Software22]
+exe=Tweakers\Tweakers.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=2
+Name=Tweakers
+AppName=Tweakers
+ShortDesc=Speed UP your PC Performance & FIX Your PC Errors.
+LongDesc=Speed UP your PC Performance & FIX Your PC Errors.
+
+[Software23]
+exe=Cheat Library\CL.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=Cheat Library
+AppName=Cheat Library
+ShortDesc=Games cheats for several PC and console games.
+LongDesc=Games cheats for several PC and console games.
+
+[Software24]
+exe=English Dictionary\EngDict.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=English Dictionary
+AppName=English Dictionary
+ShortDesc=A portable English Dictionary that uses various search methods.
+LongDesc=A portable English Dictionary that uses various search methods.
+
+[Software25]
+exe=My Code\MyCode.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=My Code
+AppName=My Code
+ShortDesc=Code Template Manager for Programmer.
+LongDesc=Code Template Manager for Programmer.
+
+[Software26]
+exe=My Flash\MyFlash.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=My Flash
+AppName=My Flash
+ShortDesc=Simple Flash Player and Manager.
+LongDesc=Simple Flash Player and Manager.
+
+[Software27]
+exe=PublicPass\PublicPass.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=PublicPass
+AppName=PublicPass
+ShortDesc=This Program provides more than 2000 Accounts to be used by Public.
+LongDesc=This Program provides more than 2000 Accounts to be used by Public.
+
+[Software28]
+exe=Zero-Zero-Seven\ZZS.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=Zero-Zero-Seven
+AppName=Zero-Zero-Seven
+ShortDesc=View hidden information of your computer.
+LongDesc=View hidden information of your computer.
+
+[Software29]
+exe=DOS Utility\DOS.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=DOS Utility
+AppName=DOS Utility
+ShortDesc=DOS Utility
+LongDesc=DOS Utility
+
+[Software30]
+exe=Name Space\NS.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=Name Space
+AppName=Name Space
+ShortDesc=Name Space
+LongDesc=Name Space
+
+[Software31]
+exe=Player\Player.exe
+help=
+url=http://fcorp.co.nf/
+exe64=
+group=3
+Name=Player
+AppName=Player
+ShortDesc=Player
+LongDesc=Player
